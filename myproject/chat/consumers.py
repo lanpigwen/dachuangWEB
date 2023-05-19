@@ -108,7 +108,6 @@ class ChatConsumer(WebsocketConsumer):
             )
         else:
             text_data_json = json.loads(text_data)
-            text_data_json['message']['mine']=False
             #要求返回历史数据
             if text_data_json['message'].get('ask_history')!=None:
                 #返回历史数据
@@ -127,6 +126,7 @@ class ChatConsumer(WebsocketConsumer):
                 print('收到历史要求')
             #正常单个聊天数据    
             else:
+                text_data_json['message']['mine']=False
                 message = json.dumps(text_data_json['message'])
                 # print(message)
                 redis_conn.lpush(f'messagesHistory:{self.room_group_name}', message)
