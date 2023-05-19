@@ -342,6 +342,7 @@ export default {
                 },
                 onClose:(event, roomName)=> {
                     console.log(`WebSocket is closed now.------${roomName}`);
+                    
                 },
                 onMessage: (event, roomName) => {
                     const data = JSON.parse(event.data);
