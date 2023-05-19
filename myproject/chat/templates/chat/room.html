@@ -31,6 +31,7 @@
     // 从后台接收到数据时触发此方法
     // 接收到后台数据后对其解析，并加入到聊天记录chat-log
         chatSocket.onmessage = function(e) {
+            console.log(e);
             const data = JSON.parse(e.data);
             document.querySelector('#chat-log').value += (data.message + '\n');
         };

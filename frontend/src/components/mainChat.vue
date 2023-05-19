@@ -41,7 +41,7 @@
 <script>
 import dialogRole from './dialogRole.vue';
 import dialogCreateRoom from './dialogCreateRoom.vue';
-const img = "https://www.baidu.com/img/flexible/logo/pc/result.png";
+//const img = "https://www.baidu.com/img/flexible/logo/pc/result.png";
 // const listData = [
 //     {
 //         date: "2020/04/25 21:19:07",
@@ -154,7 +154,7 @@ export default {
             // 工具栏配置
             tool: {
                 //   show: ['file', 'history', 'img', ['文件1', '', '美图']],
-                //   showEmoji: true,
+                  showEmoji: true,
                 callback: this.toolEvent,
             },
             //通知框
@@ -345,8 +345,9 @@ export default {
                 },
                 onMessage: (event, roomName) => {
                     const data = JSON.parse(event.data);
-                    //——————————————————有人新建了聊天——————————————————————————
-                    if (roomName == 'addRoom') {
+                    const type = data.type;
+                    console.log(type,JSON.parse(data.message));
+                    if (type === 'add_room_message') {
                         const roomObj = JSON.parse(data.message);
                         //将房间加入网页的rooms缓存 加if是为了避免rooms中有重复的obj   调试过程会重复websocke send 所以...
                         if (this.rooms.find(item => item.id === roomObj.id) !== undefined) {
@@ -354,20 +355,43 @@ export default {
                         }
                         else {
                             this.rooms.push(roomObj);
-                        }
+                        }                        
                     }
-                    //———————————————————聊天记录—————————————————————————
-                    else if (data.history !== undefined) {
+                    else if (type === 'return_history_message') {
                         const msgObj = JSON.parse(data.message);
-                        this.AlltaleList[roomName].push(msgObj);
-                        console.log('传来的历史', msgObj);
+                        // this.AlltaleList[roomName].push(msgObj);
+                        this.bindGetMessage(roomName, msgObj);
+                        // console.log('传来的历史', msgObj);                        
                     }
-                    //————————————————————别人实时发的消息————————————————————————
-                    else {
+                    else if (type === 'other_chat_message') {
                         const msgObj = JSON.parse(data.message);
                         //根据receive的，将信息添加到相应winBar的taleList
-                        this.bindGetMessage(roomName, msgObj);
+                        this.bindGetMessage(roomName, msgObj);                        
                     }
+                    //——————————————————有人新建了聊天——————————————————————————
+                    // if (roomName == 'addRoom') {
+                    //     const roomObj = JSON.parse(data.message);
+                    //     //将房间加入网页的rooms缓存 加if是为了避免rooms中有重复的obj   调试过程会重复websocke send 所以...
+                    //     if (this.rooms.find(item => item.id === roomObj.id) !== undefined) {
+                    //         //找到了相同的，就跳过
+                    //     }
+                    //     else {
+                    //         this.rooms.push(roomObj);
+                    //     }
+                    // }
+                    // //———————————————————聊天记录—————————————————————————
+                    // else if (data.history !== undefined) {
+                    //     const msgObj = JSON.parse(data.message);
+                    //     this.AlltaleList[roomName].push(msgObj);
+                    //     console.log('传来的历史', msgObj);
+                    // }
+                    // //————————————————————别人实时发的消息————————————————————————
+                    // else {
+                    //     const msgObj = JSON.parse(data.message);
+                    //     //根据receive的，将信息添加到相应winBar的taleList
+                    //     console.log(data);
+                    //     this.bindGetMessage(roomName, msgObj);
+                    // }
                 },
                 onError:(event, roomName)=> {
                     console.log(`WebSocket Error.------${roomName}`);
@@ -459,7 +483,7 @@ export default {
         // 点击聊天框列中的用户和昵称触发事件
         talkEvent(play) {
             console.log(play);
-            alert("点击了头像");
+            // alert("点击了头像");
         },
         sendDate() {
             // 对Date的扩展，将 Date 转化为指定格式的String  
@@ -486,7 +510,7 @@ export default {
         // 输入框点击就发送或者回车触发的事件
         bindEnter(e) {
             console.log(e);
-
+            console.log(document.getElementById('robot-a'));
             const avatar = this.avatars.find(item => item.value === this.roleObj.avatar);
             const url = avatar ? avatar.url : null;
 
@@ -510,11 +534,12 @@ export default {
         },
         bindGetMessage(roomName, msgObj) {
             //根据receive的，将信息添加到相应winBar的taleList
-            console.log("收到的消息气泡",msgObj);
+            // console.log("收到的消息气泡",msgObj);
             this.AlltaleList[roomName].push(msgObj);
             if (roomName == this.winBarConfig.active) {
                 this.taleList = this.AlltaleList[roomName];
             }
+            //未读+1
             for (const room of this.winBarConfig.list) {
                 if (room.id == roomName) {
                     room.readNum += 1;
@@ -570,6 +595,40 @@ export default {
         bindCover(event) {
             //展示room信息
             console.log("header", event);
+            if (event.value.id == 'ChatLobby') {
+                const roomMessageObj = {
+                    date: this.sendDate(),
+                    mine: false,
+                    name: "Robot",
+                    img: "static/img/robot.png",
+                    text: {
+                        // text: '<i class="el-icon-edit" @click="alert("点击了链接")"></i>',
+                        text:'<div id="robot-a"><a href="#" class="robot-a">W3School1</a></br><a href="#" class="robot-a">W3School2</a></div>',
+                        // system: {
+                        //     title: "在接入人工前，智能助手将为您首次应答。",
+                        //     subtitle: "猜您想问:",
+                        //     content: [
+                        //         {
+                        //             id: `system1`,
+                        //             text: "组件如何使用",
+                        //         },
+                        //         {
+                        //             id: `system2`,
+                        //             text: "组件参数在哪里查看",
+                        //         },
+                        //         {
+                        //             id: "system",
+                        //             text: "我可不可把组件用在商业",
+                        //         },
+                        //     ],
+                        //     callback:console.log(event),
+                        // },
+                    },
+                };
+                this.bindGetMessage('ChatLobby', roomMessageObj);
+                console.log(document.getElementById('robot-a'));
+                console.log("rooms=",this.rooms);
+            }
         },
         rightClick(type) {
             console.log("rigth", type);

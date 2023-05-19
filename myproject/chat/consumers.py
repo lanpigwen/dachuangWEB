@@ -39,7 +39,7 @@ class ChatConsumer(WebsocketConsumer):
         # 接受所有websocket请求
         self.accept()
         #这里也要区分
-        #   ————————————————————————————————————————————
+        #   ————————————————————————————————————————————需要改成只向他自己发   初始化 room_history
         if self.room_group_name=='addRoom':
             messages = redis_conn.lrange('rooms', 0, -1)
             messages = [message.decode('utf-8') for message in messages][::-1]
@@ -62,10 +62,9 @@ class ChatConsumer(WebsocketConsumer):
                 self.room_group_name,
                 {
                     'type': 'return_history',
-                    'history':True,
                     'message': message,
                     'sender_channel_name': self.channel_name
-                }
+                },
                 )
 
     # websocket断开时执行方法
@@ -104,18 +103,19 @@ class ChatConsumer(WebsocketConsumer):
             #要求返回历史数据
             if text_data_json['message'].get('ask_history')!=None:
                 #返回历史数据
-                messages = redis_conn.lrange(f'messagesHistory:{self.room_group_name}', 0, -1)
-                messages = [message.decode('utf-8') for message in messages][::-1]
-                # for message in messages:         
-                async_to_sync(self.channel_layer.group_send)(
-                self.room_group_name,
-                {
-                    'type': 'return_history',
-                    'history':True,
-                    'message': message,
-                    'sender_channel_name': self.channel_name
-                }
-                )
+                # messages = redis_conn.lrange(f'messagesHistory:{self.room_group_name}', 0, -1)
+                # messages = [message.decode('utf-8') for message in messages][::-1]
+                # # for message in messages:         
+                # async_to_sync(self.channel_layer.group_send)(
+                # self.room_group_name,
+                # {
+                #     'type': 'return_history',
+                #     'history':True,
+                #     'message': message,
+                #     'sender_channel_name': self.channel_name
+                # }
+                # )
+                print('收到历史要求')
             #正常单个聊天数据    
             else:
                 message = json.dumps(text_data_json['message'])
@@ -141,6 +141,7 @@ class ChatConsumer(WebsocketConsumer):
         if self.channel_name != sender_channel_name:
             # 通过websocket发送消息到客户端
             self.send(text_data=json.dumps({
+                'type':'other_chat_message',
                 'message': f'{message}'
             }))
 
@@ -149,6 +150,7 @@ class ChatConsumer(WebsocketConsumer):
         message = event['message']
         # sender_channel_name = event['sender_channel_name']
         self.send(text_data=json.dumps({
+            'type':'add_room_message',
             'message': f'{message}'
         }))        
     
@@ -161,6 +163,7 @@ class ChatConsumer(WebsocketConsumer):
         if self.channel_name == sender_channel_name:
             # 通过websocket发送消息到客户端
             self.send(text_data=json.dumps({
+                'type':'return_history_message',
                 'message': f'{message}'
             }))
 
