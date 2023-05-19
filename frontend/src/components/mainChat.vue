@@ -342,13 +342,13 @@ export default {
                 },
                 onClose:(event, roomName)=> {
                     console.log(`WebSocket is closed now.------${roomName}`);
-                    
+
                 },
                 onMessage: (event, roomName) => {
                     const data = JSON.parse(event.data);
                     const type = data.type;
                     console.log(type,JSON.parse(data.message));
-                    if (type === 'add_room_message') {
+                    if (type === 'rooms_history') {
                         const roomObj = JSON.parse(data.message);
                         //将房间加入网页的rooms缓存 加if是为了避免rooms中有重复的obj   调试过程会重复websocke send 所以...
                         if (this.rooms.find(item => item.id === roomObj.id) !== undefined) {
@@ -358,7 +358,7 @@ export default {
                             this.rooms.push(roomObj);
                         }                        
                     }
-                    else if (type === 'return_history_message') {
+                    else if (type === 'message_history') {
                         const msgObj = JSON.parse(data.message);
                         // this.AlltaleList[roomName].push(msgObj);
                         this.bindGetMessage(roomName, msgObj);
@@ -368,6 +368,10 @@ export default {
                         const msgObj = JSON.parse(data.message);
                         //根据receive的，将信息添加到相应winBar的taleList
                         this.bindGetMessage(roomName, msgObj);                        
+                    }
+                    else if (type === 'update_rooms') {
+                        const roomObj = JSON.parse(data.message);
+                        this.rooms.push(roomObj);
                     }
                     //——————————————————有人新建了聊天——————————————————————————
                     // if (roomName == 'addRoom') {
@@ -405,17 +409,18 @@ export default {
             //search
             this.initOneWS(value.id);
             this.winBarConfig.list.splice(3, 0, value);
-            console.log("申请加入", value);
+            console.log("申请加入");
 
         },
         searchCreateRoom(value) {
             const newRoom = { ...value };
             this.initOneWS(newRoom.id);
             this.ws['addRoom'].send(JSON.stringify({
+                'type':'add_room',
                 'message': newRoom
             }));
             this.winBarConfig.list.splice(3, 0, newRoom);
-            console.log("申请创建" + newRoom);
+            console.log("申请创建");
 
         },
         updatedialogRoomVisible(value) {
@@ -451,7 +456,7 @@ export default {
                 this.taleList = this.AlltaleList[id];
                 for (const room of this.winBarConfig.list) {
                     if (room.id == id) {
-                        room.readNum = 0;
+                        room.readNum = '';
                     }
                 }
                 if (add) {
@@ -511,7 +516,7 @@ export default {
         // 输入框点击就发送或者回车触发的事件
         bindEnter(e) {
             console.log(e);
-            console.log(document.getElementById('robot-a'));
+            // console.log(document.getElementById('robot-a'));
             const avatar = this.avatars.find(item => item.value === this.roleObj.avatar);
             const url = avatar ? avatar.url : null;
 
@@ -530,6 +535,7 @@ export default {
             this.AlltaleList[roomName].push(msgObj);
             this.taleList = this.AlltaleList[roomName];
             this.ws[roomName].send(JSON.stringify({
+                'type':'add_message',
                 'message': msgObj
             }));
         },
@@ -543,7 +549,12 @@ export default {
             //未读+1
             for (const room of this.winBarConfig.list) {
                 if (room.id == roomName) {
-                    room.readNum += 1;
+                    if (room.readNum !== '') {
+                        room.readNum += 1;
+                    }
+                    else {
+                        room.readNum = 1;
+                    }
                 }
             }
         },
@@ -668,7 +679,7 @@ export default {
             // console.log('鼠标坐标：', event.clientX, event.clientY);
             for (const room of this.winBarConfig.list) {
                 if (room.id == roomName) {
-                    setTimeout(() => { room.readNum = 0; }, 200);
+                    setTimeout(() => { room.readNum = ''; }, 200);
                     break;
                 }
             }

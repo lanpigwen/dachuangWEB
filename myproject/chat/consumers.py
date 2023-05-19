@@ -13,7 +13,7 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 # messages = redis_conn.lrange('rooms', 0, -1)
 # print(messages)
 # # 获取所有匹配的键
-# keys = redis_conn.keys('messagesHistory:*')
+# keys = redis_conn.keys('rooms')
 # for key in keys:
 #     redis_conn.delete(key)
 
@@ -44,28 +44,37 @@ class ChatConsumer(WebsocketConsumer):
             messages = redis_conn.lrange('rooms', 0, -1)
             messages = [message.decode('utf-8') for message in messages][::-1]
             for message in messages:
-                async_to_sync(self.channel_layer.group_send)(
-                        self.room_group_name,
-                        {
-                            'type': 'room_message',
-                            'message': message,
-                            'sender_channel_name': self.channel_name
-                        }
-                    )
+                async_to_sync(self.channel_layer.send)(
+                    self.channel_name,
+                    {
+                        'type': 'send_message',
+                        'message': message,
+                        'realtype':'rooms_history'
+                    }
+                )
         else:
             #首次进入，就加载历史记录
             messages = redis_conn.lrange(f'messagesHistory:{self.room_group_name}', 0, -1)
             messages = [message.decode('utf-8') for message in messages][::-1]
             # print(messages)
             for message in messages:         
-                async_to_sync(self.channel_layer.group_send)(
-                self.room_group_name,
-                {
-                    'type': 'return_history',
-                    'message': message,
-                    'sender_channel_name': self.channel_name
-                },
+                async_to_sync(self.channel_layer.send)(
+                    self.channel_name,
+                    {
+                        'type': 'send_message',
+                        'message': message,
+                        'realtype':'message_history'
+                    }
                 )
+
+    def send_message(self, event):
+        type=event['realtype']
+        message = event['message']
+        self.send(text_data=json.dumps({
+            'type': type,
+            'message': message
+        }))
+                        
 
     # websocket断开时执行方法
     def disconnect(self, close_code):
@@ -81,10 +90,10 @@ class ChatConsumer(WebsocketConsumer):
         # redis_conn.lpush(f'messages:{self.room_group_name}', message)
         # 获取Redis Channel Layer
         self.channel_layer = get_channel_layer()
-        #如果是addRoom频道组，则返回数据库中的 房间对象
+        #如果是addRoom频道组 则是收到了前端 有人新建了房间 ，
         if (self.room_group_name=='addRoom'):
             text_data_json = json.loads(text_data)
-
+            print(text_data_json)
             message = json.dumps(text_data_json['message'])
             #房间细节存进reids
             redis_conn.lpush(f'rooms', message)
@@ -92,9 +101,9 @@ class ChatConsumer(WebsocketConsumer):
             async_to_sync(self.channel_layer.group_send)(
                 self.room_group_name,
                 {
-                    'type': 'room_message',
+                    'type': 'send_message',
                     'message': message,
-                    'sender_channel_name': self.channel_name
+                    'realtype': 'update_rooms'
                 }
             )
         else:
@@ -143,16 +152,7 @@ class ChatConsumer(WebsocketConsumer):
             self.send(text_data=json.dumps({
                 'type':'other_chat_message',
                 'message': f'{message}'
-            }))
-
-    #从addRoom频道收到消息后        
-    def room_message(self,event):
-        message = event['message']
-        # sender_channel_name = event['sender_channel_name']
-        self.send(text_data=json.dumps({
-            'type':'add_room_message',
-            'message': f'{message}'
-        }))        
+            }))    
     
     def return_history(self,event):
         message = event['message']

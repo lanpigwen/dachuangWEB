@@ -49,7 +49,8 @@ export default {
             id: '',
             img: "static/img/meeting0.png",
             name: '',
-            dept: ''
+            dept: '',
+            readNum:0,
             },
         rules: {
             findID: [{ required: true, message: '请输入房号', trigger: 'blur' },
