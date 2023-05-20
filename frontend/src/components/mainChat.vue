@@ -183,7 +183,7 @@ export default {
                 callback: this.bindCover,
                 historyConfig: {
                     show: true,
-                    tip: '加载更多',
+                    tip: '',
                     callback: this.bindLoadHistory,
                 },
                 // 自动匹配快捷回复
@@ -377,6 +377,9 @@ export default {
                         const msgObj = JSON.parse(data.message);
                         // this.AlltaleList[roomName].push(msgObj);
                         this.bindGetMessage(roomName, msgObj);
+                        const room = this.winBarConfig.list.find(item => item.id === roomName)
+                        //初始话的历史都 已读
+                        room.readNum=''
                         // console.log('传来的历史', msgObj);                        
                     }
                     else if (type === 'other_chat_message') {
@@ -392,6 +395,10 @@ export default {
                         const msgObj = JSON.parse(data.message);
                         this.AlltaleList[roomName].splice(0, 0, msgObj);
                         this.taleList = this.AlltaleList[roomName];
+                    }
+                    else if (type === 'tips') {
+                        const what_happen = JSON.parse(data.message).what_happen
+                        this.el_alert(what_happen,'warning')
                     }
                     //——————————————————有人新建了聊天——————————————————————————
                     // if (roomName == 'addRoom') {
@@ -518,6 +525,7 @@ export default {
                     this.ws[id].close();
                     //清空缓存的该room的聊天记录
                     this.AlltaleList[id] = [];
+                    this.activeWinbar('ChatLobby')
                 }
 
                 // //清空缓存的该room的聊天记录
@@ -747,6 +755,13 @@ export default {
                 }
             }
         },
+        el_alert(message,type='success') {
+        this.$message({
+          message: message,
+            type: type,
+            center:true
+        });
+      },
     },
     props: ['avatars', 'roleObj'],
     mounted() {

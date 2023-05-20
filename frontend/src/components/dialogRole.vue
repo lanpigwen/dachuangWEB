@@ -91,10 +91,10 @@ methods: {
         });
     },
 
-    ok(message) {
+    ok(message,type='success') {
         this.$message({
           message: message,
-          type: 'success'
+          type: type
         });
       },
     

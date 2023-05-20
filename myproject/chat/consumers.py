@@ -118,20 +118,32 @@ class ChatConsumer(WebsocketConsumer):
                 # 返回历史数据
                 messages = redis_conn.lrange(f'messagesHistory:{roomid}', 0, -1)
                 messages = [message.decode('utf-8') for message in messages]
-                l=len(messages)
+                his_len=len(messages)
                 end=start+10 if start+10 <len(messages) else -1
                 messages=messages[start:start+10] if start+10 <len(messages) else messages[start:]
-                for message in messages:         
-                    async_to_sync(self.channel_layer.group_send)(
-                    self.room_group_name,
+                if start<his_len:
+                    for message in messages:        
+                        async_to_sync(self.channel_layer.send)(
+                        self.channel_name,
+                        {
+                            'type': 'send_message',
+                            'message': message,
+                            'realtype':'more_history'
+                        }
+                        )
+                else:
+                    message={"what_happen":"到达聊天记录顶端！"}
+                    message=json.dumps(message)
+                    async_to_sync(self.channel_layer.send)(
+                    self.channel_name,
                     {
-                        'type': 'return_more_history',
+                        'type': 'send_message',
                         'message': message,
-                        'sender_channel_name': sender_channel_name,
-                        'realtype':'more_history'
+                        'realtype':'tips'
                     }
-                    )
-                print('收到历史要求',start,end,l)
+                    )                    
+                    print('加载完全部')
+                print('收到历史要求',start,end,his_len)
             #正常单个聊天数据    
             else:
                 text_data_json['message']['mine']=False
