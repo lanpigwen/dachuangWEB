@@ -17,10 +17,10 @@
 </template>
 
 <script>
-import webHeader from "@/components/webHeader.vue";
-import leftNav from "./components/leftNav.vue";
-import mainChat from "./components/mainChat.vue";
-// import RoleSet from "./components/roleSet.vue";
+import webHeader from "@/components/webHeader.vue"
+import leftNav from "./components/leftNav.vue"
+import mainChat from "./components/mainChat.vue"
+// import RoleSet from "./components/roleSet.vue"
 export default {
   name: 'app',
   data() {
@@ -53,16 +53,16 @@ export default {
   },
   methods: {
     updateRoleObj(newObj) {
-      this.roleObj = newObj;
+      this.roleObj = newObj
     },
     updateLeftNav(navID) {
-      this.$refs.leftNavRef.$refs.chatNav.$el.dispatchEvent(new Event('click'));
+      this.$refs.leftNavRef.$refs.chatNav.$el.dispatchEvent(new Event('click'))
 
     }
 
   },
   mounted() {
-    // console.log(this.roleObj);
+    // console.log(this.roleObj)
   }
 }
 </script>

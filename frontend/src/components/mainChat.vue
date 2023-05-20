@@ -31,7 +31,7 @@
             <!-- <JwChat-talk :Talelist="talk" :config="quickConfig" @event="bindTalk" /> -->
             <!-- 工具栏自定义插槽 -->
             <template slot="tools">
-                <div style="width: 20rem; text-align: right" @click="toolEvent(12)">
+                <div style="width: 20rem text-align: right" @click="toolEvent(12)">
                     <JwChat-icon type="icon-lishi" title="自定义" />
                 </div>
             </template>
@@ -40,8 +40,8 @@
 </template>
    
 <script>
-import dialogRole from './dialogRole.vue';
-import dialogCreateRoom from './dialogCreateRoom.vue';
+import dialogRole from './dialogRole.vue'
+import dialogCreateRoom from './dialogCreateRoom.vue'
 
 import BScroll from '@better-scroll/core'
 import PullDown from '@better-scroll/pull-down'
@@ -50,18 +50,18 @@ BScroll.use(PullDown)
 
 // import 'jwchat/lib/JwChat.umd'
 const options = {
-  scrollY: true // 因为scrollY默认为true，其实可以省略
+    scrollY: true // 因为scrollY默认为true，其实可以省略
 }
 options.pullDownRefresh = {
-  threshold: 30, // 当下拉到超过顶部 50px 时，触发 pullingDown 事件
-  stop: 20 // 刷新数据的过程中，回弹停留在距离顶部还有 20px 的位置
+    threshold: 30, // 当下拉到超过顶部 50px 时，触发 pullingDown 事件
+    stop: 20 // 刷新数据的过程中，回弹停留在距离顶部还有 20px 的位置
 }
-//const img = "https://www.baidu.com/img/flexible/logo/pc/result.png";
+//const img = "https://www.baidu.com/img/flexible/logo/pc/result.png"
 // const listData = [
 //     {
 //         date: "2020/04/25 21:19:07",
 //         text: {
-//             text: "<i class='el-icon-document-checked' style='font-size:2rem;'/>",
+//             text: "<i class='el-icon-document-checked' style='font-size:2rem'/>",
 //             subLink: {
 //                 text: "a.txt",
 //                 prop: {
@@ -135,22 +135,22 @@ options.pullDownRefresh = {
 //             },
 //         },
 //     },
-// ];
-// const listData = [];
+// ]
+// const listData = []
 // function getListArr(roomID) {
 
-//     const listSize = listData.length;
+//     const listSize = listData.length
 //     if (!size) {
-//         size = listSize;
+//         size = listSize
 //     }
-//     // let result = listData;
-//     let result = [];
-//     for (let i = 0; i < size; i++) {
-//         const item = listData[i];
-//         item.id = Math.random().toString(16).substr(-6);
-//         result.push(item);
+//     // let result = listData
+//     let result = []
+//     for (let i = 0 i < size i++) {
+//         const item = listData[i]
+//         item.id = Math.random().toString(16).substr(-6)
+//         result.push(item)
 //     }
-//     return [];
+//     return []
 // }
 export default {
     name: "mainChat",
@@ -169,7 +169,7 @@ export default {
             // 工具栏配置
             tool: {
                 //   show: ['file', 'history', 'img', ['文件1', '', '美图']],
-                  showEmoji: true,
+                showEmoji: true,
                 callback: this.toolEvent,
             },
             //通知框
@@ -347,195 +347,148 @@ export default {
             },
             websocketConfig: {
                 WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
-                onOpen:(event, roomName) =>{
-                    console.log(`WebSocket is open now.------${roomName}`);
+                onOpen: (event, roomName) => {
+                    console.log(`WebSocket is open now.------${roomName}`)
                     //打开后做一些事
                     if (roomName !== 'addRoom') {
-                        this.AlltaleList[roomName] = [];//一旦连接，就初始化其聊天记录为空数组，连接后，后端会自动send改room的每条聊天记录obj
+                        this.AlltaleList[roomName] = []//一旦连接，就初始化其聊天记录为空数组，连接后，后端会自动send改room的每条聊天记录obj
                     }
 
                 },
-                onClose:(event, roomName)=> {
-                    console.log(`WebSocket is closed now.------${roomName}`);
+                onClose: (event, roomName) => {
+                    console.log(`WebSocket is closed now.------${roomName}`)
 
                 },
                 onMessage: (event, roomName) => {
-                    const data = JSON.parse(event.data);
-                    const type = data.type;
-                    console.log(type,JSON.parse(data.message));
+                    const data = JSON.parse(event.data)
+                    const type = data.type
+                    console.log(type, JSON.parse(data.message))
                     if (type === 'rooms_history') {
-                        const roomObj = JSON.parse(data.message);
+                        const roomObj = JSON.parse(data.message)
                         //将房间加入网页的rooms缓存 加if是为了避免rooms中有重复的obj   调试过程会重复websocke send 所以...
                         if (this.rooms.find(item => item.id === roomObj.id) !== undefined) {
                             //找到了相同的，就跳过
                         }
                         else {
-                            this.rooms.push(roomObj);
-                        }                        
+                            this.rooms.push(roomObj)
+                        }
                     }
                     else if (type === 'message_history') {
-                        const msgObj = JSON.parse(data.message);
-                        // this.AlltaleList[roomName].push(msgObj);
-                        this.bindGetMessage(roomName, msgObj);
+                        const msgObj = JSON.parse(data.message)
+                        // this.AlltaleList[roomName].push(msgObj)
+                        this.bindGetMessage(roomName, msgObj)
                         const room = this.winBarConfig.list.find(item => item.id === roomName)
                         //初始话的历史都 已读
-                        room.readNum=''
-                        // console.log('传来的历史', msgObj);                        
+                        room.readNum = ''
+                        // console.log('传来的历史', msgObj)                        
                     }
                     else if (type === 'other_chat_message') {
-                        const msgObj = JSON.parse(data.message);
+                        const msgObj = JSON.parse(data.message)
                         //根据receive的，将信息添加到相应winBar的taleList
-                        this.bindGetMessage(roomName, msgObj);                        
+                        this.bindGetMessage(roomName, msgObj)
                     }
                     else if (type === 'update_rooms') {
-                        const roomObj = JSON.parse(data.message);
-                        this.rooms.push(roomObj);
+                        const roomObj = JSON.parse(data.message)
+                        this.rooms.push(roomObj)
                     }
                     else if (type === 'more_history') {
-                        const msgObj = JSON.parse(data.message);
-                        this.AlltaleList[roomName].splice(0, 0, msgObj);
-                        this.taleList = this.AlltaleList[roomName];
+                        const msgObj = JSON.parse(data.message)
+                        this.AlltaleList[roomName].splice(0, 0, msgObj)
+                        this.taleList = this.AlltaleList[roomName]
                     }
                     else if (type === 'tips') {
                         const what_happen = JSON.parse(data.message).what_happen
-                        this.el_alert(what_happen,'warning')
+                        this.el_alert(what_happen, 'warning')
                     }
-                    //——————————————————有人新建了聊天——————————————————————————
-                    // if (roomName == 'addRoom') {
-                    //     const roomObj = JSON.parse(data.message);
-                    //     //将房间加入网页的rooms缓存 加if是为了避免rooms中有重复的obj   调试过程会重复websocke send 所以...
-                    //     if (this.rooms.find(item => item.id === roomObj.id) !== undefined) {
-                    //         //找到了相同的，就跳过
-                    //     }
-                    //     else {
-                    //         this.rooms.push(roomObj);
-                    //     }
-                    // }
-                    // //———————————————————聊天记录—————————————————————————
-                    // else if (data.history !== undefined) {
-                    //     const msgObj = JSON.parse(data.message);
-                    //     this.AlltaleList[roomName].push(msgObj);
-                    //     console.log('传来的历史', msgObj);
-                    // }
-                    // //————————————————————别人实时发的消息————————————————————————
-                    // else {
-                    //     const msgObj = JSON.parse(data.message);
-                    //     //根据receive的，将信息添加到相应winBar的taleList
-                    //     console.log(data);
-                    //     this.bindGetMessage(roomName, msgObj);
-                    // }
                 },
-                onError:(event, roomName)=> {
-                    console.log(`WebSocket Error.------${roomName}`);
+                onError: (event, roomName) => {
+                    console.log(`WebSocket Error.------${roomName}`)
                 },
             },
-        };
+        }
     },
     methods: {
-        change() {
-        //     // console.log('666');
-        //     console.log(this.$refs.scroller)
-        //     console.log(this.$el.querySelector('.scroller'))
-        //     this.scroll = new BScroll(this.$el.querySelector('.scroller'), options)
-        //     this.scroll.on('pullingDown', () => {
-        //     // 刷新数据的过程中，回弹停留在距离顶部还有20px的位置
-        //     RefreshData()
-        //         .then((newData) => {
-        //             this.data = newData
-        //         alert('666')
-        //         // 在刷新数据完成之后，调用 finishPullDown 方法，回弹到顶部
-        //         this.scroll.finishPullDown()
-        //     })
-        // })
-        alert('6')
-            this.bindLoadHistory()
-        },
         searchJoinRoom(value) {
             //search
-            this.initOneWS(value.id);
-            this.winBarConfig.list.splice(3, 0, value);
-            console.log("申请加入");
+            this.initOneWS(value.id)
+            this.winBarConfig.list.splice(3, 0, value)
+            console.log("申请加入")
 
         },
         searchCreateRoom(value) {
-            const newRoom = { ...value };
-            this.initOneWS(newRoom.id);
+            const newRoom = { ...value }
+            this.initOneWS(newRoom.id)
             this.ws['addRoom'].send(JSON.stringify({
-                'type':'add_room',
+                'type': 'add_room',
                 'message': newRoom
-            }));
-            this.winBarConfig.list.splice(3, 0, newRoom);
-            console.log("申请创建");
+            }))
+            this.winBarConfig.list.splice(3, 0, newRoom)
+            console.log("申请创建")
 
         },
         updatedialogRoomVisible(value) {
-            this.dialogRoomVisible = value;
+            this.dialogRoomVisible = value
         },
         RoleDialog() {
-            this.dialogRoleVisible = true;
+            this.dialogRoleVisible = true
         },
         RoomDialog() {
-            this.dialogRoomVisible = true;
+            this.dialogRoomVisible = true
         },
         updatedialogRoleVisible(value) {
-            this.dialogRoleVisible = value;
+            this.dialogRoleVisible = value
         },
         updateRoleObj(newObj) {
-            this.$emit('update-roleObj', newObj);
+            this.$emit('update-roleObj', newObj)
         },
         activeWinbar(idToFind) {
             const data = this.winBarConfig.list.find(item => item.id === idToFind)
-            const { id, dept, name, img, add = false, role = false } = data;
-            this.config = { ...this.config, id, dept, name, img };
-            this.winBarConfig.active = id;
-            this.taleList = this.AlltaleList[id];
+            const { id, dept, name, img, add = false, role = false } = data
+            this.config = { ...this.config, id, dept, name, img }
+            this.winBarConfig.active = id
+            this.taleList = this.AlltaleList[id]
         },
         // 切换用户窗口，加载对应的历史记录
         bindWinBar(play = {},) {
-            const { type, data = {} } = play;
-            console.log(play);
+            const { type, data = {} } = play
+            console.log(play)
             if (type === "winBar") {
-                const { id, dept, name, img, add = false, role = false } = data;
-                this.config = { ...this.config, id, dept, name, img };
-                this.winBarConfig.active = id;
-                this.taleList = this.AlltaleList[id];
+                const { id, dept, name, img, add = false, role = false } = data
+                this.config = { ...this.config, id, dept, name, img }
+                this.winBarConfig.active = id
+                this.taleList = this.AlltaleList[id]
                 for (const room of this.winBarConfig.list) {
                     if (room.id == id) {
-                        room.readNum = '';
+                        room.readNum = ''
                     }
                 }
                 if (add) {
-                    this.RoomDialog();
+                    this.RoomDialog()
                 }
                 if (role) {
-                    this.RoleDialog();
+                    this.RoleDialog()
                 }
-
-
             }
             if (type === "winBtn") {
-                const { target: { id } = {} } = data;
-                const { list } = this.winBarConfig;
+                const { target: { id } = {} } = data
+                const { list } = this.winBarConfig
                 this.winBarConfig.list = list.reduce((p, i) => {
                     //i.lock用于锁定 用户、创建房间、大厅
-                    if (i.lock || id != i.id) p.push(i);
-                    return p;
-                }, []);
+                    if (i.lock || id != i.id) p.push(i)
+                    return p
+                }, [])
                 if (id != "ROLE" && id != "addRoom" && id != "ChatLobby") {
-                    this.ws[id].close();
+                    this.ws[id].close()
                     //清空缓存的该room的聊天记录
-                    this.AlltaleList[id] = [];
+                    this.AlltaleList[id] = []
                     this.activeWinbar('ChatLobby')
                 }
-
-                // //清空缓存的该room的聊天记录
-                // this.AlltaleList[id] = [];
             }
         },
         // 点击聊天框列中的用户和昵称触发事件
         talkEvent(play) {
-            console.log(play);
-            // alert("点击了头像");
+            console.log(play)
+            // alert("点击了头像")
         },
         sendDate() {
             // 对Date的扩展，将 Date 转化为指定格式的String  
@@ -550,76 +503,75 @@ export default {
                     "s+": this.getSeconds(), //秒   
                     "q+": Math.floor((this.getMonth() + 3) / 3), //季度   
                     "S": this.getMilliseconds() //毫秒   
-                };
-                if (/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+                }
+                if (/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length))
                 for (var k in o)
-                    if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
-                return fmt;
+                    if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)))
+                return fmt
             }
-            var time1 = new Date().Format("yyyy/MM/dd HH:mm:ss");
+            var time1 = new Date().Format("yyyy/MM/dd HH:mm:ss")
             return time1
         },
         // 输入框点击就发送或者回车触发的事件
         bindEnter(e) {
-            console.log(e);
-            // console.log(document.getElementById('robot-a'));
-            const avatar = this.avatars.find(item => item.value === this.roleObj.avatar);
-            const url = avatar ? avatar.url : null;
+            console.log(e)
+            // console.log(document.getElementById('robot-a'))
+            const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
+            const url = avatar ? avatar.url : null
 
-            const msg = this.inputMsg;
-            if (!msg) return;
+            const msg = this.inputMsg
+            if (!msg) return
             const msgObj = {
                 date: this.sendDate(),
                 text: { text: msg },
                 mine: true,
                 name: this.roleObj.nickname,
                 img: url,
-            };
-            const roomName = this.winBarConfig.active;
-            // alert(this.ws[roomName].readyState);
-            if (this.ws[roomName].readyState != 1) { alert("已与服务器断开连接"); return; }
-            this.AlltaleList[roomName].push(msgObj);
-            this.taleList = this.AlltaleList[roomName];
+            }
+            const roomName = this.winBarConfig.active
+            // alert(this.ws[roomName].readyState)
+            if (this.ws[roomName].readyState != 1) { this.el_alert("已与服务器断开连接",'error') }
+            this.AlltaleList[roomName].push(msgObj)
+            this.taleList = this.AlltaleList[roomName]
             this.ws[roomName].send(JSON.stringify({
-                'type':'add_message',
+                'type': 'add_message',
                 'message': msgObj
-            }));
+            }))
         },
         bindGetMessage(roomName, msgObj) {
             //根据receive的，将信息添加到相应winBar的taleList
-            // console.log("收到的消息气泡",msgObj);
-            this.AlltaleList[roomName].push(msgObj);
+            this.AlltaleList[roomName].push(msgObj)
             if (roomName == this.winBarConfig.active) {
-                this.taleList = this.AlltaleList[roomName];
+                this.taleList = this.AlltaleList[roomName]
             }
             //未读+1
             for (const room of this.winBarConfig.list) {
                 if (room.id == roomName) {
                     if (room.readNum !== '') {
-                        room.readNum += 1;
+                        room.readNum += 1
                     }
                     else {
-                        room.readNum = 1;
+                        room.readNum = 1
                     }
                 }
             }
         },
         // 快捷回复，组件点击选中事件
         bindTalk(play) {
-            console.log("talk", play);
-            const { key, value } = play;
+            console.log("talk", play)
+            const { key, value } = play
             if (key === "navIndex" && value == "1") {
-                this.talk = ["回复1", "回复2", "回复3"];
+                this.talk = ["回复1", "回复2", "回复3"]
             }
             if (key === "navIndex" && value == "2") {
-                this.talk = ["超级回复1", "超级回复2", "超级回复3"];
+                this.talk = ["超级回复1", "超级回复2", "超级回复3"]
             }
             if (key === "select") {
-                this.inputMsg = value;
-                // this.bindEnter();
+                this.inputMsg = value
+                // this.bindEnter()
             }
             if (key === "delIndex") {
-                this.talk.splice(value, 1);
+                this.talk.splice(value, 1)
             }
         },
         /**
@@ -628,43 +580,12 @@ export default {
          * @return {*}
          */
         bindLoadHistory() {
-            const roomID = this.winBarConfig.active;
+            const roomID = this.winBarConfig.active
             this.ws[roomID].send(JSON.stringify({
                 'type': 'more_history',
                 'roomid': roomID,
                 'index_0': this.AlltaleList[roomID].length,
-            }));
-            // this.$refs.scroller.scroll.on('pullingDown',this.change)
-            // console.log(this.$refs.scroller)
-            // finishPullDown()
-            // console.log(this.config.historyConfig);
-            // this.config.historyConfig.show = true;
-            // this.$nextTick(() => {
-            //     this.$refs.jwChat.finishPullDown();
-            // });
-            // const element = this.$el.querySelector('.web__main');
-            // // 获取元素的计算样式
-            // const computedStyle = window.getComputedStyle(element);
-
-            // // 获取 transform 属性的值
-            // const transformValue = computedStyle.getPropertyValue('transform');
-
-            // // 解析 transform 属性值，提取 translateY 的值
-            // const translateYValue = parseTranslateY(transformValue);
-
-            // // 解析 translateY 值的函数
-            // function parseTranslateY(transformValue) {
-            // // 提取 translateY 的值
-            // const translateYRegex = /translateY\(([-\d.]+)px\)/;
-            // const match = transformValue.match(translateYRegex);
-            // if (match && match.length === 2) {
-            //     return parseFloat(match[1]);
-            // }
-            // return 0;
-            // }
-            // console.log(this.$el.querySelector('.bscroll-indicator').addEventListener);
-            // this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(0px)');
-            // console.log(translateYValue);
+            }))
         },
         /**
          * @description:
@@ -673,11 +594,11 @@ export default {
          * @return {*}
          */
         toolEvent(type, plyload) {
-            console.log("tools", type, plyload);
+            console.log("tools", type, plyload)
         },
         bindCover(event) {
             //展示room信息
-            console.log("header", event);
+            console.log("header", event)
             if (event.value.id == 'ChatLobby') {
                 const roomMessageObj = {
                     date: this.sendDate(),
@@ -686,7 +607,7 @@ export default {
                     img: "static/img/robot.png",
                     text: {
                         // text: '<i class="el-icon-edit" @click="alert("点击了链接")"></i>',
-                        text:'<div id="robot-a"><a href="#" class="robot-a">W3School1</a></br><a href="#" class="robot-a">W3School2</a></div>',
+                        text: '<div id="robot-a"><a href="#" class="robot-a">W3School1</a></br><a href="#" class="robot-a">W3School2</a></div>',
                         // system: {
                         //     title: "在接入人工前，智能助手将为您首次应答。",
                         //     subtitle: "猜您想问:",
@@ -707,108 +628,75 @@ export default {
                         //     callback:console.log(event),
                         // },
                     },
-                };
-                this.bindGetMessage('ChatLobby', roomMessageObj);
-                console.log(document.getElementById('robot-a'));
-                console.log("rooms=",this.rooms);
+                }
+                this.bindGetMessage('ChatLobby', roomMessageObj)
+                console.log(document.getElementById('robot-a'))
+                console.log("rooms=", this.rooms)
             }
         },
         rightClick(type) {
-            console.log("rigth", type);
+            console.log("rigth", type)
         },
         initOneWS(roomName) {
-            const WS_BASE_URL = this.websocketConfig.WS_BASE_URL;
-            const url = `${WS_BASE_URL}${roomName}/`;
+            const WS_BASE_URL = this.websocketConfig.WS_BASE_URL
+            const url = `${WS_BASE_URL}${roomName}/`
             try {
-                const ws = new WebSocket(url);
-                ws.onopen = (event) => this.websocketConfig.onOpen(event, roomName);
-                ws.onclose = (event) => this.websocketConfig.onClose(event, roomName);
-                ws.onmessage = (event) => this.websocketConfig.onMessage(event, roomName);
-                ws.onerror = (event) => this.websocketConfig.onError(event, roomName);
-                this.ws[roomName] = ws;
+                const ws = new WebSocket(url)
+                ws.onopen = (event) => this.websocketConfig.onOpen(event, roomName)
+                ws.onclose = (event) => this.websocketConfig.onClose(event, roomName)
+                ws.onmessage = (event) => this.websocketConfig.onMessage(event, roomName)
+                ws.onerror = (event) => this.websocketConfig.onError(event, roomName)
+                this.ws[roomName] = ws
             } catch (error) {
-                console.error(`Error while creating websocket connection for room ${roomName}:`, error);
+                console.error(`Error while creating websocket connection for room ${roomName}:`, error)
             }
         },
         initWebsocket() {
             for (const room of this.winBarConfig.list) {
-                const roomName = room.id;
+                const roomName = room.id
                 if (roomName != "ROLE") {
-                    this.initOneWS(roomName);
+                    this.initOneWS(roomName)
                 }
             }
         },
         closeAllWebsocket() {
-            var room;
+            var room
             for (room in this.winBarConfig.list) {
-                const id = this.winBarConfig.list[room].id;
-                this.ws[id].close();
+                const id = this.winBarConfig.list[room].id
+                this.ws[id].close()
             }
         },
         handleMouseMove(event) {
-            const roomName = this.winBarConfig.active;
-            // console.log('鼠标坐标：', event.clientX, event.clientY);
+            const roomName = this.winBarConfig.active
+            // console.log('鼠标坐标：', event.clientX, event.clientY)
             for (const room of this.winBarConfig.list) {
                 if (room.id == roomName) {
-                    setTimeout(() => { room.readNum = ''; }, 200);
-                    break;
+                    setTimeout(() => { room.readNum = '' }, 200)
+                    break
                 }
             }
         },
-        el_alert(message,type='success') {
-        this.$message({
-          message: message,
-            type: type,
-            center:true
-        });
-      },
+        el_alert(message, type = 'success') {
+            this.$message({
+                message: message,
+                type: type,
+                center: true
+            })
+        },
     },
     props: ['avatars', 'roleObj'],
     mounted() {
-        this.dialogRoleVisible = true;
-        this.ws = [];
-        this.initWebsocket();
-        this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove);
-        this.$emit('update-leftNav', 'chatNav');
-        // this.scroll = new BScroll(this.$el.querySelector('.scroller'), options)
-        // this.scroll.on('pullingDown', () => {
-        //     // 刷新数据的过程中，回弹停留在距离顶部还有20px的位置
-        //     RefreshData()
-        //         .then((newData) => {
-        //             this.data = newData
-        //         alert('666')
-        //         // 在刷新数据完成之后，调用 finishPullDown 方法，回弹到顶部
-        //         this.scroll.finishPullDown()
-        //     })
-        // })
-    //     //监听是不是使劲上划   加载历史数据
-    //     this.$nextTick(() => {
-    //     const observer = new MutationObserver((mutations) => {
-    //     mutations.forEach((mutation) => {
-    //         if (mutation.type === 'attributes' && mutation.attributeName === 'style') {
-    //             const translateY = parseInt(this.$el.querySelector('.web__main').style.transform.match(/translateY\((.*?)\)/)[1], 10);
-    //             if (translateY > 40) {
-    //                 setTimeout(() => {
-    //                     this.bindLoadHistory();
-    //                     this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(40px)');
-    //                 }, 500);
-    //                 // this.bindLoadHistory();
-    //                 // this.$nextTick(() => { this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(40px)'); });
-    //                 // this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(0px)');
-    //         //   alert("大于40");
-    //         }
-    //       }
-    //     });
-    //   });
-
-    //   observer.observe(this.$el.querySelector('.web__main'), { attributes: true });
-    //     });
+        this.dialogRoleVisible = true
+        this.ws = []
+        this.initWebsocket()
+        this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove)
+        this.$emit('update-leftNav', 'chatNav')
     },
     destroyed() {
-        // this.closeAllWebsocket();
+        // this.closeAllWebsocket()
     },
 
-};
+}
 </script>
   
 <style>

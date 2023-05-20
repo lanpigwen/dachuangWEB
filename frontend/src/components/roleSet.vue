@@ -62,42 +62,42 @@
         //   gender: 'male'
         //     },
         user: this.roleObj
-      };
+      }
     },
     props: ['roleObj','avatars',],
     methods: {
         leftNavClick() {
-            const elContainer = this.$parent.$parent.$el;
-            const chatNav = elContainer.querySelector('#chatNav');
-            chatNav.dispatchEvent(new Event('click'));            
+            const elContainer = this.$parent.$parent.$el
+            const chatNav = elContainer.querySelector('#chatNav')
+            chatNav.dispatchEvent(new Event('click'))            
         },
       submitForm() {
         this.$refs.userForm.validate(valid => {
           if (valid) {
             // 提交表单逻辑，例如发送到服务器
-                const newObj = { ...this.roleObj, avatar: this.user.avatar, gender: this.user.gender, nickname: this.user.nickname };
-                console.log("点击提交后", newObj);
-                this.$emit('update-roleObj', newObj);
+                const newObj = { ...this.roleObj, avatar: this.user.avatar, gender: this.user.gender, nickname: this.user.nickname }
+                console.log("点击提交后", newObj)
+                this.$emit('update-roleObj', newObj)
                 this.$router.push({
                       path: '/chatroom',
                       query: {
                         role:this.user.nickname
                       }
                   })
-                this.leftNavClick();
+                this.leftNavClick()
           } else {
-            console.log('表单验证失败！');
-            return false;
+            console.log('表单验证失败！')
+            return false
           }
-        });
+        })
       }
     },
       mounted() {
-            // this.imgs = this.avatars;
-            console.log("设置角色", this.roleObj);  
-            // console.log(this.avatars);
+            // this.imgs = this.avatars
+            console.log("设置角色", this.roleObj)  
+            // console.log(this.avatars)
     }
 
-  };
+  }
   </script>
   

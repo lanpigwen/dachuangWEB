@@ -7,27 +7,20 @@ import router from './router'
 
 
 //aaaa
-import ElementUI from 'element-ui'; // 2.1引入结构
-import 'element-ui/lib/theme-chalk/index.css'; // 2.2引入样式
+import ElementUI from 'element-ui' // 2.1引入结构
+import 'element-ui/lib/theme-chalk/index.css' // 2.2引入样式
 
-import JwChat from 'jwchat';
-// import 'jwchat/lib/JwChat.umd.css';
-// import 'jwchat/lib/JwChat.umd.min'
-// import 'jwchat/lib/JwChat.common'
-// import 'jwchat/lib/JwChat.umd'
+import JwChat from 'jwchat'
 
-Vue.use(ElementUI); // 3.安装
+Vue.use(ElementUI) // 3.安装
 Vue.use(JwChat)
 Vue.config.productionTip = false
-
-// import VueWebsocket from 'vue-websocket';
-// Vue.use(VueWebsocket, 'ws://127.0.0.1:8000/chat/hello/');
 
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
-  components: {App},
+  components: { App },
   template: '<App/>'
 })
 
