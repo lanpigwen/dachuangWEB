@@ -1,5 +1,6 @@
 <template>
-    <div class="jwchat">
+    <div class="jwchat" ref="jw">
+        <!-- <button @click="change">dianji</button> -->
         <!-- <router-link to="/dialogRole" ></router-view> -->
         <dialogRole :dialogRoleVisible="dialogRoleVisible" @update:dialogRoleVisible="updatedialogRoleVisible"
             :roleObj="roleObj" @update-roleObj="updateRoleObj" @update-activeBar="activeWinbar" :avatars="avatars">
@@ -22,7 +23,7 @@
         @enter	输入框点击就发送或者回车触发的事件	输入的原始数据
         @clickTalk	点击聊天框列中的用户和昵称触发事件	当前对话数据
        -->
-        <JwChat-index v-model="inputMsg" :taleList="taleList" :config="config" :showRightBox="true" scrollType="scroll"
+        <JwChat-index v-model="inputMsg" :taleList="taleList" :config="config" :showRightBox="false" scrollType="scroll"
             :winBarConfig="winBarConfig" :quickList="config.quickList" @enter="bindEnter" @clickTalk="talkEvent">
             <!-- 窗口右边栏 -->
             <JwChat-rightbox :config="rightConfig" @click="rightClick" />
@@ -41,6 +42,20 @@
 <script>
 import dialogRole from './dialogRole.vue';
 import dialogCreateRoom from './dialogCreateRoom.vue';
+
+import BScroll from '@better-scroll/core'
+import PullDown from '@better-scroll/pull-down'
+
+BScroll.use(PullDown)
+
+// import 'jwchat/lib/JwChat.umd'
+const options = {
+  scrollY: true // 因为scrollY默认为true，其实可以省略
+}
+options.pullDownRefresh = {
+  threshold: 30, // 当下拉到超过顶部 50px 时，触发 pullingDown 事件
+  stop: 20 // 刷新数据的过程中，回弹停留在距离顶部还有 20px 的位置
+}
 //const img = "https://www.baidu.com/img/flexible/logo/pc/result.png";
 // const listData = [
 //     {
@@ -168,7 +183,7 @@ export default {
                 callback: this.bindCover,
                 historyConfig: {
                     show: true,
-                    tip: "滚动到顶时候显示的提示",
+                    tip: '加载更多',
                     callback: this.bindLoadHistory,
                 },
                 // 自动匹配快捷回复
@@ -373,6 +388,11 @@ export default {
                         const roomObj = JSON.parse(data.message);
                         this.rooms.push(roomObj);
                     }
+                    else if (type === 'more_history') {
+                        const msgObj = JSON.parse(data.message);
+                        this.AlltaleList[roomName].splice(0, 0, msgObj);
+                        this.taleList = this.AlltaleList[roomName];
+                    }
                     //——————————————————有人新建了聊天——————————————————————————
                     // if (roomName == 'addRoom') {
                     //     const roomObj = JSON.parse(data.message);
@@ -405,6 +425,24 @@ export default {
         };
     },
     methods: {
+        change() {
+        //     // console.log('666');
+        //     console.log(this.$refs.scroller)
+        //     console.log(this.$el.querySelector('.scroller'))
+        //     this.scroll = new BScroll(this.$el.querySelector('.scroller'), options)
+        //     this.scroll.on('pullingDown', () => {
+        //     // 刷新数据的过程中，回弹停留在距离顶部还有20px的位置
+        //     RefreshData()
+        //         .then((newData) => {
+        //             this.data = newData
+        //         alert('666')
+        //         // 在刷新数据完成之后，调用 finishPullDown 方法，回弹到顶部
+        //         this.scroll.finishPullDown()
+        //     })
+        // })
+        alert('6')
+            this.bindLoadHistory()
+        },
         searchJoinRoom(value) {
             //search
             this.initOneWS(value.id);
@@ -582,18 +620,43 @@ export default {
          * @return {*}
          */
         bindLoadHistory() {
-            const history = new Array(3).fill().map((i, j) => {
-                return {
-                    date: "2020/05/20 23:19:07",
-                    text: { text: j + new Date() },
-                    mine: false,
-                    name: "JwChat-hhhh",
-                    img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                };
-            });
-            let list = history.concat(this.taleList);
-            this.taleList = list;
-            console.log("加载历史", list, history);
+            const roomID = this.winBarConfig.active;
+            this.ws[roomID].send(JSON.stringify({
+                'type': 'more_history',
+                'roomid': roomID,
+                'index_0': this.AlltaleList[roomID].length,
+            }));
+            // this.$refs.scroller.scroll.on('pullingDown',this.change)
+            // console.log(this.$refs.scroller)
+            // finishPullDown()
+            // console.log(this.config.historyConfig);
+            // this.config.historyConfig.show = true;
+            // this.$nextTick(() => {
+            //     this.$refs.jwChat.finishPullDown();
+            // });
+            // const element = this.$el.querySelector('.web__main');
+            // // 获取元素的计算样式
+            // const computedStyle = window.getComputedStyle(element);
+
+            // // 获取 transform 属性的值
+            // const transformValue = computedStyle.getPropertyValue('transform');
+
+            // // 解析 transform 属性值，提取 translateY 的值
+            // const translateYValue = parseTranslateY(transformValue);
+
+            // // 解析 translateY 值的函数
+            // function parseTranslateY(transformValue) {
+            // // 提取 translateY 的值
+            // const translateYRegex = /translateY\(([-\d.]+)px\)/;
+            // const match = transformValue.match(translateYRegex);
+            // if (match && match.length === 2) {
+            //     return parseFloat(match[1]);
+            // }
+            // return 0;
+            // }
+            // console.log(this.$el.querySelector('.bscroll-indicator').addEventListener);
+            // this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(0px)');
+            // console.log(translateYValue);
         },
         /**
          * @description:
@@ -692,6 +755,39 @@ export default {
         this.initWebsocket();
         this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove);
         this.$emit('update-leftNav', 'chatNav');
+        // this.scroll = new BScroll(this.$el.querySelector('.scroller'), options)
+        // this.scroll.on('pullingDown', () => {
+        //     // 刷新数据的过程中，回弹停留在距离顶部还有20px的位置
+        //     RefreshData()
+        //         .then((newData) => {
+        //             this.data = newData
+        //         alert('666')
+        //         // 在刷新数据完成之后，调用 finishPullDown 方法，回弹到顶部
+        //         this.scroll.finishPullDown()
+        //     })
+        // })
+    //     //监听是不是使劲上划   加载历史数据
+    //     this.$nextTick(() => {
+    //     const observer = new MutationObserver((mutations) => {
+    //     mutations.forEach((mutation) => {
+    //         if (mutation.type === 'attributes' && mutation.attributeName === 'style') {
+    //             const translateY = parseInt(this.$el.querySelector('.web__main').style.transform.match(/translateY\((.*?)\)/)[1], 10);
+    //             if (translateY > 40) {
+    //                 setTimeout(() => {
+    //                     this.bindLoadHistory();
+    //                     this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(40px)');
+    //                 }, 500);
+    //                 // this.bindLoadHistory();
+    //                 // this.$nextTick(() => { this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(40px)'); });
+    //                 // this.$el.querySelector('.web__main').style.setProperty('transform', 'translateY(0px)');
+    //         //   alert("大于40");
+    //         }
+    //       }
+    //     });
+    //   });
+
+    //   observer.observe(this.$el.querySelector('.web__main'), { attributes: true });
+    //     });
     },
     destroyed() {
         // this.closeAllWebsocket();

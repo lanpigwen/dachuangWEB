@@ -12,7 +12,9 @@ import 'element-ui/lib/theme-chalk/index.css'; // 2.2引入样式
 
 import JwChat from 'jwchat';
 // import 'jwchat/lib/JwChat.umd.css';
-import 'jwchat/lib/JwChat.umd.min'
+// import 'jwchat/lib/JwChat.umd.min'
+// import 'jwchat/lib/JwChat.common'
+// import 'jwchat/lib/JwChat.umd'
 
 Vue.use(ElementUI); // 3.安装
 Vue.use(JwChat)

@@ -13,7 +13,7 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 # messages = redis_conn.lrange('rooms', 0, -1)
 # print(messages)
 # # 获取所有匹配的键
-# keys = redis_conn.keys('rooms')
+# keys = redis_conn.keys('messagesHistory:*')
 # for key in keys:
 #     redis_conn.delete(key)
 
@@ -55,7 +55,10 @@ class ChatConsumer(WebsocketConsumer):
         else:
             #首次进入，就加载历史记录
             messages = redis_conn.lrange(f'messagesHistory:{self.room_group_name}', 0, -1)
-            messages = [message.decode('utf-8') for message in messages][::-1]
+            start=0
+            messages = [message.decode('utf-8') for message in messages]
+            messages=messages[start:start+10] if start+10 <len(messages) else messages[start:]
+            messages=messages[::-1]
             # print(messages)
             for message in messages:         
                 async_to_sync(self.channel_layer.send)(
@@ -109,21 +112,26 @@ class ChatConsumer(WebsocketConsumer):
         else:
             text_data_json = json.loads(text_data)
             #要求返回历史数据
-            if text_data_json['message'].get('ask_history')!=None:
-                #返回历史数据
-                # messages = redis_conn.lrange(f'messagesHistory:{self.room_group_name}', 0, -1)
-                # messages = [message.decode('utf-8') for message in messages][::-1]
-                # # for message in messages:         
-                # async_to_sync(self.channel_layer.group_send)(
-                # self.room_group_name,
-                # {
-                #     'type': 'return_history',
-                #     'history':True,
-                #     'message': message,
-                #     'sender_channel_name': self.channel_name
-                # }
-                # )
-                print('收到历史要求')
+            if text_data_json['type']=='more_history':
+                start=text_data_json['index_0']
+                roomid=text_data_json['roomid']
+                # 返回历史数据
+                messages = redis_conn.lrange(f'messagesHistory:{roomid}', 0, -1)
+                messages = [message.decode('utf-8') for message in messages]
+                l=len(messages)
+                end=start+10 if start+10 <len(messages) else -1
+                messages=messages[start:start+10] if start+10 <len(messages) else messages[start:]
+                for message in messages:         
+                    async_to_sync(self.channel_layer.group_send)(
+                    self.room_group_name,
+                    {
+                        'type': 'return_more_history',
+                        'message': message,
+                        'sender_channel_name': sender_channel_name,
+                        'realtype':'more_history'
+                    }
+                    )
+                print('收到历史要求',start,end,l)
             #正常单个聊天数据    
             else:
                 text_data_json['message']['mine']=False
@@ -154,16 +162,16 @@ class ChatConsumer(WebsocketConsumer):
                 'message': f'{message}'
             }))    
     
-    def return_history(self,event):
+    def return_more_history(self,event):
         message = event['message']
+        type=event['realtype']
         sender_channel_name = event['sender_channel_name']
-        # datetime_str = datetime.datetime.now().strftime('%Y/%m/%d %H:%M:%S')
 
         # 判断接收者是否是发送者
         if self.channel_name == sender_channel_name:
             # 通过websocket发送消息到客户端
             self.send(text_data=json.dumps({
-                'type':'return_history_message',
+                'type':type,
                 'message': f'{message}'
             }))
 
