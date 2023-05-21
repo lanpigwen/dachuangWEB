@@ -23,16 +23,18 @@
         @enter	输入框点击就发送或者回车触发的事件	输入的原始数据
         @clickTalk	点击聊天框列中的用户和昵称触发事件	当前对话数据
        -->
-        <JwChat-index v-model="inputMsg" :taleList="taleList" :config="config" :showRightBox="false" scrollType="scroll"
-            :winBarConfig="winBarConfig" :quickList="config.quickList" @enter="bindEnter" @clickTalk="talkEvent">
+        <JwChat-index ref="jwChat" :config="config" :taleList="taleList" @enter="bindEnter" @clickTalk="talkEvent"
+            v-model="inputMsg" :showRightBox="false" scrollType="scroll" :toolConfig="tool" :winBarConfig="winBarConfig"
+            :quickList="config.quickList">
             <!-- 窗口右边栏 -->
+
             <JwChat-rightbox :config="rightConfig" @click="rightClick" />
             <!-- 快捷回复 -->
             <!-- <JwChat-talk :Talelist="talk" :config="quickConfig" @event="bindTalk" /> -->
             <!-- 工具栏自定义插槽 -->
             <template slot="tools">
                 <div style="width: 20rem text-align: right" @click="toolEvent(12)">
-                    <JwChat-icon type="icon-lishi" title="自定义" />
+                    <!-- <JwChat-icon type="icon-lishi" title="自定义" /> -->
                 </div>
             </template>
         </JwChat-index>
@@ -48,14 +50,14 @@ import PullDown from '@better-scroll/pull-down'
 
 BScroll.use(PullDown)
 
-// import 'jwchat/lib/JwChat.umd'
-const options = {
-    scrollY: true // 因为scrollY默认为true，其实可以省略
-}
-options.pullDownRefresh = {
-    threshold: 30, // 当下拉到超过顶部 50px 时，触发 pullingDown 事件
-    stop: 20 // 刷新数据的过程中，回弹停留在距离顶部还有 20px 的位置
-}
+// // import 'jwchat/lib/JwChat.umd'
+// const options = {
+//     scrollY: true // 因为scrollY默认为true，其实可以省略
+// }
+// options.pullDownRefresh = {
+//     threshold: 30, // 当下拉到超过顶部 50px 时，触发 pullingDown 事件
+//     stop: 20 // 刷新数据的过程中，回弹停留在距离顶部还有 20px 的位置
+// }
 //const img = "https://www.baidu.com/img/flexible/logo/pc/result.png"
 // const listData = [
 //     {
@@ -168,7 +170,7 @@ export default {
             AlltaleList: {},
             // 工具栏配置
             tool: {
-                //   show: ['file', 'history', 'img', ['文件1', '', '美图']],
+                show: ['file', 'history', 'img', 'video', 'hongbao', 'more'],
                 showEmoji: true,
                 callback: this.toolEvent,
             },
@@ -353,7 +355,6 @@ export default {
                     if (roomName !== 'addRoom') {
                         this.AlltaleList[roomName] = []//一旦连接，就初始化其聊天记录为空数组，连接后，后端会自动send改room的每条聊天记录obj
                     }
-
                 },
                 onClose: (event, roomName) => {
                     console.log(`WebSocket is closed now.------${roomName}`)
@@ -362,7 +363,7 @@ export default {
                 onMessage: (event, roomName) => {
                     const data = JSON.parse(event.data)
                     const type = data.type
-                    console.log(type, JSON.parse(data.message))
+                    // console.log(type, JSON.parse(data.message))
                     if (type === 'rooms_history') {
                         const roomObj = JSON.parse(data.message)
                         //将房间加入网页的rooms缓存 加if是为了避免rooms中有重复的obj   调试过程会重复websocke send 所以...
@@ -390,6 +391,7 @@ export default {
                     else if (type === 'update_rooms') {
                         const roomObj = JSON.parse(data.message)
                         this.rooms.push(roomObj)
+                        // this.robotSay('ChatLobby',)
                     }
                     else if (type === 'more_history') {
                         const msgObj = JSON.parse(data.message)
@@ -399,6 +401,11 @@ export default {
                     else if (type === 'tips') {
                         const what_happen = JSON.parse(data.message).what_happen
                         this.el_alert(what_happen, 'warning')
+                    }
+                    else if (type === 'ChatLobby_init') {
+                        const content = this.rooms.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
+                        const title = "点击加入房间"
+                        this.robotSay('ChatLobby', title, content)
                     }
                 },
                 onError: (event, roomName) => {
@@ -413,6 +420,7 @@ export default {
             this.initOneWS(value.id)
             this.winBarConfig.list.splice(3, 0, value)
             console.log("申请加入")
+            this.activeWinbar(value.id)
 
         },
         searchCreateRoom(value) {
@@ -424,7 +432,40 @@ export default {
             }))
             this.winBarConfig.list.splice(3, 0, newRoom)
             console.log("申请创建")
+            ////
+            const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
+            const url = avatar ? avatar.url : null
 
+            const { id, name, dept } = newRoom
+            const content = [{ id, text: name, dept }]
+            const title = "我新建了一个房间"
+
+            const msgObj = {
+                date: this.sendDate(),
+                mine: true,
+                name: this.roleObj.nickname,
+                img: url,
+                text: {
+                    system: {
+                        title: title,
+                        content: content,
+                    },
+                },
+            }
+            this.sendMsgObj('ChatLobby',msgObj)
+
+        },
+        sendMsgObj(roomID, msgObj,type='add_message') {
+            if (this.ws[roomID].readyState != 1) {
+                this.el_alert("已与服务器断开连接", 'error')
+            }
+            else {
+                this.AlltaleList[roomID].push(msgObj)
+                this.ws[roomID].send(JSON.stringify({
+                    'type': type,
+                    'message': msgObj,
+                }))
+            }
         },
         updatedialogRoomVisible(value) {
             this.dialogRoomVisible = value
@@ -487,8 +528,21 @@ export default {
         },
         // 点击聊天框列中的用户和昵称触发事件
         talkEvent(play) {
-            console.log(play)
-            // alert("点击了头像")
+            const { data, type } = play
+            if (type === 'systemItem') {
+                const roomID = data.id
+                const join_room = this.rooms.find(item => item.id == roomID)
+                const winbarroom = this.winBarConfig.list.find(item => item.id == roomID)
+                if (winbarroom === undefined) {
+                    this.searchJoinRoom(join_room)
+                }
+                else {
+                    this.el_alert("你已经在该房间内！", 'warning')
+                    // this.activeWinbar(roomID)
+                }
+                // this.searchJoinRoom(join_room)
+                // console.log(data)
+            }
         },
         sendDate() {
             // 对Date的扩展，将 Date 转化为指定格式的String  
@@ -530,7 +584,7 @@ export default {
             }
             const roomName = this.winBarConfig.active
             // alert(this.ws[roomName].readyState)
-            if (this.ws[roomName].readyState != 1) { this.el_alert("已与服务器断开连接",'error') }
+            if (this.ws[roomName].readyState != 1) { this.el_alert("已与服务器断开连接", 'error') }
             this.AlltaleList[roomName].push(msgObj)
             this.taleList = this.AlltaleList[roomName]
             this.ws[roomName].send(JSON.stringify({
@@ -596,41 +650,32 @@ export default {
         toolEvent(type, plyload) {
             console.log("tools", type, plyload)
         },
+        robotSay(roomID, title, content, callback) {
+            const msgObj = {
+                date: this.sendDate(),
+                mine: false,
+                name: "Robot",
+                img: "static/img/robot.png",
+                text: {
+                    system: {
+                        title: title,
+                        content: content,
+                    },
+                },
+            }
+            this.bindGetMessage(roomID, msgObj)
+            callback && callback()
+        },
+        // userSaySys(roomID, title, content) {
+
+        // },
         bindCover(event) {
             //展示room信息
             console.log("header", event)
             if (event.value.id == 'ChatLobby') {
-                const roomMessageObj = {
-                    date: this.sendDate(),
-                    mine: false,
-                    name: "Robot",
-                    img: "static/img/robot.png",
-                    text: {
-                        // text: '<i class="el-icon-edit" @click="alert("点击了链接")"></i>',
-                        text: '<div id="robot-a"><a href="#" class="robot-a">W3School1</a></br><a href="#" class="robot-a">W3School2</a></div>',
-                        // system: {
-                        //     title: "在接入人工前，智能助手将为您首次应答。",
-                        //     subtitle: "猜您想问:",
-                        //     content: [
-                        //         {
-                        //             id: `system1`,
-                        //             text: "组件如何使用",
-                        //         },
-                        //         {
-                        //             id: `system2`,
-                        //             text: "组件参数在哪里查看",
-                        //         },
-                        //         {
-                        //             id: "system",
-                        //             text: "我可不可把组件用在商业",
-                        //         },
-                        //     ],
-                        //     callback:console.log(event),
-                        // },
-                    },
-                }
-                this.bindGetMessage('ChatLobby', roomMessageObj)
-                console.log(document.getElementById('robot-a'))
+                const content = this.rooms.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
+                const title = "点击加入房间"
+                this.robotSay('ChatLobby', title, content)
                 console.log("rooms=", this.rooms)
             }
         },

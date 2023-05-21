@@ -48,7 +48,7 @@ export default {
             },
             formCreateRoom: {
                 id: '',
-                img: "static/img/meeting0.png",
+                img: "static/img/workshop.png",
                 name: '',
                 dept: '',
                 readNum: 0,

@@ -13,7 +13,7 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 # messages = redis_conn.lrange('rooms', 0, -1)
 # print(messages)
 # # 获取所有匹配的键
-# keys = redis_conn.keys('messagesHistory:*')
+# keys = redis_conn.keys('rooms')
 # for key in keys:
 #     redis_conn.delete(key)
 
@@ -39,7 +39,7 @@ class ChatConsumer(WebsocketConsumer):
         # 接受所有websocket请求
         self.accept()
         #这里也要区分
-        #   ————————————————————————————————————————————需要改成只向他自己发   初始化 room_history
+        #   ————————————————需要改成只向他自己发   初始化 room_history
         if self.room_group_name=='addRoom':
             messages = redis_conn.lrange('rooms', 0, -1)
             messages = [message.decode('utf-8') for message in messages][::-1]
@@ -67,6 +67,15 @@ class ChatConsumer(WebsocketConsumer):
                         'type': 'send_message',
                         'message': message,
                         'realtype':'message_history'
+                    }
+                )
+            if self.room_group_name=='ChatLobby':
+                async_to_sync(self.channel_layer.send)(
+                    self.channel_name,
+                    {
+                        'type': 'send_message',
+                        'message': message,
+                        'realtype':'ChatLobby_init'
                     }
                 )
 
