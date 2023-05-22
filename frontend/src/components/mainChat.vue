@@ -146,7 +146,8 @@ export default {
             },
             // 窗口右边栏配置
             rightConfig: {
-                // tip: "群公告",
+                tip: "群公告",
+                
                 // notice:
                 //     "【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。",
                 listTip: "当前在线",
@@ -187,6 +188,9 @@ export default {
                 },
                 onClose: (event, roomName) => {
                     console.log(`WebSocket is closed now.------${roomName}`)
+                    const message="已经断开与 "+roomName+" 的连接"
+                    this.el_alert(message,'info')
+                    // this.openMsgBox()
 
                 },
                 onMessage: (event, roomName) => {
@@ -434,13 +438,19 @@ export default {
             }
             const roomName = this.winBarConfig.active
             // alert(this.ws[roomName].readyState)
-            if (this.ws[roomName].readyState != 1) { this.el_alert("已与服务器断开连接", 'error') }
-            this.AlltaleList[roomName].push(msgObj)
-            this.taleList = this.AlltaleList[roomName]
-            this.ws[roomName].send(JSON.stringify({
-                'type': 'add_message',
-                'message': msgObj
-            }))
+            if (this.ws[roomName].readyState != 1) {
+                this.el_alert("已与服务器断开连接", 'error')
+                this.openMsgBox()
+
+            }
+            else {
+                this.AlltaleList[roomName].push(msgObj)
+                this.taleList = this.AlltaleList[roomName]
+                this.ws[roomName].send(JSON.stringify({
+                    'type': 'add_message',
+                    'message': msgObj
+                }))                
+            }
         },
         bindGetMessage(roomName, msgObj) {
             //根据receive的，将信息添加到相应winBar的taleList
@@ -516,9 +526,6 @@ export default {
             this.bindGetMessage(roomID, msgObj)
             callback && callback()
         },
-        // userSaySys(roomID, title, content) {
-
-        // },
         bindCover(event) {
             //展示room信息
             console.log("header", event)
@@ -572,6 +579,29 @@ export default {
                 }
             }
         },
+        openMsgBox() {
+        this.$confirm('你已经断开连接, 是否重连?', '提示', {
+          confirmButtonText: '重连',
+          cancelButtonText: '取消',
+          type: 'warning'
+        }).then(() => {
+            for (const room of this.winBarConfig.list) {
+                this.initOneWS(room.id)
+            }
+            this.$message({
+                type: 'success',
+                message: '重连成功!',
+                center:true
+            });
+        }).catch(() => {
+          this.$message({
+            type: 'error',
+              message: '已与服务器断开连接！',
+            center:true
+            
+          });          
+        });
+      },
         el_alert(message, type = 'success') {
             this.$message({
                 message: message,
@@ -579,10 +609,9 @@ export default {
                 center: true
             })
         },
-        beforeunloadFn(e) {
-            console.log('刷新或关闭')
-            // ...
-        }
+    beforeunloadFn(e) {
+        this.closeAllWebsocket()
+    }
     },
     props: ['avatars', 'roleObj'],
     created() {
@@ -590,14 +619,13 @@ export default {
     },
     mounted() {
         this.dialogRoleVisible = true
-        // this.ws = []
         this.initWebsocket()
         this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove)
         this.$emit('update-leftNav', 'chatNav')
     },
     destroyed() {
         window.removeEventListener('beforeunload', e => this.beforeunloadFn(e))
-        // this.closeAllWebsocket()
+        this.closeAllWebsocket()
     },
 
 }

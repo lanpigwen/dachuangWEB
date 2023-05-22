@@ -13,7 +13,7 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 # messages = redis_conn.lrange('rooms', 0, -1)
 # print(messages)
 # # 获取所有匹配的键
-# keys = redis_conn.keys('Online:ChatLobby')
+# keys = redis_conn.keys(f'Online:*')
 # for key in keys:
 #     redis_conn.delete(key)
 
@@ -24,7 +24,7 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 # print(groups)
 
 # all_online=redis_conn.hgetall(f'Online:*')
-# redis_conn.delete('Online:ChatLobby')
+# redis_conn.delete(f'Online:ChatLobby')
 
 
 class ChatConsumer(WebsocketConsumer):
@@ -100,7 +100,7 @@ class ChatConsumer(WebsocketConsumer):
             self.channel_name
         )
         redis_conn.hdel(f'Online:{self.room_group_name}',self.channel_name)
-        
+
         all_online=redis_conn.hgetall(f'Online:{self.room_group_name}')
 
         result = []
