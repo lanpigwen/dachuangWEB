@@ -168,6 +168,12 @@ export default {
             taleList: [],
             //会话内容----所有窗口的
             AlltaleList: {},
+            //所有房间的在线用户
+            roomsOnline: {
+                'ChatLobby':[],
+            },
+            //websocket
+            ws:[],
             // 工具栏配置
             tool: {
                 show: ['file', 'history', 'img', 'video', 'hongbao', 'more'],
@@ -210,7 +216,7 @@ export default {
             },
             // 多窗口配置
             winBarConfig: {
-                active: "win01", // 当前选中
+                active: "ChatLobby", // 当前选中
                 width: "160px", // 宽度大小
                 listHeight: "60px", // 单个高度
                 // 用户列表
@@ -282,9 +288,9 @@ export default {
             },
             // 窗口右边栏配置
             rightConfig: {
-                tip: "群公告",
-                notice:
-                    "【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。",
+                // tip: "群公告",
+                // notice:
+                //     "【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。",
                 listTip: "当前在线",
                 list: [
                     // {
@@ -415,13 +421,23 @@ export default {
                         this.robotSay('ChatLobby', title, content)
                     }
                     else if (type === 'p_join_room') {
-                        const {img,nickname} = JSON.parse(data.message)
-                        // const {img,nickname}=who_join
-                        const who_join = { name: nickname, img: img }
-                        if (this.winBarConfig.active === roomName) {
-                            this.rightConfig.list.push(who_join)
+                        const objList = data.message
+                        const newRightList = []
+                        for (var objStr of objList) {
+                            // console.log(objStr)
+                            const {nickname} = JSON.parse(objStr)
+                            const obj={...JSON.parse(objStr),name:nickname}
+                            newRightList.push(obj)
                         }
-                        console.log(roomName, 'join',who_join)
+                        console.log(newRightList)
+                        console.log('活跃的是', this.winBarConfig.active)
+                        console.log('收到的是', roomName)
+                        this.roomsOnline[roomName]=newRightList
+                        // if (roomName === this.winBarConfig.active) {
+                        //     this.rightConfig.list=newRightList
+                        // }
+                        // this.rightConfig.list=newRightList     
+                        // console.log('在线的用户',objList)
                     }
                 },
                 onError: (event, roomName) => {
@@ -436,6 +452,7 @@ export default {
             this.initOneWS(value.id)
             this.winBarConfig.list.splice(3, 0, value)
             console.log("申请加入")
+            this.roomsOnline[value.id]=[]
             this.activeWinbar(value.id)
 
         },
@@ -448,6 +465,7 @@ export default {
             }))
             this.winBarConfig.list.splice(3, 0, newRoom)
             console.log("申请创建")
+            this.roomsOnline[newRoom.id]=[]
             ////
             const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
             const url = avatar ? avatar.url : null
@@ -504,6 +522,7 @@ export default {
             this.config = { ...this.config, id, dept, name, img }
             this.winBarConfig.active = id
             this.taleList = this.AlltaleList[id]
+            this.rightConfig.list = this.roomsOnline[id]
         },
         // 切换用户窗口，加载对应的历史记录
         bindWinBar(play = {},) {
@@ -514,6 +533,8 @@ export default {
                 this.config = { ...this.config, id, dept, name, img }
                 this.winBarConfig.active = id
                 this.taleList = this.AlltaleList[id]
+                this.rightConfig.list = this.roomsOnline[id]
+                console.log("查看",this.roomsOnline[id])
                 for (const room of this.winBarConfig.list) {
                     if (room.id == id) {
                         room.readNum = ''
@@ -539,6 +560,7 @@ export default {
                     //清空缓存的该room的聊天记录
                     this.AlltaleList[id] = []
                     this.activeWinbar('ChatLobby')
+                    this.roomsOnline[id]=[]
                 }
             }
         },
@@ -749,7 +771,7 @@ export default {
     props: ['avatars', 'roleObj'],
     mounted() {
         this.dialogRoleVisible = true
-        this.ws = []
+        // this.ws = []
         this.initWebsocket()
         this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove)
         this.$emit('update-leftNav', 'chatNav')

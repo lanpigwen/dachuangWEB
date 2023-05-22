@@ -13,7 +13,7 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 # messages = redis_conn.lrange('rooms', 0, -1)
 # print(messages)
 # # 获取所有匹配的键
-# keys = redis_conn.keys('rooms')
+# keys = redis_conn.keys('Online:ChatLobby')
 # for key in keys:
 #     redis_conn.delete(key)
 
@@ -22,6 +22,10 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 
 # # 打印所有存在的频道组
 # print(groups)
+
+# all_online=redis_conn.hgetall(f'Online:*')
+# redis_conn.delete('Online:ChatLobby')
+
 
 class ChatConsumer(WebsocketConsumer):
     # websocket建立连接时执行方法
@@ -78,6 +82,7 @@ class ChatConsumer(WebsocketConsumer):
                         'realtype':'ChatLobby_init'
                     }
                 )
+            
 
     def send_message(self, event):
         type=event['realtype']
@@ -94,6 +99,29 @@ class ChatConsumer(WebsocketConsumer):
             self.room_group_name,
             self.channel_name
         )
+        redis_conn.hdel(f'Online:{self.room_group_name}',self.channel_name)
+        
+        all_online=redis_conn.hgetall(f'Online:{self.room_group_name}')
+
+        result = []
+        for key, value in all_online.items():
+            value = value.decode('utf-8')  # 将字节解码为字符串
+            value_dict = json.loads(value)  # 解析为字典
+            value_dict['id'] = key.decode('utf-8')  # 添加 id 属性
+            result.append(json.dumps(value_dict))  # 转换为字符串流
+        message=result
+        print(self.room_group_name,"有人退出后",message)
+        # print(self.room_group_name,all_online)
+        async_to_sync(self.channel_layer.group_send)(
+            self.room_group_name,
+            {
+                'type': 'send_message',
+                'message': message,
+                'realtype':'p_join_room'
+            }
+        ) 
+
+
 
     # 从websocket接收到消息时执行函数
     def receive(self, text_data):
@@ -103,9 +131,8 @@ class ChatConsumer(WebsocketConsumer):
         # 获取Redis Channel Layer
         self.channel_layer = get_channel_layer()
         #如果是addRoom频道组 则是收到了前端 有人新建了房间 ，
-        if (self.room_group_name=='addRoom'):
-            text_data_json = json.loads(text_data)
-            print(text_data_json)
+        text_data_json = json.loads(text_data)
+        if text_data_json['type']=='add_room':
             message = json.dumps(text_data_json['message'])
             #房间细节存进reids
             redis_conn.lpush(f'rooms', message)
@@ -117,70 +144,80 @@ class ChatConsumer(WebsocketConsumer):
                     'message': message,
                     'realtype': 'update_rooms'
                 }
-            )
-        else:
-            text_data_json = json.loads(text_data)
-            #要求返回历史数据
-            if text_data_json['type']=='more_history':
-                start=text_data_json['index_0']
-                roomid=text_data_json['roomid']
-                # 返回历史数据
-                messages = redis_conn.lrange(f'messagesHistory:{roomid}', 0, -1)
-                messages = [message.decode('utf-8') for message in messages]
-                his_len=len(messages)
-                end=start+10 if start+10 <len(messages) else -1
-                messages=messages[start:start+10] if start+10 <len(messages) else messages[start:]
-                if start<his_len:
-                    for message in messages:        
-                        async_to_sync(self.channel_layer.send)(
-                        self.channel_name,
-                        {
-                            'type': 'send_message',
-                            'message': message,
-                            'realtype':'more_history'
-                        }
-                        )
-                else:
-                    message={"what_happen":"到达聊天记录顶端！"}
-                    message=json.dumps(message)
+            )            
+        elif text_data_json['type']=='more_history':
+            start=text_data_json['index_0']
+            roomid=text_data_json['roomid']
+            # 返回历史数据
+            messages = redis_conn.lrange(f'messagesHistory:{roomid}', 0, -1)
+            messages = [message.decode('utf-8') for message in messages]
+            his_len=len(messages)
+            end=start+10 if start+10 <len(messages) else -1
+            messages=messages[start:start+10] if start+10 <len(messages) else messages[start:]
+            if start<his_len:
+                for message in messages:        
                     async_to_sync(self.channel_layer.send)(
                     self.channel_name,
                     {
                         'type': 'send_message',
                         'message': message,
-                        'realtype':'tips'
+                        'realtype':'more_history'
                     }
-                    )                    
-                    print('加载完全部')
-                print('收到历史要求',start,end,his_len)
-            #正常单个聊天数据    
-            elif text_data_json['type']=='p_join_room':
-                message=json.dumps(text_data_json['message'])
-                async_to_sync(self.channel_layer.group_send)(
-                    self.room_group_name,
-                    {
-                        'type': 'send_message',
-                        'message': message,
-                        'sender_channel_name': sender_channel_name,
-                        'realtype':'p_join_room'
-                    }
-                )                
-                print(text_data_json['message'])
+                    )
             else:
-                text_data_json['message']['mine']=False
-                message = json.dumps(text_data_json['message'])
-                # print(message)
-                redis_conn.lpush(f'messagesHistory:{self.room_group_name}', message)
-                # 发送消息到频道组，频道组调用chat_message方法
-                async_to_sync(self.channel_layer.group_send)(
-                    self.room_group_name,
-                    {
-                        'type': 'chat_message',
-                        'message': message,
-                        'sender_channel_name': sender_channel_name,
-                        'realtype':'other_chat_message'
-                    }
-                )
+                message={"what_happen":"到达聊天记录顶端！"}
+                message=json.dumps(message)
+                async_to_sync(self.channel_layer.send)(
+                self.channel_name,
+                {
+                    'type': 'send_message',
+                    'message': message,
+                    'realtype':'tips'
+                }
+                )                    
+                print('加载完全部')
+            print('收到历史要求',start,end,his_len)
+        #更新在线人数   
+        elif text_data_json['type']=='p_join_room':
+            message=json.dumps(text_data_json['message'])
+            #还得加入在线
+            # print("谁加入",self.room_group_name,message)
+            redis_conn.hset(f'Online:{self.room_group_name}', self.channel_name , message)
+
+            all_online=redis_conn.hgetall(f'Online:{self.room_group_name}')
+
+
+            result = []
+            for key, value in all_online.items():
+                value = value.decode('utf-8')  # 将字节解码为字符串
+                value_dict = json.loads(value)  # 解析为字典
+                value_dict['id'] = key.decode('utf-8')  # 添加 id 属性
+                result.append(json.dumps(value_dict))  # 转换为字符串流
+            message=result
+            async_to_sync(self.channel_layer.group_send)(
+                self.room_group_name,
+                {
+                    'type': 'send_message',
+                    'message': message,
+                    'realtype':'p_join_room'
+                }
+            )                
+        #正常单个聊天数据 
+        else:
+            text_data_json['message']['mine']=False
+            message = json.dumps(text_data_json['message'])
+            # print(message)
+            redis_conn.lpush(f'messagesHistory:{self.room_group_name}', message)
+            # 发送消息到频道组，频道组调用chat_message方法
+            async_to_sync(self.channel_layer.group_send)(
+                self.room_group_name,
+                {
+                    'type': 'chat_message',
+                    'message': message,
+                    'sender_channel_name': sender_channel_name,
+                    'realtype':'other_chat_message'
+                }
+            )
 
     # 从频道组接收到消息后执行方法
     def chat_message(self, event):
