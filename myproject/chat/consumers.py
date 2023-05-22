@@ -74,7 +74,7 @@ class ChatConsumer(WebsocketConsumer):
                     self.channel_name,
                     {
                         'type': 'send_message',
-                        'message': message,
+                        'message': '为啥',
                         'realtype':'ChatLobby_init'
                     }
                 )
@@ -154,6 +154,18 @@ class ChatConsumer(WebsocketConsumer):
                     print('加载完全部')
                 print('收到历史要求',start,end,his_len)
             #正常单个聊天数据    
+            elif text_data_json['type']=='p_join_room':
+                message=json.dumps(text_data_json['message'])
+                async_to_sync(self.channel_layer.group_send)(
+                    self.room_group_name,
+                    {
+                        'type': 'send_message',
+                        'message': message,
+                        'sender_channel_name': sender_channel_name,
+                        'realtype':'p_join_room'
+                    }
+                )                
+                print(text_data_json['message'])
             else:
                 text_data_json['message']['mine']=False
                 message = json.dumps(text_data_json['message'])
@@ -165,7 +177,8 @@ class ChatConsumer(WebsocketConsumer):
                     {
                         'type': 'chat_message',
                         'message': message,
-                        'sender_channel_name': sender_channel_name
+                        'sender_channel_name': sender_channel_name,
+                        'realtype':'other_chat_message'
                     }
                 )
 
@@ -173,13 +186,14 @@ class ChatConsumer(WebsocketConsumer):
     def chat_message(self, event):
         message = event['message']
         sender_channel_name = event['sender_channel_name']
+        type=event['realtype']
         # datetime_str = datetime.datetime.now().strftime('%Y/%m/%d %H:%M:%S')
 
         # 判断接收者是否是发送者
         if self.channel_name != sender_channel_name:
             # 通过websocket发送消息到客户端
             self.send(text_data=json.dumps({
-                'type':'other_chat_message',
+                'type':type,
                 'message': f'{message}'
             }))    
     

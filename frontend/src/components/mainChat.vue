@@ -24,7 +24,7 @@
         @clickTalk	点击聊天框列中的用户和昵称触发事件	当前对话数据
        -->
         <JwChat-index ref="jwChat" :config="config" :taleList="taleList" @enter="bindEnter" @clickTalk="talkEvent"
-            v-model="inputMsg" :showRightBox="false" scrollType="scroll" :toolConfig="tool" :winBarConfig="winBarConfig"
+            v-model="inputMsg" :showRightBox="true" scrollType="scroll" :toolConfig="tool" :winBarConfig="winBarConfig"
             :quickList="config.quickList">
             <!-- 窗口右边栏 -->
 
@@ -287,30 +287,30 @@ export default {
                     "【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。",
                 listTip: "当前在线",
                 list: [
-                    {
-                        name: "JwChat",
-                        img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                        id: 1,
-                    },
-                    {
-                        id: 2,
-                        name: "JwChat",
-                        img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    },
-                    {
-                        id: 3,
-                        name: "JwChat",
-                        img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    },
-                    {
-                        id: 4,
-                        name: "留恋人间不羡仙",
-                        img: "https://img0.baidu.com/it/u=3066115177,3339701526&fm=26&fmt=auto&gp=0.jpg",
-                    },
-                    {
-                        name: "只盼流星不盼雨",
-                        img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    },
+                    // {
+                    //     name: "JwChat",
+                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
+                    //     id: 1,
+                    // },
+                    // {
+                    //     id: 2,
+                    //     name: "JwChat",
+                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
+                    // },
+                    // {
+                    //     id: 3,
+                    //     name: "JwChat",
+                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
+                    // },
+                    // {
+                    //     id: 4,
+                    //     name: "留恋人间不羡仙",
+                    //     img: "https://img0.baidu.com/it/u=3066115177,3339701526&fm=26&fmt=auto&gp=0.jpg",
+                    // },
+                    // {
+                    //     name: "只盼流星不盼雨",
+                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
+                    // },
                 ],
             },
             // 快捷回复配置
@@ -354,6 +354,13 @@ export default {
                     //打开后做一些事
                     if (roomName !== 'addRoom') {
                         this.AlltaleList[roomName] = []//一旦连接，就初始化其聊天记录为空数组，连接后，后端会自动send改room的每条聊天记录obj
+                        const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
+                        const url = avatar ? avatar.url : null
+                        const msgObj = { ...this.roleObj, img: url }
+                        this.ws[roomName].send(JSON.stringify({
+                            'type': 'p_join_room',
+                            'message': msgObj,
+                }))                        
                     }
                 },
                 onClose: (event, roomName) => {
@@ -406,6 +413,15 @@ export default {
                         const content = this.rooms.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
                         const title = "点击加入房间"
                         this.robotSay('ChatLobby', title, content)
+                    }
+                    else if (type === 'p_join_room') {
+                        const {img,nickname} = JSON.parse(data.message)
+                        // const {img,nickname}=who_join
+                        const who_join = { name: nickname, img: img }
+                        if (this.winBarConfig.active === roomName) {
+                            this.rightConfig.list.push(who_join)
+                        }
+                        console.log(roomName, 'join',who_join)
                     }
                 },
                 onError: (event, roomName) => {
@@ -674,6 +690,7 @@ export default {
             console.log("header", event)
             if (event.value.id == 'ChatLobby') {
                 const content = this.rooms.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
+                console.log(content)
                 const title = "点击加入房间"
                 this.robotSay('ChatLobby', title, content)
                 console.log("rooms=", this.rooms)
