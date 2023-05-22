@@ -1,7 +1,5 @@
 <template>
     <div class="jwchat" ref="jw">
-        <!-- <button @click="change">dianji</button> -->
-        <!-- <router-link to="/dialogRole" ></router-view> -->
         <dialogRole :dialogRoleVisible="dialogRoleVisible" @update:dialogRoleVisible="updatedialogRoleVisible"
             :roleObj="roleObj" @update-roleObj="updateRoleObj" @update-activeBar="activeWinbar" :avatars="avatars">
         </dialogRole>
@@ -50,110 +48,6 @@ import PullDown from '@better-scroll/pull-down'
 
 BScroll.use(PullDown)
 
-// // import 'jwchat/lib/JwChat.umd'
-// const options = {
-//     scrollY: true // 因为scrollY默认为true，其实可以省略
-// }
-// options.pullDownRefresh = {
-//     threshold: 30, // 当下拉到超过顶部 50px 时，触发 pullingDown 事件
-//     stop: 20 // 刷新数据的过程中，回弹停留在距离顶部还有 20px 的位置
-// }
-//const img = "https://www.baidu.com/img/flexible/logo/pc/result.png"
-// const listData = [
-//     {
-//         date: "2020/04/25 21:19:07",
-//         text: {
-//             text: "<i class='el-icon-document-checked' style='font-size:2rem'/>",
-//             subLink: {
-//                 text: "a.txt",
-//                 prop: {
-//                     underline: false,
-//                 },
-//             },
-//         },
-//         mine: false,
-//         name: "留恋人间不羡仙",
-//         img: "https://img0.baidu.com/it/u=3066115177,3339701526&fm=26&fmt=auto&gp=0.jpg",
-//     },
-//     {
-//         date: "",
-//         text: { text: "起床不" },
-//         mine: false,
-//         name: "留恋人间不羡仙",
-//         img: "https://img0.baidu.com/it/u=3066115177,3339701526&fm=26&fmt=auto&gp=0.jpg",
-//     },
-//     {
-//         text: "2020/04/25 21:19:07tip---------SS",
-//         type: "tip",
-//     },
-//     {
-//         date: "2020/04/25 21:19:07",
-//         text: {
-//             text: "<audio data-src='https://www.w3school.com.cn/i/horse.mp3'/>",
-//         },
-//         mine: false,
-//         name: "只盼流星不盼雨",
-//         img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-//     },
-//     {
-//         date: "2020/04/25 21:19:07",
-//         text: { text: "<img data-src='" + img + "'/>" },
-//         mine: false,
-//         name: "只盼流星不盼雨",
-//         img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-//     },
-//     {
-//         date: "2020/04/16 21:19:07",
-//         text: {
-//             text: "<video data-src='https://www.w3school.com.cn/i/movie.mp4' controls='controls' />",
-//         },
-//         mine: true,
-//         name: "JwChat",
-//         img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-//     },
-//     {
-//         date: "2021/03/02 13:14:21",
-//         mine: false,
-//         name: "留恋人间不羡仙",
-//         img: "https://img0.baidu.com/it/u=3066115177,3339701526&fm=26&fmt=auto&gp=0.jpg",
-//         text: {
-//             system: {
-//                 title: "在接入人工前，智能助手将为您首次应答。",
-//                 subtitle: "猜您想问:",
-//                 content: [
-//                     {
-//                         id: `system1`,
-//                         text: "组件如何使用",
-//                     },
-//                     {
-//                         id: `system2`,
-//                         text: "组件参数在哪里查看",
-//                     },
-//                     {
-//                         id: "system",
-//                         text: "我可不可把组件用在商业",
-//                     },
-//                 ],
-//             },
-//         },
-//     },
-// ]
-// const listData = []
-// function getListArr(roomID) {
-
-//     const listSize = listData.length
-//     if (!size) {
-//         size = listSize
-//     }
-//     // let result = listData
-//     let result = []
-//     for (let i = 0 i < size i++) {
-//         const item = listData[i]
-//         item.id = Math.random().toString(16).substr(-6)
-//         result.push(item)
-//     }
-//     return []
-// }
 export default {
     name: "mainChat",
     components: { dialogRole, dialogCreateRoom },
@@ -247,42 +141,6 @@ export default {
                         readNum: 0,
                         lock: true,
                     },
-                    // {
-                    //     id: "win00",
-                    //     img: "https://img1.baidu.com/it/u=2109725846,3376113789&fm=26&fmt=auto&gp=0.jpg",
-                    //     name: "JwChat",
-                    //     dept: "最简单、最便捷",
-                    //     readNum: 0,
-                    // },
-                    // {
-                    //     id: "win01",
-                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    //     name: "阳光明媚爱万物",
-                    //     dept: "沙拉黑油",
-                    //     readNum: 0,
-                    // },
-                    // {
-                    //     id: "win02",
-                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    //     name: "只盼流星不盼雨",
-                    //     dept: "最后说的话",
-                    //     readNum: 0,
-                    // },
-                    // {
-                    //     id: "win03",
-                    //     img: "https://img0.baidu.com/it/u=3066115177,3339701526&fm=26&fmt=auto&gp=0.jpg",
-                    //     name: "留恋人间不羡仙",
-                    //     dept: "这里可以放万物",
-                    //     readNum: 0,
-                    // },
-                    // {
-                    //     id: "win04",
-                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    //     name: "阳光明媚爱万物",
-                    //     dept: "官方客服",
-                    //     readNum: 0,
-                    // },
-
                 ],
                 callback: this.bindWinBar,
             },
@@ -292,32 +150,7 @@ export default {
                 // notice:
                 //     "【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。",
                 listTip: "当前在线",
-                list: [
-                    // {
-                    //     name: "JwChat",
-                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    //     id: 1,
-                    // },
-                    // {
-                    //     id: 2,
-                    //     name: "JwChat",
-                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    // },
-                    // {
-                    //     id: 3,
-                    //     name: "JwChat",
-                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    // },
-                    // {
-                    //     id: 4,
-                    //     name: "留恋人间不羡仙",
-                    //     img: "https://img0.baidu.com/it/u=3066115177,3339701526&fm=26&fmt=auto&gp=0.jpg",
-                    // },
-                    // {
-                    //     name: "只盼流星不盼雨",
-                    //     img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    // },
-                ],
+                list: [],
             },
             // 快捷回复配置
             talk: [
@@ -335,24 +168,6 @@ export default {
                 showHeader: true,
                 showDeleteBtn: true,
             },
-            rightConfig2: {
-                listTip: "当前在线",
-                //   notice: '【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。点个赞再走吧 ',
-                list: [
-                    {
-                        name: "JwChat",
-                        img: "https://img1.baidu.com/it/u=2109725846,3376113789&fm=26&fmt=auto&gp=0.jpg",
-                    },
-                    {
-                        name: "留恋人间不羡仙",
-                        img: "https://img1.baidu.com/it/u=31094377,222380373&fm=26&fmt=auto&gp=0.jpg",
-                    },
-                    {
-                        name: "只盼流星不盼雨",
-                        img: "https://img1.baidu.com/it/u=2109725846,3376113789&fm=26&fmt=auto&gp=0.jpg",
-                    },
-                ],
-            },
             websocketConfig: {
                 WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
                 onOpen: (event, roomName) => {
@@ -360,6 +175,7 @@ export default {
                     //打开后做一些事
                     if (roomName !== 'addRoom') {
                         this.AlltaleList[roomName] = []//一旦连接，就初始化其聊天记录为空数组，连接后，后端会自动send改room的每条聊天记录obj
+                        this.roomsOnline[roomName]=[]
                         const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
                         const url = avatar ? avatar.url : null
                         const msgObj = { ...this.roleObj, img: url }
@@ -429,15 +245,10 @@ export default {
                             const obj={...JSON.parse(objStr),name:nickname}
                             newRightList.push(obj)
                         }
-                        console.log(newRightList)
-                        console.log('活跃的是', this.winBarConfig.active)
-                        console.log('收到的是', roomName)
                         this.roomsOnline[roomName]=newRightList
-                        // if (roomName === this.winBarConfig.active) {
-                        //     this.rightConfig.list=newRightList
-                        // }
-                        // this.rightConfig.list=newRightList     
-                        // console.log('在线的用户',objList)
+                        if (roomName === this.winBarConfig.active) {
+                            this.rightConfig.list=newRightList
+                        }
                     }
                 },
                 onError: (event, roomName) => {
@@ -452,7 +263,6 @@ export default {
             this.initOneWS(value.id)
             this.winBarConfig.list.splice(3, 0, value)
             console.log("申请加入")
-            this.roomsOnline[value.id]=[]
             this.activeWinbar(value.id)
 
         },
@@ -465,7 +275,6 @@ export default {
             }))
             this.winBarConfig.list.splice(3, 0, newRoom)
             console.log("申请创建")
-            this.roomsOnline[newRoom.id]=[]
             ////
             const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
             const url = avatar ? avatar.url : null
@@ -566,7 +375,9 @@ export default {
         },
         // 点击聊天框列中的用户和昵称触发事件
         talkEvent(play) {
+            console.log(play)
             const { data, type } = play
+            console.log(type)
             if (type === 'systemItem') {
                 const roomID = data.id
                 const join_room = this.rooms.find(item => item.id == roomID)
@@ -581,6 +392,7 @@ export default {
                 // this.searchJoinRoom(join_room)
                 // console.log(data)
             }
+
         },
         sendDate() {
             // 对Date的扩展，将 Date 转化为指定格式的String  
@@ -767,8 +579,15 @@ export default {
                 center: true
             })
         },
+        beforeunloadFn(e) {
+            console.log('刷新或关闭')
+            // ...
+        }
     },
     props: ['avatars', 'roleObj'],
+    created() {
+        window.addEventListener('beforeunload', e => this.beforeunloadFn(e))
+    },
     mounted() {
         this.dialogRoleVisible = true
         // this.ws = []
@@ -777,6 +596,7 @@ export default {
         this.$emit('update-leftNav', 'chatNav')
     },
     destroyed() {
+        window.removeEventListener('beforeunload', e => this.beforeunloadFn(e))
         // this.closeAllWebsocket()
     },
 
