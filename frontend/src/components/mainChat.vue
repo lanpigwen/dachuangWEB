@@ -64,10 +64,10 @@ export default {
             AlltaleList: {},
             //所有房间的在线用户
             roomsOnline: {
-                'ChatLobby':[],
+                'ChatLobby': [],
             },
             //websocket
-            ws:[],
+            ws: [],
             // 工具栏配置
             tool: {
                 show: ['file', 'history', 'img', 'video', 'hongbao', 'more'],
@@ -134,6 +134,14 @@ export default {
                         add: true,
                     },
                     {
+                        id: "private_link",
+                        img: "static/img/link7.png",//link  link3
+                        name: "私聊请求",
+                        dept: "",
+                        readNum: 0,
+                        lock: true,
+                    },
+                    {
                         id: "ChatLobby",
                         img: "static/img/meeting2.png",
                         name: "大厅",
@@ -147,7 +155,7 @@ export default {
             // 窗口右边栏配置
             rightConfig: {
                 tip: "群公告",
-                
+
                 // notice:
                 //     "【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。",
                 listTip: "当前在线",
@@ -172,24 +180,26 @@ export default {
             websocketConfig: {
                 WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
                 onOpen: (event, roomName) => {
-                    console.log(`WebSocket is open now.------${roomName}`)
+                    console.log(`WebSocket is open now.---${roomName}`)
                     //打开后做一些事
                     if (roomName !== 'addRoom') {
                         this.AlltaleList[roomName] = []//一旦连接，就初始化其聊天记录为空数组，连接后，后端会自动send改room的每条聊天记录obj
-                        this.roomsOnline[roomName]=[]
+                        this.roomsOnline[roomName] = []
                         const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
                         const url = avatar ? avatar.url : null
                         const msgObj = { ...this.roleObj, img: url }
                         this.ws[roomName].send(JSON.stringify({
                             'type': 'p_join_room',
                             'message': msgObj,
-                }))                        
+                        }))
+                        // console.log("打开" + roomName + "后", this.roleObj)
+                        // console.log(this.roleObj.privateID)
                     }
                 },
                 onClose: (event, roomName) => {
-                    console.log(`WebSocket is closed now.------${roomName}`)
-                    const message="已经断开与 "+roomName+" 的连接"
-                    this.el_alert(message,'info')
+                    console.log(`WebSocket is closed now.---${roomName}`)
+                    const message = "已经断开与 " + roomName + " 的连接"
+                    this.el_alert(message, 'info')
                     // this.openMsgBox()
 
                 },
@@ -239,21 +249,32 @@ export default {
                         const content = this.rooms.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
                         const title = "点击加入房间"
                         this.robotSay('ChatLobby', title, content)
+
+                        //把roleObj的privateID设置一下
+                        const privateID = JSON.parse(data.message)['role_privateID']
+                        this.roleObj.privateID = privateID
+                        this.winBarConfig.list[2].id = privateID
+                        this.initOneWS(privateID)
+                        // console.log("收到ChatLobby_init后", this.roleObj)
                     }
                     else if (type === 'p_join_room') {
                         const objList = data.message
                         const newRightList = []
                         for (var objStr of objList) {
                             // console.log(objStr)
-                            const {nickname} = JSON.parse(objStr)
-                            const obj={...JSON.parse(objStr),name:nickname}
+                            const { nickname } = JSON.parse(objStr)
+                            const obj = { ...JSON.parse(objStr), name: nickname }
                             newRightList.push(obj)
                         }
-                        this.roomsOnline[roomName]=newRightList
+                        this.roomsOnline[roomName] = newRightList
                         if (roomName === this.winBarConfig.active) {
-                            this.rightConfig.list=newRightList
+                            this.rightConfig.list = newRightList
                         }
                     }
+                    // else if (type === 'my_private_id') {
+                    //     const private_id = JSON.parse(data.message)
+                    //     console.log('private id of '+roomName+' : ',private_id)
+                    // }
                 },
                 onError: (event, roomName) => {
                     console.log(`WebSocket Error.------${roomName}`)
@@ -299,10 +320,10 @@ export default {
                     },
                 },
             }
-            this.sendMsgObj('ChatLobby',msgObj)
+            this.sendMsgObj('ChatLobby', msgObj)
 
         },
-        sendMsgObj(roomID, msgObj,type='add_message') {
+        sendMsgObj(roomID, msgObj, type = 'add_message') {
             if (this.ws[roomID].readyState != 1) {
                 this.el_alert("已与服务器断开连接", 'error')
             }
@@ -347,7 +368,7 @@ export default {
                 this.winBarConfig.active = id
                 this.taleList = this.AlltaleList[id]
                 this.rightConfig.list = this.roomsOnline[id]
-                console.log("查看",this.roomsOnline[id])
+                console.log("查看", this.roomsOnline[id])
                 for (const room of this.winBarConfig.list) {
                     if (room.id == id) {
                         room.readNum = ''
@@ -373,7 +394,7 @@ export default {
                     //清空缓存的该room的聊天记录
                     this.AlltaleList[id] = []
                     this.activeWinbar('ChatLobby')
-                    this.roomsOnline[id]=[]
+                    this.roomsOnline[id] = []
                 }
             }
         },
@@ -449,7 +470,7 @@ export default {
                 this.ws[roomName].send(JSON.stringify({
                     'type': 'add_message',
                     'message': msgObj
-                }))                
+                }))
             }
         },
         bindGetMessage(roomName, msgObj) {
@@ -557,7 +578,7 @@ export default {
         initWebsocket() {
             for (const room of this.winBarConfig.list) {
                 const roomName = room.id
-                if (roomName != "ROLE") {
+                if (roomName != "ROLE" && roomName!='private_link') {
                     this.initOneWS(roomName)
                 }
             }
@@ -566,7 +587,7 @@ export default {
             var room
             for (room in this.winBarConfig.list) {
                 const id = this.winBarConfig.list[room].id
-                this.ws[id].close()
+                this.ws[id] && this.ws[id].close()
             }
         },
         handleMouseMove(event) {
@@ -580,28 +601,28 @@ export default {
             }
         },
         openMsgBox() {
-        this.$confirm('你已经断开连接, 是否重连?', '提示', {
-          confirmButtonText: '重连',
-          cancelButtonText: '取消',
-          type: 'warning'
-        }).then(() => {
-            for (const room of this.winBarConfig.list) {
-                this.initOneWS(room.id)
-            }
-            this.$message({
-                type: 'success',
-                message: '重连成功!',
-                center:true
+            this.$confirm('你已经断开连接, 是否重连?', '提示', {
+                confirmButtonText: '重连',
+                cancelButtonText: '取消',
+                type: 'warning'
+            }).then(() => {
+                for (const room of this.winBarConfig.list) {
+                    this.initOneWS(room.id)
+                }
+                this.$message({
+                    type: 'success',
+                    message: '重连成功!',
+                    center: true
+                });
+            }).catch(() => {
+                this.$message({
+                    type: 'error',
+                    message: '已与服务器断开连接！',
+                    center: true
+
+                });
             });
-        }).catch(() => {
-          this.$message({
-            type: 'error',
-              message: '已与服务器断开连接！',
-            center:true
-            
-          });          
-        });
-      },
+        },
         el_alert(message, type = 'success') {
             this.$message({
                 message: message,
@@ -609,9 +630,9 @@ export default {
                 center: true
             })
         },
-    beforeunloadFn(e) {
-        this.closeAllWebsocket()
-    }
+        beforeunloadFn(e) {
+            this.closeAllWebsocket()
+        }
     },
     props: ['avatars', 'roleObj'],
     created() {

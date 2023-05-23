@@ -13,9 +13,9 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 # messages = redis_conn.lrange('rooms', 0, -1)
 # print(messages)
 # # 获取所有匹配的键
-# keys = redis_conn.keys(f'Online:*')
-# for key in keys:
-#     redis_conn.delete(key)
+keys = redis_conn.keys(f'Online:*')
+for key in keys:
+    redis_conn.delete(key)
 
 # # 提取频道组名称
 # groups = [key.decode('utf-8').split(':')[-1] for key in keys]
@@ -33,6 +33,7 @@ class ChatConsumer(WebsocketConsumer):
         # 从url里获取聊天室名字，为每个房间建立一个频道组
         self.room_name = self.scope['url_route']['kwargs']['room_name']
         self.room_group_name = self.room_name
+        self.privateID=self.channel_name            #
         # 获取Redis Channel Layer
         self.channel_layer = get_channel_layer()
         # 将当前频道加入频道组
@@ -42,8 +43,7 @@ class ChatConsumer(WebsocketConsumer):
         )
         # 接受所有websocket请求
         self.accept()
-        #这里也要区分
-        #   ————————————————需要改成只向他自己发   初始化 room_history
+
         if self.room_group_name=='addRoom':
             messages = redis_conn.lrange('rooms', 0, -1)
             messages = [message.decode('utf-8') for message in messages][::-1]
@@ -74,11 +74,14 @@ class ChatConsumer(WebsocketConsumer):
                     }
                 )
             if self.room_group_name=='ChatLobby':
+                self.privateID=str(self.channel_name).split('!')[1]
+                message={'role_privateID':self.privateID}
+                message=json.dumps(message)
                 async_to_sync(self.channel_layer.send)(
                     self.channel_name,
                     {
                         'type': 'send_message',
-                        'message': '为啥',
+                        'message': message,
                         'realtype':'ChatLobby_init'
                     }
                 )
@@ -99,10 +102,9 @@ class ChatConsumer(WebsocketConsumer):
             self.room_group_name,
             self.channel_name
         )
-        redis_conn.hdel(f'Online:{self.room_group_name}',self.channel_name)
 
+        # redis_conn.hdel(f'Online:{self.room_group_name}',self.privateID)
         all_online=redis_conn.hgetall(f'Online:{self.room_group_name}')
-
         result = []
         for key, value in all_online.items():
             value = value.decode('utf-8')  # 将字节解码为字符串
@@ -110,6 +112,18 @@ class ChatConsumer(WebsocketConsumer):
             value_dict['id'] = key.decode('utf-8')  # 添加 id 属性
             result.append(json.dumps(value_dict))  # 转换为字符串流
         message=result
+        print(self.room_group_name,"有人退出前",message)
+        print(self.room_group_name,"有人退出时 他的privateID",self.privateID)
+
+        redis_conn.hdel(f'Online:{self.room_group_name}',self.privateID)
+        all_online=redis_conn.hgetall(f'Online:{self.room_group_name}')
+        result = []
+        for key, value in all_online.items():
+            value = value.decode('utf-8')  # 将字节解码为字符串
+            value_dict = json.loads(value)  # 解析为字典
+            value_dict['id'] = key.decode('utf-8')  # 添加 id 属性
+            result.append(json.dumps(value_dict))  # 转换为字符串流
+        message=result        
         print(self.room_group_name,"有人退出后",message)
         # print(self.room_group_name,all_online)
         async_to_sync(self.channel_layer.group_send)(
@@ -127,7 +141,6 @@ class ChatConsumer(WebsocketConsumer):
     def receive(self, text_data):
         # 获取当前用户的channel_name
         sender_channel_name = self.channel_name
-        # redis_conn.lpush(f'messages:{self.room_group_name}', message)
         # 获取Redis Channel Layer
         self.channel_layer = get_channel_layer()
         #如果是addRoom频道组 则是收到了前端 有人新建了房间 ，
@@ -179,14 +192,16 @@ class ChatConsumer(WebsocketConsumer):
             print('收到历史要求',start,end,his_len)
         #更新在线人数   
         elif text_data_json['type']=='p_join_room':
-            message=json.dumps(text_data_json['message'])
+            # message=json.dumps(text_data_json['message'])
             #还得加入在线
-            # print("谁加入",self.room_group_name,message)
-            redis_conn.hset(f'Online:{self.room_group_name}', self.channel_name , message)
+            if text_data_json['message'].get('privateID')!=None:
+                self.privateID=text_data_json['message'].get('privateID')
+                
+            text_data_json['message']['privateID']=self.privateID
+            message=json.dumps(text_data_json['message'])
 
+            redis_conn.hset(f'Online:{self.room_group_name}', self.privateID , message)        
             all_online=redis_conn.hgetall(f'Online:{self.room_group_name}')
-
-
             result = []
             for key, value in all_online.items():
                 value = value.decode('utf-8')  # 将字节解码为字符串
