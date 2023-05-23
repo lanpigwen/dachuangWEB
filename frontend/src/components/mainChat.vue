@@ -252,7 +252,7 @@ export default {
 
                         //把roleObj的privateID设置一下
                         const privateID = JSON.parse(data.message)['role_privateID']
-                        this.roleObj.privateID = privateID
+                        this.roleObj.id = privateID
                         this.winBarConfig.list[2].id = privateID
                         this.initOneWS(privateID)
                         // console.log("收到ChatLobby_init后", this.roleObj)
@@ -286,7 +286,7 @@ export default {
         searchJoinRoom(value) {
             //search
             this.initOneWS(value.id)
-            this.winBarConfig.list.splice(3, 0, value)
+            this.winBarConfig.list.splice(4, 0, value)
             console.log("申请加入")
             this.activeWinbar(value.id)
 
@@ -298,7 +298,7 @@ export default {
                 'type': 'add_room',
                 'message': newRoom
             }))
-            this.winBarConfig.list.splice(3, 0, newRoom)
+            this.winBarConfig.list.splice(4, 0, newRoom)
             console.log("申请创建")
             ////
             const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
@@ -400,15 +400,23 @@ export default {
         },
         // 点击聊天框列中的用户和昵称触发事件
         talkEvent(play) {
-            console.log(play)
+            // console.log(play)
             const { data, type } = play
-            console.log(type)
+            // console.log(type)
             if (type === 'systemItem') {
+                //再分一次情况，是不是私人，私人就不用查找 join_room
+
                 const roomID = data.id
+                console.log("aaaaaaaa", data.id)
+                console.log("bbbbbbbb", data)
                 const join_room = this.rooms.find(item => item.id == roomID)
                 const winbarroom = this.winBarConfig.list.find(item => item.id == roomID)
                 if (winbarroom === undefined) {
-                    this.searchJoinRoom(join_room)
+                    if (data.type && data.type === 'private') {
+                        this.searchJoinRoom(data)
+                    } else {
+                        this.searchJoinRoom(join_room)
+                    }
                 }
                 else {
                     this.el_alert("你已经在该房间内！", 'warning')
@@ -560,6 +568,14 @@ export default {
         },
         rightClick(type) {
             console.log("rigth", type)
+            if (type.value.id === this.roleObj.id) {
+                console.log('点击了自己的头像')
+            }
+            else {
+                this.openPrivateChat(type.value)
+            }
+            // this.openPrivateChat(type.value)
+
         },
         initOneWS(roomName) {
             const WS_BASE_URL = this.websocketConfig.WS_BASE_URL
@@ -578,7 +594,7 @@ export default {
         initWebsocket() {
             for (const room of this.winBarConfig.list) {
                 const roomName = room.id
-                if (roomName != "ROLE" && roomName!='private_link') {
+                if (roomName != "ROLE" && roomName != 'private_link') {
                     this.initOneWS(roomName)
                 }
             }
@@ -599,6 +615,57 @@ export default {
                     break
                 }
             }
+        },
+        openPrivateChat(value) {
+            this.$confirm('向 ' + value.name + ' 发起私聊请求?', '提示', {
+                confirmButtonText: '发送',
+                cancelButtonText: '取消',
+                type: 'warning'
+            }).then(() => {
+                const private_chat_id = this.roleObj.id + 'private' + value.id
+                this.initOneWS(private_chat_id)
+                const private_chat = {
+                    id: private_chat_id,
+                    name: value.name,
+                    img: value.img,
+                    dept: "",
+                    readNum: 0,
+                }
+                // this.winBarConfig.list.splice(4, 0, private_chat)
+                const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
+                const url = avatar ? avatar.url : null
+
+                const { id, name, dept } = private_chat
+                const content = [{ id, text: name, dept, type: 'private',name:this.roleObj.nickname,img:url}]
+                const title = "向你发起私人聊天请求"
+                const subtitle = '点击进入聊天'
+
+                const msgObj = {
+                    date: this.sendDate(),
+                    mine: true,
+                    name: this.roleObj.nickname,
+                    img: url,
+                    text: {
+                        system: {
+                            title: title,
+                            subtitle: subtitle,
+                            content: content,
+                        },
+                    },
+                }
+
+                const type = 'private_2'
+                this.winBarConfig.list.splice(4, 0, private_chat)
+                this.ws['ChatLobby'].send(JSON.stringify({
+                    'type': type,
+                    'message': msgObj,
+                    'receiver': value.id,
+                }))
+                // console.log(msgObj)
+
+            }).catch(() => {
+
+            });
         },
         openMsgBox() {
             this.$confirm('你已经断开连接, 是否重连?', '提示', {

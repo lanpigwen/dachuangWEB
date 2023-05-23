@@ -16,6 +16,7 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 keys = redis_conn.keys(f'Online:*')
 for key in keys:
     redis_conn.delete(key)
+    
 
 # # 提取频道组名称
 # groups = [key.decode('utf-8').split(':')[-1] for key in keys]
@@ -194,10 +195,10 @@ class ChatConsumer(WebsocketConsumer):
         elif text_data_json['type']=='p_join_room':
             # message=json.dumps(text_data_json['message'])
             #还得加入在线
-            if text_data_json['message'].get('privateID')!=None:
-                self.privateID=text_data_json['message'].get('privateID')
-                
-            text_data_json['message']['privateID']=self.privateID
+            if text_data_json['message'].get('id')!=None:
+                self.privateID=text_data_json['message'].get('id')
+
+            # text_data_json['message']['privateID']=self.privateID
             message=json.dumps(text_data_json['message'])
 
             redis_conn.hset(f'Online:{self.room_group_name}', self.privateID , message)        
@@ -216,7 +217,22 @@ class ChatConsumer(WebsocketConsumer):
                     'message': message,
                     'realtype':'p_join_room'
                 }
-            )                
+            )
+        elif text_data_json['type']=='private_2':
+            # print(text_data_json)
+            text_data_json['message']['mine']=False
+            receiver=text_data_json['receiver']
+            # realgroup=str(self.room_group_name).split('!')[0]+receiver
+            message=json.dumps(text_data_json['message'])
+            async_to_sync(self.channel_layer.group_send)(
+                receiver,
+                {
+                    'type': 'send_message',
+                    'message': message,
+                    'realtype':'other_chat_message'
+                }
+            )            
+
         #正常单个聊天数据 
         else:
             text_data_json['message']['mine']=False
