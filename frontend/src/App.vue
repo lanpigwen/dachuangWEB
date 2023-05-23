@@ -17,7 +17,7 @@
 import webHeader from "@/components/webHeader.vue"
 import leftNav from "./components/leftNav.vue"
 import mainChat from "./components/mainChat.vue"
-// import RoleSet from "./components/roleSet.vue"
+
 export default {
   name: 'app',
 
@@ -25,21 +25,15 @@ export default {
     webHeader,
     leftNav,
     mainChat,
-    // RoleSet,
-
   },
   methods: {
     updateLeftNav(navID) {
       this.$refs.leftNavRef.$refs[navID].$el.dispatchEvent(new Event('click'))
       const navLink = navID + 'Link'
       this.$refs.leftNavRef.$refs[navLink].$el.dispatchEvent(new Event('click'))
-      // this.$refs.leftNavRef.$refs.chatNav.$el.dispatchEvent(new Event('click'))
     }
 
   },
-  mounted() {
-    // console.log(this.roleObj)
-  }
 }
 </script>
 
