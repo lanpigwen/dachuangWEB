@@ -16,7 +16,9 @@ redis_conn = redis.Redis(host='localhost', port=6379)
 keys = redis_conn.keys(f'Online:*')
 for key in keys:
     redis_conn.delete(key)
-    
+
+#messagesHistory:*
+#rooms
 
 
 # # 提取频道组名称
@@ -148,6 +150,7 @@ class ChatConsumer(WebsocketConsumer):
         #如果是addRoom频道组 则是收到了前端 有人新建了房间 ，
         text_data_json = json.loads(text_data)
         if text_data_json['type']=='add_room':
+            # if text_data_json['roomType']=='public':
             message = json.dumps(text_data_json['message'])
             #房间细节存进reids
             redis_conn.lpush(f'rooms', message)

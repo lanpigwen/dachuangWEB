@@ -1,6 +1,6 @@
 <template>
     <div class="dialog">
-        <el-dialog title="用户设置" :visible="dialogRoleVisible" :show-close="false">
+        <el-dialog title="用户设置" :visible="dialogRoleVisible" :show-close="false" top="0vh">
             <div class="roleSet">
                 <el-form ref="userForm" :model="user" :rules="rules" label-width="100px">
                     <el-form-item label="头像">
@@ -15,10 +15,12 @@
                         <el-input v-model="user.nickname"></el-input>
                     </el-form-item>
                     <el-form-item label="性别">
-                        <el-radio-group v-model="user.gender">
+                        <!-- <el-radio-group v-model="user.gender">
                             <el-radio class="gen" label="male">男</el-radio>
                             <el-radio class="gen" label="female">女</el-radio>
-                        </el-radio-group>
+                        </el-radio-group> -->
+                        <el-radio v-model="user.gender" label="male" border size="medium">男性</el-radio>
+                        <el-radio v-model="user.gender" label="female" border size="medium">女性</el-radio>
                     </el-form-item>
                 </el-form>
             </div>
@@ -67,6 +69,7 @@ export default {
     props: ['dialogRoleVisible', 'avatars', 'roleObj',],
     data() {
         return {
+            
             user: { ...this.roleObj },
             rules: {
                 nickname: [{ required: true, message: '请输入昵称', trigger: 'blur' },]
@@ -122,6 +125,10 @@ export default {
         },
 
     },
+    mounted() {
+        // this.user.avatar = Math.floor(Math.random() * 20) + 1
+        // alert(this.user.avatar)
+    }
 }
 </script>
   

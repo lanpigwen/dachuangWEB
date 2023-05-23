@@ -17,6 +17,11 @@
                     <span slot="label"><i class="el-icon-circle-plus"></i> 创建房间</span>
                     <el-form ref="Createform" :model="formCreateRoom" label-width="80px" label-position="left"
                         :rules="rules">
+
+                        <div style="margin-top: 20px;margin-bottom: 20px">
+                            <el-radio v-model="formCreateRoom.roomType" label="public" border size="medium">公开房间</el-radio>
+                            <el-radio v-model="formCreateRoom.roomType" label="private" border size="medium">私密房间</el-radio>
+                        </div>
                         <el-form-item label="房间号" prop="id">
                             <el-input v-model="formCreateRoom.id"></el-input>
                         </el-form-item>

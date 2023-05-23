@@ -55,20 +55,35 @@ export default {
     data() {
         return {
             roleObj: {
-                avatar: '1',
-                nickname: '用户名',
-                gender: 'male',
-                img: 'static/img/1.png',
+                avatar: String(Math.floor(Math.random() * 20) + 1),
+                nickname: ['炫酷忍者', '热情的火焰', '加练的阿杰', '快乐小丸子', '爱吃鱼的强哥',
+                    '老莫爱吃鱼', '喜欢蛋炒饭', '火锅杀手', '只爱珍珠奶茶', '喜欢睡懒觉'][Math.floor(Math.random() * 10)],
+                gender: ['male', 'female'][Math.floor(Math.random() * 2)],
+                img: 'static/img/avatart/male1.png',
             },
+            // roleObj:{},
             avatars: [
-                { value: '1', url: 'static/img/1.png' },
-                { value: '2', url: 'static/img/2.png' },
-                { value: '3', url: 'static/img/3.png' },
-                { value: '4', url: 'static/img/4.png' },
-                { value: '5', url: 'static/img/5.png' },
-                { value: '6', url: 'static/img/6.png' },
-                { value: '7', url: 'static/img/7.png' },
-                { value: '8', url: 'static/img/8.png' },
+                { value: '1', url: 'static/img/avatart/male1.png' },
+                { value: '2', url: 'static/img/avatart/male2.png' },
+                { value: '3', url: 'static/img/avatart/male3.png' },
+                { value: '4', url: 'static/img/avatart/male4.png' },
+                { value: '5', url: 'static/img/avatart/male5.png' },
+                { value: '6', url: 'static/img/avatart/male6.png' },
+                { value: '7', url: 'static/img/avatart/male7.png' },
+                { value: '8', url: 'static/img/avatart/male8.png' },
+                { value: '9', url: 'static/img/avatart/male9.png' },
+                { value: '10', url: 'static/img/avatart/male10.png' },
+
+                { value: '11', url: 'static/img/avatart/female1.png' },
+                { value: '12', url: 'static/img/avatart/female2.png' },
+                { value: '13', url: 'static/img/avatart/female3.png' },
+                { value: '14', url: 'static/img/avatart/female4.png' },
+                { value: '15', url: 'static/img/avatart/female5.png' },
+                { value: '16', url: 'static/img/avatart/female6.png' },
+                { value: '17', url: 'static/img/avatart/female7.png' },
+                { value: '18', url: 'static/img/avatart/female8.png' },
+                { value: '19', url: 'static/img/avatart/female9.png' },
+                { value: '20', url: 'static/img/avatart/female10.png' },
 
             ],
             roleSetFirst: true,
@@ -265,7 +280,13 @@ export default {
                         this.el_alert(what_happen, 'warning')
                     }
                     else if (type === 'ChatLobby_init') {
-                        const content = this.rooms.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
+                        const rooms = this.rooms
+                        const roomsPublic = rooms.reduce((p, i) => {
+                            if (i.roomType === 'public') p.push(i);
+                            return p;
+                        }, [])
+                        const content = roomsPublic.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
+                        //以上是为了避免把私密房间发到大厅里面
                         const title = "点击加入房间"
                         this.robotSay('ChatLobby', title, content)
 
@@ -316,19 +337,19 @@ export default {
         },
         searchCreateRoom(value) {
             const newRoom = { ...value }
+            const { id, name, dept, roomType = 'public' } = newRoom
             this.initOneWS(newRoom.id)
             this.ws['addRoom'].send(JSON.stringify({
                 'type': 'add_room',
-                'message': newRoom
+                'message': newRoom,
+                'roomType': roomType
             }))
             this.winBarConfig.list.splice(4, 0, newRoom)
 
-            const url = this.myavartor()
-
-            const { id, name, dept } = newRoom
+            // const { id, name, dept,roomType='public' } = newRoom
             const content = [{ id, text: name, dept }]
             const title = "我新建了一个房间"
-
+            const subtitle = dept
             const msgObj = {
                 date: this.sendDate(),
                 mine: true,
@@ -337,11 +358,16 @@ export default {
                 text: {
                     system: {
                         title: title,
+                        subtitle: subtitle,
                         content: content,
                     },
                 },
             }
-            this.sendMsgObj('ChatLobby', msgObj)
+            //添加 如果是公开房，就发送
+            if (roomType === 'public') {
+                this.sendMsgObj('ChatLobby', msgObj)
+            }
+            // this.sendMsgObj('ChatLobby', msgObj)
 
         },
         sendMsgObj(roomID, msgObj, type = 'add_message') {
@@ -376,9 +402,9 @@ export default {
         },
         activeWinbar(idToFind) {
             const data = this.winBarConfig.list.find(item => item.id === idToFind)
-            const { id, dept, realdept = ' ',roomType='public', name, img, add = false, role = false } = data
+            const { id, dept, realdept = ' ', roomType = 'public', name, img, add = false, role = false } = data
             const onlineNum = this.roomsOnline[id] ? this.roomsOnline[id].length : 0
-            this.config = { ...this.config, roomType,id, dept: realdept, name: name + '(' + onlineNum + ')', img }
+            this.config = { ...this.config, roomType, id, dept: realdept, name: name + '(' + onlineNum + ')', img }
             this.winBarConfig.active = id
             this.taleList = this.AlltaleList[id]
             this.rightConfig.list = this.roomsOnline[id]
@@ -388,9 +414,9 @@ export default {
             const { type, data = {} } = play
             console.log(play)
             if (type === "winBar") {
-                const { id, dept, realdept = ' ', name, img, roomType='public',add = false, role = false } = data
+                const { id, dept, realdept = ' ', name, img, roomType = 'public', add = false, role = false } = data
                 const onlineNum = this.roomsOnline[id] ? this.roomsOnline[id].length : 0
-                this.config = { ...this.config, id, roomType,dept: realdept, name: name + '(' + onlineNum + ')', img }
+                this.config = { ...this.config, id, roomType, dept: realdept, name: name + '(' + onlineNum + ')', img }
                 this.winBarConfig.active = id
                 this.taleList = this.AlltaleList[id]
                 this.rightConfig.list = this.roomsOnline[id]
@@ -610,22 +636,26 @@ export default {
             //展示room信息
             console.log("header", event)
             if (event.value.id == 'ChatLobby') {
-                const content = this.rooms.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
-                console.log(content)
+                const rooms = this.rooms
+                const roomsPublic = rooms.reduce((p, i) => {
+                    if (i.roomType === 'public') p.push(i);
+                    return p;
+                }, [])
+                const content = roomsPublic.map(({ id: id, name: text, dept: dept }) => ({ id, text, dept }))
                 const title = "点击加入房间"
                 this.robotSay('ChatLobby', title, content)
-                console.log("rooms=", this.rooms)
+                // console.log("rooms=", this.rooms)
             }
             else {
                 //显示房间信息
                 console.log(event.value)
                 if (event.value.roomType !== 'private-2') {
                     this.$message({
-                    showClose: true,
-                    dangerouslyUseHTMLString: true,
-                    // duration:0,
-                    message: '<h3>'+"房间ID: "+event.value.id+'</h3>'+'<h4>房间简介：'+event.value.realdept+'</h4>'
-                }); 
+                        showClose: true,
+                        dangerouslyUseHTMLString: true,
+                        // duration:0,
+                        message: '<h3>' + "房间ID: " + event.value.id + '</h3>' + '<h4>房间简介：' + event.value.realdept + '</h4>'
+                    });
                 }
             }
         },
@@ -696,8 +726,8 @@ export default {
                     roomType: 'private-2'
                 }
 
-                const { id, name, dept,roomType } = private_chat
-                const content = [{ type: 'private', id, text: name, dept, name: this.roleObj.nickname, img: this.roleObj.img,roomType }]
+                const { id, name, dept, roomType } = private_chat
+                const content = [{ type: 'private', id, text: name, dept, name: this.roleObj.nickname, img: this.roleObj.img, roomType }]
                 const title = "向你发起私人聊天请求"
                 const subtitle = '点击进入聊天'
 
@@ -775,6 +805,15 @@ export default {
         window.addEventListener('beforeunload', e => this.beforeunloadFn(e))
     },
     mounted() {
+        // this.dialogRoleVisible = true
+        // this.roleObj.avatar = Math.floor(Math.random() * 20) + 1
+        // const randomAvatar = Math.floor(Math.random() * 20) + 1;
+        // this.roleObj = {
+        // avatar: String(randomAvatar),
+        // nickname: '用户名',
+        // gender: 'male',
+        // img: `static/img/avatart/male${randomAvatar}.png`
+        // };
         this.dialogRoleVisible = true
     },
     destroyed() {
