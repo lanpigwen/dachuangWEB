@@ -103,7 +103,8 @@ export default {
             ws: [],
             // 工具栏配置
             tool: {
-                show: ['file', 'history', 'img', 'video', 'hongbao', 'more'],
+                // show: ['file', 'history', 'img', 'video', 'hongbao', 'more'],
+                show:[],
                 showEmoji: true,
                 callback: this.toolEvent,
             },
