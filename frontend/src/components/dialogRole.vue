@@ -15,10 +15,6 @@
                         <el-input v-model="user.nickname"></el-input>
                     </el-form-item>
                     <el-form-item label="性别">
-                        <!-- <el-radio-group v-model="user.gender">
-                            <el-radio class="gen" label="male">男</el-radio>
-                            <el-radio class="gen" label="female">女</el-radio>
-                        </el-radio-group> -->
                         <el-radio v-model="user.gender" label="male" border size="medium">男性</el-radio>
                         <el-radio v-model="user.gender" label="female" border size="medium">女性</el-radio>
                     </el-form-item>
@@ -125,10 +121,6 @@ export default {
         },
 
     },
-    mounted() {
-        // this.user.avatar = Math.floor(Math.random() * 20) + 1
-        // alert(this.user.avatar)
-    }
 }
 </script>
   
