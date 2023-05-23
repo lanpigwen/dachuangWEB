@@ -18,6 +18,7 @@ for key in keys:
     redis_conn.delete(key)
     
 
+
 # # 提取频道组名称
 # groups = [key.decode('utf-8').split(':')[-1] for key in keys]
 

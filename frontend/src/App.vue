@@ -6,9 +6,6 @@
     <el-aside width="200px"><leftNav ref="leftNavRef"></leftNav></el-aside>
     <el-main>
       <router-view 
-        :roleObj="roleObj" 
-        @update-roleObj="updateRoleObj"
-        :avatars="avatars"
         @update-leftNav="updateLeftNav" ></router-view>
     </el-main>
   </el-container>
@@ -23,27 +20,7 @@ import mainChat from "./components/mainChat.vue"
 // import RoleSet from "./components/roleSet.vue"
 export default {
   name: 'app',
-  data() {
-    return {
-      roleObj: {
-        avatar: '1',
-        nickname: '用户名',
-        gender: 'male'
-      },
-      //以后可以改成 app里有一个roleObj,其他子组件的都是他传进去的，
-      avatars: [
-            { value: '1', url: 'static/img/1.png' },
-            { value: '2', url: 'static/img/2.png' },
-            { value: '3', url: 'static/img/3.png' },
-            { value: '4', url: 'static/img/4.png' },
-            { value: '5', url: 'static/img/5.png' },
-            { value: '6', url: 'static/img/6.png' },
-            { value: '7', url: 'static/img/7.png' },
-            { value: '8', url: 'static/img/8.png' },
-      
-    ]
-    }
-  },
+
   components: {
     webHeader,
     leftNav,
@@ -52,12 +29,11 @@ export default {
 
   },
   methods: {
-    updateRoleObj(newObj) {
-      this.roleObj = newObj
-    },
     updateLeftNav(navID) {
-      this.$refs.leftNavRef.$refs.chatNav.$el.dispatchEvent(new Event('click'))
-
+      this.$refs.leftNavRef.$refs[navID].$el.dispatchEvent(new Event('click'))
+      const navLink = navID + 'Link'
+      this.$refs.leftNavRef.$refs[navLink].$el.dispatchEvent(new Event('click'))
+      // this.$refs.leftNavRef.$refs.chatNav.$el.dispatchEvent(new Event('click'))
     }
 
   },

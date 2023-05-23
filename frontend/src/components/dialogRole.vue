@@ -1,6 +1,6 @@
 <template>
     <div class="dialog">
-        <el-dialog title="用户设置" :visible="dialogRoleVisible" @close="toggleDialog">
+        <el-dialog title="用户设置" :visible="dialogRoleVisible" :show-close="false">
             <div class="roleSet">
                 <el-form ref="userForm" :model="user" :rules="rules" label-width="100px">
                     <el-form-item label="头像">
@@ -23,7 +23,7 @@
                 </el-form>
             </div>
             <div slot="footer" class="dialog-footer">
-                <el-button @click="toggleDialog">取 消</el-button>
+                <el-button @click="openMsgBox">取 消</el-button>
                 <el-button type="primary" @click="submitForm">确 定</el-button>
             </div>
         </el-dialog>
@@ -74,18 +74,36 @@ export default {
         }
     },
     methods: {
-        toggleDialog() {
-            this.user = { ...this.roleObj }
-            this.$emit('update:dialogRoleVisible', false)
-            this.$emit('update-activeBar', "ChatLobby")
-            //弹一个修改成功
+        openMsgBox() {
+            this.$confirm('请设置用户信息！', '提示', {
+                confirmButtonText: '重新设置',
+                cancelButtonText: '返回首页',
+                type: 'warning',
+                showClose: false,
+                closeOnClickModal: false,
+                closeOnPressEscape:false,
+            }).then(() => {
+
+            }).catch(() => {
+                this.$emit('cancelRoleSet')
+                this.user = { ...this.roleObj }
+                this.$emit('update:dialogRoleVisible', false)
+                this.$emit('update-activeBar', "ChatLobby")
+            });
         },
         submitForm() {
             this.$refs.userForm.validate(valid => {
                 if (valid) {
                     // 提交表单逻辑，例如发送到服务器
+                    const avatar = this.avatars.find(item => item.value === this.user.avatar)
+                    const url = avatar ? avatar.url : null
+                    this.user.img = url
+
                     this.$emit('update-roleObj', this.user)
-                    this.toggleDialog()
+                    this.$emit('afterRoleSet')
+
+                    this.$emit('update:dialogRoleVisible', false)
+                    this.$emit('update-activeBar', "ChatLobby")
                     this.el_alert('保存成功！')
                 }
                 else {

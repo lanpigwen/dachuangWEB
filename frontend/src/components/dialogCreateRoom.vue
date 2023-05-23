@@ -51,7 +51,9 @@ export default {
                 img: "static/img/workshop.png",
                 name: '',
                 dept: '',
+                realdept:'',
                 readNum: 0,
+                roomType:'public'
             },
             rules: {
                 findID: [{ required: true, message: '请输入房号', trigger: 'blur' },
@@ -129,6 +131,7 @@ export default {
 
                 if (valid) {
                     // 表单验证通过，执行提交操作
+                    this.formCreateRoom.realdept=this.formCreateRoom.dept
                     this.$emit('create-room', this.formCreateRoom)
                     this.$emit('update:dialogRoomVisible', false)
                     this.outBar = this.formCreateRoom.id

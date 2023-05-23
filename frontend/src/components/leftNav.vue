@@ -2,11 +2,11 @@
     <el-row class="tac" >
   <el-col :span="24">
     <el-menu
-      default-active="3"
+      default-active="2"
       class="el-menu-vertical-demo"
       @open="handleOpen"
       @close="handleClose">
-      <el-submenu index="1">
+      <!-- <el-submenu index="1">
         <template slot="title">
           <i class="el-icon-location"></i>
           <span>导航一</span>
@@ -23,14 +23,14 @@
           <template slot="title">选项4</template>
           <el-menu-item index="1-4-1">选项1</el-menu-item>
         </el-submenu>
-      </el-submenu>
-      <router-link to="" class="link">
-      <el-menu-item index="2" >
+      </el-submenu> -->
+      <router-link to="/hello" class="link" ref="roleNavLink">
+      <el-menu-item index="2" ref="roleNav">
         <i class="el-icon-user-solid"></i>
-        <span slot="title">角色设定</span>
+        <span slot="title">首页</span>
       </el-menu-item>
     </router-link>
-    <router-link to="/chatroom" class="link" id="chatNav6">
+    <router-link to="/chatroom" class="link" ref="chatNavLink">
       <el-menu-item index="3" id="chatNav" ref="chatNav">
         <i class="el-icon-s-comment"></i>
         <span slot="title">聊天界面</span>

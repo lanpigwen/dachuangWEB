@@ -1,7 +1,8 @@
 <template>
     <div class="jwchat" ref="jw">
         <dialogRole :dialogRoleVisible="dialogRoleVisible" @update:dialogRoleVisible="updatedialogRoleVisible"
-            :roleObj="roleObj" @update-roleObj="updateRoleObj" @update-activeBar="activeWinbar" :avatars="avatars">
+            :roleObj="roleObj" @update-roleObj="updateRoleObj" @update-activeBar="activeWinbar" :avatars="avatars"
+            @afterRoleSet="afterRoleSet" @cancelRoleSet="cancelRoleSet">
         </dialogRole>
 
         <dialogCreateRoom :dialogRoomVisible="dialogRoomVisible" @update:dialogRoomVisible="updatedialogRoomVisible"
@@ -53,6 +54,23 @@ export default {
     components: { dialogRole, dialogCreateRoom },
     data() {
         return {
+            roleObj: {
+                avatar: '1',
+                nickname: '用户名',
+                gender: 'male',
+                img: 'static/img/1.png',
+            },
+            avatars: [
+                { value: '1', url: 'static/img/1.png' },
+                { value: '2', url: 'static/img/2.png' },
+                { value: '3', url: 'static/img/3.png' },
+                { value: '4', url: 'static/img/4.png' },
+                { value: '5', url: 'static/img/5.png' },
+                { value: '6', url: 'static/img/6.png' },
+                { value: '7', url: 'static/img/7.png' },
+                { value: '8', url: 'static/img/8.png' },
+
+            ],
             roleSetFirst: true,
             //数据库内所有的的房间 obj
             rooms: [],
@@ -90,22 +108,22 @@ export default {
                 },
                 // 自动匹配快捷回复
                 quickList: [
-                    { text: "这里是jwchat，您想了解什么问题。", id: 3 },
-                    { text: "jwchat是最好的聊天组件", id: 4 },
-                    { text: "谁将烟焚散，散了纵横的牵绊；听弦断，断那三千痴缠。", id: 5 },
-                    { text: "长夏逝去。山野间的初秋悄然涉足。", id: 6 },
-                    { text: "江南风骨，天水成碧，天教心愿与身违。", id: 7 },
-                    { text: "总在不经意的年生。回首彼岸。纵然发现光景绵长。", id: 8 },
-                    { text: "外面的烟花奋力的燃着，屋里的人激情的说着情话", id: 10 },
-                    { text: "假如你是云，我就是雨，一生相伴，风风雨雨；", id: 11 },
-                    {
-                        text: "即使泪水在眼中打转，我依旧可以笑的很美，这是你学不来的坚强。",
-                        id: 12,
-                    },
-                    {
-                        text: " 因为不知来生来世会不会遇到你，所以今生今世我会加倍爱你。",
-                        id: 13,
-                    },
+                    // { text: "这里是jwchat，您想了解什么问题。", id: 3 },
+                    // { text: "jwchat是最好的聊天组件", id: 4 },
+                    // { text: "谁将烟焚散，散了纵横的牵绊；听弦断，断那三千痴缠。", id: 5 },
+                    // { text: "长夏逝去。山野间的初秋悄然涉足。", id: 6 },
+                    // { text: "江南风骨，天水成碧，天教心愿与身违。", id: 7 },
+                    // { text: "总在不经意的年生。回首彼岸。纵然发现光景绵长。", id: 8 },
+                    // { text: "外面的烟花奋力的燃着，屋里的人激情的说着情话", id: 10 },
+                    // { text: "假如你是云，我就是雨，一生相伴，风风雨雨；", id: 11 },
+                    // {
+                    //     text: "即使泪水在眼中打转，我依旧可以笑的很美，这是你学不来的坚强。",
+                    //     id: 12,
+                    // },
+                    // {
+                    //     text: " 因为不知来生来世会不会遇到你，所以今生今世我会加倍爱你。",
+                    //     id: 13,
+                    // },
                 ],
             },
             // 多窗口配置
@@ -138,6 +156,7 @@ export default {
                         img: "static/img/link7.png",//link  link3
                         name: "私聊请求",
                         dept: "",
+                        realdept: '',
                         readNum: 0,
                         lock: true,
                     },
@@ -145,7 +164,9 @@ export default {
                         id: "ChatLobby",
                         img: "static/img/meeting2.png",
                         name: "大厅",
-                        dept: "查看在线的聊天室",
+                        realdept: "查看在线的聊天室",
+                        dept: '',
+                        roomType: 'public',
                         readNum: 0,
                         lock: true,
                     },
@@ -154,7 +175,7 @@ export default {
             },
             // 窗口右边栏配置
             rightConfig: {
-                tip: "群公告",
+                tip: "",
 
                 // notice:
                 //     "【公告】这是一款高度自由的聊天组件，基于AVue、Vue、Element-ui开发。",
@@ -163,12 +184,12 @@ export default {
             },
             // 快捷回复配置
             talk: [
-                "快捷回复1",
-                "快捷回复2",
-                "快捷回复3",
-                "快捷回复4",
-                "快捷回复5",
-                "快捷回复6",
+                // "快捷回复1",
+                // "快捷回复2",
+                // "快捷回复3",
+                // "快捷回复4",
+                // "快捷回复5",
+                // "快捷回复6",
             ],
             quickConfig: {
                 nav: ["快捷回复", "超级回复"],
@@ -185,15 +206,13 @@ export default {
                     if (roomName !== 'addRoom') {
                         this.AlltaleList[roomName] = []//一旦连接，就初始化其聊天记录为空数组，连接后，后端会自动send改room的每条聊天记录obj
                         this.roomsOnline[roomName] = []
-                        const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
-                        const url = avatar ? avatar.url : null
-                        const msgObj = { ...this.roleObj, img: url }
+                        const url = this.myavartor()
+                        const msgObj = { ...this.roleObj }
                         this.ws[roomName].send(JSON.stringify({
                             'type': 'p_join_room',
                             'message': msgObj,
                         }))
-                        // console.log("打开" + roomName + "后", this.roleObj)
-                        // console.log(this.roleObj.privateID)
+
                     }
                 },
                 onClose: (event, roomName) => {
@@ -269,12 +288,10 @@ export default {
                         this.roomsOnline[roomName] = newRightList
                         if (roomName === this.winBarConfig.active) {
                             this.rightConfig.list = newRightList
+                            this.activeWinbar(roomName)
+
                         }
                     }
-                    // else if (type === 'my_private_id') {
-                    //     const private_id = JSON.parse(data.message)
-                    //     console.log('private id of '+roomName+' : ',private_id)
-                    // }
                 },
                 onError: (event, roomName) => {
                     console.log(`WebSocket Error.------${roomName}`)
@@ -283,11 +300,17 @@ export default {
         }
     },
     methods: {
+        myavartor() {
+            const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
+            const url = avatar ? avatar.url : null
+            return url
+        },
+
         searchJoinRoom(value) {
             //search
             this.initOneWS(value.id)
             this.winBarConfig.list.splice(4, 0, value)
-            console.log("申请加入")
+            console.log("申请加入", value.id)
             this.activeWinbar(value.id)
 
         },
@@ -299,10 +322,8 @@ export default {
                 'message': newRoom
             }))
             this.winBarConfig.list.splice(4, 0, newRoom)
-            console.log("申请创建")
-            ////
-            const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
-            const url = avatar ? avatar.url : null
+
+            const url = this.myavartor()
 
             const { id, name, dept } = newRoom
             const content = [{ id, text: name, dept }]
@@ -312,7 +333,7 @@ export default {
                 date: this.sendDate(),
                 mine: true,
                 name: this.roleObj.nickname,
-                img: url,
+                img: this.roleObj.img,
                 text: {
                     system: {
                         title: title,
@@ -338,9 +359,6 @@ export default {
         updatedialogRoomVisible(value) {
             this.dialogRoomVisible = value
         },
-        RoleDialog() {
-            this.dialogRoleVisible = true
-        },
         RoomDialog() {
             this.dialogRoomVisible = true
         },
@@ -348,12 +366,19 @@ export default {
             this.dialogRoleVisible = value
         },
         updateRoleObj(newObj) {
-            this.$emit('update-roleObj', newObj)
+            console.log(newObj)
+            this.roleObj = newObj
+            //把其他地方也更新一下
+            const { id, nickname, img } = newObj
+            const Obj = { ...this.winBarConfig.list[0], privateID: id, name: nickname, img }
+            this.winBarConfig.list.splice(0, 1, Obj)
+
         },
         activeWinbar(idToFind) {
             const data = this.winBarConfig.list.find(item => item.id === idToFind)
-            const { id, dept, name, img, add = false, role = false } = data
-            this.config = { ...this.config, id, dept, name, img }
+            const { id, dept, realdept = ' ',roomType='public', name, img, add = false, role = false } = data
+            const onlineNum = this.roomsOnline[id] ? this.roomsOnline[id].length : 0
+            this.config = { ...this.config, roomType,id, dept: realdept, name: name + '(' + onlineNum + ')', img }
             this.winBarConfig.active = id
             this.taleList = this.AlltaleList[id]
             this.rightConfig.list = this.roomsOnline[id]
@@ -363,8 +388,9 @@ export default {
             const { type, data = {} } = play
             console.log(play)
             if (type === "winBar") {
-                const { id, dept, name, img, add = false, role = false } = data
-                this.config = { ...this.config, id, dept, name, img }
+                const { id, dept, realdept = ' ', name, img, roomType='public',add = false, role = false } = data
+                const onlineNum = this.roomsOnline[id] ? this.roomsOnline[id].length : 0
+                this.config = { ...this.config, id, roomType,dept: realdept, name: name + '(' + onlineNum + ')', img }
                 this.winBarConfig.active = id
                 this.taleList = this.AlltaleList[id]
                 this.rightConfig.list = this.roomsOnline[id]
@@ -378,7 +404,8 @@ export default {
                     this.RoomDialog()
                 }
                 if (role) {
-                    this.RoleDialog()
+                    // this.RoleDialog()
+                    this.activeWinbar('ChatLobby')
                 }
             }
             if (type === "winBtn") {
@@ -407,8 +434,6 @@ export default {
                 //再分一次情况，是不是私人，私人就不用查找 join_room
 
                 const roomID = data.id
-                console.log("aaaaaaaa", data.id)
-                console.log("bbbbbbbb", data)
                 const join_room = this.rooms.find(item => item.id == roomID)
                 const winbarroom = this.winBarConfig.list.find(item => item.id == roomID)
                 if (winbarroom === undefined) {
@@ -420,10 +445,8 @@ export default {
                 }
                 else {
                     this.el_alert("你已经在该房间内！", 'warning')
-                    // this.activeWinbar(roomID)
                 }
-                // this.searchJoinRoom(join_room)
-                // console.log(data)
+
             }
 
         },
@@ -453,8 +476,6 @@ export default {
         bindEnter(e) {
             console.log(e)
             // console.log(document.getElementById('robot-a'))
-            const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
-            const url = avatar ? avatar.url : null
 
             const msg = this.inputMsg
             if (!msg) return
@@ -463,10 +484,11 @@ export default {
                 text: { text: msg },
                 mine: true,
                 name: this.roleObj.nickname,
-                img: url,
+                img: this.roleObj.img,
+                id: this.roleObj.id,
             }
             const roomName = this.winBarConfig.active
-            // alert(this.ws[roomName].readyState)
+
             if (this.ws[roomName].readyState != 1) {
                 this.el_alert("已与服务器断开连接", 'error')
                 this.openMsgBox()
@@ -479,6 +501,11 @@ export default {
                     'type': 'add_message',
                     'message': msgObj
                 }))
+
+                //
+                const activeRoomObj = this.winBarConfig.list.find(item => item.id === roomName)
+                activeRoomObj.dept = msg
+
             }
         },
         bindGetMessage(roomName, msgObj) {
@@ -489,15 +516,39 @@ export default {
             }
             //未读+1
             for (const room of this.winBarConfig.list) {
-                if (room.id == roomName) {
+                if (room.id === roomName) {
                     if (room.readNum !== '') {
                         room.readNum += 1
                     }
                     else {
                         room.readNum = 1
                     }
+                    if (room.roomType && (room.roomType === 'public' || room.roomType === 'private')) {
+                        if (typeof msgObj.text.text === "string") {
+                            room.dept = msgObj.name + ':' + msgObj.text.text
+                        }
+                        else {
+                            room.dept = msgObj.name + ':[无法预览]'
+                        }
+                    }
+                    else {
+                        if (typeof msgObj.text.text === "string") {
+                            room.dept = msgObj.text.text
+                        }
+                        else {
+                            room.dept = '[无法预览]'
+                        }
+                    }
+                    // if (typeof msgObj.text.text === "string") {
+                    //     room.dept = msgObj.name + ':' + msgObj.text.text
+                    // }
+                    // else {
+                    //     room.dept = msgObj.name + ':[无法预览]'
+                    // }
+                    // room.dept=
                 }
             }
+
         },
         // 快捷回复，组件点击选中事件
         bindTalk(play) {
@@ -565,6 +616,18 @@ export default {
                 this.robotSay('ChatLobby', title, content)
                 console.log("rooms=", this.rooms)
             }
+            else {
+                //显示房间信息
+                console.log(event.value)
+                if (event.value.roomType !== 'private-2') {
+                    this.$message({
+                    showClose: true,
+                    dangerouslyUseHTMLString: true,
+                    // duration:0,
+                    message: '<h3>'+"房间ID: "+event.value.id+'</h3>'+'<h4>房间简介：'+event.value.realdept+'</h4>'
+                }); 
+                }
+            }
         },
         rightClick(type) {
             console.log("rigth", type)
@@ -630,13 +693,11 @@ export default {
                     img: value.img,
                     dept: "",
                     readNum: 0,
+                    roomType: 'private-2'
                 }
-                // this.winBarConfig.list.splice(4, 0, private_chat)
-                const avatar = this.avatars.find(item => item.value === this.roleObj.avatar)
-                const url = avatar ? avatar.url : null
 
-                const { id, name, dept } = private_chat
-                const content = [{ id, text: name, dept, type: 'private',name:this.roleObj.nickname,img:url}]
+                const { id, name, dept,roomType } = private_chat
+                const content = [{ type: 'private', id, text: name, dept, name: this.roleObj.nickname, img: this.roleObj.img,roomType }]
                 const title = "向你发起私人聊天请求"
                 const subtitle = '点击进入聊天'
 
@@ -644,7 +705,7 @@ export default {
                     date: this.sendDate(),
                     mine: true,
                     name: this.roleObj.nickname,
-                    img: url,
+                    img: this.roleObj.img,
                     text: {
                         system: {
                             title: title,
@@ -656,15 +717,15 @@ export default {
 
                 const type = 'private_2'
                 this.winBarConfig.list.splice(4, 0, private_chat)
+                this.activeWinbar(id)
+
                 this.ws['ChatLobby'].send(JSON.stringify({
                     'type': type,
                     'message': msgObj,
                     'receiver': value.id,
                 }))
-                // console.log(msgObj)
-
             }).catch(() => {
-
+                //
             });
         },
         openMsgBox() {
@@ -700,16 +761,21 @@ export default {
         beforeunloadFn(e) {
             this.closeAllWebsocket()
         }
+        ,
+        afterRoleSet() {
+            this.initWebsocket()
+            this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove)
+            this.$emit('update-leftNav', 'chatNav')
+        },
+        cancelRoleSet() {
+            this.$emit('update-leftNav', 'roleNav')
+        }
     },
-    props: ['avatars', 'roleObj'],
     created() {
         window.addEventListener('beforeunload', e => this.beforeunloadFn(e))
     },
     mounted() {
         this.dialogRoleVisible = true
-        this.initWebsocket()
-        this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove)
-        this.$emit('update-leftNav', 'chatNav')
     },
     destroyed() {
         window.removeEventListener('beforeunload', e => this.beforeunloadFn(e))
