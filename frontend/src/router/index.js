@@ -6,6 +6,7 @@ import show from "@/components/show"
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
@@ -24,3 +25,5 @@ export default new Router({
     }
   ]
 })
+
+

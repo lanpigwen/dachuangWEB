@@ -29,7 +29,8 @@
 </template>
 
 
-<style>
+<style >  
+/* 这里不能写scrop */
 .roleSet {
     width: 100%;
 }
