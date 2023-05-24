@@ -1,0 +1,37 @@
+<template>
+<div>
+    <h1>Welcome</h1>
+    <el-link href="#/chatroom" target="_blank" :underline="false"><el-button round >进入聊天室</el-button></el-link>
+    <el-link href="#/show" target="_blank" :underline="false"><el-button round >进入可视化展示</el-button></el-link>
+</div>
+</template>
+
+<script>
+export default {
+name: 'index',
+methods: {
+    handleMenuSelect(index) {
+        const url = location.origin+"#" + index;
+        window.open(url, '_blank');
+    }
+}
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+h1, h2 {
+font-weight: normal;
+}
+ul {
+list-style-type: none;
+padding: 0;
+}
+li {
+display: inline-block;
+margin: 0 10px;
+}
+a {
+color: #42b983;
+}
+</style>

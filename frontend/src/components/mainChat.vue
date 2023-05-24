@@ -2,7 +2,7 @@
     <div class="jwchat" ref="jw">
         <dialogRole :dialogRoleVisible="dialogRoleVisible" @update:dialogRoleVisible="updatedialogRoleVisible"
             :roleObj="roleObj" @update-roleObj="updateRoleObj" @update-activeBar="activeWinbar" :avatars="avatars"
-            @afterRoleSet="afterRoleSet" @cancelRoleSet="cancelRoleSet">
+            @afterRoleSet="afterRoleSet">
         </dialogRole>
 
         <dialogCreateRoom :dialogRoomVisible="dialogRoomVisible" @update:dialogRoomVisible="updatedialogRoomVisible"
@@ -24,7 +24,7 @@
        -->
         <JwChat-index ref="jwChat" :config="config" :taleList="taleList" @enter="bindEnter" @clickTalk="talkEvent"
             v-model="inputMsg" :showRightBox="true" scrollType="scroll" :toolConfig="tool" :winBarConfig="winBarConfig"
-            :quickList="config.quickList">
+            :quickList="config.quickList"  width="1000px" height="600px" >
             <!-- 窗口右边栏 -->
 
             <JwChat-rightbox :config="rightConfig" @click="rightClick" />
@@ -798,23 +798,14 @@ export default {
             this.$el.querySelector('.ChatPage-main').addEventListener('mousemove', this.handleMouseMove)
             this.$emit('update-leftNav', 'chatNav')
         },
-        cancelRoleSet() {
-            this.$emit('update-leftNav', 'roleNav')
-        }
+        // cancelRoleSet() {
+        //     this.$emit('update-leftNav', 'roleNav')
+        // }
     },
     created() {
         window.addEventListener('beforeunload', e => this.beforeunloadFn(e))
     },
     mounted() {
-        // this.dialogRoleVisible = true
-        // this.roleObj.avatar = Math.floor(Math.random() * 20) + 1
-        // const randomAvatar = Math.floor(Math.random() * 20) + 1;
-        // this.roleObj = {
-        // avatar: String(randomAvatar),
-        // nickname: '用户名',
-        // gender: 'male',
-        // img: `static/img/avatart/male${randomAvatar}.png`
-        // };
         this.dialogRoleVisible = true
     },
     destroyed() {
@@ -828,12 +819,18 @@ export default {
 <style>
 .jwchat {
     /* height: 100vh; */
+    /* width: 100vh; */
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
     margin-top: 0px;
+
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+
 }
+
 </style>
-  

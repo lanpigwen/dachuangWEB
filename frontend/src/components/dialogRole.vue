@@ -61,6 +61,7 @@
 </style>
 
 <script>
+
 export default {
     props: ['dialogRoleVisible', 'avatars', 'roleObj',],
     data() {
@@ -84,10 +85,8 @@ export default {
             }).then(() => {
 
             }).catch(() => {
-                this.$emit('cancelRoleSet')
-                this.user = { ...this.roleObj }
                 this.$emit('update:dialogRoleVisible', false)
-                this.$emit('update-activeBar', "ChatLobby")
+                this.$router.push('/')
             });
         },
         submitForm() {
