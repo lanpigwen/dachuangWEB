@@ -1,14 +1,20 @@
 <template>
-<div>
-    <h1>Welcome</h1>
-    <el-link href="/chatroom" target="_blank" :underline="false"><el-button round >进入聊天室</el-button></el-link>
-    <el-link href="/show" target="_blank" :underline="false"><el-button round >进入可视化展示</el-button></el-link>
-</div>
+<iframe :src='src' class="ifra"></iframe>
 </template>
 
 <script>
 export default {
-name: 'index',
+    name: 'index',
+    data() {
+        return {
+            showSessionId: '',
+            src:'',
+    }
+    },
+    mounted() {
+        this.showSessionId = window.location.search
+        this.src=`static/Dialog_Project_index/index.html`
+    }
 }
 </script>
 
@@ -27,5 +33,13 @@ margin: 0 10px;
 }
 a {
 color: #42b983;
+}
+.ifra {
+  position: absolute; /* 使用绝对定位 */
+  top: 0;
+  left: 0;
+  width: 100%; /* 设置宽度为100% */
+  height: 100%; /* 设置高度为100% */
+  border: none; /* 可选：移除边框 */
 }
 </style>
