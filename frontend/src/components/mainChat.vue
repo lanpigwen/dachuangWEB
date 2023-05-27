@@ -358,6 +358,7 @@ export default {
                 mine: true,
                 name: this.roleObj.nickname,
                 img: this.roleObj.img,
+                id:this.roleObj.id,
                 text: {
                     system: {
                         title: title,
@@ -456,7 +457,7 @@ export default {
         },
         // 点击聊天框列中的用户和昵称触发事件
         talkEvent(play) {
-            // console.log(play)
+            console.log(play)
             const { data, type } = play
             // console.log(type)
             if (type === 'systemItem') {
@@ -476,6 +477,12 @@ export default {
                     this.el_alert("你已经在该房间内！", 'warning')
                 }
 
+            }
+            else if (type == 'img') {
+                console.log('点击头像')
+                if (!data.mine && data.id !== 'robot') {
+                    this.openPrivateChat(data)
+                }
             }
 
         },
@@ -625,6 +632,7 @@ export default {
                 mine: false,
                 name: "Robot",
                 img: "static/img/robot.png",
+                id: "robot",
                 text: {
                     system: {
                         title: title,
