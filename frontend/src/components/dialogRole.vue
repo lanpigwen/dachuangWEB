@@ -4,12 +4,14 @@
             <div class="roleSet">
                 <el-form ref="userForm" :model="user" :rules="rules" label-width="100px">
                     <el-form-item label="头像">
-                        <el-radio-group v-model="user.avatar">
+
+                        <el-radio-group v-model="user.avatar" >
                             <el-radio v-for="avatar in avatars" :key="avatar.value" :label="avatar.value">
                                 <el-avatar :size="80" :src="avatar.url"
                                     :class="{ 'selected': user.avatar === avatar.value }"></el-avatar>
                             </el-radio>
                         </el-radio-group>
+
                     </el-form-item>
                     <el-form-item label="昵称" prop="nickname">
                         <el-input v-model="user.nickname"></el-input>
@@ -58,6 +60,19 @@
 /* 设置选中状态的背景色 */
 .el-radio__input.is-checked .el-radio__inner::after {
     background-color: #409eff;
+}
+
+@media screen and (max-width:800px) {
+    .el-dialog{
+    width: 100%!important;
+    height: 100%!important;
+    margin-bottom: 0!important;
+    margin-top: 0!important;
+}
+.el-radio-group{
+    max-height: 37vh!important;
+    overflow-y: scroll!important;
+}
 }
 </style>
 
