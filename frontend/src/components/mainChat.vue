@@ -215,7 +215,9 @@ export default {
                 showDeleteBtn: true,
             },
             websocketConfig: {
-                WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
+                // WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
+                WS_BASE_URL: 'ws://8.140.192.21:8000/ws/chat/',
+
                 onOpen: (event, roomName) => {
                     console.log(`WebSocket is open now.---${roomName}`)
                     //打开后做一些事
