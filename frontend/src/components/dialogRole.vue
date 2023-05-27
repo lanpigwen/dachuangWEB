@@ -70,7 +70,7 @@
     margin-top: 0!important;
 }
 .el-radio-group{
-    max-height: 37vh!important;
+    max-height: 40vh!important;
     overflow-y: scroll!important;
 }
 }
