@@ -26,7 +26,7 @@
             v-model="inputMsg" :showRightBox="true" scrollType="scroll" :toolConfig="tool" :winBarConfig="winBarConfig"
             :quickList="config.quickList"  width="1000px" height="600px" >
             <!-- 窗口右边栏 -->
-
+            
             <JwChat-rightbox :config="rightConfig" @click="rightClick" />
             <!-- 快捷回复 -->
             <!-- <JwChat-talk :Talelist="talk" :config="quickConfig" @event="bindTalk" /> -->
@@ -437,6 +437,27 @@ export default {
                     // this.RoleDialog()
                     this.activeWinbar('ChatLobby')
                 }
+                if (document.documentElement.clientWidth <= 800) {
+                    console.log("手机设备")
+                    var winBar = document.querySelector(".winBar")
+                    // console.log(winBar.style.display = 'none !important')
+                    winBar.style.width = '0'
+                    console.log(winBar.style)
+                    // winBar.style.cssText+="display:none!important;"
+
+                    var header = document.querySelector(".header")
+                    if (header.children.length === 1) {
+                        var backButton = document.createElement('i');
+                    backButton.innerHTML = '<i class="el-icon-arrow-left"></i>'
+                    backButton.addEventListener('click', function () {
+                        var winBar = document.querySelector(".winBar")
+                        winBar.style.width='100%'
+                        
+                    })
+                    header.insertAdjacentElement('afterbegin',backButton)
+                    console.log(header)
+                    }                    
+                }
             }
             if (type === "winBtn") {
                 const { target: { id } = {} } = data
@@ -843,4 +864,30 @@ export default {
 
 }
 
+@media screen and (max-width:800px) {
+    .jwchat {
+    /* height: 100vh; */
+    /* width: 100vh; */
+    /* font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 0px; */
+
+    /* display: flex; */
+    /* justify-content: center; 水平居中 */
+    /* align-items: center; 垂直居中 */
+
+}
+}
+
+</style>
+<style>
+.back{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    z-index: 15;
+}
 </style>

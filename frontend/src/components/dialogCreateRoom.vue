@@ -151,3 +151,18 @@ export default {
     }
 }
 </script>
+
+<style>
+@media screen and (max-width:800px) {
+    .el-dialog{
+    width: 100%!important;
+    height: 100%!important;
+    margin-bottom: 0!important;
+    margin-top: 0!important;
+}
+/* .el-radio-group{
+    max-height: 40vh!important;
+    overflow-y: scroll!important;
+} */
+}
+</style>
