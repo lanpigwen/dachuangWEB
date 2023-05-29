@@ -45,11 +45,11 @@
 
 /* 隐藏 el-radio 的圆圈 */
 .el-radio__inner {
-    display: none;
+    display: none !important;
 }
 
 .gen .el-radio__inner {
-    display: block;
+    display: block!important;
 }
 
 .el-radio__input.is-checked .el-radio__inner {
@@ -64,15 +64,26 @@
 
 @media screen and (max-width:800px) {
     .el-dialog{
-    width: 100%!important;
-    height: 100%!important;
-    margin-bottom: 0!important;
-    margin-top: 0!important;
+    position:absolute!important;
+    top:0!important;
+    bottom: 0!important;
+    right: 0!important;
+    left: 0!important;
     z-index: 50!important;
 }
 .el-radio-group{
-    max-height: 40vh!important;
+    max-height: 248px!important;
     overflow-y: scroll!important;
+}
+.el-form-item__content{
+    margin-left: 10px!important;
+}
+.el-dialog__footer{
+    text-align: center!important;
+    position: absolute!important;
+    bottom: 3vh!important;
+    left: 20px!important;
+    right: 20px!important;
 }
 }
 </style>
@@ -119,7 +130,6 @@ export default {
 
                     this.$emit('update:dialogRoleVisible', false)
                     this.$emit('update-activeBar', "ChatLobby")
-                    this.el_alert('保存成功！')
                 }
                 else {
                     console.log('表单验证失败！')

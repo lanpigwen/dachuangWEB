@@ -111,6 +111,10 @@ export default {
             // this.user = { ...this.roleObj }
             this.$emit('update:dialogRoomVisible', false)
             this.$emit('update-activeBar', BarID)
+            if (document.documentElement.clientWidth <= 800) {
+                var winBar = document.querySelector(".winBar")
+                winBar.style.width = '100%'
+            }
             //弹一个修改成功
         },
         submitFindForm() {
@@ -160,9 +164,5 @@ export default {
     margin-bottom: 0!important;
     margin-top: 0!important;
 }
-/* .el-radio-group{
-    max-height: 40vh!important;
-    overflow-y: scroll!important;
-} */
 }
 </style>

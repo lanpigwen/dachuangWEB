@@ -24,9 +24,9 @@
        -->
         <JwChat-index ref="jwChat" :config="config" :taleList="taleList" @enter="bindEnter" @clickTalk="talkEvent"
             v-model="inputMsg" :showRightBox="true" scrollType="scroll" :toolConfig="tool" :winBarConfig="winBarConfig"
-            :quickList="config.quickList"  width="1000px" height="600px" >
+            :quickList="config.quickList" width="1200px" height="600px">
             <!-- 窗口右边栏 -->
-            
+
             <JwChat-rightbox :config="rightConfig" @click="rightClick" />
             <!-- 快捷回复 -->
             <!-- <JwChat-talk :Talelist="talk" :config="quickConfig" @event="bindTalk" /> -->
@@ -54,6 +54,7 @@ export default {
     components: { dialogRole, dialogCreateRoom },
     data() {
         return {
+
             roleObj: {
                 avatar: String(Math.floor(Math.random() * 20) + 1),
                 nickname: ['炫酷忍者', '热情的火焰', '加练的阿杰', '快乐小丸子', '爱吃鱼的强哥',
@@ -104,7 +105,7 @@ export default {
             // 工具栏配置
             tool: {
                 // show: ['file', 'history', 'img', 'video', 'hongbao', 'more'],
-                show:[],
+                show: [],
                 showEmoji: true,
                 callback: this.toolEvent,
             },
@@ -146,7 +147,7 @@ export default {
             winBarConfig: {
                 active: "ChatLobby", // 当前选中
                 width: "160px", // 宽度大小
-                listHeight: "60px", // 单个高度
+                listHeight: "70px", // 单个高度
                 // 用户列表
                 list: [
                     {
@@ -358,7 +359,7 @@ export default {
                 mine: true,
                 name: this.roleObj.nickname,
                 img: this.roleObj.img,
-                id:this.roleObj.id,
+                id: this.roleObj.id,
                 text: {
                     system: {
                         title: title,
@@ -432,31 +433,62 @@ export default {
                 }
                 if (add) {
                     this.RoomDialog()
+                    //
                 }
                 if (role) {
-                    // this.RoleDialog()
                     this.activeWinbar('ChatLobby')
+                    if (document.documentElement.clientWidth <= 800) {
+                        var winBar = document.querySelector(".winBar")
+                        winBar.style.width = '100%'
+                    }
+                    //
                 }
                 if (document.documentElement.clientWidth <= 800) {
                     console.log("手机设备")
-                    var winBar = document.querySelector(".winBar")
-                    // console.log(winBar.style.display = 'none !important')
-                    winBar.style.width = '0'
-                    console.log(winBar.style)
-                    // winBar.style.cssText+="display:none!important;"
+
+                    if (!role) {
+                        var winBar = document.querySelector(".winBar")
+                        winBar.style.width = '0'
+                    }
 
                     var header = document.querySelector(".header")
                     if (header.children.length === 1) {
+                        //back
                         var backButton = document.createElement('i');
-                    backButton.innerHTML = '<i class="el-icon-arrow-left"></i>'
-                    backButton.addEventListener('click', function () {
-                        var winBar = document.querySelector(".winBar")
-                        winBar.style.width='100%'
-                        
-                    })
-                    header.insertAdjacentElement('afterbegin',backButton)
-                    console.log(header)
-                    }                    
+                        backButton.innerHTML = '<i class="el-icon-arrow-left"></i>'
+                        backButton.style.margin = '20px 20px 20px 10px'
+                        backButton.onclick = function () {
+                            var winBar = document.querySelector(".winBar")
+                            winBar.style.width = '100%'
+                            var rightBox = document.querySelector(".chatBox")
+                            rightBox.style.width = '100%'
+                        }
+                        header.insertAdjacentElement('afterbegin', backButton)
+                        //more
+                        var moreButton = document.createElement('i');
+                        moreButton.innerHTML = '<i class="el-icon-more"></i>'
+                        moreButton.style.margin = '20px 20px 20px 20px'
+                        moreButton.style.position = 'absolute'
+                        moreButton.style.right = '0'
+
+                        moreButton.onclick = function () {
+                            var chatBox = document.querySelector(".chatBox")
+                            chatBox.style.width = '0'
+                            moreButton.style.display='none'
+                            backButton.onclick = function () {
+                                chatBox.style.width = '100%'
+                                moreButton.style.display=''
+                                backButton.onclick = function () {
+                                    var winBar = document.querySelector(".winBar")
+                                    winBar.style.width = '100%'
+                                    var rightBox = document.querySelector(".chatBox")
+                                    rightBox.style.width = '100%'
+                                }
+                            }
+                        }
+                        header.insertAdjacentElement('beforeend', moreButton)
+
+                    }
                 }
             }
             if (type === "winBtn") {
@@ -859,35 +891,43 @@ export default {
     margin-top: 0px;
 
     display: flex;
-    justify-content: center; /* 水平居中 */
-    align-items: center; /* 垂直居中 */
+    justify-content: center;
+    /* 水平居中 */
+    align-items: center;
+    /* 垂直居中 */
 
 }
 
 @media screen and (max-width:800px) {
     .jwchat {
-    /* height: 100vh; */
-    /* width: 100vh; */
-    /* font-family: Avenir, Helvetica, Arial, sans-serif;
+        /* height: 100vh; */
+        /* width: 100vh; */
+        /* font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
     margin-top: 0px; */
 
-    /* display: flex; */
-    /* justify-content: center; 水平居中 */
-    /* align-items: center; 垂直居中 */
+        /* display: flex; */
+        /* justify-content: center; 水平居中 */
+        /* align-items: center; 垂直居中 */
 
+    }
 }
-}
-
 </style>
 <style>
-.back{
+.back {
     position: absolute;
     top: 5px;
     left: 5px;
     z-index: 15;
+}
+
+@media screen and (max-width:800px) {
+    .el-message-box {
+        width: 80% !important;
+        ;
+    }
 }
 </style>
