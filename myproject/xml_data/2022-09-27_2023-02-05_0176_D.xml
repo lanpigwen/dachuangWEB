@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:39:00</Time>
+   <Sender>A</Sender>
+   <Content>他们今天练什么哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:41:00</Time>
+   <Sender>B</Sender>
+   <Content>不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:41:00</Time>
+   <Sender>B</Sender>
+   <Content>在吃饭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>如果老师不在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>打全场啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:43:00</Time>
+   <Sender>B</Sender>
+   <Content>会练一会再打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:43:00</Time>
+   <Sender>B</Sender>
+   <Content>来不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-27 18:44:00</Time>
+   <Sender>A</Sender>
+   <Content>来</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

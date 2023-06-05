@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:54:00</Time>
+   <Sender>A</Sender>
+   <Content>呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:54:00</Time>
+   <Sender>A</Sender>
+   <Content>慈[sensitive]这两天几点睡啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:54:00</Time>
+   <Sender>B</Sender>
+   <Content>十二点半，三点半，今天待定</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>A</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>A</Sender>
+   <Content>我在想我要不要也熬个夜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>B</Sender>
+   <Content>今天一天差点给我送走</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>A</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>B</Sender>
+   <Content>头都有血腥味</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>A</Sender>
+   <Content>我汇编还没复习</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>A</Sender>
+   <Content>想通个宵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:55:00</Time>
+   <Sender>A</Sender>
+   <Content>但是又觉得不好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我后面都没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:56:00</Time>
+   <Sender>B</Sender>
+   <Content>没有一个复习的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:56:00</Time>
+   <Sender>A</Sender>
+   <Content>你更厉害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:56:00</Time>
+   <Sender>B</Sender>
+   <Content>这几天做好了熬夜的准备</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:56:00</Time>
+   <Sender>A</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:56:00</Time>
+   <Sender>A</Sender>
+   <Content>身体重要，感觉不太好就别熬了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:56:00</Time>
+   <Sender>A</Sender>
+   <Content>我也加油</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-11 23:57:00</Time>
+   <Sender>B</Sender>
+   <Content>加油加油</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:57:00</Time>
+   <Sender>A</Sender>
+   <Content>这两天干啥呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:57:00</Time>
+   <Sender>B</Sender>
+   <Content>搞卫生</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:57:00</Time>
+   <Sender>A</Sender>
+   <Content>一天到晚搞卫生</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:57:00</Time>
+   <Sender>A</Sender>
+   <Content>「吃瓜」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:57:00</Time>
+   <Sender>B</Sender>
+   <Content>吃喝玩乐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:57:00</Time>
+   <Sender>B</Sender>
+   <Content>「旺柴」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:58:00</Time>
+   <Sender>A</Sender>
+   <Content>「苦涩」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:58:00</Time>
+   <Sender>A</Sender>
+   <Content>我想二月初就回学校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:58:00</Time>
+   <Sender>A</Sender>
+   <Content>可行吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:58:00</Time>
+   <Sender>A</Sender>
+   <Content>「叹气」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:58:00</Time>
+   <Sender>B</Sender>
+   <Content>不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:58:00</Time>
+   <Sender>B</Sender>
+   <Content>「皱眉」</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

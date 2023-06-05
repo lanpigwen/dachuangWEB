@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:19:00</Time>
+   <Sender>A</Sender>
+   <Content>邱[sensitive]老师</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:19:00</Time>
+   <Sender>A</Sender>
+   <Content>党课看多少</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:21:00</Time>
+   <Sender>B</Sender>
+   <Content>必看看完就行吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:21:00</Time>
+   <Sender>A</Sender>
+   <Content>比我想象的多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:21:00</Time>
+   <Sender>A</Sender>
+   <Content>有点来不及了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:22:00</Time>
+   <Sender>B</Sender>
+   <Content>试试多线操作</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:23:00</Time>
+   <Sender>B</Sender>
+   <Content>开多个网页，拉开来，都挂前排[奸笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:23:00</Time>
+   <Sender>B</Sender>
+   <Content>防止自动暂停</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-05 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>666</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

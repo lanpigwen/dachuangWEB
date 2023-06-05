@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 12:37:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]～实在不好意思打扰啦 就是那个王[sensitive]的生日推送是我发给你吗？请问一下你的邮箱是多少呀 新年快乐～打扰啦「烟花」「烟花」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 13:59:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦，你已经做好了吗~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 13:59:00</Time>
+   <Sender>B</Sender>
+   <Content>可以同步到公众号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 13:59:00</Time>
+   <Sender>A</Sender>
+   <Content>是哒～但是我之前没做过公众号这方面的不知道格式能不能上传</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>那我咋传到公众号上呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:00:00</Time>
+   <Sender>B</Sender>
+   <Content>你是用秀米做的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:00:00</Time>
+   <Sender>B</Sender>
+   <Content>ok最上面一栏有一个同步公众号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我可以发吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>还是等到明天发呐？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:01:00</Time>
+   <Sender>B</Sender>
+   <Content>你不能，因为公众号是我创哒哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:01:00</Time>
+   <Sender>B</Sender>
+   <Content>今天晚上零点发！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:01:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦好的好的那我咋给你呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:01:00</Time>
+   <Sender>A</Sender>
+   <Content>辛苦你了呀～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:01:00</Time>
+   <Sender>B</Sender>
+   <Content>这个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:01:00</Time>
+   <Sender>A</Sender>
+   <Content>好的好的我试试哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>之后我给你扫码</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:02:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:02:00</Time>
+   <Sender>A</Sender>
+   <Content>咦我这里为什么没有哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>等等</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>A</Sender>
+   <Content>这个可以吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>摘要没写宝[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦要写摘要哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>A</Sender>
+   <Content>稍等哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>就是这里</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:04:00</Time>
+   <Sender>B</Sender>
+   <Content>然后记得联系他给你留言墙的二维码的吧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:04:00</Time>
+   <Sender>B</Sender>
+   <Content>你是不是没登录呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:04:00</Time>
+   <Sender>A</Sender>
+   <Content>我创建的了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:04:00</Time>
+   <Sender>A</Sender>
+   <Content>我写的他的联系方式</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:04:00</Time>
+   <Sender>A</Sender>
+   <Content>登录了呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:05:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:05:00</Time>
+   <Sender>A</Sender>
+   <Content>这样可以吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:06:00</Time>
+   <Sender>B</Sender>
+   <Content>我试试哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 14:06:00</Time>
+   <Sender>A</Sender>
+   <Content>没事没事不急～</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

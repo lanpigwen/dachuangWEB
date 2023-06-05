@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:35:00</Time>
+   <Sender>A</Sender>
+   <Content>你好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:35:00</Time>
+   <Sender>A</Sender>
+   <Content>我想问一下，如果可以的话，能不能请你来信科男篮当经理。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:35:00</Time>
+   <Sender>B</Sender>
+   <Content>啊真的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:35:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:36:00</Time>
+   <Sender>A</Sender>
+   <Content>因为我看你也是篮协的也是信科的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:36:00</Time>
+   <Sender>B</Sender>
+   <Content>这有什么要求呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:36:00</Time>
+   <Sender>A</Sender>
+   <Content>然后我们现在就只有一个经理，6班的韦[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:36:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯这个我知道～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:40:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯，经理平时要做的事情也不多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:40:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦好 请问这个可以免打卡吗[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:41:00</Time>
+   <Sender>A</Sender>
+   <Content>额，好像不免 吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:41:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈好吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:42:00</Time>
+   <Sender>B</Sender>
+   <Content>那我平时需要干什么呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:42:00</Time>
+   <Sender>A</Sender>
+   <Content>但是会有加综测分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:43:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴][旺柴][旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:43:00</Time>
+   <Sender>B</Sender>
+   <Content>好！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:43:00</Time>
+   <Sender>B</Sender>
+   <Content>不会和篮协的加分重复嘛[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:44:00</Time>
+   <Sender>B</Sender>
+   <Content>不好意思见笑了我一个分奴[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:45:00</Time>
+   <Sender>A</Sender>
+   <Content>[捂脸][捂脸][捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>不会重复 吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>那我具体需要干什么呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>我还不太了解</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>打比赛的时候</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>需要录像，拍照啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>然后</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:47:00</Time>
+   <Sender>A</Sender>
+   <Content>还有就是一周一次的训练需要帮队员买一下饮用水</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:48:00</Time>
+   <Sender>A</Sender>
+   <Content>打比赛前也是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:48:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:48:00</Time>
+   <Sender>A</Sender>
+   <Content>然后没啥别的多的事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:48:00</Time>
+   <Sender>B</Sender>
+   <Content>咱们每周什么时候训练啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:48:00</Time>
+   <Sender>A</Sender>
+   <Content>可能有可能赛季末发个公众号的推文</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:49:00</Time>
+   <Sender>A</Sender>
+   <Content>周三4点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:49:00</Time>
+   <Sender>A</Sender>
+   <Content>训练其实不是非到不可</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:49:00</Time>
+   <Sender>B</Sender>
+   <Content>就今天嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:49:00</Time>
+   <Sender>A</Sender>
+   <Content>今天我们打比赛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:49:00</Time>
+   <Sender>A</Sender>
+   <Content>下午训练取消</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:50:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:50:00</Time>
+   <Sender>B</Sender>
+   <Content>我周三下午16:00-18:00有[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:50:00</Time>
+   <Sender>B</Sender>
+   <Content>好耶 有逃课的理由了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:50:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:51:00</Time>
+   <Sender>A</Sender>
+   <Content>你看你愿意来当嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我可以[加油]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:51:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:53:00</Time>
+   <Sender>A</Sender>
+   <Content>那你今天中午可以一起和[sensitive]看看她主要做什么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:53:00</Time>
+   <Sender>A</Sender>
+   <Content>聊聊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:53:00</Time>
+   <Sender>A</Sender>
+   <Content>然后更多的了解了解</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:53:00</Time>
+   <Sender>B</Sender>
+   <Content>好的👌🏻</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:54:00</Time>
+   <Sender>A</Sender>
+   <Content>好，那我等会拉你进一下男篮群</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-19 11:54:00</Time>
+   <Sender>B</Sender>
+   <Content>好的 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

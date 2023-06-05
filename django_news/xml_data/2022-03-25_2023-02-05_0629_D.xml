@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>A</Sender>
+   <Content>每天就一直学？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>是了么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>不过我报了个舞蹈班</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>A</Sender>
+   <Content>学到几点了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>周末去跳舞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>我睡得可晚了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>A</Sender>
+   <Content>不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>A</Sender>
+   <Content>贵不贵了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>如果有设计课任务压着，就大概两点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>2000多50次课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:30:00</Time>
+   <Sender>A</Sender>
+   <Content>那还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:30:00</Time>
+   <Sender>B</Sender>
+   <Content>太惨了这个行业真不行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:30:00</Time>
+   <Sender>A</Sender>
+   <Content>咋的了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:30:00</Time>
+   <Sender>B</Sender>
+   <Content>之前那个辉煌的时期已经过了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:30:00</Time>
+   <Sender>B</Sender>
+   <Content>现在下行特别厉害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:31:00</Time>
+   <Sender>B</Sender>
+   <Content>大概收入也不高就是饿不死但也不会特别好的状态</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:31:00</Time>
+   <Sender>B</Sender>
+   <Content>我打算去学古建了但是学长劝我别去，然后学院有老师还挺支持我去的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:31:00</Time>
+   <Sender>A</Sender>
+   <Content>中国没地儿盖房了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:31:00</Time>
+   <Sender>B</Sender>
+   <Content>盖了没人买</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:32:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:32:00</Time>
+   <Sender>A</Sender>
+   <Content>我听有人说这个行业饱和了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:32:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:32:00</Time>
+   <Sender>B</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:32:00</Time>
+   <Sender>B</Sender>
+   <Content>不需要这么多人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:33:00</Time>
+   <Sender>B</Sender>
+   <Content>我想着不然搞古建不然做乡建不然就跑路了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:33:00</Time>
+   <Sender>A</Sender>
+   <Content>那还这么卷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:33:00</Time>
+   <Sender>B</Sender>
+   <Content>是了么，不需要这么多人到行业里但是学生又这么多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:34:00</Time>
+   <Sender>A</Sender>
+   <Content>大部分这个时期还选择建筑的是不是都是那种满[sensitive]热忱的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:35:00</Time>
+   <Sender>B</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:35:00</Time>
+   <Sender>B</Sender>
+   <Content>都是多少有点执念</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:35:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

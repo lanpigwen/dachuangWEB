@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:26:00</Time>
+   <Sender>A</Sender>
+   <Content>约太极吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:26:00</Time>
+   <Sender>B</Sender>
+   <Content>约</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>B</Sender>
+   <Content>啥时候呀？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>A</Sender>
+   <Content>now</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>B</Sender>
+   <Content>啊这</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>A</Sender>
+   <Content>你在哪呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>B</Sender>
+   <Content>我在床上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>A</Sender>
+   <Content>「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>B</Sender>
+   <Content>估计约不了了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>A</Sender>
+   <Content>那要不算了。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>A</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:27:00</Time>
+   <Sender>A</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:28:00</Time>
+   <Sender>A</Sender>
+   <Content>罗[sensitive]呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:29:00</Time>
+   <Sender>B</Sender>
+   <Content>你可以问问她</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-24 21:29:00</Time>
+   <Sender>A</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

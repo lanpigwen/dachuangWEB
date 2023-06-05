@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>@Ekko） 重庆北到重庆西[sensitive]不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>火车站</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:36:00</Time>
+   <Sender>B</Sender>
+   <Content>远</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:36:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:36:00</Time>
+   <Sender>B</Sender>
+   <Content>[害羞]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>中转</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>想啥呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>你多久放假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>你不关注我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>[微笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>我pyq不是说了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>关注你又没糖吃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>好久中转</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:41:00</Time>
+   <Sender>B</Sender>
+   <Content>要不跟我一起回去？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:41:00</Time>
+   <Sender>B</Sender>
+   <Content>[害羞]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>我十号放假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>你十八号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>我睡你宿舍睡一个星期？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:42:00</Time>
+   <Sender>B</Sender>
+   <Content>可以啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:42:00</Time>
+   <Sender>B</Sender>
+   <Content>可以的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:42:00</Time>
+   <Sender>B</Sender>
+   <Content>我也是考试周[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>我不可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:42:00</Time>
+   <Sender>B</Sender>
+   <Content>[委屈][委屈]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:43:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>你们没有提前吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>疫情原因</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>重庆很多学校都提前了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>就我们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-04 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>mmp 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

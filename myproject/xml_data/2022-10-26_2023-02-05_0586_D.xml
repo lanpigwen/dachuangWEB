@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:20:00</Time>
+   <Sender>A</Sender>
+   <Content>等下十点洗澡不家人们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:20:00</Time>
+   <Sender>B</Sender>
+   <Content>no</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:20:00</Time>
+   <Sender>C</Sender>
+   <Content>昨天刚洗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:20:00</Time>
+   <Sender>A</Sender>
+   <Content>那你明天洗啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:21:00</Time>
+   <Sender>C</Sender>
+   <Content>今天不想动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:21:00</Time>
+   <Sender>C</Sender>
+   <Content>紧张的要死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>@江[sensitive]家的大宝[sensitive]V 稳</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:21:00</Time>
+   <Sender>C</Sender>
+   <Content>教资都学不进去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:43:00</Time>
+   <Sender>C</Sender>
+   <Content>@? @暖暖小小羊 </Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:44:00</Time>
+   <Sender>C</Sender>
+   <Content>你俩教资账号记得密码吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:44:00</Time>
+   <Sender>C</Sender>
+   <Content>我刚下载我的准考证</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:44:00</Time>
+   <Sender>C</Sender>
+   <Content>想着顺带把你俩的下载打印</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:44:00</Time>
+   <Sender>C</Sender>
+   <Content>发现我电脑没保存你俩的密码</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:44:00</Time>
+   <Sender>C</Sender>
+   <Content>你俩自己还记得吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>蛙趣</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>我找找</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:48:00</Time>
+   <Sender>C</Sender>
+   <Content>好的，想不起来就改密码吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:48:00</Time>
+   <Sender>A</Sender>
+   <Content>学号要吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:48:00</Time>
+   <Sender>C</Sender>
+   <Content>不要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:48:00</Time>
+   <Sender>C</Sender>
+   <Content>身份证号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:48:00</Time>
+   <Sender>C</Sender>
+   <Content>就行了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

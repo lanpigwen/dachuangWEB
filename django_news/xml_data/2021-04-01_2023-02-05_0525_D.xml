@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:26:00</Time>
+   <Sender>A</Sender>
+   <Content>那个白色老[sensitive]鞋就真皮加网面吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:26:00</Time>
+   <Sender>B</Sender>
+   <Content>不造</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:26:00</Time>
+   <Sender>A</Sender>
+   <Content>乔[sensitive]那个乔[sensitive]白热粉色</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:27:00</Time>
+   <Sender>B</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:27:00</Time>
+   <Sender>A</Sender>
+   <Content>卡[sensitive]就01象牙色</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:27:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:28:00</Time>
+   <Sender>A</Sender>
+   <Content>那个刷子就小草莓加桶十只</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:28:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:28:00</Time>
+   <Sender>A</Sender>
+   <Content>稚优泉卸妆水300ml的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:29:00</Time>
+   <Sender>A</Sender>
+   <Content>眼线笔辣目炫黑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:29:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:30:00</Time>
+   <Sender>A</Sender>
+   <Content>好像550左右全部</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:30:00</Time>
+   <Sender>B</Sender>
+   <Content>那就分批买</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:31:00</Time>
+   <Sender>B</Sender>
+   <Content>这样划算</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-01 19:31:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

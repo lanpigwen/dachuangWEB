@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:55:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片: 81fcad1c7552e89e039a9e39da03446a.jpg(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:55:00</Time>
+   <Sender>A</Sender>
+   <Content>谢[sensitive]同学！！这个是取件码～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:55:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:55:00</Time>
+   <Sender>B</Sender>
+   <Content>我今天做完核酸去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:57:00</Time>
+   <Sender>A</Sender>
+   <Content>蟹蟹蟹蟹！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:33:00</Time>
+   <Sender>B</Sender>
+   <Content>同学你好想问问来去的车费可以报吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:37:00</Time>
+   <Sender>A</Sender>
+   <Content>会的会的！蟹蟹同学再跑一趟，辛苦了！！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:37:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:39:00</Time>
+   <Sender>A</Sender>
+   <Content>您能帮我送文件就十分感谢了！！！再让您付车费我就太过意不去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:40:00</Time>
+   <Sender>B</Sender>
+   <Content>好滴好滴～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:40:00</Time>
+   <Sender>A</Sender>
+   <Content>麻烦同学了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:40:00</Time>
+   <Sender>B</Sender>
+   <Content>没事没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:06:00</Time>
+   <Sender>B</Sender>
+   <Content>需要钱数</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:06:00</Time>
+   <Sender>B</Sender>
+   <Content>的截图</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:12:00</Time>
+   <Sender>B</Sender>
+   <Content>[实时通话结束]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:12:00</Time>
+   <Sender>A</Sender>
+   <Content>来啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:12:00</Time>
+   <Sender>B</Sender>
+   <Content>好滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:12:00</Time>
+   <Sender>B</Sender>
+   <Content>需要钱数的截图</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:12:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片: 7111e1477fb043b947f2c060cda71bb9.jpg(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:13:00</Time>
+   <Sender>B</Sender>
+   <Content>好滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:13:00</Time>
+   <Sender>B</Sender>
+   <Content>[实时通话结束]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:14:00</Time>
+   <Sender>A</Sender>
+   <Content>对了同学，那个快递的照片我再康康看看备注有没有问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:14:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片: 4bbb6dce3ec7a8aa8607a44ed9a89edc.jpg(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:15:00</Time>
+   <Sender>B</Sender>
+   <Content>完了已经走了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:15:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片: c2606810f3970be567f84ee9616ff25f.jpg(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:15:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:16:00</Time>
+   <Sender>A</Sender>
+   <Content>对对，就是这样，谢[sensitive]同学辣！！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:16:00</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:16:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:16:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:17:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:52:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片: 66e9009f68b9f70daddd190d799e9fc4.jpg(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:52:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片: 974e46ce1810140b2566aff768e1ce90.jpg(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:57:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:58:00</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 11:59:00</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 12:06:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 12:06:00</Time>
+   <Sender>B</Sender>
+   <Content>没事没事～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 15:57:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 14:05:00</Time>
+   <Sender>B</Sender>
+   <Content>同学你好，你的那些文件还在我这，但是我要毕业了，你这学期还会返校吗？或者这些文件我再寄给你？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>这样嘛，好的同学～那个不知道你方便把文件放到15楼的售货机上嘛，或者给楼爸之类的嘛～因为我有舍友在学校应该可以交接下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 16:42:00</Time>
+   <Sender>B</Sender>
+   <Content>要不你让舍友跟我约个时间取吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 16:42:00</Time>
+   <Sender>B</Sender>
+   <Content>我直接给他</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:22:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:22:00</Time>
+   <Sender>A</Sender>
+   <Content>好的学姐，谢[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:25:00</Time>
+   <Sender>B</Sender>
+   <Content>没事没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:28:00</Time>
+   <Sender>A</Sender>
+   <Content>您明天可以嘛，大概几点方便呢～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:28:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:36:00</Time>
+   <Sender>B</Sender>
+   <Content>今天晚上可以不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:36:00</Time>
+   <Sender>B</Sender>
+   <Content>我刚好出去吃饭就顺便放下去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:36:00</Time>
+   <Sender>B</Sender>
+   <Content>要不你让你舍友加我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 17:36:00</Time>
+   <Sender>B</Sender>
+   <Content>我给他送过去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 22:59:00</Time>
+   <Sender>A</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 22:59:00</Time>
+   <Sender>A</Sender>
+   <Content>不好意思我微信没开通知刚才才看见TAT</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 22:59:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 22:59:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯好的，我让我舍友加下您，谢[sensitive]学姐~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-10 23:01:00</Time>
+   <Sender>B</Sender>
+   <Content>没事没事</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

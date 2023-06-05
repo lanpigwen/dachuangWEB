@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 14:45:00</Time>
+   <Sender>A</Sender>
+   <Content>在吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 14:46:00</Time>
+   <Sender>A</Sender>
+   <Content>给你送奖状</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:35:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈我在参加开幕式彩排</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:35:00</Time>
+   <Sender>B</Sender>
+   <Content>谢[sensitive]泽[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>[疑问][疑问]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>你已经过去了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>早上八点就出发了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>晚上才能回来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>[破涕为笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>啥玩意</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>今天有个开幕式的彩排</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>你在哪里彩排的呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>鸟巢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>哇，到时候你也去开幕式吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>上次参与测试赛的大部分都要参加开幕式</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>真棒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>不一定</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>今天参加的到时选一部分吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>祁[sensitive]也去了是吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-15 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>没有</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

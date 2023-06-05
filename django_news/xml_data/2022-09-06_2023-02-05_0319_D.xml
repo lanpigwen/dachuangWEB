@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 20:02:00</Time>
+   <Sender>A</Sender>
+   <Content>我怎么没看到你母亲材料的回执呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:00:00</Time>
+   <Sender>B</Sender>
+   <Content>啊回执也要嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:01:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯，只有你父亲的回执</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:01:00</Time>
+   <Sender>B</Sender>
+   <Content>他们办理的时候直接把我那张留下了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:01:00</Time>
+   <Sender>B</Sender>
+   <Content>然后重新给了一份给我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:01:00</Time>
+   <Sender>A</Sender>
+   <Content>回执是需要对方支部要返回给学校的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:02:00</Time>
+   <Sender>A</Sender>
+   <Content>嘶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:02:00</Time>
+   <Sender>A</Sender>
+   <Content>还能联系到吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:03:00</Time>
+   <Sender>B</Sender>
+   <Content>我去问问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:03:00</Time>
+   <Sender>A</Sender>
+   <Content>上部分不需要，只要下面的回执</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:03:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯问下吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:03:00</Time>
+   <Sender>B</Sender>
+   <Content>他们当时直接把我那张放那里留档了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:05:00</Time>
+   <Sender>A</Sender>
+   <Content>你看看还能联系到吗，我这边也问一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-06 21:05:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

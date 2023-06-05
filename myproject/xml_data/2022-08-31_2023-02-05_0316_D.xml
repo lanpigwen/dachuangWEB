@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-31 23:40:00</Time>
+   <Sender>A</Sender>
+   <Content>你选张好看的冬奥志愿照片发我呗[嘿哈]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-31 23:41:00</Time>
+   <Sender>A</Sender>
+   <Content>学院要制作一个宣[sensitive]，学生活动板块需要一些信科er参加大大型活动的图片</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:11:00</Time>
+   <Sender>B</Sender>
+   <Content>好滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:11:00</Time>
+   <Sender>B</Sender>
+   <Content>有啥要求嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:11:00</Time>
+   <Sender>A</Sender>
+   <Content>最好是那种和代表团合照的～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:12:00</Time>
+   <Sender>B</Sender>
+   <Content>嘶那我没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:12:00</Time>
+   <Sender>B</Sender>
+   <Content>代表团走的那天我去参加闭幕式了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:12:00</Time>
+   <Sender>B</Sender>
+   <Content>没合上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:12:00</Time>
+   <Sender>A</Sender>
+   <Content>志愿工作时的照片也行~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:22:00</Time>
+   <Sender>B</Sender>
+   <Content>嘶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:22:00</Time>
+   <Sender>B</Sender>
+   <Content>工作时的照片也没人帮我拍好像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:32:00</Time>
+   <Sender>A</Sender>
+   <Content>没事没事~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-01 00:33:00</Time>
+   <Sender>A</Sender>
+   <Content>找不到没关系</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

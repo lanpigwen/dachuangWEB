@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:41:00</Time>
+   <Sender>A</Sender>
+   <Content>[其他消息: 堕]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:41:00</Time>
+   <Sender>A</Sender>
+   <Content>感觉这首歌也很e莫[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:41:00</Time>
+   <Sender>A</Sender>
+   <Content>我觉得蛮好听了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>B</Sender>
+   <Content>宫本武藏</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>B</Sender>
+   <Content>天下无双</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>A</Sender>
+   <Content>看了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我比你早看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我打王者的没看过吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>A</Sender>
+   <Content>噢噢噢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>A</Sender>
+   <Content>[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:52:00</Time>
+   <Sender>A</Sender>
+   <Content>确实挺e莫的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:53:00</Time>
+   <Sender>B</Sender>
+   <Content>我的阿通了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:53:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:54:00</Time>
+   <Sender>A</Sender>
+   <Content>发展如何</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:55:00</Time>
+   <Sender>B</Sender>
+   <Content>我没发展</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:56:00</Time>
+   <Sender>A</Sender>
+   <Content>没发展是最好的发展[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我没有阿[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:56:00</Time>
+   <Sender>A</Sender>
+   <Content>大学才几年 要珍惜青春</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:56:00</Time>
+   <Sender>A</Sender>
+   <Content>亮爷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:57:00</Time>
+   <Sender>B</Sender>
+   <Content>我先考个研究生呵呵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:57:00</Time>
+   <Sender>B</Sender>
+   <Content>在说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:57:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:57:00</Time>
+   <Sender>A</Sender>
+   <Content>加油亮爷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:57:00</Time>
+   <Sender>A</Sender>
+   <Content>带上那个妹妹一起考</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:57:00</Time>
+   <Sender>A</Sender>
+   <Content>[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:58:00</Time>
+   <Sender>B</Sender>
+   <Content>我只想考个南华就行了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:59:00</Time>
+   <Sender>B</Sender>
+   <Content>我真的不配</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:59:00</Time>
+   <Sender>B</Sender>
+   <Content>她真的好卵优秀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:59:00</Time>
+   <Sender>A</Sender>
+   <Content>没什么不配</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 21:59:00</Time>
+   <Sender>A</Sender>
+   <Content>那你就跟着他 向他靠拢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>A</Sender>
+   <Content>因为就算谈恋爱 也是要谈一起进步的恋爱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>A</Sender>
+   <Content>积极向上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>B</Sender>
+   <Content>你妈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>A</Sender>
+   <Content>好青年</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>A</Sender>
+   <Content>说真的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>B</Sender>
+   <Content>有个时候看到了我们两个都好意思讲话</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:00:00</Time>
+   <Sender>A</Sender>
+   <Content>一个人的优秀是可以带动另外一个人的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:01:00</Time>
+   <Sender>A</Sender>
+   <Content>啥意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:01:00</Time>
+   <Sender>B</Sender>
+   <Content>没晓得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:02:00</Time>
+   <Sender>A</Sender>
+   <Content>没什么不配 亮爷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:02:00</Time>
+   <Sender>B</Sender>
+   <Content>就是我感觉她晓得我喜欢她样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:02:00</Time>
+   <Sender>A</Sender>
+   <Content>那晓得了就晓得了呗 你也不用特意去忌讳什么 慢慢从好的方面想他靠拢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:03:00</Time>
+   <Sender>B</Sender>
+   <Content>我平时也没紧嘎微信聊天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:03:00</Time>
+   <Sender>B</Sender>
+   <Content>就见面打招呼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:03:00</Time>
+   <Sender>A</Sender>
+   <Content>她去自习室或者图书馆之类的地方白</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:03:00</Time>
+   <Sender>B</Sender>
+   <Content>老校区</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:03:00</Time>
+   <Sender>B</Sender>
+   <Content>没有图书馆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:03:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:04:00</Time>
+   <Sender>B</Sender>
+   <Content>我大三听他们说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:04:00</Time>
+   <Sender>B</Sender>
+   <Content>我们班可能去张[sensitive]医院</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>啥意识 去那干啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:04:00</Time>
+   <Sender>B</Sender>
+   <Content>上课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:05:00</Time>
+   <Sender>A</Sender>
+   <Content>她和你一个班吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:05:00</Time>
+   <Sender>B</Sender>
+   <Content>欧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:05:00</Time>
+   <Sender>B</Sender>
+   <Content>我觉得她不是我的阿通</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:05:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>反正多找机会 就是很自然的在一起学习或者什么共处的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>B</Sender>
+   <Content>mlb</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>阿[sensitive]会死 所以不是阿[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:06:00</Time>
+   <Sender>B</Sender>
+   <Content>我不急</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:07:00</Time>
+   <Sender>B</Sender>
+   <Content>医院多的是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:07:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:07:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:07:00</Time>
+   <Sender>A</Sender>
+   <Content>喜欢直接制服是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:07:00</Time>
+   <Sender>B</Sender>
+   <Content>6666</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:09:00</Time>
+   <Sender>B</Sender>
+   <Content>可能是我还没走出来吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:09:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 22:10:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 23:29:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 23:29:00</Time>
+   <Sender>B</Sender>
+   <Content>这个也很emo</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-12 23:29:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

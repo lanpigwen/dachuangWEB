@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:34:00</Time>
+   <Sender>A</Sender>
+   <Content>现在兰州快递封了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:36:00</Time>
+   <Sender>B</Sender>
+   <Content>为啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:36:00</Time>
+   <Sender>B</Sender>
+   <Content>我们西安前面挺严重的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:36:00</Time>
+   <Sender>B</Sender>
+   <Content>但是没封</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:36:00</Time>
+   <Sender>A</Sender>
+   <Content>咱也不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:36:00</Time>
+   <Sender>A</Sender>
+   <Content>淘宝卖家天天催我申请退款</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:36:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:37:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:37:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>B</Sender>
+   <Content>有一说一和之前手感完全不同</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>A</Sender>
+   <Content>羡慕</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>A</Sender>
+   <Content>要不你把新键盘寄给我，让我也感受一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>B</Sender>
+   <Content>y9000羡慕y7000</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:38:00</Time>
+   <Sender>B</Sender>
+   <Content>我理解不了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:39:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:39:00</Time>
+   <Sender>A</Sender>
+   <Content>有什么用呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:39:00</Time>
+   <Sender>A</Sender>
+   <Content>买不起游戏</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:39:00</Time>
+   <Sender>B</Sender>
+   <Content>。。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 17:39:00</Time>
+   <Sender>B</Sender>
+   <Content>压根不玩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 18:21:00</Time>
+   <Sender>C</Sender>
+   <Content>steam库[sensitive]里面百把个游戏</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 18:21:00</Time>
+   <Sender>C</Sender>
+   <Content>下都下不玩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-04 18:23:00</Time>
+   <Sender>A</Sender>
+   <Content>一时间不知道你是有钱还是能嫖了 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

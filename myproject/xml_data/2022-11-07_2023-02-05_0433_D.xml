@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-07 08:08:00</Time>
+   <Sender>A</Sender>
+   <Content>咱们要不还是讨论下？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-07 08:08:00</Time>
+   <Sender>B</Sender>
+   <Content>可以呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-07 08:09:00</Time>
+   <Sender>A</Sender>
+   <Content>大家都去查一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-07 08:11:00</Time>
+   <Sender>C</Sender>
+   <Content>你们坐在一起吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-07 08:11:00</Time>
+   <Sender>C</Sender>
+   <Content>我来找你们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-07 08:11:00</Time>
+   <Sender>B</Sender>
+   <Content>没 你们在哪啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-07 08:12:00</Time>
+   <Sender>A</Sender>
+   <Content>咱们去靠墙的那四个吧</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

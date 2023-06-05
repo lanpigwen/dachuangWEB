@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:39:00</Time>
+   <Sender>A</Sender>
+   <Content>你作息好健康啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:41:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈刚醒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:41:00</Time>
+   <Sender>B</Sender>
+   <Content>阳[sensitive]了睡的早</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:41:00</Time>
+   <Sender>A</Sender>
+   <Content>好家伙 啥时候阳[sensitive]的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:41:00</Time>
+   <Sender>B</Sender>
+   <Content>两天前</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:41:00</Time>
+   <Sender>A</Sender>
+   <Content>[发呆]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:41:00</Time>
+   <Sender>A</Sender>
+   <Content>被谁传染的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:41:00</Time>
+   <Sender>A</Sender>
+   <Content>你这是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:42:00</Time>
+   <Sender>B</Sender>
+   <Content>不晓得[流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:42:00</Time>
+   <Sender>A</Sender>
+   <Content>[流泪]那你家里人咋样了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:42:00</Time>
+   <Sender>A</Sender>
+   <Content>你症状咋样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:42:00</Time>
+   <Sender>B</Sender>
+   <Content>还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:42:00</Time>
+   <Sender>A</Sender>
+   <Content>现在到了哪个阶段了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:43:00</Time>
+   <Sender>B</Sender>
+   <Content>就发热浑身疼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:43:00</Time>
+   <Sender>B</Sender>
+   <Content>现在还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:44:00</Time>
+   <Sender>A</Sender>
+   <Content>好家伙我懂</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 07:45:00</Time>
+   <Sender>A</Sender>
+   <Content>还是得多喝热水 多躺床 多吃润嗓子的药</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 08:01:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 08:01:00</Time>
+   <Sender>A</Sender>
+   <Content>祝你早日康复</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 08:02:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈谢[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 08:02:00</Time>
+   <Sender>A</Sender>
+   <Content>真心的！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 08:02:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

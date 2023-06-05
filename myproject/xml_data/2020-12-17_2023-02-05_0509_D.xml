@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:02:00</Time>
+   <Sender>A</Sender>
+   <Content>有打印近代史PPT吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:09:00</Time>
+   <Sender>B</Sender>
+   <Content>没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:09:00</Time>
+   <Sender>A</Sender>
+   <Content>那咋办(・o・)</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:09:00</Time>
+   <Sender>B</Sender>
+   <Content>咋啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:09:00</Time>
+   <Sender>A</Sender>
+   <Content>我看这多拉打印都在维修</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:09:00</Time>
+   <Sender>A</Sender>
+   <Content>明天就考试了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:10:00</Time>
+   <Sender>A</Sender>
+   <Content>不用准备资料吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:14:00</Time>
+   <Sender>B</Sender>
+   <Content>我也不知道，感觉好像书上都有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:14:00</Time>
+   <Sender>A</Sender>
+   <Content>那就是不准备打印PPT了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:15:00</Time>
+   <Sender>B</Sender>
+   <Content>看吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:16:00</Time>
+   <Sender>A</Sender>
+   <Content>。。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:16:00</Time>
+   <Sender>A</Sender>
+   <Content>看到你明天还怎么打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:16:00</Time>
+   <Sender>B</Sender>
+   <Content>着急啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:18:00</Time>
+   <Sender>A</Sender>
+   <Content>昊雯姐说不用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:18:00</Time>
+   <Sender>A</Sender>
+   <Content>直接翻书就行了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-17 19:18:00</Time>
+   <Sender>A</Sender>
+   <Content>书上有</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

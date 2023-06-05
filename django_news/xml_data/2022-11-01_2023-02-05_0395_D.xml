@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:10:00</Time>
+   <Sender>A</Sender>
+   <Content>不过我怀疑他有喜欢的人了[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:11:00</Time>
+   <Sender>B</Sender>
+   <Content>藏的挺深</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:11:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:11:00</Time>
+   <Sender>A</Sender>
+   <Content>/个人猜测个人猜测</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:12:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:12:00</Time>
+   <Sender>B</Sender>
+   <Content>最近不少人在问他</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:12:00</Time>
+   <Sender>B</Sender>
+   <Content>不知道是不是一个人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:13:00</Time>
+   <Sender>A</Sender>
+   <Content>咋这么火啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:15:00</Time>
+   <Sender>A</Sender>
+   <Content>[合十]给我们助力杰[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:15:00</Time>
+   <Sender>A</Sender>
+   <Content>多逼问一下勇子哥的信息哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-01 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

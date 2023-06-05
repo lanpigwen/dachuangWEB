@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:30:00</Time>
+   <Sender>A</Sender>
+   <Content>这张</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:30:00</Time>
+   <Sender>A</Sender>
+   <Content>多[sensitive]n</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:30:00</Time>
+   <Sender>B</Sender>
+   <Content>蚌埠住了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:30:00</Time>
+   <Sender>A</Sender>
+   <Content>[疑问]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:31:00</Time>
+   <Sender>A</Sender>
+   <Content>这样子BT</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:33:00</Time>
+   <Sender>A</Sender>
+   <Content>不许偷我表情包</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:33:00</Time>
+   <Sender>A</Sender>
+   <Content>我才是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:33:00</Time>
+   <Sender>A</Sender>
+   <Content>绅士修[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:34:00</Time>
+   <Sender>B</Sender>
+   <Content>拿走了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:34:00</Time>
+   <Sender>A</Sender>
+   <Content>lhc忠实粉丝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-09 13:35:00</Time>
+   <Sender>B</Sender>
+   <Content>我是刘[sensitive]的小舔狗[流泪]</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

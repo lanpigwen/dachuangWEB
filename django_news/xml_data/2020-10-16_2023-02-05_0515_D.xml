@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:17:00</Time>
+   <Sender>A</Sender>
+   <Content>你走了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:17:00</Time>
+   <Sender>B</Sender>
+   <Content>我打不得也不打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:17:00</Time>
+   <Sender>A</Sender>
+   <Content>奥对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:17:00</Time>
+   <Sender>B</Sender>
+   <Content>自费疫苗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:17:00</Time>
+   <Sender>A</Sender>
+   <Content>普[sensitive]佳呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:17:00</Time>
+   <Sender>B</Sender>
+   <Content>她不打啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:18:00</Time>
+   <Sender>B</Sender>
+   <Content>你要带身份证啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:18:00</Time>
+   <Sender>A</Sender>
+   <Content>没拿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:18:00</Time>
+   <Sender>B</Sender>
+   <Content>这。。我也不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-16 13:18:00</Time>
+   <Sender>B</Sender>
+   <Content>说是要带身份证谁知道呢</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

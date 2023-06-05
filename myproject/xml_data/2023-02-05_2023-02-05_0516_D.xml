@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:43:00</Time>
+   <Sender>A</Sender>
+   <Content>你啥时候回来的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:43:00</Time>
+   <Sender>A</Sender>
+   <Content>也不联系我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:45:00</Time>
+   <Sender>B</Sender>
+   <Content>我12.11就回来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:45:00</Time>
+   <Sender>B</Sender>
+   <Content>回来但作业没交</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:45:00</Time>
+   <Sender>B</Sender>
+   <Content>忙到1.7</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:45:00</Time>
+   <Sender>B</Sender>
+   <Content>这几天断断续续还得开会「流泪」「流泪」「流泪」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:45:00</Time>
+   <Sender>A</Sender>
+   <Content>大忙人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:45:00</Time>
+   <Sender>A</Sender>
+   <Content>「旺柴」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:46:00</Time>
+   <Sender>B</Sender>
+   <Content>唉我感觉我是一点也不会安排时间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:46:00</Time>
+   <Sender>A</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:46:00</Time>
+   <Sender>A</Sender>
+   <Content>反正感觉就是你一直在忙</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>「裂开」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>B</Sender>
+   <Content>我家养了个猫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>好耶好耶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>英短蓝猫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>你买的？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>B</Sender>
+   <Content>我爸弄的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>A</Sender>
+   <Content>爱了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>A</Sender>
+   <Content>我好喜欢缅因</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>B</Sender>
+   <Content>缅因是不是长毛那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>A</Sender>
+   <Content>等我住上大别墅再说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>A</Sender>
+   <Content>超帅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:49:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>超大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>性格超好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>1.2m成年</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>B</Sender>
+   <Content>是了是了俺也觉得好好看那猫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>B</Sender>
+   <Content>我靠真大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>能溜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>半条狗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 19:51:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:38:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐开学大几呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:38:00</Time>
+   <Sender>B</Sender>
+   <Content>大二</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:39:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:39:00</Time>
+   <Sender>A</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>B</Sender>
+   <Content>你妈妈是医生？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>对对对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>妇产科医生</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>B</Sender>
+   <Content>我给你妈妈打电话她说她在手术台</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>在矿务局医院</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>有需要可以来找我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:40:00</Time>
+   <Sender>B</Sender>
+   <Content>「呲牙」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:41:00</Time>
+   <Sender>A</Sender>
+   <Content>她技术很好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

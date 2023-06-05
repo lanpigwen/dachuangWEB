@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 16:48:00</Time>
+   <Sender>A</Sender>
+   <Content>第二题的第一问意思是比如输入3那就转成0011？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 16:57:00</Time>
+   <Sender>B</Sender>
+   <Content>对的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 16:57:00</Time>
+   <Sender>B</Sender>
+   <Content>十进制转二进制</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>00[sensitive]00</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>是16位的0011</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:02:00</Time>
+   <Sender>A</Sender>
+   <Content>只能输小于10的十进制数是不是？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:09:00</Time>
+   <Sender>B</Sender>
+   <Content>没有吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:09:00</Time>
+   <Sender>B</Sender>
+   <Content>我还没试过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:09:00</Time>
+   <Sender>A</Sender>
+   <Content>我哭了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:09:00</Time>
+   <Sender>A</Sender>
+   <Content>你在哪啊现在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:10:00</Time>
+   <Sender>B</Sender>
+   <Content>宿舍</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:10:00</Time>
+   <Sender>B</Sender>
+   <Content>我试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:10:00</Time>
+   <Sender>A</Sender>
+   <Content>还想让你教教我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:10:00</Time>
+   <Sender>B</Sender>
+   <Content>可以视频</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:10:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:10:00</Time>
+   <Sender>B</Sender>
+   <Content>今天太冷了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:11:00</Time>
+   <Sender>B</Sender>
+   <Content>冻死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:11:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯，，是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-25 17:11:00</Time>
+   <Sender>A</Sender>
+   <Content>你大概给我讲讲</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

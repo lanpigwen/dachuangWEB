@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 15:55:00</Time>
+   <Sender>A</Sender>
+   <Content>这个是和职务分冲突的吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 15:56:00</Time>
+   <Sender>A</Sender>
+   <Content>就是只能加一个最高的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:00:00</Time>
+   <Sender>B</Sender>
+   <Content>应该不冲突吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:00:00</Time>
+   <Sender>A</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:00:00</Time>
+   <Sender>B</Sender>
+   <Content>这是优秀社团的加分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:00:00</Time>
+   <Sender>B</Sender>
+   <Content>我问一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:00:00</Time>
+   <Sender>A</Sender>
+   <Content>ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:06:00</Time>
+   <Sender>B</Sender>
+   <Content>先评吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:06:00</Time>
+   <Sender>B</Sender>
+   <Content>冲突了会取高的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:06:00</Time>
+   <Sender>B</Sender>
+   <Content>不影响</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:09:00</Time>
+   <Sender>A</Sender>
+   <Content>行，主要是名额有限，我们人又较多，所以还是希望把名额给最需要的人，麻烦再帮忙问问[调皮]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:09:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯他们也在问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:10:00</Time>
+   <Sender>B</Sender>
+   <Content>他们回我了我再告诉你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-03 16:10:00</Time>
+   <Sender>A</Sender>
+   <Content>ok</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

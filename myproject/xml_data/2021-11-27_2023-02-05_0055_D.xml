@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:16:00</Time>
+   <Sender>A</Sender>
+   <Content>俺的宝[sensitive]追番软件</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:16:00</Time>
+   <Sender>A</Sender>
+   <Content>分享给你们了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:16:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>有这玩意</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>不早发</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>我不是之前给你发了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>害的我冲大会员</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>这不b站看弹幕的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>那确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:18:00</Time>
+   <Sender>B</Sender>
+   <Content>这个软件弹幕太少了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:18:00</Time>
+   <Sender>A</Sender>
+   <Content>不过比大部分好了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:18:00</Time>
+   <Sender>A</Sender>
+   <Content>还有弹幕</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:18:00</Time>
+   <Sender>A</Sender>
+   <Content>而且资源比b站多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:18:00</Time>
+   <Sender>A</Sender>
+   <Content>还快</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>A</Sender>
+   <Content>宿命都第八集了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>A</Sender>
+   <Content>b站才3集</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>A</Sender>
+   <Content>直接体验五倍大会员的快乐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>B</Sender>
+   <Content>那确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>B</Sender>
+   <Content>我宿命边吃饭边看完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>B</Sender>
+   <Content>本来觉得一般</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:19:00</Time>
+   <Sender>A</Sender>
+   <Content>还可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:20:00</Time>
+   <Sender>B</Sender>
+   <Content>但是看着看着看完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:20:00</Time>
+   <Sender>B</Sender>
+   <Content>剧情属实一般</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:20:00</Time>
+   <Sender>B</Sender>
+   <Content>画的好看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:20:00</Time>
+   <Sender>A</Sender>
+   <Content>女主前后性格我都喜欢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:20:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:20:00</Time>
+   <Sender>A</Sender>
+   <Content>可能女主太好看了吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:20:00</Time>
+   <Sender>A</Sender>
+   <Content>(lsp上线)</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:21:00</Time>
+   <Sender>B</Sender>
+   <Content>我喜欢男主</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:21:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:21:00</Time>
+   <Sender>B</Sender>
+   <Content>男主也挺帅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:21:00</Time>
+   <Sender>A</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:21:00</Time>
+   <Sender>B</Sender>
+   <Content>画的确实可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:21:00</Time>
+   <Sender>B</Sender>
+   <Content>但是剧情拉了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:22:00</Time>
+   <Sender>B</Sender>
+   <Content>无限列车感觉一集内容好少</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:22:00</Time>
+   <Sender>A</Sender>
+   <Content>你知道什么叫剧情拉吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:22:00</Time>
+   <Sender>A</Sender>
+   <Content>毕竟一部电影分12集</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:22:00</Time>
+   <Sender>A</Sender>
+   <Content>那个进化果实那部番</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>B</Sender>
+   <Content>剧情要是好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>A</Sender>
+   <Content>看的时候不能带🧠 </Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>A</Sender>
+   <Content>不然不能正常看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>B</Sender>
+   <Content>这画风这部番能爆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>A</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>A</Sender>
+   <Content>推广的也少吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>B</Sender>
+   <Content>那部番早不看了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>B</Sender>
+   <Content>辣鸡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:23:00</Time>
+   <Sender>A</Sender>
+   <Content>也有这部分原因</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:24:00</Time>
+   <Sender>A</Sender>
+   <Content>本季度屑王[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:24:00</Time>
+   <Sender>A</Sender>
+   <Content>进化果实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:24:00</Time>
+   <Sender>B</Sender>
+   <Content>看了4集智商受到侮辱了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:24:00</Time>
+   <Sender>A</Sender>
+   <Content>真的剧情垃圾</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:25:00</Time>
+   <Sender>A</Sender>
+   <Content>看这部番需要临时摘掉脑子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:25:00</Time>
+   <Sender>B</Sender>
+   <Content>好多好番都是经费问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:25:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:25:00</Time>
+   <Sender>B</Sender>
+   <Content>真的无语😓 </Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:25:00</Time>
+   <Sender>A</Sender>
+   <Content>这部番那都有问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:25:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:25:00</Time>
+   <Sender>C</Sender>
+   <Content>进化果实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>反正我不看了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>C</Sender>
+   <Content>看了一集感觉良好啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>前两集</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>C</Sender>
+   <Content>但那个评分我笑了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>后面直接劝退</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>前面9.几</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>第三集7.9</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>C</Sender>
+   <Content>后面咋了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>第四集直接4</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>A</Sender>
+   <Content>就第一集不错了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>A</Sender>
+   <Content>后面</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>B</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:26:00</Time>
+   <Sender>A</Sender>
+   <Content>你看看吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:27:00</Time>
+   <Sender>C</Sender>
+   <Content>算了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:27:00</Time>
+   <Sender>B</Sender>
+   <Content>越出越辣鸡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:27:00</Time>
+   <Sender>A</Sender>
+   <Content>看了就知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:27:00</Time>
+   <Sender>A</Sender>
+   <Content>看！！！！！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:27:00</Time>
+   <Sender>C</Sender>
+   <Content>烂就浪费时间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:27:00</Time>
+   <Sender>A</Sender>
+   <Content>不能只有我俩的智商被侮辱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:27:00</Time>
+   <Sender>C</Sender>
+   <Content>nm</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:28:00</Time>
+   <Sender>B</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:28:00</Time>
+   <Sender>B</Sender>
+   <Content>还有人给五星就是这个原因</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:28:00</Time>
+   <Sender>B</Sender>
+   <Content>要让更多的人受害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:28:00</Time>
+   <Sender>B</Sender>
+   <Content>[裂开]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:29:00</Time>
+   <Sender>A</Sender>
+   <Content>我给了5星</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:30:00</Time>
+   <Sender>B</Sender>
+   <Content>牛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:30:00</Time>
+   <Sender>B</Sender>
+   <Content>我给了两星</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-27 00:30:00</Time>
+   <Sender>B</Sender>
+   <Content>实在给不下去 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

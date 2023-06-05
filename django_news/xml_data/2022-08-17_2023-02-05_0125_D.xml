@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:33:00</Time>
+   <Sender>A</Sender>
+   <Content>你好久来芷江噢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:34:00</Time>
+   <Sender>A</Sender>
+   <Content>爷爷这好久没跟亮孙[sensitive]单挑了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:34:00</Time>
+   <Sender>B</Sender>
+   <Content>没好嗨</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:34:00</Time>
+   <Sender>B</Sender>
+   <Content>老子在你不喊老子打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:34:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:34:00</Time>
+   <Sender>B</Sender>
+   <Content>城里卵都没好嗨</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:34:00</Time>
+   <Sender>B</Sender>
+   <Content>老子在吉首的状态好点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:34:00</Time>
+   <Sender>B</Sender>
+   <Content>[发怒][发怒][发怒]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>A</Sender>
+   <Content>没女朋友的地方都不好嗨</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>B</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>B</Sender>
+   <Content>下次来吉首</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>B</Sender>
+   <Content>放假放的早</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>B</Sender>
+   <Content>我请你喝酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>B</Sender>
+   <Content>老子看你有jin噶狠</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈还要主场优势是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:35:00</Time>
+   <Sender>B</Sender>
+   <Content>叫死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:36:00</Time>
+   <Sender>B</Sender>
+   <Content>了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:36:00</Time>
+   <Sender>B</Sender>
+   <Content>妈的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:36:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:36:00</Time>
+   <Sender>B</Sender>
+   <Content>叫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:36:00</Time>
+   <Sender>B</Sender>
+   <Content>看你喝红牛桶有多牛好吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:36:00</Time>
+   <Sender>B</Sender>
+   <Content>[色]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:36:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:37:00</Time>
+   <Sender>A</Sender>
+   <Content>小趴菜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:37:00</Time>
+   <Sender>B</Sender>
+   <Content>白酒我不行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:37:00</Time>
+   <Sender>B</Sender>
+   <Content>洋酒你真的没错鱼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:37:00</Time>
+   <Sender>B</Sender>
+   <Content>老弟</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:37:00</Time>
+   <Sender>B</Sender>
+   <Content>上次那江[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:37:00</Time>
+   <Sender>B</Sender>
+   <Content>老子真的要死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:37:00</Time>
+   <Sender>A</Sender>
+   <Content>笑死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:38:00</Time>
+   <Sender>B</Sender>
+   <Content>杨[sensitive]酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:38:00</Time>
+   <Sender>B</Sender>
+   <Content>我转你妈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:38:00</Time>
+   <Sender>B</Sender>
+   <Content>真的死人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:38:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:38:00</Time>
+   <Sender>B</Sender>
+   <Content>狗都不喝杨[sensitive]酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:38:00</Time>
+   <Sender>A</Sender>
+   <Content>饮料</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:38:00</Time>
+   <Sender>B</Sender>
+   <Content>偶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:39:00</Time>
+   <Sender>B</Sender>
+   <Content>饮料</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:39:00</Time>
+   <Sender>B</Sender>
+   <Content>哪个第二天莫[sensitive]都记不到</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:39:00</Time>
+   <Sender>B</Sender>
+   <Content>晓得是哪个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:39:00</Time>
+   <Sender>B</Sender>
+   <Content>欧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:39:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-17 23:41:00</Time>
+   <Sender>B</Sender>
+   <Content>叫死了你 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

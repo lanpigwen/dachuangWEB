@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:14:00</Time>
+   <Sender>A</Sender>
+   <Content>你认识申[sensitive]吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:14:00</Time>
+   <Sender>B</Sender>
+   <Content>不认识</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:14:00</Time>
+   <Sender>B</Sender>
+   <Content>听说过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:15:00</Time>
+   <Sender>A</Sender>
+   <Content>感觉他挺会的 到时候问问呗[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:15:00</Time>
+   <Sender>A</Sender>
+   <Content>说不定一开始就不折磨了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:15:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:17:00</Time>
+   <Sender>A</Sender>
+   <Content>啊对了 是不还没人跟你说 因为张[sensitive]被隔离了然后找了你，他们那边不给换名单，你今天可能得报张[sensitive]的名字[苦涩]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:17:00</Time>
+   <Sender>A</Sender>
+   <Content>要是咱们队获奖了 到时候附加分表上我把名字改了就成</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:18:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈这也行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:18:00</Time>
+   <Sender>B</Sender>
+   <Content>ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:19:00</Time>
+   <Sender>A</Sender>
+   <Content>好滴好滴 要是获奖了尽管放心哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:19:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈我对获奖倒是没啥追求</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:20:00</Time>
+   <Sender>A</Sender>
+   <Content>那就玩得开心</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 11:20:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈加油</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

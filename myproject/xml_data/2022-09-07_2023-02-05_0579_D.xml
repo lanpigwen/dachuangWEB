@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>我们延迟开学了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:14:00</Time>
+   <Sender>B</Sender>
+   <Content>啥时候开啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>我还在家待着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>好想上学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:15:00</Time>
+   <Sender>A</Sender>
+   <Content>开学前一天让退票</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:15:00</Time>
+   <Sender>B</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:15:00</Time>
+   <Sender>B</Sender>
+   <Content>山东疫情严重吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:15:00</Time>
+   <Sender>A</Sender>
+   <Content>不啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:16:00</Time>
+   <Sender>A</Sender>
+   <Content>主要是我们校区所在的高[sensitive]有一两个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>北京也挺多的现在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>封校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-07 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>哪儿也去不了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

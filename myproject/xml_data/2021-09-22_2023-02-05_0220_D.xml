@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:17:00</Time>
+   <Sender>A</Sender>
+   <Content>题目就是这么一道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:18:00</Time>
+   <Sender>A</Sender>
+   <Content>要不你写一个试试[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:18:00</Time>
+   <Sender>B</Sender>
+   <Content>得用C++吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:18:00</Time>
+   <Sender>A</Sender>
+   <Content>好像用c也行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:20:00</Time>
+   <Sender>B</Sender>
+   <Content>行我试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:23:00</Time>
+   <Sender>B</Sender>
+   <Content>#include&lt;iostream&gt; using namespace std; int [sensitive]in() { cout &lt;&lt; &quot;我爱编程&quot; &lt;&lt; endl; return 0; }</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:23:00</Time>
+   <Sender>B</Sender>
+   <Content>你再试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:24:00</Time>
+   <Sender>B</Sender>
+   <Content>感觉好像一样的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>没注意审题哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>还有个感叹号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>我加上试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:26:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈没注意</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:26:00</Time>
+   <Sender>A</Sender>
+   <Content>你加上试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:27:00</Time>
+   <Sender>A</Sender>
+   <Content>题目说感叹号是中文的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:27:00</Time>
+   <Sender>B</Sender>
+   <Content>#include&lt;iostream&gt; using namespace std; int [sensitive]in() { cout &lt;&lt; &quot;我爱编程！&quot; &lt;&lt; endl; return 0; }</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:27:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯还是可以的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

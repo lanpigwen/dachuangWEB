@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[视频]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>有点像你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你是好久没看到我咯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你好久回去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[地理位置]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我就没开过学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>？？？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>那你这个寒假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>挺久的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>快回来了我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我很孤单</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你去问他是不是姓徐[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>和他交朋友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你就不孤单了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

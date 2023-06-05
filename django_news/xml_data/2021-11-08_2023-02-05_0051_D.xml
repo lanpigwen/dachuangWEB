@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:53:00</Time>
+   <Sender>A</Sender>
+   <Content>家人们撑不住了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:53:00</Time>
+   <Sender>A</Sender>
+   <Content>我学的是个牛[sensitive]专业</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:53:00</Time>
+   <Sender>A</Sender>
+   <Content>你们有没有读书笔记啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:53:00</Time>
+   <Sender>A</Sender>
+   <Content>哲学论文啊 发我呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:53:00</Time>
+   <Sender>B</Sender>
+   <Content>我们史[sensitive]要写</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:53:00</Time>
+   <Sender>A</Sender>
+   <Content>我要死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:54:00</Time>
+   <Sender>B</Sender>
+   <Content>但是我一本也没看过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:54:00</Time>
+   <Sender>B</Sender>
+   <Content>难受</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[流泪][流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 20:54:00</Time>
+   <Sender>A</Sender>
+   <Content>有没有笔记</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 21:05:00</Time>
+   <Sender>C</Sender>
+   <Content>没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 21:05:00</Time>
+   <Sender>C</Sender>
+   <Content>我们只有马原</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 21:41:00</Time>
+   <Sender>D</Sender>
+   <Content>长这么大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 21:41:00</Time>
+   <Sender>D</Sender>
+   <Content>没有笔记</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 21:41:00</Time>
+   <Sender>D</Sender>
+   <Content>不知道什么样子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-08 23:01:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

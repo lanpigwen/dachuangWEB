@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:31:00</Time>
+   <Sender>A</Sender>
+   <Content>我想过了15回去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:33:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:33:00</Time>
+   <Sender>B</Sender>
+   <Content>完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:33:00</Time>
+   <Sender>B</Sender>
+   <Content>论文要写不完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:34:00</Time>
+   <Sender>B</Sender>
+   <Content>我就负责两个部分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:34:00</Time>
+   <Sender>A</Sender>
+   <Content>论文好烦……</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:34:00</Time>
+   <Sender>B</Sender>
+   <Content>但是写不完</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:34:00</Time>
+   <Sender>B</Sender>
+   <Content>今天通宵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:34:00</Time>
+   <Sender>A</Sender>
+   <Content>不是2/1截止？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:34:00</Time>
+   <Sender>B</Sender>
+   <Content>是呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:34:00</Time>
+   <Sender>B</Sender>
+   <Content>但是，</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-28 17:35:00</Time>
+   <Sender>B</Sender>
+   <Content>得赶紧弄完，还有别的事儿呢</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

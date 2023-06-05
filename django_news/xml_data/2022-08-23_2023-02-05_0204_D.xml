@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:28:00</Time>
+   <Sender>A</Sender>
+   <Content>黄老师在宿舍吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:28:00</Time>
+   <Sender>B</Sender>
+   <Content>在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>B</Sender>
+   <Content>咋说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>A</Sender>
+   <Content>去看看磊[sensitive]子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>B</Sender>
+   <Content>他咋了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>A</Sender>
+   <Content>回我了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>A</Sender>
+   <Content>好像是又受伤了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>A</Sender>
+   <Content>心伤</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>B</Sender>
+   <Content>他人不在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:29:00</Time>
+   <Sender>B</Sender>
+   <Content>发消息也不回</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:30:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:30:00</Time>
+   <Sender>A</Sender>
+   <Content>看到了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:30:00</Time>
+   <Sender>A</Sender>
+   <Content>想谈恋爱就是这个结果</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:30:00</Time>
+   <Sender>A</Sender>
+   <Content>狗都不谈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:30:00</Time>
+   <Sender>B</Sender>
+   <Content>啧啧啧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-23 19:30:00</Time>
+   <Sender>A</Sender>
+   <Content>我去操场看看</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

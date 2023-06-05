@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:39:00</Time>
+   <Sender>A</Sender>
+   <Content>行，那学习生活上还可以对吧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:40:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:40:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯，那就好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:40:00</Time>
+   <Sender>B</Sender>
+   <Content>学姐呢？最近开心吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:41:00</Time>
+   <Sender>A</Sender>
+   <Content>还好还好哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:41:00</Time>
+   <Sender>A</Sender>
+   <Content>你高中是在哪上的呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:41:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:41:00</Time>
+   <Sender>B</Sender>
+   <Content>我高中在太谷县上的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:42:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦，太谷一中</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:42:00</Time>
+   <Sender>A</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:42:00</Time>
+   <Sender>B</Sender>
+   <Content>二中</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:42:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦，我姥姥家就是太谷的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:42:00</Time>
+   <Sender>A</Sender>
+   <Content>那你应该算是很棒的学生了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:42:00</Time>
+   <Sender>B</Sender>
+   <Content>真的嘛(//∇//)</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:42:00</Time>
+   <Sender>A</Sender>
+   <Content>对，我比较了解</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:43:00</Time>
+   <Sender>B</Sender>
+   <Content>怪不得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:43:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:44:00</Time>
+   <Sender>A</Sender>
+   <Content>你家是在太原哪来着？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:44:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-19 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我家在万柏林区</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

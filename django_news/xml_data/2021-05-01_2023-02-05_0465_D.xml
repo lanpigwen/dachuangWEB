@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>你一个月生活费多少钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:36:00</Time>
+   <Sender>B</Sender>
+   <Content>1500</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:37:00</Time>
+   <Sender>A</Sender>
+   <Content>够了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:37:00</Time>
+   <Sender>A</Sender>
+   <Content>不少了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:38:00</Time>
+   <Sender>B</Sender>
+   <Content>你干啥了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:38:00</Time>
+   <Sender>A</Sender>
+   <Content>看娃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:39:00</Time>
+   <Sender>B</Sender>
+   <Content>辛苦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:44:00</Time>
+   <Sender>A</Sender>
+   <Content>[照片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:50:00</Time>
+   <Sender>B</Sender>
+   <Content>「呲牙」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:50:00</Time>
+   <Sender>B</Sender>
+   <Content>搬进新家啦？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:50:00</Time>
+   <Sender>B</Sender>
+   <Content>挺好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:50:00</Time>
+   <Sender>B</Sender>
+   <Content>带娃辛苦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-01 12:52:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

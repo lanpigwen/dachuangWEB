@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>小米平板5</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>贼香</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>香爆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>性价比之王[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>[sensitive]丝挚爱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:51:00</Time>
+   <Sender>B</Sender>
+   <Content>多少钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>C</Sender>
+   <Content>安[sensitive]平板我还存在偏见</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>A</Sender>
+   <Content>1999</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>A</Sender>
+   <Content>骁龙860</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>B</Sender>
+   <Content>这么便宜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>A</Sender>
+   <Content>四扬声器</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>B</Sender>
+   <Content>真假！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:52:00</Time>
+   <Sender>A</Sender>
+   <Content>真的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:53:00</Time>
+   <Sender>C</Sender>
+   <Content>虽然只是基础款</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>C</Sender>
+   <Content>ipad2021不香嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>B</Sender>
+   <Content>多大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>C</Sender>
+   <Content>2699</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>无钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>B</Sender>
+   <Content>没钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>C</Sender>
+   <Content>就贵个600</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>ipencil那么贵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>B</Sender>
+   <Content>你买吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>C</Sender>
+   <Content>那确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>B</Sender>
+   <Content>这个雀食</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>小米的笔只要398</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:54:00</Time>
+   <Sender>B</Sender>
+   <Content>算了买啥买，大学都过了四分之一了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>D</Sender>
+   <Content>我买了一支一代</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>我是[sensitive]丝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>D</Sender>
+   <Content>599</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>我只配小米</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>好贵啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>D</Sender>
+   <Content>电脑我才1000左右</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>你有平板？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>不买了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>拿笔写</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>D</Sender>
+   <Content>[打脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>C</Sender>
+   <Content>我室友好像是700多还是900多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>这个便宜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>笑死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>我电脑5000</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>C</Sender>
+   <Content>二手的嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>[sensitive]，买亏了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>人间真实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>D</Sender>
+   <Content>ipad</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>为啥啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>D</Sender>
+   <Content>我说的是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>D</Sender>
+   <Content>二手的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>A</Sender>
+   <Content>电脑哪来的1000</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>捡漏？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我就说哪来的1000</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>D</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>D</Sender>
+   <Content>只是不能指纹</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>帮我也捡一个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>D</Sender>
+   <Content>其他都还好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>早知道买个二手</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>指不指纹无所谓</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>顺带买个平板</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>主要是我朋友也想要一个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>C</Sender>
+   <Content>我确实想要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我也</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:57:00</Time>
+   <Sender>C</Sender>
+   <Content>我之前看好像挺多1000多的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:57:00</Time>
+   <Sender>C</Sender>
+   <Content>看你买哪款吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:57:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:57:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在穷了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:57:00</Time>
+   <Sender>A</Sender>
+   <Content>谁不穷呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-29 08:57:00</Time>
+   <Sender>C</Sender>
+   <Content>比如ipad2019就差不多是1000+的价位 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

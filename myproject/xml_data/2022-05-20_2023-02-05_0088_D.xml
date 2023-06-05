@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 20:36:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 20:36:00</Time>
+   <Sender>A</Sender>
+   <Content>帮我搞个牛奶漏</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 20:36:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 20:36:00</Time>
+   <Sender>A</Sender>
+   <Content>我和她在一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 20:36:00</Time>
+   <Sender>A</Sender>
+   <Content>喝酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 22:12:00</Time>
+   <Sender>B</Sender>
+   <Content>啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 22:12:00</Time>
+   <Sender>B</Sender>
+   <Content>搞屁</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 22:13:00</Time>
+   <Sender>A</Sender>
+   <Content>刷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 22:13:00</Time>
+   <Sender>A</Sender>
+   <Content>算了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 22:13:00</Time>
+   <Sender>A</Sender>
+   <Content>走了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:12:00</Time>
+   <Sender>A</Sender>
+   <Content>我和</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>那个女的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>说了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>好多哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>无语了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>B</Sender>
+   <Content>耶嘿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>B</Sender>
+   <Content>都说了啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>我就说我以前</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>和对她啥感觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>也不打算怎么进一步</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>你以前</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>说你以前的恋爱史咩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>然后呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>她说啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:17:00</Time>
+   <Sender>A</Sender>
+   <Content>叫我忘掉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:17:00</Time>
+   <Sender>A</Sender>
+   <Content>重新开始呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>说的对啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>[偷笑][偷笑][偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>无语了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>还有呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>哪有这么容易啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>她还说啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>她还说啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>都快两年了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>我还是真的晚上会想起</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>唉呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>也该慢慢忘记了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>给自己找点事做</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>关于这个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>她咋说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:22:00</Time>
+   <Sender>A</Sender>
+   <Content>[其他消息: 会打呼噜的月亮🌙和纳米修[sensitive]的聊天记录]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:23:00</Time>
+   <Sender>A</Sender>
+   <Content>没啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>我他妈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>笑死我了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>你个死直男</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>我觉得你真的是很beautiful</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>感恩感谢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>我也不打算追她啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>无语了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>你两个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>就很朋友的那种</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>有味道了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>说出来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>妈妈liab别</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:26:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>笑屁啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:28:00</Time>
+   <Sender>B</Sender>
+   <Content>先好好当朋友处着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:28:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:28:00</Time>
+   <Sender>B</Sender>
+   <Content>慢慢加深感情</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:29:00</Time>
+   <Sender>B</Sender>
+   <Content>不强求，也不能怕</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:37:00</Time>
+   <Sender>A</Sender>
+   <Content>就感觉喝酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:37:00</Time>
+   <Sender>A</Sender>
+   <Content>了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:37:00</Time>
+   <Sender>A</Sender>
+   <Content>和玩的好的说下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:37:00</Time>
+   <Sender>A</Sender>
+   <Content>也不打算更近一步</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:39:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:39:00</Time>
+   <Sender>B</Sender>
+   <Content>没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:41:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:41:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:42:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:42:00</Time>
+   <Sender>B</Sender>
+   <Content>多多了解</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:42:00</Time>
+   <Sender>B</Sender>
+   <Content>多多谈心</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:42:00</Time>
+   <Sender>A</Sender>
+   <Content>不了不了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:43:00</Time>
+   <Sender>B</Sender>
+   <Content>但是也保持写距离感</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:43:00</Time>
+   <Sender>B</Sender>
+   <Content>分寸啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:43:00</Time>
+   <Sender>B</Sender>
+   <Content>那样就算不在一起</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:43:00</Time>
+   <Sender>B</Sender>
+   <Content>你自己也会比较愉快</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:43:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:45:00</Time>
+   <Sender>A</Sender>
+   <Content>差不多就这样了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:45:00</Time>
+   <Sender>A</Sender>
+   <Content>说出这些</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:46:00</Time>
+   <Sender>A</Sender>
+   <Content>我都很愉快了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:46:00</Time>
+   <Sender>A</Sender>
+   <Content>我他妈向几个女的说过这些啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:46:00</Time>
+   <Sender>B</Sender>
+   <Content>那就OK了呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:46:00</Time>
+   <Sender>B</Sender>
+   <Content>其实也不是非得在一起</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:46:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么自在怎么来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-20 23:47:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>宝我想问一下往年这个是班长组织的对吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>「撇嘴」「撇嘴」「撇嘴」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:10:00</Time>
+   <Sender>B</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>因为我不太了解</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>好的好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>那我明天组织一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:10:00</Time>
+   <Sender>B</Sender>
+   <Content>没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>你不在班长群嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>那里应该通知过吧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>没有耶[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>我就看到了晶姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>在本科生</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>群里发的那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>啊？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>A</Sender>
+   <Content>就没下文了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>A</Sender>
+   <Content>所以我以为是你组织</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>B</Sender>
+   <Content>你让wtl</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>A</Sender>
+   <Content>实在不好意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>A</Sender>
+   <Content>我去问问其他班长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>B</Sender>
+   <Content>把你拉进去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-08 23:12:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯好的好的我去问问他</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

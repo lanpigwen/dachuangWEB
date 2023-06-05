@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:18:00</Time>
+   <Sender>A</Sender>
+   <Content>我的妈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:19:00</Time>
+   <Sender>A</Sender>
+   <Content>什么情况！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:19:00</Time>
+   <Sender>B</Sender>
+   <Content>就核酸</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:19:00</Time>
+   <Sender>B</Sender>
+   <Content>排队</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:19:00</Time>
+   <Sender>B</Sender>
+   <Content>还好我排了一小时</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:19:00</Time>
+   <Sender>B</Sender>
+   <Content>刚出站然后区和区不通车</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:19:00</Time>
+   <Sender>A</Sender>
+   <Content>出站有车送对吧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:19:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在打的车只能把我放在迎[sensitive]桥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:20:00</Time>
+   <Sender>B</Sender>
+   <Content>好像5:30就没了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:20:00</Time>
+   <Sender>A</Sender>
+   <Content>那你咋回去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:20:00</Time>
+   <Sender>B</Sender>
+   <Content>好像还有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:20:00</Time>
+   <Sender>B</Sender>
+   <Content>诶呦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:20:00</Time>
+   <Sender>B</Sender>
+   <Content>刚刚第一个师[sensitive]骗我没了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:20:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在打的这个把我放桥上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>B</Sender>
+   <Content>我等会过了区分界线让我爸接</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>A</Sender>
+   <Content>「拥抱」「拥抱」「拥抱」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>B</Sender>
+   <Content>还没到桥上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>A</Sender>
+   <Content>能回家就好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>B</Sender>
+   <Content>太原真的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:21:00</Time>
+   <Sender>A</Sender>
+   <Content>唉，算好的了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:22:00</Time>
+   <Sender>B</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:22:00</Time>
+   <Sender>B</Sender>
+   <Content>成都好像更</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:22:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:22:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:22:00</Time>
+   <Sender>A</Sender>
+   <Content>看着情况</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:23:00</Time>
+   <Sender>A</Sender>
+   <Content>我还是再过两天的吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:23:00</Time>
+   <Sender>B</Sender>
+   <Content>真的好希望太原解封</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:23:00</Time>
+   <Sender>B</Sender>
+   <Content>彻底放开</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:23:00</Time>
+   <Sender>A</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:23:00</Time>
+   <Sender>B</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:23:00</Time>
+   <Sender>A</Sender>
+   <Content>彻底放开</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-02 18:23:00</Time>
+   <Sender>A</Sender>
+   <Content>我再回</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

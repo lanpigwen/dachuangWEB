@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:04:00</Time>
+   <Sender>A</Sender>
+   <Content>完结撒花</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:07:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:08:00</Time>
+   <Sender>B</Sender>
+   <Content>什么鸭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:08:00</Time>
+   <Sender>C</Sender>
+   <Content>高[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:08:00</Time>
+   <Sender>B</Sender>
+   <Content>噢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:18:00</Time>
+   <Sender>A</Sender>
+   <Content>到底算不算a</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:18:00</Time>
+   <Sender>C</Sender>
+   <Content>我还没看到这</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:18:00</Time>
+   <Sender>A</Sender>
+   <Content>剧场是否真西片太太</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:18:00</Time>
+   <Sender>A</Sender>
+   <Content>这是结尾</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:18:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:22:00</Time>
+   <Sender>C</Sender>
+   <Content>胖爷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:22:00</Time>
+   <Sender>C</Sender>
+   <Content>我的超人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:33:00</Time>
+   <Sender>C</Sender>
+   <Content>高[sensitive]最后一集</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 01:33:00</Time>
+   <Sender>C</Sender>
+   <Content>必看 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

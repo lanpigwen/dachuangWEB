@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:23:00</Time>
+   <Sender>A</Sender>
+   <Content>我好想学你内线那些</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:23:00</Time>
+   <Sender>A</Sender>
+   <Content>但是我太矮了也不会跳</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>A</Sender>
+   <Content>真的你最后上篮 你的手跟篮筐差不多高了都</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>A</Sender>
+   <Content>我感觉那样上篮好帅[流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>B</Sender>
+   <Content>[发呆]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>A</Sender>
+   <Content>那你们球馆里面开空调的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈差的远呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>B</Sender>
+   <Content>开的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>A</Sender>
+   <Content>给我的感觉是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>B</Sender>
+   <Content>不过效果一般</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>A</Sender>
+   <Content>很轻松就转进去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>A</Sender>
+   <Content>长啥样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>A</Sender>
+   <Content>你们那边球馆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:24:00</Time>
+   <Sender>B</Sender>
+   <Content>啊我没拍</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>B</Sender>
+   <Content>就正常球馆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>麦[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>你去过吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>B</Sender>
+   <Content>没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>迈克枫[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>B</Sender>
+   <Content>好像听说过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>就是你们不是也出去打过友[sensitive]吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>你们去的哪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是也是那</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>因为当时刚开业做活动可以免费打[破涕为笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:25:00</Time>
+   <Sender>B</Sender>
+   <Content>啊和地大打的那个嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:26:00</Time>
+   <Sender>B</Sender>
+   <Content>哦就那个啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:26:00</Time>
+   <Sender>B</Sender>
+   <Content>我想起来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:26:00</Time>
+   <Sender>A</Sender>
+   <Content>应该是那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:26:00</Time>
+   <Sender>B</Sender>
+   <Content>那个我去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:26:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 22:26:00</Time>
+   <Sender>B</Sender>
+   <Content>还挺好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>你们要学拓扑学吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 12:44:00</Time>
+   <Sender>B</Sender>
+   <Content>牛逼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 12:44:00</Time>
+   <Sender>B</Sender>
+   <Content>拓扑学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 12:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我们专业课讲了一点[尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 12:55:00</Time>
+   <Sender>C</Sender>
+   <Content>这啥啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 13:01:00</Time>
+   <Sender>D</Sender>
+   <Content>拓扑学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 13:01:00</Time>
+   <Sender>D</Sender>
+   <Content>太高深了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 13:41:00</Time>
+   <Sender>B</Sender>
+   <Content>比几何还几何</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-28 13:41:00</Time>
+   <Sender>B</Sender>
+   <Content>可以说是几何的本质 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

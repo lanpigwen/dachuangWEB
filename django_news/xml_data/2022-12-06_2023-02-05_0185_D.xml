@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:57:00</Time>
+   <Sender>A</Sender>
+   <Content>回家好玩不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>一般般</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>你早回了吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>加油</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>三天前会的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>回</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>我离开的那天晚上学校出阳性</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>我周六回的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>笑洗了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>太搞了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>我阳性前一天会的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>[sensitive]de</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>怎么不封楼啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>还给回家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>感觉我回家一点不划算</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:59:00</Time>
+   <Sender>B</Sender>
+   <Content>别急啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 16:59:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么这么急</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:58:00</Time>
+   <Sender>A</Sender>
+   <Content>你们不是要先写了思想报告吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:58:00</Time>
+   <Sender>A</Sender>
+   <Content>五月的你已经写完啦？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:58:00</Time>
+   <Sender>B</Sender>
+   <Content>还没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:58:00</Time>
+   <Sender>B</Sender>
+   <Content>先来预约个时间哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:59:00</Time>
+   <Sender>B</Sender>
+   <Content>我还要准备别的一些资料吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:59:00</Time>
+   <Sender>B</Sender>
+   <Content>到时谈话的时候</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>你之前有谈过话嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>问题都差不多应该</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:59:00</Time>
+   <Sender>B</Sender>
+   <Content>谈过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:59:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 10:00:00</Time>
+   <Sender>B</Sender>
+   <Content>那我写完了再来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 10:00:00</Time>
+   <Sender>B</Sender>
+   <Content>谢[sensitive]学姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-01 10:00:00</Time>
+   <Sender>A</Sender>
+   <Content>没事没事</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:51:00</Time>
+   <Sender>B</Sender>
+   <Content>咋啦~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>还有人想四点开始参加</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:51:00</Time>
+   <Sender>A</Sender>
+   <Content>说前面有课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:51:00</Time>
+   <Sender>B</Sender>
+   <Content>这又是谁</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:52:00</Time>
+   <Sender>A</Sender>
+   <Content>海漠渲</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:53:00</Time>
+   <Sender>B</Sender>
+   <Content>那就这样琰杰[sensitive]~我们先按照冰壶20人准备，冰蹴球10~15人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:53:00</Time>
+   <Sender>B</Sender>
+   <Content>冰蹴球是个人战所以不影响</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:59:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐那参加的部员也直接加到冰蹴球组吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:59:00</Time>
+   <Sender>B</Sender>
+   <Content>参加的部员优先保障活动~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 08:59:00</Time>
+   <Sender>B</Sender>
+   <Content>之后可以体验~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 09:00:00</Time>
+   <Sender>A</Sender>
+   <Content>哦好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

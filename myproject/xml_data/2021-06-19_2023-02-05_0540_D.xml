@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>狗子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>你要垃圾袋不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>买不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:02:00</Time>
+   <Sender>B</Sender>
+   <Content>买啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>那你要几个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>2个吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>两个多少钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>10块吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>凑单</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>赶紧把我的伞给买了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>正在凑单</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>你看看还有啥要买的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>200-30的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:04:00</Time>
+   <Sender>B</Sender>
+   <Content>应该没啥？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>我看看</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

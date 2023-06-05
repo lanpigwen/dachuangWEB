@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:14:00</Time>
+   <Sender>A</Sender>
+   <Content>绝了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:14:00</Time>
+   <Sender>A</Sender>
+   <Content>我紧张的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:14:00</Time>
+   <Sender>B</Sender>
+   <Content>咋样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:14:00</Time>
+   <Sender>A</Sender>
+   <Content>就很紧张</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:14:00</Time>
+   <Sender>B</Sender>
+   <Content>我也很紧张</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:14:00</Time>
+   <Sender>A</Sender>
+   <Content>声音在抖</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>B</Sender>
+   <Content>我一进去就站太近了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>B</Sender>
+   <Content>他们说 可以往后站一点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>B</Sender>
+   <Content>我往后站了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>B</Sender>
+   <Content>就开始笑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>B</Sender>
+   <Content>我听到有人说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>A</Sender>
+   <Content>你？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-22 13:15:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么这么紧张啊</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

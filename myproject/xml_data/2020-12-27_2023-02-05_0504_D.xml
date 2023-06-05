@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:44:00</Time>
+   <Sender>A</Sender>
+   <Content>累了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:45:00</Time>
+   <Sender>A</Sender>
+   <Content>追剧去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>鬼吹灯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>挺好看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>啊这</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>怕死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:47:00</Time>
+   <Sender>A</Sender>
+   <Content>就是那种盗墓题材的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:47:00</Time>
+   <Sender>B</Sender>
+   <Content>也怕死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:47:00</Time>
+   <Sender>A</Sender>
+   <Content>垃圾</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:47:00</Time>
+   <Sender>B</Sender>
+   <Content>你才垃圾</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-27 11:48:00</Time>
+   <Sender>A</Sender>
+   <Content>反弹</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

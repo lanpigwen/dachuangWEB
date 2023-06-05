@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:14:00</Time>
+   <Sender>A</Sender>
+   <Content>今天最难受的就是豪哥痛失脚踝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:14:00</Time>
+   <Sender>B</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>A</Sender>
+   <Content>大家没打够去旁边接拨了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>C</Sender>
+   <Content>脚崴了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>A</Sender>
+   <Content>让人垫了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>B</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>B</Sender>
+   <Content>五棵松这点很好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>D</Sender>
+   <Content>把脚留在5棵松了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>B</Sender>
+   <Content>没打够可以免费接波</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>B</Sender>
+   <Content>注意点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-26 00:15:00</Time>
+   <Sender>B</Sender>
+   <Content>这些人都还是很有招的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

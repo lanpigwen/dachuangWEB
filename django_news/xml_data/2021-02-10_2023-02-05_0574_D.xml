@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:27:00</Time>
+   <Sender>A</Sender>
+   <Content>干啥了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:28:00</Time>
+   <Sender>B</Sender>
+   <Content>累了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:28:00</Time>
+   <Sender>B</Sender>
+   <Content>躺在沙发上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:28:00</Time>
+   <Sender>B</Sender>
+   <Content>Watch TV</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:28:00</Time>
+   <Sender>A</Sender>
+   <Content>干啥来，累了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:28:00</Time>
+   <Sender>B</Sender>
+   <Content>Clean the room</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:29:00</Time>
+   <Sender>A</Sender>
+   <Content>奶思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:29:00</Time>
+   <Sender>B</Sender>
+   <Content>你们多会开学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:29:00</Time>
+   <Sender>A</Sender>
+   <Content>24</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:29:00</Time>
+   <Sender>B</Sender>
+   <Content>那么早</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:29:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道会不会推迟</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:29:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:30:00</Time>
+   <Sender>B</Sender>
+   <Content>我们已经通知照常</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:30:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:30:00</Time>
+   <Sender>B</Sender>
+   <Content>再在家呆俩星期就......</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:30:00</Time>
+   <Sender>A</Sender>
+   <Content>今天地大通知推迟</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:30:00</Time>
+   <Sender>B</Sender>
+   <Content>真快</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:30:00</Time>
+   <Sender>A</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:31:00</Time>
+   <Sender>A</Sender>
+   <Content>荒废了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>呆学校，呆家都有好有坏</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>我也是，废了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-10 21:31:00</Time>
+   <Sender>A</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

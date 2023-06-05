@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:21:00</Time>
+   <Sender>A</Sender>
+   <Content>我现在就可想学医了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:22:00</Time>
+   <Sender>B</Sender>
+   <Content>为啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:22:00</Time>
+   <Sender>A</Sender>
+   <Content>当时我还觉得自己可喜欢学建筑了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:22:00</Time>
+   <Sender>A</Sender>
+   <Content>主要是差不多的医学院我也上不了那个分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:24:00</Time>
+   <Sender>B</Sender>
+   <Content>你可以当时报空军第四军医</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:24:00</Time>
+   <Sender>A</Sender>
+   <Content>不能</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:25:00</Time>
+   <Sender>A</Sender>
+   <Content>录不上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:25:00</Time>
+   <Sender>A</Sender>
+   <Content>第四军医最低分和我同分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:25:00</Time>
+   <Sender>A</Sender>
+   <Content>但他数学比我高</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:25:00</Time>
+   <Sender>B</Sender>
+   <Content>哦~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:26:00</Time>
+   <Sender>B</Sender>
+   <Content>那你觉得建筑怎么样啊现在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:26:00</Time>
+   <Sender>A</Sender>
+   <Content>建筑其实也还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:26:00</Time>
+   <Sender>B</Sender>
+   <Content>学了一年，对他有什么认识</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:27:00</Time>
+   <Sender>A</Sender>
+   <Content>如果合理安排时间其实也没那么多熬夜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-14 09:27:00</Time>
+   <Sender>A</Sender>
+   <Content>授课有点难理解</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

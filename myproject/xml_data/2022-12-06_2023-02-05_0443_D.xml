@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:34:00</Time>
+   <Sender>A</Sender>
+   <Content>我看到学校发浴室不开了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:34:00</Time>
+   <Sender>A</Sender>
+   <Content>学11还好吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:34:00</Time>
+   <Sender>B</Sender>
+   <Content>我润了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:34:00</Time>
+   <Sender>B</Sender>
+   <Content>高铁刚出发</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:35:00</Time>
+   <Sender>A</Sender>
+   <Content>呵呵哈哈哈哈哈哈哈好嘛好嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:38:00</Time>
+   <Sender>A</Sender>
+   <Content>我靠刚刚打错了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:38:00</Time>
+   <Sender>A</Sender>
+   <Content>没有呵呵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:39:00</Time>
+   <Sender>A</Sender>
+   <Content>走了就好 我还怕你想继续在学校待着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:39:00</Time>
+   <Sender>B</Sender>
+   <Content>我，，，唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:40:00</Time>
+   <Sender>A</Sender>
+   <Content>你们家那边咋样啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:40:00</Time>
+   <Sender>B</Sender>
+   <Content>没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:40:00</Time>
+   <Sender>B</Sender>
+   <Content>都解封了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:40:00</Time>
+   <Sender>A</Sender>
+   <Content>呀那你走得正好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:41:00</Time>
+   <Sender>B</Sender>
+   <Content>还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:41:00</Time>
+   <Sender>B</Sender>
+   <Content>就是校园要是没事儿就好了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:41:00</Time>
+   <Sender>B</Sender>
+   <Content>我就能待到期末了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:45:00</Time>
+   <Sender>A</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:45:00</Time>
+   <Sender>A</Sender>
+   <Content>都不能洗澡了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>走的人肯定特别多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>大家都走了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>应该</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>回家怕卷不动</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

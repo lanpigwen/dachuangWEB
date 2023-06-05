@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>5</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>打扰一下，问个问题，计组总结什么时候交？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:46:00</Time>
+   <Sender>B</Sender>
+   <Content>周[sensitive]一把</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:46:00</Time>
+   <Sender>B</Sender>
+   <Content>我去我都忘了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:46:00</Time>
+   <Sender>C</Sender>
+   <Content>什么机组总结</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:46:00</Time>
+   <Sender>D</Sender>
+   <Content>不急不急，明天之内应该都行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:46:00</Time>
+   <Sender>C</Sender>
+   <Content>什么东西「苦涩」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:47:00</Time>
+   <Sender>E</Sender>
+   <Content>实验总结</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:47:00</Time>
+   <Sender>D</Sender>
+   <Content>写你的实验心得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:47:00</Time>
+   <Sender>D</Sender>
+   <Content>老师说一两百字就行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:47:00</Time>
+   <Sender>C</Sender>
+   <Content>哈哈哈哈上课没有听到这段石锤</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-18 21:48:00</Time>
+   <Sender>D</Sender>
+   <Content>哈哈哈木事，能按时交就行</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

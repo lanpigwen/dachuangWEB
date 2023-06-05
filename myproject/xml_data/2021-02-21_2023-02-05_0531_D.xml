@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:20:00</Time>
+   <Sender>A</Sender>
+   <Content>一菲你给我讲讲会议的具体内容呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:21:00</Time>
+   <Sender>A</Sender>
+   <Content>我有事耽搁了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:21:00</Time>
+   <Sender>B</Sender>
+   <Content>就是这，</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:21:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:22:00</Time>
+   <Sender>B</Sender>
+   <Content>前面都在讨论</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:22:00</Time>
+   <Sender>B</Sender>
+   <Content>知道最后定下来的就好啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:22:00</Time>
+   <Sender>A</Sender>
+   <Content>可是还是不怎么清楚啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:22:00</Time>
+   <Sender>B</Sender>
+   <Content>就定下是唱歌了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:23:00</Time>
+   <Sender>A</Sender>
+   <Content>啥都没搞清楚</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:23:00</Time>
+   <Sender>A</Sender>
+   <Content>哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:23:00</Time>
+   <Sender>B</Sender>
+   <Content>不用咱俩写文案</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-21 22:23:00</Time>
+   <Sender>B</Sender>
+   <Content>推送</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-08 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>等会曾老师跟你解释</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-08 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>游戏紧迫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-08 23:15:00</Time>
+   <Sender>B</Sender>
+   <Content>再见 不必多说 别把他段位拉下来了😅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-08 23:16:00</Time>
+   <Sender>A</Sender>
+   <Content>哼哼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-08 23:16:00</Time>
+   <Sender>A</Sender>
+   <Content>我打游戏比他强多了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-08 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>你都不用打肿脸</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-08 23:18:00</Time>
+   <Sender>B</Sender>
+   <Content>快去上坟</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

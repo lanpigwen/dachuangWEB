@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我现在读的是大一</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>去年要出国没出去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>家里待了一年</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哪所大学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>英属哥伦比亚</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>然后疫情嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>就没去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦那挺可惜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:46:00</Time>
+   <Sender>A</Sender>
+   <Content>现在变学弟了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:46:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:46:00</Time>
+   <Sender>A</Sender>
+   <Content>蛮好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:46:00</Time>
+   <Sender>A</Sender>
+   <Content>有问题还能请教请教[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:48:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:48:00</Time>
+   <Sender>B</Sender>
+   <Content>我有机会也想考研出国</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:49:00</Time>
+   <Sender>A</Sender>
+   <Content>研究生出去蛮好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 10:54:00</Time>
+   <Sender>A</Sender>
+   <Content>同学请尽快完成群里的信息问卷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 10:54:00</Time>
+   <Sender>A</Sender>
+   <Content>这边要统计上报了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:29:00</Time>
+   <Sender>B</Sender>
+   <Content>收到，马上学完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:29:00</Time>
+   <Sender>B</Sender>
+   <Content>下午就能填</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:29:00</Time>
+   <Sender>A</Sender>
+   <Content>不是那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:29:00</Time>
+   <Sender>A</Sender>
+   <Content>这次有新问卷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:30:00</Time>
+   <Sender>A</Sender>
+   <Content>是关于疫苗和地区的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:30:00</Time>
+   <Sender>B</Sender>
+   <Content>填完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:30:00</Time>
+   <Sender>B</Sender>
+   <Content>谢[sensitive]提醒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:30:00</Time>
+   <Sender>A</Sender>
+   <Content>没事以后注意看群通知啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:30:00</Time>
+   <Sender>B</Sender>
+   <Content>OK</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:30:00</Time>
+   <Sender>B</Sender>
+   <Content>抱歉之前开免打扰了[捂脸]我调回来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:31:00</Time>
+   <Sender>A</Sender>
+   <Content>额这个群一般不大会闲聊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:31:00</Time>
+   <Sender>B</Sender>
+   <Content>麻烦你了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:31:00</Time>
+   <Sender>A</Sender>
+   <Content>到也没必要开免打扰</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:31:00</Time>
+   <Sender>A</Sender>
+   <Content>没事没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:31:00</Time>
+   <Sender>B</Sender>
+   <Content>我的问题，之前搞那个接龙的时候老响，就给开了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:32:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯下次注意</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-23 11:32:00</Time>
+   <Sender>B</Sender>
+   <Content>谢[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

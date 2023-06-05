@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 21:58:00</Time>
+   <Sender>A</Sender>
+   <Content>[语音]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 21:59:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈小猫可爱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:00:00</Time>
+   <Sender>B</Sender>
+   <Content>现在皮皮最大的兴趣是逮飞蛾</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:00:00</Time>
+   <Sender>B</Sender>
+   <Content>小猫玩的玩具它都不玩了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:00:00</Time>
+   <Sender>A</Sender>
+   <Content>[视频: 22[sensitive]6.mp4(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:00:00</Time>
+   <Sender>B</Sender>
+   <Content>还是逗小猫容易hh</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:01:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:02:00</Time>
+   <Sender>A</Sender>
+   <Content>[语音]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:19:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:19:00</Time>
+   <Sender>B</Sender>
+   <Content>有次去给猫洗澡遇到一个小布偶猫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:19:00</Time>
+   <Sender>B</Sender>
+   <Content>玩的时候能飞到天上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:19:00</Time>
+   <Sender>A</Sender>
+   <Content>这个好像是美短</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:20:00</Time>
+   <Sender>B</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:20:00</Time>
+   <Sender>B</Sender>
+   <Content>和[sensitive]起司猫长得一样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:21:00</Time>
+   <Sender>A</Sender>
+   <Content>睡的床上也是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:21:00</Time>
+   <Sender>A</Sender>
+   <Content>我俩都不会养</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:21:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是刚来的时候比较认生</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:22:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:22:00</Time>
+   <Sender>B</Sender>
+   <Content>不过这个猫是不是已经习惯了哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:22:00</Time>
+   <Sender>B</Sender>
+   <Content>我家这个就是可认生了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:25:00</Time>
+   <Sender>A</Sender>
+   <Content>[语音]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:58:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈那这个猫猫性格不戳</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:58:00</Time>
+   <Sender>B</Sender>
+   <Content>皮皮以前怀过孕，所以性格比较敏感</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:59:00</Time>
+   <Sender>B</Sender>
+   <Content>你朋友也是那种比较外向的是吗，听说猫性格会跟主人hh</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:59:00</Time>
+   <Sender>B</Sender>
+   <Content>不过美短就是精力比较旺盛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 22:59:00</Time>
+   <Sender>B</Sender>
+   <Content>英短比较害羞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>对对！！！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>一点也不瞌睡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:15:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:15:00</Time>
+   <Sender>B</Sender>
+   <Content>按理说小猫挺能睡的hh那看来这猫猫够活泼的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:17:00</Time>
+   <Sender>A</Sender>
+   <Content>[语音]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>！！！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>神奇小猫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:21:00</Time>
+   <Sender>B</Sender>
+   <Content>皮皮现在白天得睡六七个小时差不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:21:00</Time>
+   <Sender>A</Sender>
+   <Content>晚上睡不睡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:21:00</Time>
+   <Sender>A</Sender>
+   <Content>睡多长时间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>晚上就是我啥时候睡它啥时候睡，等我起床它就起床了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>晚上偶尔出去吃点猫粮hh</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 12:08:00</Time>
+   <Sender>A</Sender>
+   <Content>穿啥球衣有要求吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:27:00</Time>
+   <Sender>B</Sender>
+   <Content>啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:28:00</Time>
+   <Sender>B</Sender>
+   <Content>我不知啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:28:00</Time>
+   <Sender>C</Sender>
+   <Content>应该没啥要求</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:40:00</Time>
+   <Sender>A</Sender>
+   <Content>那我带一黑一白</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:43:00</Time>
+   <Sender>D</Sender>
+   <Content>主要你们打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:43:00</Time>
+   <Sender>D</Sender>
+   <Content>我打教练</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:43:00</Time>
+   <Sender>D</Sender>
+   <Content>还没缓过来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:44:00</Time>
+   <Sender>B</Sender>
+   <Content>打教练会被吹夺权</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:44:00</Time>
+   <Sender>D</Sender>
+   <Content>那太好了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-25 13:44:00</Time>
+   <Sender>D</Sender>
+   <Content>可以睡觉了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

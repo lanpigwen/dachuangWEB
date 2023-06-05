@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:19:00</Time>
+   <Sender>A</Sender>
+   <Content>你们有遇到啥困难吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:19:00</Time>
+   <Sender>A</Sender>
+   <Content>最近各种问题还挺爆发的，虽然主要是北体的，但是咱们这边是不是也有一些呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:20:00</Time>
+   <Sender>A</Sender>
+   <Content>如果有，可以跟我说哈～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:20:00</Time>
+   <Sender>A</Sender>
+   <Content>闭幕式我今天进村沟通了，到时候一定一定想办法给你们争取！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:20:00</Time>
+   <Sender>B</Sender>
+   <Content>[色]谢[sensitive]沛[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:21:00</Time>
+   <Sender>A</Sender>
+   <Content>其实我也很诧异，你们居然不在名单里</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:21:00</Time>
+   <Sender>A</Sender>
+   <Content>而且咱们有一个得过海淀区还是北京市优秀志愿者的志愿者都没被选上，真的是不知道怎么选的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:21:00</Time>
+   <Sender>B</Sender>
+   <Content>我看好多参加彩排的都没能去成</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:22:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯，因为彩排好多人去了，最后开幕式才80个人，确实名额有限</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:22:00</Time>
+   <Sender>A</Sender>
+   <Content>可是200人中间怎么选的80个，这个标准又问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:22:00</Time>
+   <Sender>A</Sender>
+   <Content>有问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:22:00</Time>
+   <Sender>A</Sender>
+   <Content>我理解名额有限，但是有一些人我觉得真的差劲都能被选上，就不合适了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:23:00</Time>
+   <Sender>A</Sender>
+   <Content>你们如果在其他群里看到一些问题，或者听到其他人说了什么，都可以跟我讲</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:23:00</Time>
+   <Sender>A</Sender>
+   <Content>我一定会想办法解决</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:23:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:24:00</Time>
+   <Sender>A</Sender>
+   <Content>今天我跟驻地负责餐饮的老师沟通，咱们建立了北语餐饮保障监督群，每个宿舍的餐饮保障专员都在群里，餐饮的问题可以在群里反馈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:24:00</Time>
+   <Sender>A</Sender>
+   <Content>只有正当反馈问题，才能得到解决</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:24:00</Time>
+   <Sender>A</Sender>
+   <Content>那些煽风点火制造舆论的根本什么都解决不了，最后只会两败俱伤</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:25:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈昨天我看他们聊天笑死了[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:25:00</Time>
+   <Sender>A</Sender>
+   <Content>对啊，都啥玩意儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:25:00</Time>
+   <Sender>A</Sender>
+   <Content>不过可能真的他们老师不作为</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-06 20:26:00</Time>
+   <Sender>A</Sender>
+   <Content>反正他们确实不如我们，哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

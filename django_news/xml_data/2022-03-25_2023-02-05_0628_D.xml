@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>古建挺好的，我觉得你挺喜欢的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>就是是不是会做冷板凳那种</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:37:00</Time>
+   <Sender>B</Sender>
+   <Content>建筑历史与理论会坐冷板凳</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:37:00</Time>
+   <Sender>B</Sender>
+   <Content>然后就是留校或去研究所</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>那古建能干啥了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:37:00</Time>
+   <Sender>B</Sender>
+   <Content>历史建筑保护修复要下工地</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:37:00</Time>
+   <Sender>B</Sender>
+   <Content>去乡里</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>这个我觉得还挺有情怀的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>古建的作用大概是“知己知彼，温故知新”？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>除了修复还能再建古建吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>有没有这个方向的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>这几代人研究的最终目的都是指向中国本土建筑，但是这个问题又很多元，不好说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>奥是了，古建设计</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>你喜欢不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>但是一般都不被提倡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>多年以后也是古建</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈就咋说呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>学古建是为了创造新建筑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>奥么[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>挺好的呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>这个新建筑不是来源于西方的现代主义</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>而是来源于东方本土</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>奥[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

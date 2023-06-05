@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>好久放假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>翔[sensitive]哥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>现在就可以回家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>学校可以让申请回家网课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我1月出头放假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我估计是12月30差不多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>一个国庆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我擦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>重灾区</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>到处都不敢动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>想和你练球了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>不晓得到时候回不回得来哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>hhhhh必须练</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>回来了必须搞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我们这边就管里面有网</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>全是人都</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>都是在全场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>外场框参差不齐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>没得地方练</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我们垃圾学校馆都没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>只能打全场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>那差不多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>有网就行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>噢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>回去练个爽</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>每天加起来投1000个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>那收假回学校了老火</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>现在投篮太不稳定了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>没地方练投篮最近</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>还是和[sensitive]练球爽[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>那是</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

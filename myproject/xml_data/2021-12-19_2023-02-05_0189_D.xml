@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 10:57:00</Time>
+   <Sender>A</Sender>
+   <Content>有空不现在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 10:57:00</Time>
+   <Sender>A</Sender>
+   <Content>帮忙搬个物资[苦涩]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 10:59:00</Time>
+   <Sender>B</Sender>
+   <Content>我刚起</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 10:59:00</Time>
+   <Sender>B</Sender>
+   <Content>还在床上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>东西多吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>所以一起不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在过去？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>主要是毯子重</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我等你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>你等会，我穿衣服</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我来你宿舍</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

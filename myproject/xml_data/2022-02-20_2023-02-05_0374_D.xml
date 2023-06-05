@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>A</Sender>
+   <Content>琰杰[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>B</Sender>
+   <Content>在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>A</Sender>
+   <Content>我收拾了一个箱子出来[裂开]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>A</Sender>
+   <Content>能拿的了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>A</Sender>
+   <Content>不行就算了哈哈哈哈哈啊哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈应该可以吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>A</Sender>
+   <Content>倒是不重都是纪念品啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:18:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在还在高铁上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>佳乐姐你先放我门口吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>闭幕式吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>没事儿我明天给你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>不急</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>啊那也行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>好呐那我不跟你说了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>怕你手机没电</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>明天再说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>[破涕为笑][嘿哈]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>B</Sender>
+   <Content>好的好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-20 23:19:00</Time>
+   <Sender>A</Sender>
+   <Content>[爱心]</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

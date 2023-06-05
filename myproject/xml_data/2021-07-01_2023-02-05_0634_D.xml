@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:46:00</Time>
+   <Sender>A</Sender>
+   <Content>我今天跑建院楼顶看烟花</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:46:00</Time>
+   <Sender>A</Sender>
+   <Content>结果有个洞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:46:00</Time>
+   <Sender>A</Sender>
+   <Content>我掉进去咧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:46:00</Time>
+   <Sender>A</Sender>
+   <Content>腿也肿了手也破了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:46:00</Time>
+   <Sender>A</Sender>
+   <Content>还可丢人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:48:00</Time>
+   <Sender>B</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:49:00</Time>
+   <Sender>B</Sender>
+   <Content>什么情况</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:49:00</Time>
+   <Sender>B</Sender>
+   <Content>笑死我了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:49:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈啊哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:49:00</Time>
+   <Sender>A</Sender>
+   <Content>就有个砖是烂的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:49:00</Time>
+   <Sender>A</Sender>
+   <Content>大的那种石板</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:50:00</Time>
+   <Sender>A</Sender>
+   <Content>我就给踩进去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:50:00</Time>
+   <Sender>A</Sender>
+   <Content>就掉里面了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:50:00</Time>
+   <Sender>B</Sender>
+   <Content>那咋出来的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:51:00</Time>
+   <Sender>A</Sender>
+   <Content>就爬出来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:51:00</Time>
+   <Sender>A</Sender>
+   <Content>大概有一米深</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:51:00</Time>
+   <Sender>B</Sender>
+   <Content>厉害了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我只是觉得好笑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:52:00</Time>
+   <Sender>B</Sender>
+   <Content>如果我在你旁边</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我肯定</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:52:00</Time>
+   <Sender>B</Sender>
+   <Content>笑抽</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:52:00</Time>
+   <Sender>A</Sender>
+   <Content>可疼了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-01 00:53:00</Time>
+   <Sender>B</Sender>
+   <Content>摸摸</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

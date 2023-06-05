@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:29:00</Time>
+   <Sender>A</Sender>
+   <Content>你在现场吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:30:00</Time>
+   <Sender>B</Sender>
+   <Content>不在[苦涩]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:30:00</Time>
+   <Sender>B</Sender>
+   <Content>只能拿彩排安慰自己</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:30:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:30:00</Time>
+   <Sender>A</Sender>
+   <Content>没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:31:00</Time>
+   <Sender>A</Sender>
+   <Content>邢[sensitive]张[sensitive]说你在现场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:31:00</Time>
+   <Sender>A</Sender>
+   <Content>把我激动了一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>我彩排去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>没想到最后没去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:32:00</Time>
+   <Sender>B</Sender>
+   <Content>好多人没去成</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:32:00</Time>
+   <Sender>B</Sender>
+   <Content>然后主管被喷了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:32:00</Time>
+   <Sender>B</Sender>
+   <Content>因为她之前说彩排的全能去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:32:00</Time>
+   <Sender>A</Sender>
+   <Content>主管画大饼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:33:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:33:00</Time>
+   <Sender>B</Sender>
+   <Content>她这次分配确实有问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:33:00</Time>
+   <Sender>B</Sender>
+   <Content>她到现在也没给评判标准</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>A</Sender>
+   <Content>这有啥标准</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>A</Sender>
+   <Content>谁官大谁去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>B</Sender>
+   <Content>别人问她她就说表格我已经交了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>A</Sender>
+   <Content>谁关系好谁去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>B</Sender>
+   <Content>然后就开摆了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>B</Sender>
+   <Content>我倒是无所谓了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 21:34:00</Time>
+   <Sender>A</Sender>
+   <Content>干他</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

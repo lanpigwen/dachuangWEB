@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:56:00</Time>
+   <Sender>A</Sender>
+   <Content>你不会有了吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:56:00</Time>
+   <Sender>A</Sender>
+   <Content>omg</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:56:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我确实有了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈么[sensitive][sensitive][sensitive]么[sensitive][sensitive][sensitive]么[sensitive][sensitive][sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>那咋整</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>没事我带回去你看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>我看有啥用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>这里面图画的可好了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>你留着吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>我家里放一本宿舍放一本</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>这样我就不用来回搬运了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:58:00</Time>
+   <Sender>B</Sender>
+   <Content>不然每个学期都要拿来拿去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:58:00</Time>
+   <Sender>B</Sender>
+   <Content>我爱你么[sensitive][sensitive][sensitive]么[sensitive][sensitive][sensitive]么[sensitive][sensitive][sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:58:00</Time>
+   <Sender>A</Sender>
+   <Content>真的嘛，这本书重吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:58:00</Time>
+   <Sender>B</Sender>
+   <Content>不重倒是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:58:00</Time>
+   <Sender>B</Sender>
+   <Content>但大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-19 12:58:00</Time>
+   <Sender>A</Sender>
+   <Content>哦~</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

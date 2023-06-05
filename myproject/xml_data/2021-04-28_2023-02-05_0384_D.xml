@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:15:00</Time>
+   <Sender>A</Sender>
+   <Content>这个在线验证验证码是从哪里找啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:15:00</Time>
+   <Sender>B</Sender>
+   <Content>在学信网</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:15:00</Time>
+   <Sender>B</Sender>
+   <Content>等下下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:16:00</Time>
+   <Sender>A</Sender>
+   <Content>先注册个账号进去是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:16:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:17:00</Time>
+   <Sender>A</Sender>
+   <Content>OK谢[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:17:00</Time>
+   <Sender>B</Sender>
+   <Content>但好像学校那都给注册过了[破涕为笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:17:00</Time>
+   <Sender>B</Sender>
+   <Content>你试试登录吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:17:00</Time>
+   <Sender>A</Sender>
+   <Content>哦好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:19:00</Time>
+   <Sender>A</Sender>
+   <Content>学校注册的密码是啥[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:19:00</Time>
+   <Sender>A</Sender>
+   <Content>我试了几次没进去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:19:00</Time>
+   <Sender>B</Sender>
+   <Content>你就</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:19:00</Time>
+   <Sender>B</Sender>
+   <Content>找回密码吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:20:00</Time>
+   <Sender>A</Sender>
+   <Content>好的[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-28 19:22:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

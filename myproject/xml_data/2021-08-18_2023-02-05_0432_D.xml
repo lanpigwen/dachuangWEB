@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:47:00</Time>
+   <Sender>A</Sender>
+   <Content>师[sensitive]，你好！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:47:00</Time>
+   <Sender>A</Sender>
+   <Content>晚上打扰你很抱歉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:47:00</Time>
+   <Sender>B</Sender>
+   <Content>你好呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:47:00</Time>
+   <Sender>B</Sender>
+   <Content>没事儿，我还没睡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:47:00</Time>
+   <Sender>A</Sender>
+   <Content>可以向你咨询一些事情吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:47:00</Time>
+   <Sender>B</Sender>
+   <Content>当然</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:47:00</Time>
+   <Sender>B</Sender>
+   <Content>你说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:48:00</Time>
+   <Sender>A</Sender>
+   <Content>请问咱们学校新生团籍关系转入需要高中开的介[sensitive]吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:49:00</Time>
+   <Sender>B</Sender>
+   <Content>不需要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:50:00</Time>
+   <Sender>A</Sender>
+   <Content>只需要带着自己的团员证是吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:51:00</Time>
+   <Sender>B</Sender>
+   <Content>对✓</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-18 22:51:00</Time>
+   <Sender>A</Sender>
+   <Content>太好啦，谢[sensitive]师[sensitive]！</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

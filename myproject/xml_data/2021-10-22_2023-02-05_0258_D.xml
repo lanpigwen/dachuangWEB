@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:02:00</Time>
+   <Sender>A</Sender>
+   <Content>琰杰[sensitive]~那个号码牌咱们自己发给罗[sensitive]吧~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:02:00</Time>
+   <Sender>B</Sender>
+   <Content>就是报销表不用写了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:02:00</Time>
+   <Sender>B</Sender>
+   <Content>不用写进策划是吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:02:00</Time>
+   <Sender>A</Sender>
+   <Content>对~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:03:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:03:00</Time>
+   <Sender>A</Sender>
+   <Content>问问罗[sensitive]走团委宣[sensitive]制作需要填什么表</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:03:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:03:00</Time>
+   <Sender>A</Sender>
+   <Content>报给罗[sensitive]叭~把做出来要的具体效果具体要求再说一下~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 09:04:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯行</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

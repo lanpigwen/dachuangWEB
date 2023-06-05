@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 17:49:00</Time>
+   <Sender>A</Sender>
+   <Content>你们上次吃火锅是到哪吃的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 17:53:00</Time>
+   <Sender>B</Sender>
+   <Content>辣子千红</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 17:56:00</Time>
+   <Sender>C</Sender>
+   <Content>虽然味道还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 17:56:00</Time>
+   <Sender>C</Sender>
+   <Content>但是真滴贵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 17:56:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:33:00</Time>
+   <Sender>D</Sender>
+   <Content>人均？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:33:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:33:00</Time>
+   <Sender>B</Sender>
+   <Content>七十</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:33:00</Time>
+   <Sender>D</Sender>
+   <Content>woc</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:33:00</Time>
+   <Sender>D</Sender>
+   <Content>好贵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:33:00</Time>
+   <Sender>D</Sender>
+   <Content>海底捞才人均60</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:36:00</Time>
+   <Sender>C</Sender>
+   <Content>放弃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:36:00</Time>
+   <Sender>C</Sender>
+   <Content>人均77还感觉毛[sensitive]都没吃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:36:00</Time>
+   <Sender>C</Sender>
+   <Content>海底捞人均60咋吃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:36:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:37:00</Time>
+   <Sender>C</Sender>
+   <Content>我没吃过60的火锅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:37:00</Time>
+   <Sender>C</Sender>
+   <Content>基本都是七八十到100</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:37:00</Time>
+   <Sender>C</Sender>
+   <Content>我说他贵主要人均80都感觉啥都没吃一样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:39:00</Time>
+   <Sender>D</Sender>
+   <Content>我上次到海底捞是6个人300多[尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:46:00</Time>
+   <Sender>C</Sender>
+   <Content>我和我室友4个人都三百多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:46:00</Time>
+   <Sender>C</Sender>
+   <Content>就小[sensitive]坎</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:46:00</Time>
+   <Sender>C</Sender>
+   <Content>人均90+</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:46:00</Time>
+   <Sender>C</Sender>
+   <Content>能吃饱吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:47:00</Time>
+   <Sender>D</Sender>
+   <Content>能啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:48:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:48:00</Time>
+   <Sender>C</Sender>
+   <Content>火锅还是得那种一人一锅的实惠</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:49:00</Time>
+   <Sender>C</Sender>
+   <Content>但是种类太少了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 18:49:00</Time>
+   <Sender>D</Sender>
+   <Content>小[sensitive]坎 我觉得不怎么好吃[尴尬] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

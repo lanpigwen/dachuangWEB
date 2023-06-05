@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:33:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]～那个申报表～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:33:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦什么时候交</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:33:00</Time>
+   <Sender>B</Sender>
+   <Content>中午给你可以吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:33:00</Time>
+   <Sender>A</Sender>
+   <Content>可以哒～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:34:00</Time>
+   <Sender>B</Sender>
+   <Content>好~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:34:00</Time>
+   <Sender>A</Sender>
+   <Content>今天之内就行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:34:00</Time>
+   <Sender>B</Sender>
+   <Content>好哒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:34:00</Time>
+   <Sender>A</Sender>
+   <Content>还有那个班级评优那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:34:00</Time>
+   <Sender>B</Sender>
+   <Content>对对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:34:00</Time>
+   <Sender>A</Sender>
+   <Content>我写的太蹩脚了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:34:00</Time>
+   <Sender>A</Sender>
+   <Content>「流泪」「流泪」「流泪」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:35:00</Time>
+   <Sender>B</Sender>
+   <Content>没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:35:00</Time>
+   <Sender>A</Sender>
+   <Content>我的文笔不太好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:35:00</Time>
+   <Sender>B</Sender>
+   <Content>我下午干</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-12 09:35:00</Time>
+   <Sender>A</Sender>
+   <Content>好的好的辛苦辛苦！</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

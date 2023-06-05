@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>6</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:44:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:44:00</Time>
+   <Sender>A</Sender>
+   <Content>[尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:44:00</Time>
+   <Sender>A</Sender>
+   <Content>远不如亮毛啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:44:00</Time>
+   <Sender>B</Sender>
+   <Content>nm真滴抽</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:44:00</Time>
+   <Sender>B</Sender>
+   <Content>我靓毛[sensitive]差了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:45:00</Time>
+   <Sender>C</Sender>
+   <Content>什么牛[sensitive]啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:45:00</Time>
+   <Sender>C</Sender>
+   <Content>我都想不清莫雨怎么想的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:46:00</Time>
+   <Sender>B</Sender>
+   <Content>无语了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:46:00</Time>
+   <Sender>C</Sender>
+   <Content>亮毛对他那么好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:46:00</Time>
+   <Sender>C</Sender>
+   <Content>妈的，亮毛都快难受死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:46:00</Time>
+   <Sender>D</Sender>
+   <Content>哎</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:46:00</Time>
+   <Sender>B</Sender>
+   <Content>我转</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:46:00</Time>
+   <Sender>D</Sender>
+   <Content>他又说他看淡了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>B</Sender>
+   <Content>是她不配</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>B</Sender>
+   <Content>麻痹</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>C</Sender>
+   <Content>天天借我号看莫雨空间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>C</Sender>
+   <Content>结果莫[sensitive]找了个牛[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>B</Sender>
+   <Content>无语</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>C</Sender>
+   <Content>真的无语</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>A</Sender>
+   <Content>[发怒]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>C</Sender>
+   <Content>亮毛对莫[sensitive]怎么样都是有目共睹的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:47:00</Time>
+   <Sender>D</Sender>
+   <Content>我觉得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>D</Sender>
+   <Content>确实莫[sensitive]不配</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>C</Sender>
+   <Content>我觉得，莫[sensitive]真的配不上亮毛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>C</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>D</Sender>
+   <Content>太极端</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>B</Sender>
+   <Content>贱女人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>C</Sender>
+   <Content>我最开始不知道莫[sensitive]怎么的人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>C</Sender>
+   <Content>后来是真的无语</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>A</Sender>
+   <Content>也是无语哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>B</Sender>
+   <Content>属实恶心人了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:48:00</Time>
+   <Sender>C</Sender>
+   <Content>真就没事找事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>D</Sender>
+   <Content>我以前还有段[sensitive]觉得是亮毛[sensitive] 没行动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>D</Sender>
+   <Content>后来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>D</Sender>
+   <Content>哎</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>D</Sender>
+   <Content>确实莫[sensitive]🙅‍♂️</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>C</Sender>
+   <Content>还好我后来对亮毛劝分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>B</Sender>
+   <Content>我也是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>C</Sender>
+   <Content>最开始是劝和的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:49:00</Time>
+   <Sender>D</Sender>
+   <Content>我也我也</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>A</Sender>
+   <Content>所以亮毛还是走不出来吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>D</Sender>
+   <Content>最开始一直劝和</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>C</Sender>
+   <Content>没完全走出来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>D</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>C</Sender>
+   <Content>你要想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>D</Sender>
+   <Content>很打击的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>D</Sender>
+   <Content>真的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>C</Sender>
+   <Content>他有个室友叫莫雨</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:50:00</Time>
+   <Sender>C</Sender>
+   <Content>能忘？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:51:00</Time>
+   <Sender>D</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:51:00</Time>
+   <Sender>D</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我™想去骂她</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:51:00</Time>
+   <Sender>A</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>话说那个男的看着好眼熟哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:53:00</Time>
+   <Sender>C</Sender>
+   <Content>[其他消息: 🌈💨与会打呼噜的月亮🌙的聊天记录]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:53:00</Time>
+   <Sender>C</Sender>
+   <Content>苦了我的宝了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:54:00</Time>
+   <Sender>B</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:55:00</Time>
+   <Sender>E</Sender>
+   <Content>啊这</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:57:00</Time>
+   <Sender>F</Sender>
+   <Content>。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:57:00</Time>
+   <Sender>F</Sender>
+   <Content>他男朋友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:57:00</Time>
+   <Sender>F</Sender>
+   <Content>好一般</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:57:00</Time>
+   <Sender>F</Sender>
+   <Content>[囧]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:57:00</Time>
+   <Sender>C</Sender>
+   <Content>你这真的客气了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:57:00</Time>
+   <Sender>C</Sender>
+   <Content>要我说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:57:00</Time>
+   <Sender>C</Sender>
+   <Content>好丑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>F</Sender>
+   <Content>但是我不敢说别人丑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>F</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>F</Sender>
+   <Content>只能说好一般</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>C</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>C</Sender>
+   <Content>这是什么牛[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>F</Sender>
+   <Content>亮毛居然还走不出</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>C</Sender>
+   <Content>害，我可怜的亮毛啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:58:00</Time>
+   <Sender>F</Sender>
+   <Content>不至于吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:59:00</Time>
+   <Sender>F</Sender>
+   <Content>感觉莫[sensitive]可能只是想找个男人了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 15:59:00</Time>
+   <Sender>C</Sender>
+   <Content>[sensitive]ybe</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:00:00</Time>
+   <Sender>F</Sender>
+   <Content>没必要讨论别过了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:00:00</Time>
+   <Sender>F</Sender>
+   <Content>你们帮亮毛[sensitive]走出去才重要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:00:00</Time>
+   <Sender>C</Sender>
+   <Content>学习</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:00:00</Time>
+   <Sender>F</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:00:00</Time>
+   <Sender>C</Sender>
+   <Content>帮不了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:00:00</Time>
+   <Sender>F</Sender>
+   <Content>那是不可能的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:00:00</Time>
+   <Sender>C</Sender>
+   <Content>这种事情咱们也没办法</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:01:00</Time>
+   <Sender>C</Sender>
+   <Content>要我说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-30 16:01:00</Time>
+   <Sender>C</Sender>
+   <Content>高中他们就不该在一起 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

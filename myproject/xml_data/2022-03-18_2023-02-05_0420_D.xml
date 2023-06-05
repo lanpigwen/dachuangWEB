@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:21:00</Time>
+   <Sender>A</Sender>
+   <Content>啊对了姐姐 我也得补考</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:21:00</Time>
+   <Sender>B</Sender>
+   <Content>你哪门挂了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:22:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐我们还有机会回学校吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:22:00</Time>
+   <Sender>A</Sender>
+   <Content>py</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:22:00</Time>
+   <Sender>A</Sender>
+   <Content>和高数</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:22:00</Time>
+   <Sender>B</Sender>
+   <Content>有吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:26:00</Time>
+   <Sender>B</Sender>
+   <Content>就这两门？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>挂课了转专业恐怕就不行了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>没事的学姐 我现在没那么想转了。我假期因为补考一直在复习所以有点儿上道了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:01:00</Time>
+   <Sender>B</Sender>
+   <Content>那整挺好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:01:00</Time>
+   <Sender>B</Sender>
+   <Content>你在复习什么呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:02:00</Time>
+   <Sender>A</Sender>
+   <Content>复习Python 呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:02:00</Time>
+   <Sender>A</Sender>
+   <Content>然后我慢慢觉得它好像也不难呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:03:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯，对，不错不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:03:00</Time>
+   <Sender>A</Sender>
+   <Content>我感觉上学期我脑袋没上弦一样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:03:00</Time>
+   <Sender>B</Sender>
+   <Content>那高数呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:05:00</Time>
+   <Sender>A</Sender>
+   <Content>高数就再做做题嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:05:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐补考好过嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>这个我不太清楚，应该比期末简单点吧，也或者难度一样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:21:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈，我把期末的代码都重写了一遍</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:21:00</Time>
+   <Sender>A</Sender>
+   <Content>谢[sensitive]学姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:26:00</Time>
+   <Sender>B</Sender>
+   <Content>高数的话，把老师留的作业，上课讲的例题，还有往年题好好做几遍，动手做，把公式记熟</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-18 17:28:00</Time>
+   <Sender>A</Sender>
+   <Content>好的！谢[sensitive]学姐</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     "chat",
     'corsheaders',
+    'news'
 ]
 
 MIDDLEWARE = [
@@ -62,7 +63,7 @@ ROOT_URLCONF = "myproject.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [os.path.join(BASE_DIR, 'dist')],
+        "DIRS": [os.path.join(BASE_DIR, 'dist'),os.path.join(BASE_DIR, 'news/templates')],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -139,6 +140,7 @@ STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATICFILES_DIRS = [
 os.path.join(BASE_DIR, "dist/static"),
+os.path.join(BASE_DIR, 'xml_data'),
 ]
 
 
@@ -152,3 +154,4 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True 
 
+APPEND_SLASH = False

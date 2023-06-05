@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>我已经很多天没在驻地吃饭了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>咱就是说宁愿饿着也不想吃驻地的饭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:41:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>如果我们隔离在驻地的话一定可以瘦哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:41:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯确实</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

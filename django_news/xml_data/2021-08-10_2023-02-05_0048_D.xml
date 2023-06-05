@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>6</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:37:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:37:00</Time>
+   <Sender>A</Sender>
+   <Content>xdm，这次真的分了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:37:00</Time>
+   <Sender>B</Sender>
+   <Content>卵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:38:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:39:00</Time>
+   <Sender>B</Sender>
+   <Content>为何</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:39:00</Time>
+   <Sender>A</Sender>
+   <Content>@imdxw </Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:39:00</Time>
+   <Sender>A</Sender>
+   <Content>还在芷江啵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:39:00</Time>
+   <Sender>B</Sender>
+   <Content>在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:39:00</Time>
+   <Sender>B</Sender>
+   <Content>咋啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>过两天我去芷江，教我咋喝酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:40:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:40:00</Time>
+   <Sender>B</Sender>
+   <Content>我怎么教</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:40:00</Time>
+   <Sender>B</Sender>
+   <Content>手术完喝不了酒应该</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:40:00</Time>
+   <Sender>A</Sender>
+   <Content>多捞啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:40:00</Time>
+   <Sender>B</Sender>
+   <Content>看你喝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:41:00</Time>
+   <Sender>A</Sender>
+   <Content>那就找亮毛[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:41:00</Time>
+   <Sender>B</Sender>
+   <Content>我陪你们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:41:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:41:00</Time>
+   <Sender>B</Sender>
+   <Content>但是我不喝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:42:00</Time>
+   <Sender>A</Sender>
+   <Content>因为现在她觉得我们之间更像朋友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:42:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:42:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:42:00</Time>
+   <Sender>D</Sender>
+   <Content>她提的?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:42:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>C</Sender>
+   <Content>那完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>A</Sender>
+   <Content>我也试图挽留了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>A</Sender>
+   <Content>写了千多字的小作文</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>D</Sender>
+   <Content>一般女孩子提分手，就没有挽回的。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>A</Sender>
+   <Content>我他妈高考都没写这么多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:43:00</Time>
+   <Sender>C</Sender>
+   <Content>为什么男孩子有挽回的余地</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>D</Sender>
+   <Content>男孩子一般都不舍得提分手</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>C</Sender>
+   <Content>还是女生太狠了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>C</Sender>
+   <Content>卑微</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>C</Sender>
+   <Content>woc</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>D</Sender>
+   <Content>女生是思考清楚了才提滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>A</Sender>
+   <Content>最重要的是我一直在问她这个观点是不是从她心里产生的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>D</Sender>
+   <Content>舔狗，你又不会当舔狗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>E</Sender>
+   <Content>男生也狠哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>A</Sender>
+   <Content>她不回我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>E</Sender>
+   <Content>因人而异吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:44:00</Time>
+   <Sender>D</Sender>
+   <Content>如果不是女生太那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>D</Sender>
+   <Content>男生也不会轻易说的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>C</Sender>
+   <Content>就是太[sensitive]没得关爱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>C</Sender>
+   <Content>她寂寞了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>E</Sender>
+   <Content>那就分手</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>D</Sender>
+   <Content>异地真的辛苦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>C</Sender>
+   <Content>她的朋友圈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>B</Sender>
+   <Content>异地难</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>C</Sender>
+   <Content>你然后作为了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>A</Sender>
+   <Content>能有什么作为</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>F</Sender>
+   <Content>放手</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>D</Sender>
+   <Content>不仅没有关爱 还有猜忌</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:45:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>C</Sender>
+   <Content>你能不能感性一点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道啥时候开始就开始不再和我分享这些东西了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>A</Sender>
+   <Content>我能怎么办</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>C</Sender>
+   <Content>因为你没有走进他的内心深处</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>A</Sender>
+   <Content>莽夫一样直接说？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>C</Sender>
+   <Content>哈哈啊哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>D</Sender>
+   <Content>哈哈哈哈说的对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>A</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:46:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:47:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:47:00</Time>
+   <Sender>A</Sender>
+   <Content>到头来还是我太捞了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:47:00</Time>
+   <Sender>D</Sender>
+   <Content>抽口烟冷静下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:47:00</Time>
+   <Sender>C</Sender>
+   <Content>你真的伤心嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>B</Sender>
+   <Content>分享欲老重要了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>F</Sender>
+   <Content>你真的伤心吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>D</Sender>
+   <Content>说的太对了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>B</Sender>
+   <Content>我都不怎么发朋友圈了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>B</Sender>
+   <Content>好多事情</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>A</Sender>
+   <Content>咋说呢，可能之前多少有点准备了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>A</Sender>
+   <Content>但还是很难过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>D</Sender>
+   <Content>[发怒]像我们这种老单身狗 只能当舔狗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:48:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

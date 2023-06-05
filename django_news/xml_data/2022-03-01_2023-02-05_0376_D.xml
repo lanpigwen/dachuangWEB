@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>那个五四系列活动可以从和博物馆展览这边入手一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>开开什么展览志愿者</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>可以出校吗难道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>或者讲解志愿者都可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>现在还不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>两手准备~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>那是要联系博物馆是吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>就是问问需不需要志愿者</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>可以先查查哪些博物馆有相关展览</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯好的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

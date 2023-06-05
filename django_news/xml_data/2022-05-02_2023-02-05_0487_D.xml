@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:44:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:44:00</Time>
+   <Sender>A</Sender>
+   <Content>你数字逻辑实验报告写了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:45:00</Time>
+   <Sender>B</Sender>
+   <Content>没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:45:00</Time>
+   <Sender>B</Sender>
+   <Content>你呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:45:00</Time>
+   <Sender>A</Sender>
+   <Content>刚开始</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我是在怀疑这难道不是[sensitive]黏贴的事儿？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:45:00</Time>
+   <Sender>B</Sender>
+   <Content>我也觉得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>学姐不都发了么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>所以如何才能脱颖而出</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>是啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:47:00</Time>
+   <Sender>B</Sender>
+   <Content>修改几个字就提交么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:47:00</Time>
+   <Sender>B</Sender>
+   <Content>还有读书笔记</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:48:00</Time>
+   <Sender>A</Sender>
+   <Content>困惑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-02 11:49:00</Time>
+   <Sender>B</Sender>
+   <Content>我也是</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

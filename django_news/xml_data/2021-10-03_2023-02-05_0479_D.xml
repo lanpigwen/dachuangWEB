@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 08:29:00</Time>
+   <Sender>A</Sender>
+   <Content>慈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 08:30:00</Time>
+   <Sender>A</Sender>
+   <Content>你是不是还拿的我的卷发棒呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 08:30:00</Time>
+   <Sender>A</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 08:30:00</Time>
+   <Sender>A</Sender>
+   <Content>我着急用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 10:00:00</Time>
+   <Sender>B</Sender>
+   <Content>是我刚醒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>救命啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 10:01:00</Time>
+   <Sender>A</Sender>
+   <Content>没事儿啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>对不起＞人＜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 10:01:00</Time>
+   <Sender>A</Sender>
+   <Content>我已经走啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>请你喝奶茶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-03 12:41:00</Time>
+   <Sender>A</Sender>
+   <Content>没事儿没事儿，不用啦</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:53:00</Time>
+   <Sender>A</Sender>
+   <Content>重制人生你看了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:54:00</Time>
+   <Sender>B</Sender>
+   <Content>当时你不是说不看吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:54:00</Time>
+   <Sender>B</Sender>
+   <Content>我当时跟着追完的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:55:00</Time>
+   <Sender>B</Sender>
+   <Content>结局太潦草了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:55:00</Time>
+   <Sender>B</Sender>
+   <Content>完全不知道发生了什么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:55:00</Time>
+   <Sender>A</Sender>
+   <Content>我说过吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:55:00</Time>
+   <Sender>B</Sender>
+   <Content>对啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:55:00</Time>
+   <Sender>B</Sender>
+   <Content>你说第一集太长了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:55:00</Time>
+   <Sender>B</Sender>
+   <Content>不想看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我说只有第一集长一些</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:56:00</Time>
+   <Sender>A</Sender>
+   <Content>(´-ω-`)</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:56:00</Time>
+   <Sender>B</Sender>
+   <Content>你说你以为每集都这样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:56:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:56:00</Time>
+   <Sender>A</Sender>
+   <Content>爷忘了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:56:00</Time>
+   <Sender>A</Sender>
+   <Content>那个时候好多其它的番没看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:56:00</Time>
+   <Sender>A</Sender>
+   <Content>就搁置了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:57:00</Time>
+   <Sender>B</Sender>
+   <Content>结局太潦草了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:57:00</Time>
+   <Sender>A</Sender>
+   <Content>评价还好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:57:00</Time>
+   <Sender>B</Sender>
+   <Content>你不说我以为我少看了几季</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:57:00</Time>
+   <Sender>A</Sender>
+   <Content>我看看吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:57:00</Time>
+   <Sender>A</Sender>
+   <Content>这个四月很多好番</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:58:00</Time>
+   <Sender>A</Sender>
+   <Content>希望不是谎言</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:58:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:58:00</Time>
+   <Sender>B</Sender>
+   <Content>这都能提到四谎？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:58:00</Time>
+   <Sender>A</Sender>
+   <Content>三月的狮子你看了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:58:00</Time>
+   <Sender>B</Sender>
+   <Content>没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:58:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈就想提一手不行？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:58:00</Time>
+   <Sender>B</Sender>
+   <Content>最近补了一部老[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>B</Sender>
+   <Content>给爷整自闭了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>A</Sender>
+   <Content>国漫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>C</Sender>
+   <Content>他是谁</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>C</Sender>
+   <Content>好帅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>C</Sender>
+   <Content>[色]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>B</Sender>
+   <Content>男二</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>B</Sender>
+   <Content>和男主有点基</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>A</Sender>
+   <Content>我听着中配我就起鸡皮疙瘩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>C</Sender>
+   <Content>😍那我梗喜欢了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>B</Sender>
+   <Content>第一对被磕的cp</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>C</Sender>
+   <Content>粤语版吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>C</Sender>
+   <Content>没敢听</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>B</Sender>
+   <Content>粤语版配的还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 11:59:00</Time>
+   <Sender>A</Sender>
+   <Content>就普通话</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>没有了呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我说国漫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>B</Sender>
+   <Content>普通话的确实拉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>A</Sender>
+   <Content>没说这部番</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>那是你们看多了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>日漫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>B</Sender>
+   <Content>好几部番的中配</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>B</Sender>
+   <Content>国漫我也看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>国漫有的很不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>A</Sender>
+   <Content>国漫完全看不下去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>B</Sender>
+   <Content>天[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>求推荐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>A</Sender>
+   <Content>中配太出戏了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>[sensitive]竟然看这个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>C</Sender>
+   <Content>[色]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>B</Sender>
+   <Content>男主有点0</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:00:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>C</Sender>
+   <Content>本来就是bl改编</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>B</Sender>
+   <Content>剧情还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>C</Sender>
+   <Content>配的也不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>A</Sender>
+   <Content>我姐用我的号老是看国漫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>C</Sender>
+   <Content>[得意]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>B</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>C</Sender>
+   <Content>还有什么推荐吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>B</Sender>
+   <Content>我想想哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>C</Sender>
+   <Content>我真的很剧荒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>B</Sender>
+   <Content>国漫更的太少了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:01:00</Time>
+   <Sender>C</Sender>
+   <Content>看啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:02:00</Time>
+   <Sender>C</Sender>
+   <Content>确实很慢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>我瞅瞅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>之前有个什么妖记来着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>你要是看国漫的话，发刀人应该也看过了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>妖怪名单？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>C</Sender>
+   <Content>哦哦是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>好像是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>C</Sender>
+   <Content>天宝伏妖?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>我看了一下历史记录</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>妖神记</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>估计是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>A</Sender>
+   <Content>我姐昨天看剧看到3.30</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>C</Sender>
+   <Content>牛蛙</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>C</Sender>
+   <Content>好看蛮</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>没看过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:04:00</Time>
+   <Sender>B</Sender>
+   <Content>我看国漫不喜欢看这个3d的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-20 12:04:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:32:00</Time>
+   <Sender>A</Sender>
+   <Content>哎</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:32:00</Time>
+   <Sender>A</Sender>
+   <Content>你的[sensitive]为什么带字母</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:32:00</Time>
+   <Sender>A</Sender>
+   <Content>/好像是我的知识盲区</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:32:00</Time>
+   <Sender>B</Sender>
+   <Content>哎呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:33:00</Time>
+   <Sender>B</Sender>
+   <Content>6看成b了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:33:00</Time>
+   <Sender>A</Sender>
+   <Content>是0还是b</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:33:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:33:00</Time>
+   <Sender>B</Sender>
+   <Content>这是我的知识盲区</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:33:00</Time>
+   <Sender>A</Sender>
+   <Content>我还以为[sensitive]上面是有字母的但我不知道🌚</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:34:00</Time>
+   <Sender>B</Sender>
+   <Content>我不知道[sensitive]只有数字[Facepalm]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:35:00</Time>
+   <Sender>A</Sender>
+   <Content>应该是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:35:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯就是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:35:00</Time>
+   <Sender>B</Sender>
+   <Content>刚查的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-13 22:35:00</Time>
+   <Sender>A</Sender>
+   <Content>严谨[Doge]</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

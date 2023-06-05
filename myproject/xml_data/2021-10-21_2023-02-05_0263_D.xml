@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:47:00</Time>
+   <Sender>A</Sender>
+   <Content>对了学姐这次活动那个策划书</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:47:00</Time>
+   <Sender>A</Sender>
+   <Content>主题我不知道是啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:48:00</Time>
+   <Sender>B</Sender>
+   <Content>写奔向冬奥吧~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:48:00</Time>
+   <Sender>A</Sender>
+   <Content>还有应该不用面试吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:48:00</Time>
+   <Sender>B</Sender>
+   <Content>注意带着部员一起做~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:48:00</Time>
+   <Sender>A</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:48:00</Time>
+   <Sender>B</Sender>
+   <Content>不面试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:48:00</Time>
+   <Sender>B</Sender>
+   <Content>直接用链接报名</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:49:00</Time>
+   <Sender>A</Sender>
+   <Content>好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:49:00</Time>
+   <Sender>B</Sender>
+   <Content>然后你们按照报名前后顺序选出四十个人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-21 16:49:00</Time>
+   <Sender>A</Sender>
+   <Content>好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

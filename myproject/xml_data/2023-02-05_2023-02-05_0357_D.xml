@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:58:00</Time>
+   <Sender>A</Sender>
+   <Content>这么勤奋的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:58:00</Time>
+   <Sender>A</Sender>
+   <Content>我早上好久没去这么早了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:58:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈这不快结束了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:58:00</Time>
+   <Sender>B</Sender>
+   <Content>勤奋两天就该隔离了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈隔离哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:00:00</Time>
+   <Sender>B</Sender>
+   <Content>啊气人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:00:00</Time>
+   <Sender>A</Sender>
+   <Content>隔离餐吃久了也会麻[sensitive]的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:00:00</Time>
+   <Sender>A</Sender>
+   <Content>就没那么难受了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:00:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:00:00</Time>
+   <Sender>B</Sender>
+   <Content>我已经屯了超多的饭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>咱就是不吃隔离餐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:01:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈我带的半箱卤蛋几天前干完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈哈可怜孩子</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

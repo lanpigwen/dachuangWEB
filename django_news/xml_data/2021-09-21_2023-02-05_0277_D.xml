@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:33:00</Time>
+   <Sender>A</Sender>
+   <Content>今儿干啥呢[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:33:00</Time>
+   <Sender>B</Sender>
+   <Content>今天在寝室学英语[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:34:00</Time>
+   <Sender>B</Sender>
+   <Content>综英作业还没写完</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:34:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈，都是我的错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:34:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈没有确实英语该预习起来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:34:00</Time>
+   <Sender>A</Sender>
+   <Content>就冲你这学习态度，期末稳了[奸笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:35:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:35:00</Time>
+   <Sender>B</Sender>
+   <Content>谢[sensitive]曹[sensitive]sir</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:35:00</Time>
+   <Sender>A</Sender>
+   <Content>咱这周没有综英课哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:35:00</Time>
+   <Sender>A</Sender>
+   <Content>得下周了[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:36:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯可惜被假期冲掉了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-21 10:36:00</Time>
+   <Sender>A</Sender>
+   <Content>是的，咱线上相聚</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

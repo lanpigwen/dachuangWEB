@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:24:00</Time>
+   <Sender>A</Sender>
+   <Content>[羡慕！今天经管院的同学赢麻了！ : http://mp.weixin.qq.com/s?__biz=MzI5MTgwMTEwOA==&amp;mid=2247554518&amp;idx=1&amp;sn=e5eb257662bc59ca81129201352f8ea4&amp;chk[sensitive]=ec0944addb7ecdbb2622a4d98cea31733945b6817af53d6a19694bab5aef295292b476002dff&amp;mpshare=1&amp;scene=1&amp;srcid=0326TZN3HS717vEjqVQ3Dcf0&amp;sharer_sharetime=16[sensitive]71&amp;sharer_shareid=a525d49f11bee3b6267efea62eff1403#rd]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:24:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:30:00</Time>
+   <Sender>B</Sender>
+   <Content>你们没有吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:30:00</Time>
+   <Sender>B</Sender>
+   <Content>经管的好香</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:30:00</Time>
+   <Sender>A</Sender>
+   <Content>只有这一个院有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:31:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:34:00</Time>
+   <Sender>C</Sender>
+   <Content>我们只给女生发东西</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:35:00</Time>
+   <Sender>C</Sender>
+   <Content>[捂脸][捂脸][捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:35:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>为啥啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:41:00</Time>
+   <Sender>C</Sender>
+   <Content>发姨妈巾</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:41:00</Time>
+   <Sender>C</Sender>
+   <Content>一个人两箱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>。。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>怪不得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:42:00</Time>
+   <Sender>C</Sender>
+   <Content>还是自由点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:42:00</Time>
+   <Sender>C</Sender>
+   <Content>大品牌</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>学校很人性化 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

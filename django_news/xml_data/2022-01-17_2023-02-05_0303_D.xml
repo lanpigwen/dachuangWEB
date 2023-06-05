@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:04:00</Time>
+   <Sender>A</Sender>
+   <Content>泽[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:04:00</Time>
+   <Sender>A</Sender>
+   <Content>你带了几个箱子啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:04:00</Time>
+   <Sender>A</Sender>
+   <Content>就这次去冬奥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:06:00</Time>
+   <Sender>B</Sender>
+   <Content>3</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:06:00</Time>
+   <Sender>B</Sender>
+   <Content>这到底还能不能去呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:06:00</Time>
+   <Sender>B</Sender>
+   <Content>去不了回家了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:07:00</Time>
+   <Sender>A</Sender>
+   <Content>应该要去的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:07:00</Time>
+   <Sender>A</Sender>
+   <Content>咋那么多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:07:00</Time>
+   <Sender>A</Sender>
+   <Content>带了些啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:08:00</Time>
+   <Sender>B</Sender>
+   <Content>一个一个包衣服，一个包食品，还有个书和电脑啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:08:00</Time>
+   <Sender>A</Sender>
+   <Content>食品你自己是额外买了一部分吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:08:00</Time>
+   <Sender>B</Sender>
+   <Content>买了好多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:09:00</Time>
+   <Sender>B</Sender>
+   <Content>结果</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:09:00</Time>
+   <Sender>B</Sender>
+   <Content>这几天不走估计吃完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:09:00</Time>
+   <Sender>A</Sender>
+   <Content>有啥可买的呀我参考一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:09:00</Time>
+   <Sender>A</Sender>
+   <Content>[破涕为笑]哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:09:00</Time>
+   <Sender>B</Sender>
+   <Content>你要不过来看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:09:00</Time>
+   <Sender>B</Sender>
+   <Content>顺便拿证书</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-17 18:09:00</Time>
+   <Sender>A</Sender>
+   <Content>行我来了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

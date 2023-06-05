@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:26:00</Time>
+   <Sender>A</Sender>
+   <Content>朱[sensitive]那个电影学姐听说了吗？有个跨年拥抱场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:27:00</Time>
+   <Sender>A</Sender>
+   <Content>12月31号晚上22:02开始</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:27:00</Time>
+   <Sender>B</Sender>
+   <Content>好像听说了，是他演的？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:27:00</Time>
+   <Sender>A</Sender>
+   <Content>能正好赶上2022年一月一日零点结束</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:27:00</Time>
+   <Sender>A</Sender>
+   <Content>对呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:27:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦，不错子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:27:00</Time>
+   <Sender>B</Sender>
+   <Content>「哇」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:28:00</Time>
+   <Sender>A</Sender>
+   <Content>是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:30:00</Time>
+   <Sender>B</Sender>
+   <Content>如果要出去的话我应该就早上再回来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:30:00</Time>
+   <Sender>A</Sender>
+   <Content>住宾馆吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:30:00</Time>
+   <Sender>B</Sender>
+   <Content>ktv夜场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:31:00</Time>
+   <Sender>A</Sender>
+   <Content>这不是应该找一个自己最重要的人去看吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-18 13:32:00</Time>
+   <Sender>B</Sender>
+   <Content>就处的比较好的朋友一起</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>A</Sender>
+   <Content>经理我周五训练时间一直有课，以后周五都不来了[苦涩]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>B</Sender>
+   <Content>那你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>B</Sender>
+   <Content>的意思是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>B</Sender>
+   <Content>以后都不来了是吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>B</Sender>
+   <Content>唉不对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>B</Sender>
+   <Content>周一</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>A</Sender>
+   <Content>对对对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>B</Sender>
+   <Content>好的好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>A</Sender>
+   <Content>周一晚一点到</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:36:00</Time>
+   <Sender>A</Sender>
+   <Content>周五来不了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:37:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:37:00</Time>
+   <Sender>B</Sender>
+   <Content>你注意着群里的训练时间哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:37:00</Time>
+   <Sender>B</Sender>
+   <Content>捡有空的时候来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:38:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯好的谢[sensitive]经理</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:38:00</Time>
+   <Sender>B</Sender>
+   <Content>没事没事</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

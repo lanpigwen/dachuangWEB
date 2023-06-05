@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>A</Sender>
+   <Content>蛙趣</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>B</Sender>
+   <Content>你有钱了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>B</Sender>
+   <Content>多少钱？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>C</Sender>
+   <Content>(⊙o⊙)哇哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>A</Sender>
+   <Content>这单项奖学金莫不是申请了就有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>C</Sender>
+   <Content>500</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>C</Sender>
+   <Content>我也觉得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>C</Sender>
+   <Content>申请了就有哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>A</Sender>
+   <Content>这都能申请上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>C</Sender>
+   <Content>我感觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>C</Sender>
+   <Content>这个奖学金</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:42:00</Time>
+   <Sender>C</Sender>
+   <Content>本来就是获得了其他奖的不能申请</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:43:00</Time>
+   <Sender>C</Sender>
+   <Content>但是其他的，已经把名额占的差不多了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:43:00</Time>
+   <Sender>C</Sender>
+   <Content>剩下的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:43:00</Time>
+   <Sender>C</Sender>
+   <Content>基本就是，申请就有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-21 11:44:00</Time>
+   <Sender>A</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

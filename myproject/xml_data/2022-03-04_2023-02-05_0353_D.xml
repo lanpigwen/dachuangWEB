@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:15:00</Time>
+   <Sender>A</Sender>
+   <Content>佳乐姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:15:00</Time>
+   <Sender>A</Sender>
+   <Content>刚返校这段[sensitive]需要出个活动吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:18:00</Time>
+   <Sender>B</Sender>
+   <Content>需要~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:18:00</Time>
+   <Sender>A</Sender>
+   <Content>那是线上还是线下呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:18:00</Time>
+   <Sender>B</Sender>
+   <Content>现在就可以开始面试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:19:00</Time>
+   <Sender>B</Sender>
+   <Content>线上面试，线下和线上活动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:19:00</Time>
+   <Sender>A</Sender>
+   <Content>有啥主题吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:19:00</Time>
+   <Sender>B</Sender>
+   <Content>没有特定的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:19:00</Time>
+   <Sender>A</Sender>
+   <Content>嘶好像想不到办啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:32:00</Time>
+   <Sender>B</Sender>
+   <Content>你们都有啥想法呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:34:00</Time>
+   <Sender>A</Sender>
+   <Content>额好像没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:34:00</Time>
+   <Sender>A</Sender>
+   <Content>现在部员有两个五四的策划</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-04 20:34:00</Time>
+   <Sender>A</Sender>
+   <Content>新活动还没想出来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:27:00</Time>
+   <Sender>B</Sender>
+   <Content>我们下学期可能会开斑马线的活动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:27:00</Time>
+   <Sender>B</Sender>
+   <Content>可以提前想想做做策划</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:27:00</Time>
+   <Sender>B</Sender>
+   <Content>然后类似的城市活动都可以看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:28:00</Time>
+   <Sender>A</Sender>
+   <Content>斑马线活动之前开过吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:28:00</Time>
+   <Sender>B</Sender>
+   <Content>没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:28:00</Time>
+   <Sender>B</Sender>
+   <Content>新活动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:28:00</Time>
+   <Sender>B</Sender>
+   <Content>得写策划</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:29:00</Time>
+   <Sender>A</Sender>
+   <Content>就是在斑马线那边准备扶老人过马路那种吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>和共享单车类似</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>等红[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:29:00</Time>
+   <Sender>B</Sender>
+   <Content>提醒行人走斑马线</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-05 16:29:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦好的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

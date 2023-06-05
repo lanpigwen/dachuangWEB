@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>WC你们都烧了几天啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>妈的又烧了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:16:00</Time>
+   <Sender>B</Sender>
+   <Content>我一天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:17:00</Time>
+   <Sender>B</Sender>
+   <Content>37度</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>第三天了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>中午三十八</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>每天都是上午好了下午烧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>只能说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>你这个病猪有点凶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>病株</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>一共一千多种呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>症状都不一样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>麻了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>B</Sender>
+   <Content>我家的就是都不怎么发烧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>A</Sender>
+   <Content>给老子烧麻了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>B</Sender>
+   <Content>烧也就是低烧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>A</Sender>
+   <Content>早上三十六度</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>A</Sender>
+   <Content>下午三十八</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>B</Sender>
+   <Content>现在估计挺虚弱吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>B</Sender>
+   <Content>都有可能</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>B</Sender>
+   <Content>我朋友白天没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:19:00</Time>
+   <Sender>B</Sender>
+   <Content>天天晚上睡觉烧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:22:00</Time>
+   <Sender>A</Sender>
+   <Content>几度算低烧啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:22:00</Time>
+   <Sender>B</Sender>
+   <Content>三十八度往下吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:23:00</Time>
+   <Sender>A</Sender>
+   <Content>还好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:23:00</Time>
+   <Sender>A</Sender>
+   <Content>刚刚量出来三十七度八</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:23:00</Time>
+   <Sender>A</Sender>
+   <Content>头胀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:23:00</Time>
+   <Sender>B</Sender>
+   <Content>多睡觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:23:00</Time>
+   <Sender>B</Sender>
+   <Content>多出汗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:23:00</Time>
+   <Sender>A</Sender>
+   <Content>睡不着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 17:23:00</Time>
+   <Sender>A</Sender>
+   <Content>太热了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

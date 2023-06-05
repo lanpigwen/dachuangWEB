@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>楼浪地球怎么这么贵啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>xdm看了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:58:00</Time>
+   <Sender>A</Sender>
+   <Content>值不值得看啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:58:00</Time>
+   <Sender>B</Sender>
+   <Content>45</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>为毛[sensitive]我一张110</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:59:00</Time>
+   <Sender>B</Sender>
+   <Content>大城市</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 16:59:00</Time>
+   <Sender>A</Sender>
+   <Content>前三排也要100</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

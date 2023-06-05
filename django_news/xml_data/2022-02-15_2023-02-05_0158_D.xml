@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>和平大桥有两个人跳河？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>一男一女</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>好像女的救上来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>男的好像g了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>打拳啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>为啥不先救男的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>性别歧视[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我只能说你是[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:46:00</Time>
+   <Sender>A</Sender>
+   <Content>因为男的沉了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:46:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:46:00</Time>
+   <Sender>A</Sender>
+   <Content>女的穿羽绒服pao起</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:47:00</Time>
+   <Sender>A</Sender>
+   <Content>我散步的时候好像刚好救起来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:47:00</Time>
+   <Sender>B</Sender>
+   <Content>嗦嘎</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:47:00</Time>
+   <Sender>C</Sender>
+   <Content>?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 22:48:00</Time>
+   <Sender>C</Sender>
+   <Content>死了?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 23:02:00</Time>
+   <Sender>A</Sender>
+   <Content>好像是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-15 23:02:00</Time>
+   <Sender>A</Sender>
+   <Content>我奶奶说只看到救了一个女的上来 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

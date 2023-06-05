@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:50:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:50:00</Time>
+   <Sender>A</Sender>
+   <Content>无汤芷江鸭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:50:00</Time>
+   <Sender>B</Sender>
+   <Content>你妈跟你ji的？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我妈也跟我ji了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我是在寝室吃的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>A</Sender>
+   <Content>没汤煮着不好吃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>A</Sender>
+   <Content>我没锅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:51:00</Time>
+   <Sender>B</Sender>
+   <Content>有锅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:52:00</Time>
+   <Sender>A</Sender>
+   <Content>呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:52:00</Time>
+   <Sender>B</Sender>
+   <Content>煮面绝绝子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:54:00</Time>
+   <Sender>A</Sender>
+   <Content>我不知道宿舍能不能用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:55:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:55:00</Time>
+   <Sender>C</Sender>
+   <Content>一般厕所可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:55:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:55:00</Time>
+   <Sender>B</Sender>
+   <Content>只要胆子大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:56:00</Time>
+   <Sender>D</Sender>
+   <Content>我们宿舍已经没了3个锅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:56:00</Time>
+   <Sender>B</Sender>
+   <Content>天天打yangcha</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>D</Sender>
+   <Content>我们第三个锅2000多瓦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>B</Sender>
+   <Content>保卫处查的嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>B</Sender>
+   <Content>我们今天也查了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>D</Sender>
+   <Content>宿舍阿[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>B</Sender>
+   <Content>不知到查到了没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>B</Sender>
+   <Content>等下回去看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:57:00</Time>
+   <Sender>D</Sender>
+   <Content>提前把我们的收了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:58:00</Time>
+   <Sender>D</Sender>
+   <Content>要不然被学校查到要记过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:58:00</Time>
+   <Sender>B</Sender>
+   <Content>我们的很离谱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:58:00</Time>
+   <Sender>B</Sender>
+   <Content>电吹风都要查</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:58:00</Time>
+   <Sender>D</Sender>
+   <Content>我们第三个是因为吃完忘记收拾成为了生态圈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:58:00</Time>
+   <Sender>D</Sender>
+   <Content>电吹风我们也收啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:59:00</Time>
+   <Sender>D</Sender>
+   <Content>但是宿[sensitive]大厅有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:59:00</Time>
+   <Sender>D</Sender>
+   <Content>澡堂有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:59:00</Time>
+   <Sender>B</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:59:00</Time>
+   <Sender>B</Sender>
+   <Content>以前都不查的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-08 17:59:00</Time>
+   <Sender>B</Sender>
+   <Content>现在查了 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

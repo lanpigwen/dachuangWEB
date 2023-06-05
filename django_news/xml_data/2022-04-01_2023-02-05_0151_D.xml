@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>5</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:14:00</Time>
+   <Sender>A</Sender>
+   <Content>无名指感觉有点挤[尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:15:00</Time>
+   <Sender>B</Sender>
+   <Content>我也觉得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:15:00</Time>
+   <Sender>C</Sender>
+   <Content>哈哈哈角度刚刚碰到了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:15:00</Time>
+   <Sender>C</Sender>
+   <Content>可以掰开</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:15:00</Time>
+   <Sender>D</Sender>
+   <Content>你都被勒肉了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:16:00</Time>
+   <Sender>C</Sender>
+   <Content>我胖了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:16:00</Time>
+   <Sender>D</Sender>
+   <Content>你手指好胖</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:16:00</Time>
+   <Sender>C</Sender>
+   <Content>说谁呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:17:00</Time>
+   <Sender>C</Sender>
+   <Content>真的吗[流泪][流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:17:00</Time>
+   <Sender>D</Sender>
+   <Content>女生的手好多这样的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:17:00</Time>
+   <Sender>C</Sender>
+   <Content>那我减肥去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:17:00</Time>
+   <Sender>D</Sender>
+   <Content>。。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:19:00</Time>
+   <Sender>D</Sender>
+   <Content>这和胖没关系吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:19:00</Time>
+   <Sender>C</Sender>
+   <Content>[发怒]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:19:00</Time>
+   <Sender>C</Sender>
+   <Content>不够长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:19:00</Time>
+   <Sender>D</Sender>
+   <Content>你拍的挺长的了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:20:00</Time>
+   <Sender>D</Sender>
+   <Content>手显的比我都大，长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:20:00</Time>
+   <Sender>C</Sender>
+   <Content>无p图</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:20:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:21:00</Time>
+   <Sender>C</Sender>
+   <Content>很短</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:21:00</Time>
+   <Sender>C</Sender>
+   <Content>很粗糙</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:22:00</Time>
+   <Sender>D</Sender>
+   <Content>女生的手还是嫩不少</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:22:00</Time>
+   <Sender>A</Sender>
+   <Content>角度问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:22:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:22:00</Time>
+   <Sender>A</Sender>
+   <Content>[咒骂]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:22:00</Time>
+   <Sender>B</Sender>
+   <Content>我骨架太大了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:22:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:24:00</Time>
+   <Sender>C</Sender>
+   <Content>我去真的骨架大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:24:00</Time>
+   <Sender>C</Sender>
+   <Content>你呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:25:00</Time>
+   <Sender>C</Sender>
+   <Content>[偷笑]我觉得胖乎乎的手也挺可爱的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:27:00</Time>
+   <Sender>E</Sender>
+   <Content>这手指没我细</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:30:00</Time>
+   <Sender>D</Sender>
+   <Content>男生关节比较明显吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:30:00</Time>
+   <Sender>D</Sender>
+   <Content>女生手胖胖的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:30:00</Time>
+   <Sender>D</Sender>
+   <Content>大多数</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 13:30:00</Time>
+   <Sender>C</Sender>
+   <Content>嗯嗯女生关节分明我还没见到过几个 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

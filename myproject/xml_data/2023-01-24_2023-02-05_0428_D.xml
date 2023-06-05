@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:05:00</Time>
+   <Sender>A</Sender>
+   <Content>小[sensitive]~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:05:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:05:00</Time>
+   <Sender>A</Sender>
+   <Content>明天是不是你过生日呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:05:00</Time>
+   <Sender>B</Sender>
+   <Content>和[sensitive]一天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:05:00</Time>
+   <Sender>B</Sender>
+   <Content>亚[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:05:00</Time>
+   <Sender>B</Sender>
+   <Content>要不放一起吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>B</Sender>
+   <Content>放一个里面叭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>B</Sender>
+   <Content>或者也轻松些</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>B</Sender>
+   <Content>或许</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>A</Sender>
+   <Content>一个的话，谁做是个问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>A</Sender>
+   <Content>不如做两个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>B</Sender>
+   <Content>有道理</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:06:00</Time>
+   <Sender>B</Sender>
+   <Content>可以可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>B</Sender>
+   <Content>需要我做谁的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>留言墙二维码给我一个~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>不需要不需要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>B</Sender>
+   <Content>ｸﾞｯ!(๑•̀ㅂ•́)و✧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>是多少岁生日呀~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:07:00</Time>
+   <Sender>B</Sender>
+   <Content>1月25</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>A</Sender>
+   <Content>19岁？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>A</Sender>
+   <Content>20？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>啊哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>这个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>我看错了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>我以为你问什么时候生日</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>「流泪」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>是20岁还是21我想想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>论周岁的话是20</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:08:00</Time>
+   <Sender>B</Sender>
+   <Content>虚岁的话21</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:09:00</Time>
+   <Sender>A</Sender>
+   <Content>看周岁！哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:09:00</Time>
+   <Sender>A</Sender>
+   <Content>好嘞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:13:00</Time>
+   <Sender>A</Sender>
+   <Content>有美美的照片想要发嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:47:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 10:47:00</Time>
+   <Sender>B</Sender>
+   <Content>算啦算啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>那你喜欢的图片也行~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>要做个封面嘛~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>我拿温[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>这个吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>等下我裁一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>喜喜庆庆过大年</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-24 11:01:00</Time>
+   <Sender>A</Sender>
+   <Content>收到哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

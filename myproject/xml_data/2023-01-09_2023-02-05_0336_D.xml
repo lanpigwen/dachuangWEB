@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:32:00</Time>
+   <Sender>A</Sender>
+   <Content>浩然</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:32:00</Time>
+   <Sender>A</Sender>
+   <Content>那个咱们学校有个英语老师要加一下你微信</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:32:00</Time>
+   <Sender>A</Sender>
+   <Content>他想帮人咨询一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>真假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>那个艺考的事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>信科的老师</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>他问我我就把你微信给他了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>B</Sender>
+   <Content>嗷嗷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>okok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:33:00</Time>
+   <Sender>B</Sender>
+   <Content>没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:46:00</Time>
+   <Sender>B</Sender>
+   <Content>这个老师</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:46:00</Time>
+   <Sender>B</Sender>
+   <Content>是不是很年轻</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:48:00</Time>
+   <Sender>A</Sender>
+   <Content>还好吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:48:00</Time>
+   <Sender>A</Sender>
+   <Content>三十多岁了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:49:00</Time>
+   <Sender>A</Sender>
+   <Content>三十四五估计</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 12:49:00</Time>
+   <Sender>B</Sender>
+   <Content>嗷嗷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 14:13:00</Time>
+   <Sender>B</Sender>
+   <Content>老师全名叫啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 14:13:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片: e1eb4d08700d6a339546f502a63bad5f.png(请在附件中查看)]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 14:13:00</Time>
+   <Sender>B</Sender>
+   <Content>这个签名</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 14:13:00</Time>
+   <Sender>A</Sender>
+   <Content>曹[sensitive]应该</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-09 14:13:00</Time>
+   <Sender>B</Sender>
+   <Content>没看出来</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

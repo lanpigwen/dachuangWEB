@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:02:00</Time>
+   <Sender>A</Sender>
+   <Content>你们C➕➕学了嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:04:00</Time>
+   <Sender>B</Sender>
+   <Content>了解一点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:04:00</Time>
+   <Sender>B</Sender>
+   <Content>还没系统学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:04:00</Time>
+   <Sender>B</Sender>
+   <Content>下学期开课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>我刚开始看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:05:00</Time>
+   <Sender>A</Sender>
+   <Content>一直说我pronunciation error</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:05:00</Time>
+   <Sender>A</Sender>
+   <Content>改不来呀[困]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:05:00</Time>
+   <Sender>A</Sender>
+   <Content>最简单的程序都通过不了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:07:00</Time>
+   <Sender>A</Sender>
+   <Content>能看出来哪里有问题嘛[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-22 22:07:00</Time>
+   <Sender>B</Sender>
+   <Content>我也没看出来。。。</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

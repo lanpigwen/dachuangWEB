@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>啊[sensitive]啊啊我跟你说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:36:00</Time>
+   <Sender>A</Sender>
+   <Content>我呜呜呜我做了不好的梦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:36:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:36:00</Time>
+   <Sender>B</Sender>
+   <Content>什么不好的梦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>我还梦了两个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>我醒了一次然后又睡着了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:37:00</Time>
+   <Sender>B</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:37:00</Time>
+   <Sender>B</Sender>
+   <Content>说说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:37:00</Time>
+   <Sender>B</Sender>
+   <Content>什么不好的梦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>我第一次好像鬼压床了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>你知道鬼压床吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>就是有意识不能动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>我丢我感觉进来了个人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>然后非礼我我还不能动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>真离谱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>吓死我了然后我后来醒了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>然后后来我又睡着了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>然后那个梦更恐怖</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:40:00</Time>
+   <Sender>B</Sender>
+   <Content>那个是什么梦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>我梦见咱俩在一起了然后你因为别人的一些流言蜚语生气了然后心情很不好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>然后我又差点被别人....</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>妈的绝了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>吓死我了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:41:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么会做这种梦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:41:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:41:00</Time>
+   <Sender>B</Sender>
+   <Content>没事的只是梦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>好恐怖</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>都不敢再睡觉了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:42:00</Time>
+   <Sender>B</Sender>
+   <Content>只是梦啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>可是我自己一个人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>我当然会害怕</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>[流泪][流泪][流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:43:00</Time>
+   <Sender>B</Sender>
+   <Content>明天就出来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:43:00</Time>
+   <Sender>B</Sender>
+   <Content>那打着电话睡觉吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-23 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>好好 太恐怖了 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

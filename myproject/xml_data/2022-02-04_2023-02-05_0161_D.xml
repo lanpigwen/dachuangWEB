@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 13:11:00</Time>
+   <Sender>A</Sender>
+   <Content>兄弟们看电影吗明天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 13:11:00</Time>
+   <Sender>B</Sender>
+   <Content>可以啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:32:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:32:00</Time>
+   <Sender>A</Sender>
+   <Content>想看哪个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:33:00</Time>
+   <Sender>C</Sender>
+   <Content>看什么电影[呲牙]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:33:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:34:00</Time>
+   <Sender>C</Sender>
+   <Content>看什么呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:36:00</Time>
+   <Sender>D</Sender>
+   <Content>喜剧吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:37:00</Time>
+   <Sender>A</Sender>
+   <Content>杀手</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:38:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:38:00</Time>
+   <Sender>A</Sender>
+   <Content>听说熊出没不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:38:00</Time>
+   <Sender>C</Sender>
+   <Content>熊出没没看过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:38:00</Time>
+   <Sender>C</Sender>
+   <Content>不感兴趣[尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:39:00</Time>
+   <Sender>A</Sender>
+   <Content>杀手也ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:39:00</Time>
+   <Sender>A</Sender>
+   <Content>四海是什么类型</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:39:00</Time>
+   <Sender>D</Sender>
+   <Content>四海快逃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:40:00</Time>
+   <Sender>A</Sender>
+   <Content>[疑问]你看了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:40:00</Time>
+   <Sender>D</Sender>
+   <Content>你没看评价吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:40:00</Time>
+   <Sender>D</Sender>
+   <Content>我天天看吐槽</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:40:00</Time>
+   <Sender>A</Sender>
+   <Content>emmm</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:41:00</Time>
+   <Sender>C</Sender>
+   <Content>刘[sensitive]存最近被骂的很惨吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:41:00</Time>
+   <Sender>A</Sender>
+   <Content>主要沈[sensitive]然挺喜欢的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:41:00</Time>
+   <Sender>D</Sender>
+   <Content>因为她吃人血馒头</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:41:00</Time>
+   <Sender>D</Sender>
+   <Content>含腾量少</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:41:00</Time>
+   <Sender>D</Sender>
+   <Content>不要去浪费钱看了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:41:00</Time>
+   <Sender>D</Sender>
+   <Content>杀手还不错！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:41:00</Time>
+   <Sender>A</Sender>
+   <Content>[发呆]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-04 22:42:00</Time>
+   <Sender>B</Sender>
+   <Content>我都行 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

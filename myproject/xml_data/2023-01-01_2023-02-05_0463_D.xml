@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:31:00</Time>
+   <Sender>A</Sender>
+   <Content>晚上带你去吃好吃的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:32:00</Time>
+   <Sender>A</Sender>
+   <Content>你跟奶奶说去我家吃饭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:36:00</Time>
+   <Sender>B</Sender>
+   <Content>去哪吃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:36:00</Time>
+   <Sender>B</Sender>
+   <Content>你们在哪了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>你跟奶奶说去我家应该让去呢哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:41:00</Time>
+   <Sender>A</Sender>
+   <Content>你先问问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:43:00</Time>
+   <Sender>B</Sender>
+   <Content>让去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>奶奶问你要菜了不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>要呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>奶奶给你装去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>去哪吃呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>等会我接你去，</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-01 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

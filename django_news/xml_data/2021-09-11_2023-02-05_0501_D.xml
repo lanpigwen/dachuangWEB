@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:30:00</Time>
+   <Sender>A</Sender>
+   <Content>你班书费</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:30:00</Time>
+   <Sender>A</Sender>
+   <Content>收了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:47:00</Time>
+   <Sender>B</Sender>
+   <Content>还没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:48:00</Time>
+   <Sender>A</Sender>
+   <Content>我突然想起来我也没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:48:00</Time>
+   <Sender>A</Sender>
+   <Content>明天就领书了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:54:00</Time>
+   <Sender>B</Sender>
+   <Content>咋收了，到时候是全班都先扫咱们的二维码？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:54:00</Time>
+   <Sender>A</Sender>
+   <Content>发个群收款吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 14:54:00</Time>
+   <Sender>A</Sender>
+   <Content>不用扫咱们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 15:07:00</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]，语言学基础写了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>写了写了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>想看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是我直接登你的号就行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>先用她的预标注写的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>谢[sensitive]宝[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]想参加大创吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>可以看看你的网页设计么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>我卡[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>可以呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:45:00</Time>
+   <Sender>B</Sender>
+   <Content>改不出来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:47:00</Time>
+   <Sender>B</Sender>
+   <Content>想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:47:00</Time>
+   <Sender>B</Sender>
+   <Content>超想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:47:00</Time>
+   <Sender>A</Sender>
+   <Content>那我带你飞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:47:00</Time>
+   <Sender>A</Sender>
+   <Content>怎么样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:47:00</Time>
+   <Sender>B</Sender>
+   <Content>咱们组队呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-14 16:47:00</Time>
+   <Sender>B</Sender>
+   <Content>好好好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:07:00</Time>
+   <Sender>A</Sender>
+   <Content>我终于把抖音号养成了兄弟们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:07:00</Time>
+   <Sender>A</Sender>
+   <Content>让你们看看我的抖音</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:07:00</Time>
+   <Sender>B</Sender>
+   <Content>什么意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:08:00</Time>
+   <Sender>A</Sender>
+   <Content>一刷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:08:00</Time>
+   <Sender>A</Sender>
+   <Content>全是女的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:08:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:08:00</Time>
+   <Sender>C</Sender>
+   <Content>你不行啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:08:00</Time>
+   <Sender>C</Sender>
+   <Content>我早都养好了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:09:00</Time>
+   <Sender>C</Sender>
+   <Content>你不是说不会玩短视频的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:09:00</Time>
+   <Sender>D</Sender>
+   <Content>我刷到的全是猫猫狗狗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:09:00</Time>
+   <Sender>D</Sender>
+   <Content>加点游戏和唱歌</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:09:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:09:00</Time>
+   <Sender>A</Sender>
+   <Content>巨骚的那种</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:09:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:10:00</Time>
+   <Sender>A</Sender>
+   <Content>但是一个都不会去关注</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:10:00</Time>
+   <Sender>A</Sender>
+   <Content>全凭实力</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:10:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:11:00</Time>
+   <Sender>A</Sender>
+   <Content>重在养成</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:11:00</Time>
+   <Sender>B</Sender>
+   <Content>牛皮</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:11:00</Time>
+   <Sender>A</Sender>
+   <Content>不在关注</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:12:00</Time>
+   <Sender>A</Sender>
+   <Content>养成了，不关注也能看 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

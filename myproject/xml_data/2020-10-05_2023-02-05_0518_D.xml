@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:38:00</Time>
+   <Sender>A</Sender>
+   <Content>一菲你在哪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:38:00</Time>
+   <Sender>B</Sender>
+   <Content>来操场了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:38:00</Time>
+   <Sender>A</Sender>
+   <Content>跑道有班级在上课好像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我跑完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>你呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:51:00</Time>
+   <Sender>A</Sender>
+   <Content>还差0.6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>那我先回宿舍了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>等你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-10-05 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

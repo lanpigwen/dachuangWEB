@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:08:00</Time>
+   <Sender>A</Sender>
+   <Content>狗子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:08:00</Time>
+   <Sender>A</Sender>
+   <Content>在不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:15:00</Time>
+   <Sender>B</Sender>
+   <Content>又干啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>去吃杨[sensitive]吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>吃完就回来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:16:00</Time>
+   <Sender>B</Sender>
+   <Content>啊这，不想去了，中午去吃了肯[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:16:00</Time>
+   <Sender>B</Sender>
+   <Content>不过你这表情</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>奶茶累</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>「可怜」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:16:00</Time>
+   <Sender>B</Sender>
+   <Content>让我。。不忍心拒绝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>图个指甲油</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:17:00</Time>
+   <Sender>B</Sender>
+   <Content>涂个屁</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>七点之前回来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>走吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>劳逸结合</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:17:00</Time>
+   <Sender>B</Sender>
+   <Content>你找你斗儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>她头疼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>我先找的你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>今天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>想想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:19:00</Time>
+   <Sender>B</Sender>
+   <Content>都没咋学习</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:19:00</Time>
+   <Sender>A</Sender>
+   <Content>7点再学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:19:00</Time>
+   <Sender>A</Sender>
+   <Content>要不六点半</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:19:00</Time>
+   <Sender>A</Sender>
+   <Content>速战速决</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:20:00</Time>
+   <Sender>A</Sender>
+   <Content>走</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:20:00</Time>
+   <Sender>B</Sender>
+   <Content>要记住我的好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:20:00</Time>
+   <Sender>A</Sender>
+   <Content>我在图书馆门口等你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 17:23:00</Time>
+   <Sender>B</Sender>
+   <Content>快过来</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

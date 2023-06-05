@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>5</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:37:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:37:00</Time>
+   <Sender>A</Sender>
+   <Content>如何评价</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:37:00</Time>
+   <Sender>A</Sender>
+   <Content>我们学校表白墙</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:37:00</Time>
+   <Sender>A</Sender>
+   <Content>光明正大约炮</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:38:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:38:00</Time>
+   <Sender>B</Sender>
+   <Content>这种男的怎不找🐔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:38:00</Time>
+   <Sender>C</Sender>
+   <Content>牛[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:38:00</Time>
+   <Sender>B</Sender>
+   <Content>笑死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:38:00</Time>
+   <Sender>A</Sender>
+   <Content>高质量太[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:38:00</Time>
+   <Sender>B</Sender>
+   <Content>还天赋人权哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:38:00</Time>
+   <Sender>A</Sender>
+   <Content>互相满足</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>D</Sender>
+   <Content>fwb</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>D</Sender>
+   <Content>什么意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>A</Sender>
+   <Content>[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>A</Sender>
+   <Content>我解锁新词汇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>D</Sender>
+   <Content>666666</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>B</Sender>
+   <Content>伏[sensitive]听了都要从坟里爬起来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:39:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:40:00</Time>
+   <Sender>D</Sender>
+   <Content>牛皮牛皮</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:40:00</Time>
+   <Sender>B</Sender>
+   <Content>每天可以看到新牛[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:41:00</Time>
+   <Sender>A</Sender>
+   <Content>牛[sensitive]太多了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:42:00</Time>
+   <Sender>E</Sender>
+   <Content>是缩写吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:42:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:42:00</Time>
+   <Sender>C</Sender>
+   <Content>想那种事情去找🐔 啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:42:00</Time>
+   <Sender>C</Sender>
+   <Content>别人专业工作的，还没经验</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:43:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:43:00</Time>
+   <Sender>D</Sender>
+   <Content>friends with benefits</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:44:00</Time>
+   <Sender>D</Sender>
+   <Content>我也发现我们墙也有这个fwb</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:45:00</Time>
+   <Sender>D</Sender>
+   <Content>现在知道意思了 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

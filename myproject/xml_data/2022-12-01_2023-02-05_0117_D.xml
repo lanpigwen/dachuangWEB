@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 07:14:00</Time>
+   <Sender>A</Sender>
+   <Content>妈的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 07:14:00</Time>
+   <Sender>A</Sender>
+   <Content>家没了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 07:15:00</Time>
+   <Sender>A</Sender>
+   <Content>恭喜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 07:15:00</Time>
+   <Sender>A</Sender>
+   <Content>都回不去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 07:20:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 08:08:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>你到芷江没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 15:57:00</Time>
+   <Sender>B</Sender>
+   <Content>到家了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 15:57:00</Time>
+   <Sender>A</Sender>
+   <Content>不用集中隔离吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 15:58:00</Time>
+   <Sender>B</Sender>
+   <Content>集中隔离点住不下那么多人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 15:58:00</Time>
+   <Sender>B</Sender>
+   <Content>所以就居家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 15:58:00</Time>
+   <Sender>A</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>来得早不如来得巧啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我们6号放假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:45:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>进不来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:45:00</Time>
+   <Sender>B</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>芷江炸了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>今天初筛羊了好多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:46:00</Time>
+   <Sender>B</Sender>
+   <Content>芷江今天吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:46:00</Time>
+   <Sender>B</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>[语音]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>[语音]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-01 21:47:00</Time>
+   <Sender>B</Sender>
+   <Content>6 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

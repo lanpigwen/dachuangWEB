@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:44:00</Time>
+   <Sender>A</Sender>
+   <Content>家人们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:45:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>学车？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:46:00</Time>
+   <Sender>C</Sender>
+   <Content>？？？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>天才杨[sensitive]，这都知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:47:00</Time>
+   <Sender>A</Sender>
+   <Content>[尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:47:00</Time>
+   <Sender>C</Sender>
+   <Content>[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:48:00</Time>
+   <Sender>D</Sender>
+   <Content>你在哪个驾校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:48:00</Time>
+   <Sender>D</Sender>
+   <Content>你快回来吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:49:00</Time>
+   <Sender>A</Sender>
+   <Content>不晓得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:49:00</Time>
+   <Sender>A</Sender>
+   <Content>我爸爸的朋友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:49:00</Time>
+   <Sender>D</Sender>
+   <Content>嗷嗷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:49:00</Time>
+   <Sender>D</Sender>
+   <Content>攒劲学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:50:00</Time>
+   <Sender>A</Sender>
+   <Content>你还差么[sensitive]子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:50:00</Time>
+   <Sender>D</Sender>
+   <Content>科[sensitive]和科斯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:50:00</Time>
+   <Sender>D</Sender>
+   <Content>你学C1？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:50:00</Time>
+   <Sender>A</Sender>
+   <Content>不然呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:50:00</Time>
+   <Sender>D</Sender>
+   <Content>oo</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>B</Sender>
+   <Content>c1才是开车的浪漫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>B</Sender>
+   <Content>懂？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>D</Sender>
+   <Content>恩[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>D</Sender>
+   <Content>C1就是换挡麻烦了点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>D</Sender>
+   <Content>我现在在家啥也干不了 还想寒假拿驾照</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>B</Sender>
+   <Content>谁不是呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>A</Sender>
+   <Content>卷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-20 11:51:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

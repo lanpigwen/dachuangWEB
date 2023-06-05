@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:44:00</Time>
+   <Sender>A</Sender>
+   <Content>杰[sensitive]，知识图谱写没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:44:00</Time>
+   <Sender>B</Sender>
+   <Content>没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:44:00</Time>
+   <Sender>B</Sender>
+   <Content>不会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:44:00</Time>
+   <Sender>B</Sender>
+   <Content>明天要交吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>还没说什么时候交</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>唉我不知道咋用他的数据</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>麻了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-13 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>麻了，我都不知道要干什么</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

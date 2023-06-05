@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:49:00</Time>
+   <Sender>A</Sender>
+   <Content>不和我去liao吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:50:00</Time>
+   <Sender>B</Sender>
+   <Content>还没洗澡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:50:00</Time>
+   <Sender>A</Sender>
+   <Content>洗完澡去嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我想骑车随便溜溜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:51:00</Time>
+   <Sender>A</Sender>
+   <Content>靓女出gai</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>你想去哪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:51:00</Time>
+   <Sender>A</Sender>
+   <Content>随意</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:51:00</Time>
+   <Sender>A</Sender>
+   <Content>想吃饭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>并不想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>没钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>你想吃啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>用下个月的嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>东[sensitive]火锅吧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>还是啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>都可以(´-ω-`)</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 15:58:00</Time>
+   <Sender>B</Sender>
+   <Content>先洗澡澡再说吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 16:19:00</Time>
+   <Sender>A</Sender>
+   <Content>好叭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-04 16:19:00</Time>
+   <Sender>A</Sender>
+   <Content>来了，等我下，我也要去</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:52:00</Time>
+   <Sender>A</Sender>
+   <Content>xdm</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:52:00</Time>
+   <Sender>A</Sender>
+   <Content>我终于</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:52:00</Time>
+   <Sender>A</Sender>
+   <Content>终于</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:52:00</Time>
+   <Sender>A</Sender>
+   <Content>可以学计算机了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:54:00</Time>
+   <Sender>B</Sender>
+   <Content>[拥抱]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:54:00</Time>
+   <Sender>A</Sender>
+   <Content>爷要哭了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:54:00</Time>
+   <Sender>A</Sender>
+   <Content>太激动了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:56:00</Time>
+   <Sender>C</Sender>
+   <Content>牛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>D</Sender>
+   <Content>牛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>A</Sender>
+   <Content>太艰难了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>D</Sender>
+   <Content>以后靠你了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>D</Sender>
+   <Content>[苦涩][苦涩]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>D</Sender>
+   <Content>我都把计算机专业课退了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>A</Sender>
+   <Content>985校女士谦虚了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>D</Sender>
+   <Content>大三再修[裂开]搞不来啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>D</Sender>
+   <Content>太难了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:57:00</Time>
+   <Sender>A</Sender>
+   <Content>不至于吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>真的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>A</Sender>
+   <Content>感觉挺简单的啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>[苦涩][苦涩]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>数据结构简单?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>[裂开]是我不配了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>A</Sender>
+   <Content>没了解</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>反正你会学的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>A</Sender>
+   <Content>感觉和数字有关不会太难[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>[嘿哈]以后我就靠三位计算机大佬带了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>[可怜][可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>A</Sender>
+   <Content>难的只有英语</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:58:00</Time>
+   <Sender>D</Sender>
+   <Content>不是数字是进阶版c语言</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:59:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:59:00</Time>
+   <Sender>A</Sender>
+   <Content>乱杀预定</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-13 13:59:00</Time>
+   <Sender>D</Sender>
+   <Content>[可怜][可怜]苟[sensitive]富贵，勿相忘 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

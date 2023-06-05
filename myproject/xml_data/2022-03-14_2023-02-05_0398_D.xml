@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:11:00</Time>
+   <Sender>A</Sender>
+   <Content>话说你买到bindundun和xuerr没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:11:00</Time>
+   <Sender>B</Sender>
+   <Content>没呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:11:00</Time>
+   <Sender>B</Sender>
+   <Content>不让买</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:11:00</Time>
+   <Sender>A</Sender>
+   <Content>志愿者不让买？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:11:00</Time>
+   <Sender>B</Sender>
+   <Content>手里就一个志愿者每人都有的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:11:00</Time>
+   <Sender>B</Sender>
+   <Content>志愿者人手一个送的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:11:00</Time>
+   <Sender>B</Sender>
+   <Content>不让买</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-14 11:12:00</Time>
+   <Sender>A</Sender>
+   <Content>搜嘎</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 18:47:00</Time>
+   <Sender>A</Sender>
+   <Content>看过会长是女仆大人吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 18:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我看过不可抗力之男仆的秘密</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 20:09:00</Time>
+   <Sender>C</Sender>
+   <Content>emmm</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 20:09:00</Time>
+   <Sender>C</Sender>
+   <Content>老番</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 20:09:00</Time>
+   <Sender>C</Sender>
+   <Content>评分很高</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 20:09:00</Time>
+   <Sender>C</Sender>
+   <Content>我不爱看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 20:09:00</Time>
+   <Sender>C</Sender>
+   <Content>不喜欢这种设定</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 20:10:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 22:38:00</Time>
+   <Sender>A</Sender>
+   <Content>寄生兽[吃瓜][吃瓜]咋样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 22:46:00</Time>
+   <Sender>C</Sender>
+   <Content>电影，电视剧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 22:46:00</Time>
+   <Sender>A</Sender>
+   <Content>番</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 23:13:00</Time>
+   <Sender>D</Sender>
+   <Content>还是看电影吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 23:13:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 23:14:00</Time>
+   <Sender>B</Sender>
+   <Content>寄生兽不是真人电影吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 23:14:00</Time>
+   <Sender>B</Sender>
+   <Content>我对那个海报印象特别深刻</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 23:26:00</Time>
+   <Sender>C</Sender>
+   <Content>倒影那个是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 23:26:00</Time>
+   <Sender>C</Sender>
+   <Content>我也印象挺深的的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-29 23:26:00</Time>
+   <Sender>C</Sender>
+   <Content>那个中国人画的 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

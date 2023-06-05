@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:37:00</Time>
+   <Sender>A</Sender>
+   <Content>马上就可以回去吃火锅炸鸡烤肉了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>唯一的精神支柱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>怕回去封校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>应该不会吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>你们回去还没开学吧应该</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>那应该不会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>A</Sender>
+   <Content>应该还能回个家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:38:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈笑死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:39:00</Time>
+   <Sender>A</Sender>
+   <Content>我已经想火锅想到不行了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>村里的饭不会让我很想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:39:00</Time>
+   <Sender>B</Sender>
+   <Content>驻地这几天确实吃麻了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>太惨了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-01 16:40:00</Time>
+   <Sender>A</Sender>
+   <Content>可以减肥哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

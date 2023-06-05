@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>你还在怀[sensitive]吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:04:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:08:00</Time>
+   <Sender>A</Sender>
+   <Content>晚上有时间吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:08:00</Time>
+   <Sender>B</Sender>
+   <Content>你来呀？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:08:00</Time>
+   <Sender>A</Sender>
+   <Content>今天晚上我爸开车带我去怀[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:09:00</Time>
+   <Sender>B</Sender>
+   <Content>看灯了是不是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:09:00</Time>
+   <Sender>A</Sender>
+   <Content>怀[sensitive]有灯呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:09:00</Time>
+   <Sender>B</Sender>
+   <Content>奥[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:09:00</Time>
+   <Sender>A</Sender>
+   <Content>在哪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:09:00</Time>
+   <Sender>B</Sender>
+   <Content>冰雕</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:10:00</Time>
+   <Sender>B</Sender>
+   <Content>人民公园</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:11:00</Time>
+   <Sender>A</Sender>
+   <Content>那挺好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:11:00</Time>
+   <Sender>A</Sender>
+   <Content>晚上去看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:25:00</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:25:00</Time>
+   <Sender>B</Sender>
+   <Content>那你大概啥时候来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-27 12:26:00</Time>
+   <Sender>A</Sender>
+   <Content>还没定，晚上再和你联系吧</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

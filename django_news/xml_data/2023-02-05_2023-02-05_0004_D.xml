@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>打球不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>好久</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>现在哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>去哪打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>去体育馆外面打打？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>也阔以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>不过我现在在健身房</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>应该还要半个小时</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>那我先去投篮玩玩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>你到时候再看来不来咯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>还有哪些人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我喊不到人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>嘉[sensitive]嘞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>还没回我消息</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>他不打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>他说明天打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>他应该是在学习</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>嘉[sensitive]天天爱学习</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>只有聪明滴白狗能喊他出来打球</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我还用带球波</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我这有个球</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>要不去福[sensitive]花园看看也行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>那底下应该人多点吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>以前滴那些初[sensitive]喊我去和平</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>福[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>框</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>被拆了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>看你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你去哪我去哪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>被拆了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>🤔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>那就去和平吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>应该是怕被吵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>福[sensitive]大妈太狠了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我就在阿[sensitive]练</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>练完可以直接去和平</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>OK</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你到了波</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>祥哥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>刚刚到</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

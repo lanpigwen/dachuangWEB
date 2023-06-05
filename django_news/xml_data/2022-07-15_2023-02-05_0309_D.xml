@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:51:00</Time>
+   <Sender>A</Sender>
+   <Content>啊！俺刚刚没好好看那个那个打分表儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:51:00</Time>
+   <Sender>A</Sender>
+   <Content>那四个重分的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:51:00</Time>
+   <Sender>A</Sender>
+   <Content>我刚看一个你打了40我打了42还有一个我打了42你打了40</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:52:00</Time>
+   <Sender>A</Sender>
+   <Content>要不要不咱俩选那两个咱俩都打了41的得了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:52:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我改改</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:52:00</Time>
+   <Sender>A</Sender>
+   <Content>或者把这俩咱选的分儿往上挑挑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:53:00</Time>
+   <Sender>A</Sender>
+   <Content>对对对咱俩把那个这俩要不也给她们的分儿调成41.5得了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:55:00</Time>
+   <Sender>B</Sender>
+   <Content>那就普[sensitive]和那个艾[sensitive]啥的么[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:55:00</Time>
+   <Sender>B</Sender>
+   <Content>还是哪个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:55:00</Time>
+   <Sender>A</Sender>
+   <Content>和那个张求知</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 20:56:00</Time>
+   <Sender>B</Sender>
+   <Content>普[sensitive]和张[sensitive]求知</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

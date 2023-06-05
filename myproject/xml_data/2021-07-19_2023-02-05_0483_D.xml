@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 14:48:00</Time>
+   <Sender>A</Sender>
+   <Content>菲～～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 14:48:00</Time>
+   <Sender>A</Sender>
+   <Content>菲菲～～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 19:58:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:04:00</Time>
+   <Sender>A</Sender>
+   <Content>就是好久好久没联系你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:04:00</Time>
+   <Sender>A</Sender>
+   <Content>想和你说说话</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:04:00</Time>
+   <Sender>A</Sender>
+   <Content>「害羞」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:05:00</Time>
+   <Sender>B</Sender>
+   <Content>哦~嘿嘿嘿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:06:00</Time>
+   <Sender>A</Sender>
+   <Content>嘻嘻</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:06:00</Time>
+   <Sender>A</Sender>
+   <Content>我感觉初中大家们都快认不出了了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:06:00</Time>
+   <Sender>A</Sender>
+   <Content>「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:07:00</Time>
+   <Sender>B</Sender>
+   <Content>还好其实，就个别感觉变化还挺大的，比如你「呲牙」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:07:00</Time>
+   <Sender>B</Sender>
+   <Content>真的变了好多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>我？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>「捂脸」「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>B</Sender>
+   <Content>瘦啦，也会打扮啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>当初你加我，我也是反应了半天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>才认得你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>「笑哭」「笑哭」「笑哭」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>B</Sender>
+   <Content>阿这</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>B</Sender>
+   <Content>我伤心了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>B</Sender>
+   <Content>「心碎」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>没有啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:08:00</Time>
+   <Sender>A</Sender>
+   <Content>「笑哭」「笑哭」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>A</Sender>
+   <Content>还是记得滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>B</Sender>
+   <Content>你难道忘了你打电话问我题？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>B</Sender>
+   <Content>「苦涩」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>A</Sender>
+   <Content>当时初中大家都不怎么玩微信，都在QQ</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>A</Sender>
+   <Content>我现在想加他们微信</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>A</Sender>
+   <Content>都不好意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>A</Sender>
+   <Content>「捂脸」「捂脸」「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>B</Sender>
+   <Content>「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>A</Sender>
+   <Content>我当然记得！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:09:00</Time>
+   <Sender>B</Sender>
+   <Content>也是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:10:00</Time>
+   <Sender>B</Sender>
+   <Content>「呲牙」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:10:00</Time>
+   <Sender>A</Sender>
+   <Content>我还记得我当初分班还打电话问你的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:10:00</Time>
+   <Sender>B</Sender>
+   <Content>对对对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-19 20:10:00</Time>
+   <Sender>B</Sender>
+   <Content>「呲牙」</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

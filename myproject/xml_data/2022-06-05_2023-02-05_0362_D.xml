@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 14:07:00</Time>
+   <Sender>A</Sender>
+   <Content>佳乐姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 14:07:00</Time>
+   <Sender>A</Sender>
+   <Content>是照着这个改吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 14:07:00</Time>
+   <Sender>A</Sender>
+   <Content>其他的资料好像不是特别像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:47:00</Time>
+   <Sender>B</Sender>
+   <Content>大体思路是一样的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:47:00</Time>
+   <Sender>B</Sender>
+   <Content>这些都可以用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:48:00</Time>
+   <Sender>B</Sender>
+   <Content>我们申的是项目</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:48:00</Time>
+   <Sender>B</Sender>
+   <Content>之前发过好几个申报优秀项目的，那些都是可以用的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:49:00</Time>
+   <Sender>A</Sender>
+   <Content>那交的话要交哪些呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:50:00</Time>
+   <Sender>B</Sender>
+   <Content>就是你之前找资料的那部分和[sensitive]的那部分把它合成一个项目，给我一份项目介绍就可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>形式可以参照这个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 15:51:00</Time>
+   <Sender>B</Sender>
+   <Content>要起一个项目名字</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 20:21:00</Time>
+   <Sender>A</Sender>
+   <Content>佳乐姐这个可以吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 20:31:00</Time>
+   <Sender>B</Sender>
+   <Content>我看看~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-05 20:31:00</Time>
+   <Sender>B</Sender>
+   <Content>初步看了一下写的还不错~</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

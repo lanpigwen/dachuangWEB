@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:09:00</Time>
+   <Sender>A</Sender>
+   <Content>你下了高速再发一下位置共享</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:14:00</Time>
+   <Sender>B</Sender>
+   <Content>快到呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:15:00</Time>
+   <Sender>A</Sender>
+   <Content>到哪啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:17:00</Time>
+   <Sender>B</Sender>
+   <Content>魏[sensitive]都大道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:17:00</Time>
+   <Sender>B</Sender>
+   <Content>你出来吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:18:00</Time>
+   <Sender>A</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:18:00</Time>
+   <Sender>A</Sender>
+   <Content>在哪见啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:19:00</Time>
+   <Sender>B</Sender>
+   <Content>你家门口呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:19:00</Time>
+   <Sender>A</Sender>
+   <Content>你上我家来呆会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:19:00</Time>
+   <Sender>B</Sender>
+   <Content>不用了吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:21:00</Time>
+   <Sender>B</Sender>
+   <Content>你家有人没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:21:00</Time>
+   <Sender>A</Sender>
+   <Content>我妈在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:22:00</Time>
+   <Sender>A</Sender>
+   <Content>我爸送呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:22:00</Time>
+   <Sender>B</Sender>
+   <Content>那行吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:23:00</Time>
+   <Sender>A</Sender>
+   <Content>我出小区等你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-15 09:24:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

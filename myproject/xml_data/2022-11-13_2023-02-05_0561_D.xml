@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>对了一菲那个咱们厕所垃圾袋</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>是该俺们换了嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>B</Sender>
+   <Content>对对对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>B</Sender>
+   <Content>和她们说了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>B</Sender>
+   <Content>「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>B</Sender>
+   <Content>马上换</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>B</Sender>
+   <Content>不好意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>好的好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>没事没事</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>今天中午也吵到你们了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>辛苦啦呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>没关系</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>不好意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>没关系</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-13 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>「委屈」</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:23:00</Time>
+   <Sender>A</Sender>
+   <Content>一菲看看我工作牌在不在我桌面上挂着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:23:00</Time>
+   <Sender>A</Sender>
+   <Content>帮我带一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:23:00</Time>
+   <Sender>B</Sender>
+   <Content>我没回宿舍</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:23:00</Time>
+   <Sender>A</Sender>
+   <Content>啧啧啧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:48:00</Time>
+   <Sender>A</Sender>
+   <Content>你在哪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:48:00</Time>
+   <Sender>B</Sender>
+   <Content>食堂</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:49:00</Time>
+   <Sender>A</Sender>
+   <Content>出来吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:50:00</Time>
+   <Sender>A</Sender>
+   <Content>我在食堂外面等你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-08 12:51:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

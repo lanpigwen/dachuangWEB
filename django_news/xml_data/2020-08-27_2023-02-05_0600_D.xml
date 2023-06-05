@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:34:00</Time>
+   <Sender>A</Sender>
+   <Content>你知不知道张[sensitive]去哪了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:34:00</Time>
+   <Sender>B</Sender>
+   <Content>我没敢问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:34:00</Time>
+   <Sender>B</Sender>
+   <Content>还有谁今年考了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:35:00</Time>
+   <Sender>A</Sender>
+   <Content>那于[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:35:00</Time>
+   <Sender>B</Sender>
+   <Content>在北京</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:35:00</Time>
+   <Sender>A</Sender>
+   <Content>他今年考的？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:35:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:35:00</Time>
+   <Sender>A</Sender>
+   <Content>北京啥大学了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:36:00</Time>
+   <Sender>B</Sender>
+   <Content>好像是A1类的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:39:00</Time>
+   <Sender>A</Sender>
+   <Content>好啵</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:39:00</Time>
+   <Sender>A</Sender>
+   <Content>那知不知道刘[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:40:00</Time>
+   <Sender>B</Sender>
+   <Content>没问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:40:00</Time>
+   <Sender>B</Sender>
+   <Content>我和她基本没联系过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:40:00</Time>
+   <Sender>B</Sender>
+   <Content>都不一定加没加好友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-08-27 21:41:00</Time>
+   <Sender>A</Sender>
+   <Content>是了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

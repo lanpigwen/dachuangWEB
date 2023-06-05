@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:16:00</Time>
+   <Sender>A</Sender>
+   <Content>hello,请问那个优秀社团有正式的通知了吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:17:00</Time>
+   <Sender>A</Sender>
+   <Content>我这边实践经历能不能写上去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:18:00</Time>
+   <Sender>B</Sender>
+   <Content>还没有哎</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:19:00</Time>
+   <Sender>A</Sender>
+   <Content>你再帮我问问部长呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:19:00</Time>
+   <Sender>A</Sender>
+   <Content>不行就算了[快哭了]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:22:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:22:00</Time>
+   <Sender>B</Sender>
+   <Content>是要填志愿者申请表要用吧[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:23:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:23:00</Time>
+   <Sender>A</Sender>
+   <Content>你填完了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:23:00</Time>
+   <Sender>B</Sender>
+   <Content>我上午填好了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:23:00</Time>
+   <Sender>B</Sender>
+   <Content>我英语那一块四级成绩都没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:24:00</Time>
+   <Sender>B</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:25:00</Time>
+   <Sender>A</Sender>
+   <Content>我也就四级</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:25:00</Time>
+   <Sender>A</Sender>
+   <Content>应该还要选拔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:26:00</Time>
+   <Sender>B</Sender>
+   <Content>嘶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:26:00</Time>
+   <Sender>B</Sender>
+   <Content>感觉我没戏了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:26:00</Time>
+   <Sender>A</Sender>
+   <Content>不尝试永远不知道结果</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:26:00</Time>
+   <Sender>B</Sender>
+   <Content>而且我确实想去见识一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:26:00</Time>
+   <Sender>B</Sender>
+   <Content>可惜不能是北京赛区</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:27:00</Time>
+   <Sender>A</Sender>
+   <Content>啊，所以之前不是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:27:00</Time>
+   <Sender>A</Sender>
+   <Content>这个又无所谓</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:27:00</Time>
+   <Sender>A</Sender>
+   <Content>都是冬奥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:27:00</Time>
+   <Sender>B</Sender>
+   <Content>我想看看滑[sensitive]来着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:27:00</Time>
+   <Sender>B</Sender>
+   <Content>张[sensitive]那边都滑[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:31:00</Time>
+   <Sender>A</Sender>
+   <Content>冰雪不分家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-30 16:31:00</Time>
+   <Sender>A</Sender>
+   <Content>虽然滑[sensitive]更有观赏性</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

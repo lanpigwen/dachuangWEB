@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:17:00</Time>
+   <Sender>A</Sender>
+   <Content>杰[sensitive]现在还在总队嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:17:00</Time>
+   <Sender>A</Sender>
+   <Content>我想去赛会来着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:19:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在退出了哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:19:00</Time>
+   <Sender>A</Sender>
+   <Content>噢这样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:20:00</Time>
+   <Sender>B</Sender>
+   <Content>你去面试没问题的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:20:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:20:00</Time>
+   <Sender>A</Sender>
+   <Content>我觉得部员肯定能选上 在考虑要不要去试试选部长哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:42:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈你可以的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:42:00</Time>
+   <Sender>B</Sender>
+   <Content>我当时也是直接参选部长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:42:00</Time>
+   <Sender>B</Sender>
+   <Content>不过这次好像部长已经选好了吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>噢噢好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>他们说还没换届好像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:43:00</Time>
+   <Sender>B</Sender>
+   <Content>哦这样嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:43:00</Time>
+   <Sender>B</Sender>
+   <Content>我不清楚</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:43:00</Time>
+   <Sender>A</Sender>
+   <Content>好滴好滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:43:00</Time>
+   <Sender>B</Sender>
+   <Content>前段时间倒是问过我有没有信任部长的人选</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:44:00</Time>
+   <Sender>B</Sender>
+   <Content>我当时从部员中选了两个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:44:00</Time>
+   <Sender>B</Sender>
+   <Content>没事你可以去试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-08-28 18:44:00</Time>
+   <Sender>A</Sender>
+   <Content>好滴！</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

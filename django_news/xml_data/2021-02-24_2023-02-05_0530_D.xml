@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:00:00</Time>
+   <Sender>A</Sender>
+   <Content>毕业晚会我们只办信科毕业生的？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:24:00</Time>
+   <Sender>B</Sender>
+   <Content>当然</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:25:00</Time>
+   <Sender>A</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:26:00</Time>
+   <Sender>A</Sender>
+   <Content>区分这么明显</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:26:00</Time>
+   <Sender>B</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:26:00</Time>
+   <Sender>A</Sender>
+   <Content>没啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:26:00</Time>
+   <Sender>A</Sender>
+   <Content>就是感觉各搞各的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-24 19:27:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

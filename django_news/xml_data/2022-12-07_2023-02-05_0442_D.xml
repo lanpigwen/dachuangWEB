@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:20:00</Time>
+   <Sender>A</Sender>
+   <Content>ir开始写了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:20:00</Time>
+   <Sender>B</Sender>
+   <Content>没捏</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:20:00</Time>
+   <Sender>A</Sender>
+   <Content>感觉你们最近也没啥事呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:20:00</Time>
+   <Sender>A</Sender>
+   <Content>你又不上软工</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:20:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈是这样的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>B</Sender>
+   <Content>回家隔离这段[sensitive]大摆特摆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>一起写一起讨论呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>B</Sender>
+   <Content>不过我上计算机网络工程捏</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>我周一之前</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>要做系统</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>要写论文</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>A</Sender>
+   <Content>要写系统说明文档</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:21:00</Time>
+   <Sender>B</Sender>
+   <Content>可以呀可以呀 不过我之前的功能没做太全</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:22:00</Time>
+   <Sender>B</Sender>
+   <Content>我靠</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:22:00</Time>
+   <Sender>A</Sender>
+   <Content>周二要交ir</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-07 21:22:00</Time>
+   <Sender>B</Sender>
+   <Content>软工事情真的多</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

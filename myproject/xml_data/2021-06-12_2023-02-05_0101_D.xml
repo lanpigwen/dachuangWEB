@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>之前有人叫我lǎnlán</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:13:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:13:00</Time>
+   <Sender>B</Sender>
+   <Content>lǎnlán</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>还挺好听的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:14:00</Time>
+   <Sender>B</Sender>
+   <Content>[可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>干嘛哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>总发这个[可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:14:00</Time>
+   <Sender>B</Sender>
+   <Content>我想发</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:14:00</Time>
+   <Sender>A</Sender>
+   <Content>[尴尬][尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:16:00</Time>
+   <Sender>A</Sender>
+   <Content>其实我还有个小名[可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>叫什么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:16:00</Time>
+   <Sender>B</Sender>
+   <Content>[疑问]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:16:00</Time>
+   <Sender>A</Sender>
+   <Content>姗姗[可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:17:00</Time>
+   <Sender>B</Sender>
+   <Content>姗姗喔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:18:00</Time>
+   <Sender>B</Sender>
+   <Content>那还是小懒 好听又符合</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:18:00</Time>
+   <Sender>B</Sender>
+   <Content>[白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:18:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:18:00</Time>
+   <Sender>A</Sender>
+   <Content>[白眼][白眼][白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:20:00</Time>
+   <Sender>A</Sender>
+   <Content>那我该叫你什么[可怜][可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>叫我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:20:00</Time>
+   <Sender>A</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:20:00</Time>
+   <Sender>A</Sender>
+   <Content>抹茶旦旦？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:20:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:21:00</Time>
+   <Sender>B</Sender>
+   <Content>别哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:21:00</Time>
+   <Sender>A</Sender>
+   <Content>你自己发的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:21:00</Time>
+   <Sender>A</Sender>
+   <Content>叫我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:21:00</Time>
+   <Sender>A</Sender>
+   <Content>牛奶皮肤邓[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:22:00</Time>
+   <Sender>B</Sender>
+   <Content>牛奶皮肤</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:22:00</Time>
+   <Sender>A</Sender>
+   <Content>意思是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:22:00</Time>
+   <Sender>A</Sender>
+   <Content>皮肤又白又光滑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:22:00</Time>
+   <Sender>B</Sender>
+   <Content>这个很符合喔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:22:00</Time>
+   <Sender>A</Sender>
+   <Content>啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>牛奶皮肤邓[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>[偷笑][偷笑][偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:24:00</Time>
+   <Sender>A</Sender>
+   <Content>不错不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:24:00</Time>
+   <Sender>A</Sender>
+   <Content>这是你的应援口号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:24:00</Time>
+   <Sender>A</Sender>
+   <Content>等你打比赛的时候</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:24:00</Time>
+   <Sender>A</Sender>
+   <Content>我就在场下喊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>你在下面应援</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>哇哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>那你大声应援一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>[白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>hhhhhhhh</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>那羞耻的应该不是我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:25:00</Time>
+   <Sender>A</Sender>
+   <Content>而是你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:26:00</Time>
+   <Sender>B</Sender>
+   <Content>啊是吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:26:00</Time>
+   <Sender>B</Sender>
+   <Content>那下次比赛你应援应援</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:26:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:26:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>[尴尬][尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:27:00</Time>
+   <Sender>B</Sender>
+   <Content>好！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>你干嘛这么激动哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>被夸白很开心吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:27:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:28:00</Time>
+   <Sender>B</Sender>
+   <Content>主要是期待你这样应援喔[傲慢]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:29:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:29:00</Time>
+   <Sender>A</Sender>
+   <Content>我在做个灯牌举着好了[可怜][可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:29:00</Time>
+   <Sender>B</Sender>
+   <Content>啊哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:30:00</Time>
+   <Sender>A</Sender>
+   <Content>邓[sensitive]老师的头号粉丝[可怜][可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:30:00</Time>
+   <Sender>B</Sender>
+   <Content>头号粉丝[害羞]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:30:00</Time>
+   <Sender>B</Sender>
+   <Content>颜值博主是我的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:30:00</Time>
+   <Sender>B</Sender>
+   <Content>头号粉丝喔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:30:00</Time>
+   <Sender>A</Sender>
+   <Content>[偷笑][偷笑][偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:31:00</Time>
+   <Sender>A</Sender>
+   <Content>我还可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:31:00</Time>
+   <Sender>A</Sender>
+   <Content>给你买热搜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:31:00</Time>
+   <Sender>A</Sender>
+   <Content>比如发个小橙子之类的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:31:00</Time>
+   <Sender>B</Sender>
+   <Content>啊哈哈哈哈哈哈哈哈笑死我了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:31:00</Time>
+   <Sender>A</Sender>
+   <Content>表白信科牛奶皮肤邓[sensitive]老师[可怜][可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:31:00</Time>
+   <Sender>B</Sender>
+   <Content>啊哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:32:00</Time>
+   <Sender>B</Sender>
+   <Content>请教一下邓[sensitive]保持牛奶皮肤的秘诀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:32:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:32:00</Time>
+   <Sender>A</Sender>
+   <Content>想知道邓[sensitive]老师喜欢什么类型</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:32:00</Time>
+   <Sender>A</Sender>
+   <Content>邓[sensitive]老师有女朋友吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:33:00</Time>
+   <Sender>A</Sender>
+   <Content>邓[sensitive]老师打球怎么那么帅[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:33:00</Time>
+   <Sender>B</Sender>
+   <Content>别夸了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:33:00</Time>
+   <Sender>A</Sender>
+   <Content>北语詹[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:33:00</Time>
+   <Sender>B</Sender>
+   <Content>di diao</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:33:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-12 23:33:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈哈 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

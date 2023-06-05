@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:02:00</Time>
+   <Sender>A</Sender>
+   <Content>你们考完了嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>没呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>线上考</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>八号结束</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>你们啥时候</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:03:00</Time>
+   <Sender>A</Sender>
+   <Content>这么晚</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:03:00</Time>
+   <Sender>A</Sender>
+   <Content>我们22号就考完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>那挺快</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>我们只是战线拉的长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:03:00</Time>
+   <Sender>B</Sender>
+   <Content>也还好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:03:00</Time>
+   <Sender>A</Sender>
+   <Content>所以在期末周[sensitive]了[流泪][流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:04:00</Time>
+   <Sender>A</Sender>
+   <Content>是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:04:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈我下周回去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:04:00</Time>
+   <Sender>B</Sender>
+   <Content>有空一起打球</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 14:04:00</Time>
+   <Sender>A</Sender>
+   <Content>🉑️</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:54:00</Time>
+   <Sender>A</Sender>
+   <Content>我做头发去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:54:00</Time>
+   <Sender>A</Sender>
+   <Content>染个树莓红</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:54:00</Time>
+   <Sender>B</Sender>
+   <Content>笑死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:55:00</Time>
+   <Sender>B</Sender>
+   <Content>看看样子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>还没染好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>在褪色</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>还得做个蛋白矫[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>800块</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>B</Sender>
+   <Content>「皱眉」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>B</Sender>
+   <Content>你有钱「旺柴」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我以为你不适合红色的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>似乎要剪个斜的公主切</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>「笑哭」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>笑死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我感觉红色需要平常化妆才好看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>「旺柴」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>管他呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>B</Sender>
+   <Content>公主切「旺柴」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>尝试一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>「旺柴」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-18 10:57:00</Time>
+   <Sender>B</Sender>
+   <Content>「旺柴」</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

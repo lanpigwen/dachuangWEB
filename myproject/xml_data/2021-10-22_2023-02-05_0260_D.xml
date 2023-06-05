@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:29:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐，请帮我看一下还有哪里需要改的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:32:00</Time>
+   <Sender>B</Sender>
+   <Content>北京语言大学冬奥志愿者</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:32:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:33:00</Time>
+   <Sender>B</Sender>
+   <Content>挑出各项活动的前二十名</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:33:00</Time>
+   <Sender>A</Sender>
+   <Content>哦对两组[破涕为笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:33:00</Time>
+   <Sender>B</Sender>
+   <Content>这个活动我们就不发推送啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:33:00</Time>
+   <Sender>A</Sender>
+   <Content>哦这样啊好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:33:00</Time>
+   <Sender>B</Sender>
+   <Content>是直接在几个冬奥志愿者的大群中发送报名链接</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:34:00</Time>
+   <Sender>B</Sender>
+   <Content>同时开启，然后大家抢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:34:00</Time>
+   <Sender>A</Sender>
+   <Content>对了报销的那个我们还没定下来买哪个所以我没写</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:34:00</Time>
+   <Sender>A</Sender>
+   <Content>好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:34:00</Time>
+   <Sender>B</Sender>
+   <Content>好~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:34:00</Time>
+   <Sender>B</Sender>
+   <Content>你把那个时间表按照这个再改改就可以啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:34:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯好的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

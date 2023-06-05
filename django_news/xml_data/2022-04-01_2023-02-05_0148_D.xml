@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:02:00</Time>
+   <Sender>A</Sender>
+   <Content>头号玩家好看吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>室友去看了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>说可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:03:00</Time>
+   <Sender>B</Sender>
+   <Content>是去年的电影吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:03:00</Time>
+   <Sender>C</Sender>
+   <Content>我还以为出第二部了呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:03:00</Time>
+   <Sender>C</Sender>
+   <Content>听xw这么说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:04:00</Time>
+   <Sender>B</Sender>
+   <Content>18年的？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:04:00</Time>
+   <Sender>A</Sender>
+   <Content>老师在推荐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:04:00</Time>
+   <Sender>B</Sender>
+   <Content>那就不知道了评分不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:04:00</Time>
+   <Sender>C</Sender>
+   <Content>我个人感觉一般</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>大陆就是去年上的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>C</Sender>
+   <Content>18年的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>室友说可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>C</Sender>
+   <Content>高中网吧看的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>美国18的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>去年电影院有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>C</Sender>
+   <Content>去年吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>C</Sender>
+   <Content>布[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>C</Sender>
+   <Content>我是高中网吧看的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>我室友去年到看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:05:00</Time>
+   <Sender>B</Sender>
+   <Content>两个大老爷们去看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:06:00</Time>
+   <Sender>B</Sender>
+   <Content>不知道有啥意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:06:00</Time>
+   <Sender>B</Sender>
+   <Content>还不如自己一个人去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:06:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:07:00</Time>
+   <Sender>C</Sender>
+   <Content>去年那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-01 12:07:00</Time>
+   <Sender>C</Sender>
+   <Content>叫失控玩家 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

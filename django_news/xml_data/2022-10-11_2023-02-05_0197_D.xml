@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:12:00</Time>
+   <Sender>A</Sender>
+   <Content>你拿了不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:17:00</Time>
+   <Sender>B</Sender>
+   <Content>拿了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:17:00</Time>
+   <Sender>B</Sender>
+   <Content>贼难用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>我还没拿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么会有人做这么没用的东西</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>她之前说过不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>我一开始还以为是饭卡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>我不记得拿没拿过了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>上学期有个大会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>她提了一嘴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>啥大会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>我感觉应该没拿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>总结？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>我也忘了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:19:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦我没听</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:19:00</Time>
+   <Sender>B</Sender>
+   <Content>一看就没听</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-11 15:19:00</Time>
+   <Sender>A</Sender>
+   <Content>那应该没拿</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>今天感觉没啥力气</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道为啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>可能是睡多了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:04:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>投球感觉没力气，命中率都下降了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>不过你是不是明天可以去打球了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:05:00</Time>
+   <Sender>B</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:05:00</Time>
+   <Sender>A</Sender>
+   <Content>你打算练啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:05:00</Time>
+   <Sender>A</Sender>
+   <Content>明天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:05:00</Time>
+   <Sender>B</Sender>
+   <Content>投篮和运球稍微练点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>B</Sender>
+   <Content>然后和别人打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>中投吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>B</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>要不你也两百个[坏笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>B</Sender>
+   <Content>太多了哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>我感觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>你不到一个小时</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:06:00</Time>
+   <Sender>A</Sender>
+   <Content>就能投完</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:07:00</Time>
+   <Sender>B</Sender>
+   <Content>没试过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:07:00</Time>
+   <Sender>A</Sender>
+   <Content>也还好，不多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:07:00</Time>
+   <Sender>A</Sender>
+   <Content>试试[坏笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:07:00</Time>
+   <Sender>A</Sender>
+   <Content>让我看看差距</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:07:00</Time>
+   <Sender>B</Sender>
+   <Content>有体力的话可以试一试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:07:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-05 22:07:00</Time>
+   <Sender>A</Sender>
+   <Content>我就以这个为目标</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

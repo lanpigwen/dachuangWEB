@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:10:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:14:00</Time>
+   <Sender>A</Sender>
+   <Content>或许想一起出去遛个弯吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:15:00</Time>
+   <Sender>B</Sender>
+   <Content>走</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>真的嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:16:00</Time>
+   <Sender>B</Sender>
+   <Content>千真万确</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>好耶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:16:00</Time>
+   <Sender>B</Sender>
+   <Content>你还在图书馆么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:16:00</Time>
+   <Sender>A</Sender>
+   <Content>对的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>你在宿舍？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:17:00</Time>
+   <Sender>B</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>哦⊙∀⊙！那我现在出发</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>西门见~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:17:00</Time>
+   <Sender>B</Sender>
+   <Content>稍等我一会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:17:00</Time>
+   <Sender>A</Sender>
+   <Content>你说个点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>确定是6不是5？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>5</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:18:00</Time>
+   <Sender>B</Sender>
+   <Content>看错了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-03 17:18:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

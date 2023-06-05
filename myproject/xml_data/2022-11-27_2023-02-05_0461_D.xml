@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:24:00</Time>
+   <Sender>A</Sender>
+   <Content>兄弟</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:24:00</Time>
+   <Sender>A</Sender>
+   <Content>你回去吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:24:00</Time>
+   <Sender>A</Sender>
+   <Content>怀[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:24:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是不收啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:53:00</Time>
+   <Sender>B</Sender>
+   <Content>收的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:53:00</Time>
+   <Sender>A</Sender>
+   <Content>你回去了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:53:00</Time>
+   <Sender>A</Sender>
+   <Content>「苦涩」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:53:00</Time>
+   <Sender>B</Sender>
+   <Content>没呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:53:00</Time>
+   <Sender>B</Sender>
+   <Content>明天早上走</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:53:00</Time>
+   <Sender>A</Sender>
+   <Content>什么流程</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:53:00</Time>
+   <Sender>A</Sender>
+   <Content>去了那边</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:54:00</Time>
+   <Sender>B</Sender>
+   <Content>我爸说下高速可以，要流调做核酸当场研判，要么居家隔离要么集中隔离，不过好像学生都是居家3天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:55:00</Time>
+   <Sender>B</Sender>
+   <Content>火车站好像是要社区领人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 15:58:00</Time>
+   <Sender>A</Sender>
+   <Content>我擦，行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:06:00</Time>
+   <Sender>A</Sender>
+   <Content>社区不领人咋办</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:09:00</Time>
+   <Sender>A</Sender>
+   <Content>北京没有直达怀[sensitive]的？「流泪」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:09:00</Time>
+   <Sender>A</Sender>
+   <Content>那你先去大同？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:14:00</Time>
+   <Sender>B</Sender>
+   <Content>我坐「苦涩」私家车</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:14:00</Time>
+   <Sender>B</Sender>
+   <Content>要500</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:15:00</Time>
+   <Sender>A</Sender>
+   <Content>从北京到怀[sensitive]的私家车？！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:15:00</Time>
+   <Sender>B</Sender>
+   <Content>「苦涩」爹娘联系的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:15:00</Time>
+   <Sender>A</Sender>
+   <Content>强啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:20:00</Time>
+   <Sender>B</Sender>
+   <Content>有联系方式，好像是每天都有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:21:00</Time>
+   <Sender>B</Sender>
+   <Content>之前买好转太原南站的票结果第二程直接取消了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:21:00</Time>
+   <Sender>B</Sender>
+   <Content>「裂开」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:22:00</Time>
+   <Sender>A</Sender>
+   <Content>取消了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:23:00</Time>
+   <Sender>A</Sender>
+   <Content>每天都有从北京到怀[sensitive]的接送车吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:24:00</Time>
+   <Sender>B</Sender>
+   <Content>有的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:24:00</Time>
+   <Sender>B</Sender>
+   <Content>13[sensitive]80</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:25:00</Time>
+   <Sender>A</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:25:00</Time>
+   <Sender>B</Sender>
+   <Content>司机电话</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-27 16:25:00</Time>
+   <Sender>A</Sender>
+   <Content>好哒</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

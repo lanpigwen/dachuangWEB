@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:26:00</Time>
+   <Sender>A</Sender>
+   <Content>救命啊我视听说只用了3分钟</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:26:00</Time>
+   <Sender>A</Sender>
+   <Content>咋办啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:27:00</Time>
+   <Sender>B</Sender>
+   <Content>啊？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:27:00</Time>
+   <Sender>B</Sender>
+   <Content>一起抱头痛哭吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:27:00</Time>
+   <Sender>B</Sender>
+   <Content>他问你问题了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:27:00</Time>
+   <Sender>A</Sender>
+   <Content>我舌头都没捋直</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:27:00</Time>
+   <Sender>A</Sender>
+   <Content>问了没听懂就过去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:27:00</Time>
+   <Sender>A</Sender>
+   <Content>救命啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:28:00</Time>
+   <Sender>A</Sender>
+   <Content>就让我拜拜了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:28:00</Time>
+   <Sender>B</Sender>
+   <Content>那你前面挺快呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:28:00</Time>
+   <Sender>B</Sender>
+   <Content>我说完没问我问题，直接就拜拜了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:28:00</Time>
+   <Sender>A</Sender>
+   <Content>他很急的样子我飞速读完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:30:00</Time>
+   <Sender>B</Sender>
+   <Content>别慌</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:30:00</Time>
+   <Sender>B</Sender>
+   <Content>如果这样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:30:00</Time>
+   <Sender>B</Sender>
+   <Content>可能是他慌</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:30:00</Time>
+   <Sender>A</Sender>
+   <Content>希望是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-19 10:30:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

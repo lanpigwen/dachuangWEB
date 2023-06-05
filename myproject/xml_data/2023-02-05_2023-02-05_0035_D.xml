@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>5</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[视频]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>小问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>@黄[sensitive] 哪个位置烧嘎</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>河西</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[视频]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>D</Sender>
+   <Content>烧腊肉？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>E</Sender>
+   <Content>市场里面</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>@文[sensitive] 马上又是消防检查咯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>@宋[sensitive] 你也要管？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>@文[sensitive] 酒精那些在我库房的，危化品</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你用心了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>担心烧了没得喝是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>E</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>E</Sender>
+   <Content>这个东西好不好下酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>E</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>@文[sensitive] 偶，没得75度的酒，我不喝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>猪心这个单位我真滴接受不了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>你搞猪杂咯，就怕就不够</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>@宋[sensitive] 不要操心，我去进货，只要你喝</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我明天去买两瓶生命之水</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>E</Sender>
+   <Content>牛心</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>E</Sender>
+   <Content>真的大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>可以吃几天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>@文[sensitive] 我要喝无水乙醇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>都有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>搞起套餐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>@文[sensitive] 我没信你买的到无水乙醇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>那我要请宋[sensitive]科长，帮帮忙了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

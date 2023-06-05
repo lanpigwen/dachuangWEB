@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:39:00</Time>
+   <Sender>A</Sender>
+   <Content>这边要找两个表现好的同学收集他们家长的反馈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:39:00</Time>
+   <Sender>A</Sender>
+   <Content>你愿意不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:39:00</Time>
+   <Sender>B</Sender>
+   <Content>表现好？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:39:00</Time>
+   <Sender>A</Sender>
+   <Content>联络人推荐的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:39:00</Time>
+   <Sender>B</Sender>
+   <Content>什么表现好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:39:00</Time>
+   <Sender>A</Sender>
+   <Content>我想到你了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:40:00</Time>
+   <Sender>A</Sender>
+   <Content>联络人觉得表现好就行[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:40:00</Time>
+   <Sender>B</Sender>
+   <Content>反馈啥呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:40:00</Time>
+   <Sender>A</Sender>
+   <Content>照片视频文字啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:41:00</Time>
+   <Sender>B</Sender>
+   <Content>完了，这个信我当时没写地址</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:41:00</Time>
+   <Sender>B</Sender>
+   <Content>父母收不到</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:41:00</Time>
+   <Sender>A</Sender>
+   <Content>嘶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:41:00</Time>
+   <Sender>B</Sender>
+   <Content>抱歉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:42:00</Time>
+   <Sender>B</Sender>
+   <Content>那个消息看晚了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-19 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈没事没事</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

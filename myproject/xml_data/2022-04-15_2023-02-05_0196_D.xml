@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:04:00</Time>
+   <Sender>A</Sender>
+   <Content>王者不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:05:00</Time>
+   <Sender>B</Sender>
+   <Content>问王[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:05:00</Time>
+   <Sender>A</Sender>
+   <Content>没回</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:05:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道人在不在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:06:00</Time>
+   <Sender>B</Sender>
+   <Content>等他回了再说吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:07:00</Time>
+   <Sender>B</Sender>
+   <Content>我刚下课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:07:00</Time>
+   <Sender>A</Sender>
+   <Content>啥课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:07:00</Time>
+   <Sender>A</Sender>
+   <Content>哦双学位是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:23:00</Time>
+   <Sender>B</Sender>
+   <Content>yep</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:23:00</Time>
+   <Sender>B</Sender>
+   <Content>好瞌睡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:23:00</Time>
+   <Sender>B</Sender>
+   <Content>我有点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:23:00</Time>
+   <Sender>B</Sender>
+   <Content>不太想打了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-15 21:24:00</Time>
+   <Sender>A</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

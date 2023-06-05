@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:50:00</Time>
+   <Sender>A</Sender>
+   <Content>说说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:51:00</Time>
+   <Sender>A</Sender>
+   <Content>什么个情况</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:52:00</Time>
+   <Sender>B</Sender>
+   <Content>什么？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:52:00</Time>
+   <Sender>A</Sender>
+   <Content>对象</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:55:00</Time>
+   <Sender>B</Sender>
+   <Content>就那么个事啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:57:00</Time>
+   <Sender>B</Sender>
+   <Content>挺好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:57:00</Time>
+   <Sender>A</Sender>
+   <Content>怎么好上的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 10:59:00</Time>
+   <Sender>B</Sender>
+   <Content>初中认的姐介绍的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>初中还认姐了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>我讲你又不信</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>[擦汗]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>现在真的挺好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>而且她人蛮在意我的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>反正我比以前好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:01:00</Time>
+   <Sender>A</Sender>
+   <Content>那就行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:02:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:02:00</Time>
+   <Sender>B</Sender>
+   <Content>老子昨天[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:02:00</Time>
+   <Sender>B</Sender>
+   <Content>提起my了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:02:00</Time>
+   <Sender>B</Sender>
+   <Content>[裂开][裂开][裂开][裂开]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:03:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:03:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:03:00</Time>
+   <Sender>B</Sender>
+   <Content>反正就是有问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:04:00</Time>
+   <Sender>B</Sender>
+   <Content>不会是我一个人处理</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:04:00</Time>
+   <Sender>A</Sender>
+   <Content>那挺好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:04:00</Time>
+   <Sender>B</Sender>
+   <Content>哎走一步看一步</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:04:00</Time>
+   <Sender>A</Sender>
+   <Content>好好处着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:04:00</Time>
+   <Sender>B</Sender>
+   <Content>考完6级去长沙见一面</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:05:00</Time>
+   <Sender>B</Sender>
+   <Content>后面鬼[sensitive]发生什么啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:05:00</Time>
+   <Sender>B</Sender>
+   <Content>[裂开]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:05:00</Time>
+   <Sender>A</Sender>
+   <Content>我还以为是你们学校的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:05:00</Time>
+   <Sender>B</Sender>
+   <Content>长沙的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-06 11:05:00</Time>
+   <Sender>A</Sender>
+   <Content>噢噢噢 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

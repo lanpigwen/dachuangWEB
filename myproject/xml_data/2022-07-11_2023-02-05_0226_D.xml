@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>A</Sender>
+   <Content>今天有空一起打球不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>A</Sender>
+   <Content>[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>B</Sender>
+   <Content>妈耶[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>B</Sender>
+   <Content>在桐乡</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦我以为你回来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>B</Sender>
+   <Content>sorry</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>A</Sender>
+   <Content>[偷笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>B</Sender>
+   <Content>我回去了叫你[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-11 10:12:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈没事我正好隔几天约一场球</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

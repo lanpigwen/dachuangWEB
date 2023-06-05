@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:49:00</Time>
+   <Sender>A</Sender>
+   <Content>有一说一 寒假得找点事做了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:50:00</Time>
+   <Sender>A</Sender>
+   <Content>我暑假已经荒废了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:50:00</Time>
+   <Sender>A</Sender>
+   <Content>手术完天天躺家里</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:51:00</Time>
+   <Sender>B</Sender>
+   <Content>谁不是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:52:00</Time>
+   <Sender>C</Sender>
+   <Content>手术？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:52:00</Time>
+   <Sender>B</Sender>
+   <Content>天天躺</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:52:00</Time>
+   <Sender>C</Sender>
+   <Content>你们嗯是身在福中不知福</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:52:00</Time>
+   <Sender>B</Sender>
+   <Content>包皮手术</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:53:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:53:00</Time>
+   <Sender>A</Sender>
+   <Content>不是包皮妈的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>放假都[sensitive]看到过小胖子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:54:00</Time>
+   <Sender>A</Sender>
+   <Content>呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:55:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>你那个手术做错好多钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我也想做</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:56:00</Time>
+   <Sender>B</Sender>
+   <Content>[抓狂]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 08:59:00</Time>
+   <Sender>A</Sender>
+   <Content>7000</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:00:00</Time>
+   <Sender>A</Sender>
+   <Content>还有个飞秒激光做不起太[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:00:00</Time>
+   <Sender>A</Sender>
+   <Content>妈的1万八</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:01:00</Time>
+   <Sender>B</Sender>
+   <Content>还是等我有钱了再去做吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:01:00</Time>
+   <Sender>B</Sender>
+   <Content>你的这个是什么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:02:00</Time>
+   <Sender>A</Sender>
+   <Content>准分子激光</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:03:00</Time>
+   <Sender>B</Sender>
+   <Content>做了好久</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:05:00</Time>
+   <Sender>A</Sender>
+   <Content>很快的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:05:00</Time>
+   <Sender>B</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:05:00</Time>
+   <Sender>B</Sender>
+   <Content>心动了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:05:00</Time>
+   <Sender>B</Sender>
+   <Content>爱[sensitive]做的？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:05:00</Time>
+   <Sender>A</Sender>
+   <Content>不是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:05:00</Time>
+   <Sender>A</Sender>
+   <Content>怀化市人民医院</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:06:00</Time>
+   <Sender>A</Sender>
+   <Content>整个手术10分钟内</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:06:00</Time>
+   <Sender>A</Sender>
+   <Content>然后</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:07:00</Time>
+   <Sender>A</Sender>
+   <Content>激光手术的部分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:07:00</Time>
+   <Sender>D</Sender>
+   <Content>是不是只能低度近视才可以做这个呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:07:00</Time>
+   <Sender>A</Sender>
+   <Content>很快的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:07:00</Time>
+   <Sender>A</Sender>
+   <Content>我450度</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:07:00</Time>
+   <Sender>A</Sender>
+   <Content>做之前会有很多检查</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:08:00</Time>
+   <Sender>A</Sender>
+   <Content>应该是那个飞秒激光有点不能做</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:08:00</Time>
+   <Sender>A</Sender>
+   <Content>我也忘了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:08:00</Time>
+   <Sender>A</Sender>
+   <Content>有的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:10:00</Time>
+   <Sender>A</Sender>
+   <Content>真正动眼睛的部分估计一只眼睛就30秒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:10:00</Time>
+   <Sender>D</Sender>
+   <Content>手术后马上可以看东西吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:15:00</Time>
+   <Sender>A</Sender>
+   <Content>可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:15:00</Time>
+   <Sender>A</Sender>
+   <Content>但是我手术完那天晚上会流很多眼泪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:15:00</Time>
+   <Sender>A</Sender>
+   <Content>不舒服</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:15:00</Time>
+   <Sender>A</Sender>
+   <Content>第二天就好多了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-09 09:24:00</Time>
+   <Sender>D</Sender>
+   <Content>哦哦哦好 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

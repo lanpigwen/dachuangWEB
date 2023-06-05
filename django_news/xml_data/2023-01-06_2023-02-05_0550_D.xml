@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:24:00</Time>
+   <Sender>A</Sender>
+   <Content>你们是不专选都修满了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:42:00</Time>
+   <Sender>B</Sender>
+   <Content>是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:49:00</Time>
+   <Sender>A</Sender>
+   <Content>那你们不会只有两门课把「皱眉」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:50:00</Time>
+   <Sender>B</Sender>
+   <Content>只有 1门</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:50:00</Time>
+   <Sender>A</Sender>
+   <Content>我四门</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:50:00</Time>
+   <Sender>A</Sender>
+   <Content>真棒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:51:00</Time>
+   <Sender>B</Sender>
+   <Content>「偷笑」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:51:00</Time>
+   <Sender>B</Sender>
+   <Content>你不是就差一门了吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:51:00</Time>
+   <Sender>B</Sender>
+   <Content>看看你课表？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:52:00</Time>
+   <Sender>A</Sender>
+   <Content>没有3学分的啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:52:00</Time>
+   <Sender>B</Sender>
+   <Content>哦⊙∀⊙！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 14:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 15:44:00</Time>
+   <Sender>C</Sender>
+   <Content>你好多课啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 15:44:00</Time>
+   <Sender>C</Sender>
+   <Content>瞅瞅课表</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 15:44:00</Time>
+   <Sender>C</Sender>
+   <Content>懒得上教务系统</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 16:06:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 16:07:00</Time>
+   <Sender>B</Sender>
+   <Content>语智操作系统是必修吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 16:07:00</Time>
+   <Sender>B</Sender>
+   <Content>狗子有几门必修啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 16:11:00</Time>
+   <Sender>C</Sender>
+   <Content>是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 16:14:00</Time>
+   <Sender>B</Sender>
+   <Content>那她就选了2个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-06 16:14:00</Time>
+   <Sender>B</Sender>
+   <Content>可怜的娃</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

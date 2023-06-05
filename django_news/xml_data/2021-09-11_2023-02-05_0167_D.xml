@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>学长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>我有个小推车</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>要不我拉着车去一趟？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:11:00</Time>
+   <Sender>A</Sender>
+   <Content>方便拿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈谢[sensitive]但我们已经预定了一辆了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:11:00</Time>
+   <Sender>B</Sender>
+   <Content>团委约好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:12:00</Time>
+   <Sender>B</Sender>
+   <Content>不用再麻烦你把小推车拿出去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:12:00</Time>
+   <Sender>B</Sender>
+   <Content>谢[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:12:00</Time>
+   <Sender>A</Sender>
+   <Content>没事，那我也来一趟吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:12:00</Time>
+   <Sender>B</Sender>
+   <Content>行在群里说一下吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:13:00</Time>
+   <Sender>B</Sender>
+   <Content>辛苦了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-11 23:13:00</Time>
+   <Sender>A</Sender>
+   <Content>嘿，没事</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

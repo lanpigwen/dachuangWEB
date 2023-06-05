@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:41:00</Time>
+   <Sender>A</Sender>
+   <Content>北师大</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:41:00</Time>
+   <Sender>A</Sender>
+   <Content>到底能不能坐电梯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:41:00</Time>
+   <Sender>A</Sender>
+   <Content>[尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:41:00</Time>
+   <Sender>A</Sender>
+   <Content>男的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:42:00</Time>
+   <Sender>B</Sender>
+   <Content>你去试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:42:00</Time>
+   <Sender>C</Sender>
+   <Content>。。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:42:00</Time>
+   <Sender>C</Sender>
+   <Content>你考上研究生去试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:42:00</Time>
+   <Sender>C</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:43:00</Time>
+   <Sender>B</Sender>
+   <Content>考啥研究生啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:43:00</Time>
+   <Sender>B</Sender>
+   <Content>直接去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:51:00</Time>
+   <Sender>D</Sender>
+   <Content>说了骟了才能坐电梯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:51:00</Time>
+   <Sender>D</Sender>
+   <Content>😅 </Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:55:00</Time>
+   <Sender>C</Sender>
+   <Content>别被网上言论给魔化了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:55:00</Time>
+   <Sender>C</Sender>
+   <Content>没那么离谱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:55:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:57:00</Time>
+   <Sender>D</Sender>
+   <Content>那是原图啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:57:00</Time>
+   <Sender>D</Sender>
+   <Content>说了就是说了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:57:00</Time>
+   <Sender>D</Sender>
+   <Content>只是梗罢了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:57:00</Time>
+   <Sender>C</Sender>
+   <Content>哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:57:00</Time>
+   <Sender>D</Sender>
+   <Content>谁会认为整个学校都是这样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:57:00</Time>
+   <Sender>D</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:57:00</Time>
+   <Sender>C</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>C</Sender>
+   <Content>骂吧 我只吃瓜嘿嘿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>D</Sender>
+   <Content>[sensitive]只是少数人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>C</Sender>
+   <Content>雀食</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>C</Sender>
+   <Content>正巧碰上现在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>D</Sender>
+   <Content>我网上关于这个一句都没骂过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>C</Sender>
+   <Content>男女话题比较敏感</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>D</Sender>
+   <Content>也是吃瓜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:58:00</Time>
+   <Sender>D</Sender>
+   <Content>[吃瓜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:59:00</Time>
+   <Sender>C</Sender>
+   <Content>参活很累</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:59:00</Time>
+   <Sender>C</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:59:00</Time>
+   <Sender>D</Sender>
+   <Content>现在啥新闻都能扯到男女性别</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:59:00</Time>
+   <Sender>D</Sender>
+   <Content>[拥抱]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:59:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 14:59:00</Time>
+   <Sender>B</Sender>
+   <Content>这一拳</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 15:00:00</Time>
+   <Sender>B</Sender>
+   <Content>十年的功力</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 15:00:00</Time>
+   <Sender>B</Sender>
+   <Content>你接的住吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 15:00:00</Time>
+   <Sender>D</Sender>
+   <Content>你接的住嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 15:00:00</Time>
+   <Sender>D</Sender>
+   <Content>[耶[sensitive]]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 15:00:00</Time>
+   <Sender>D</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 15:00:00</Time>
+   <Sender>D</Sender>
+   <Content>笑死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-24 15:05:00</Time>
+   <Sender>C</Sender>
+   <Content>哈哈哈哈 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

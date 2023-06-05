@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我也了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>38.6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>全国人基本都会阳一遍</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>肯定的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>我爸妈都[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我刚买的抗原检测</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>泪目</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>多少钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>4.8</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[sensitive]吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>一人两个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>一天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>为啥芷江没得卖的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>有的药店有，有的药店没有吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>其实没必要测了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>你赶紧不舒服了 差不多已经感染了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>感觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>喉咙不舒服基本就中了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我是检测一下是不是阴了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>喉咙全发炎了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>贼难受</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我好出房间门</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>发烧了不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>当然</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>昨天昏迷一整天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>今天稍微好点了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>好好保养，多喝热水</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>你有没有脸脱皮啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>没有诶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>我就只有脑袋胀痛加喉咙不舒服</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>发烧就烧了几个小时</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>还没超过38</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>B</Sender>
+   <Content>[阳[sensitive]涩涩]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>C</Sender>
+   <Content>那你症状算轻</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>我发现我就是累和发烧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-02-05 21:10:08</Time>
+   <Sender>A</Sender>
+   <Content>都还好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

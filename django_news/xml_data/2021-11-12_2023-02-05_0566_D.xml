@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>小[sensitive]~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>视频</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>「可怜」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我或许可能</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>拍的不太好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>我这个杆子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>没事儿没事儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>不太适合，所以就用手拿着拍了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>B</Sender>
+   <Content>QQ给你发过去叭</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>辛苦你了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-12 15:52:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

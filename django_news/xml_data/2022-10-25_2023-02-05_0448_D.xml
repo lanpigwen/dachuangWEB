@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:34:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:34:00</Time>
+   <Sender>A</Sender>
+   <Content>信息资源的作业你写完了吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:34:00</Time>
+   <Sender>A</Sender>
+   <Content>我怎么一直运行不出来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:48:00</Time>
+   <Sender>B</Sender>
+   <Content>我还没写呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:48:00</Time>
+   <Sender>B</Sender>
+   <Content>栓Q啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:49:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦，我似乎可以了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:50:00</Time>
+   <Sender>B</Sender>
+   <Content>好耶好耶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:50:00</Time>
+   <Sender>B</Sender>
+   <Content>真不戳</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>还没好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>好慢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:55:00</Time>
+   <Sender>A</Sender>
+   <Content>一直运行不出来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>换成第一次作业的语料就可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:56:00</Time>
+   <Sender>A</Sender>
+   <Content>难道是这次的太大了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:58:00</Time>
+   <Sender>B</Sender>
+   <Content>应该是吧 这次语料有点多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 10:59:00</Time>
+   <Sender>B</Sender>
+   <Content>我想问一下静态存储就是把倒排索[sensitive]表存到一个文档里面去对吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>这样吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我擦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我觉得你说得对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>那静态存储是什么意思啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:00:00</Time>
+   <Sender>B</Sender>
+   <Content>你是怎么写的啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:01:00</Time>
+   <Sender>A</Sender>
+   <Content>我就字典</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:01:00</Time>
+   <Sender>A</Sender>
+   <Content>不过应该你说得对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-25 11:03:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

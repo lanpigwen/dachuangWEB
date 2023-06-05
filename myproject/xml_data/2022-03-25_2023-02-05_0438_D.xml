@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:42:00</Time>
+   <Sender>A</Sender>
+   <Content>那你是喜欢古[sensitive]修复？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:43:00</Time>
+   <Sender>B</Sender>
+   <Content>我都有点喜欢，历史与理论也挺有意思的，风土建筑也挺有意思的，修复可能更依靠技术</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:43:00</Time>
+   <Sender>B</Sender>
+   <Content>设计我也挺喜欢的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:43:00</Time>
+   <Sender>B</Sender>
+   <Content>感觉我属于那种粘合剂哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:43:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈，整挺好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:43:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>啥也想玩玩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>你了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:44:00</Time>
+   <Sender>B</Sender>
+   <Content>你们有啥方向可以发展</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:44:00</Time>
+   <Sender>A</Sender>
+   <Content>去大厂当码农秃头社畜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>燃烧青春挣够一生的钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:45:00</Time>
+   <Sender>A</Sender>
+   <Content>然后回家养[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:46:00</Time>
+   <Sender>B</Sender>
+   <Content>好爽</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:46:00</Time>
+   <Sender>B</Sender>
+   <Content>程序员真的好挣钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:46:00</Time>
+   <Sender>A</Sender>
+   <Content>羡慕，我觉得挣多少无所谓，自己喜欢最重要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:46:00</Time>
+   <Sender>B</Sender>
+   <Content>大家都熬着一样的夜但是建筑工资就很低</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:46:00</Time>
+   <Sender>A</Sender>
+   <Content>我就是啥也不感兴趣</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-25 16:46:00</Time>
+   <Sender>B</Sender>
+   <Content>玩着玩着就感兴趣了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

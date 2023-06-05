@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>题目</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>是啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:07:00</Time>
+   <Sender>B</Sender>
+   <Content>咱们还没确定选题诶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>我擦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:07:00</Time>
+   <Sender>A</Sender>
+   <Content>要做一个系统？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:07:00</Time>
+   <Sender>B</Sender>
+   <Content>好像是的…</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:08:00</Time>
+   <Sender>C</Sender>
+   <Content>完全不知道“系统”是什么东西</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:08:00</Time>
+   <Sender>C</Sender>
+   <Content>乐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:08:00</Time>
+   <Sender>D</Sender>
+   <Content>哈哈哈对，老师只是说做个系统</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:08:00</Time>
+   <Sender>A</Sender>
+   <Content>对，我也不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:08:00</Time>
+   <Sender>D</Sender>
+   <Content>但是没说做啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:08:00</Time>
+   <Sender>A</Sender>
+   <Content>系统是啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:09:00</Time>
+   <Sender>D</Sender>
+   <Content>好像是实验课会讲？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:09:00</Time>
+   <Sender>A</Sender>
+   <Content>应该是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:09:00</Time>
+   <Sender>A</Sender>
+   <Content>不着急</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:09:00</Time>
+   <Sender>B</Sender>
+   <Content>那咱们怎么确定题目啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:09:00</Time>
+   <Sender>A</Sender>
+   <Content>先看看他们做啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:10:00</Time>
+   <Sender>A</Sender>
+   <Content>再说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-31 10:10:00</Time>
+   <Sender>D</Sender>
+   <Content>同意</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

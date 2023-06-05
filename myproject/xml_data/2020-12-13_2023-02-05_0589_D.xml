@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 08:13:00</Time>
+   <Sender>A</Sender>
+   <Content>起床了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 08:13:00</Time>
+   <Sender>A</Sender>
+   <Content>~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 08:53:00</Time>
+   <Sender>B</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 08:53:00</Time>
+   <Sender>A</Sender>
+   <Content>我还没起</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:44:00</Time>
+   <Sender>B</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:44:00</Time>
+   <Sender>B</Sender>
+   <Content>起吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:44:00</Time>
+   <Sender>A</Sender>
+   <Content>我好困啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:45:00</Time>
+   <Sender>A</Sender>
+   <Content>8点多被吵醒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:45:00</Time>
+   <Sender>B</Sender>
+   <Content>咋啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:45:00</Time>
+   <Sender>A</Sender>
+   <Content>陶[sensitive]同学</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:45:00</Time>
+   <Sender>A</Sender>
+   <Content>8:00接电话</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:45:00</Time>
+   <Sender>A</Sender>
+   <Content>在床上打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:46:00</Time>
+   <Sender>A</Sender>
+   <Content>打了一个小时</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:46:00</Time>
+   <Sender>A</Sender>
+   <Content>我好困</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:47:00</Time>
+   <Sender>B</Sender>
+   <Content>起吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 09:47:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯呐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>走啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>我在门口</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 10:01:00</Time>
+   <Sender>A</Sender>
+   <Content>我在床上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>你干啥了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>这是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 10:01:00</Time>
+   <Sender>A</Sender>
+   <Content>又睡了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-12-13 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>那我先走了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

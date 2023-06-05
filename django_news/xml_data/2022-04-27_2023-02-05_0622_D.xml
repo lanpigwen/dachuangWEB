@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 13:38:00</Time>
+   <Sender>A</Sender>
+   <Content>菲菲</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 13:39:00</Time>
+   <Sender>A</Sender>
+   <Content>帮大哥看个验证码</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 13:45:00</Time>
+   <Sender>B</Sender>
+   <Content>哪啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 13:52:00</Time>
+   <Sender>A</Sender>
+   <Content>包里</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 13:52:00</Time>
+   <Sender>A</Sender>
+   <Content>红手机</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:06:00</Time>
+   <Sender>B</Sender>
+   <Content>支[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:06:00</Time>
+   <Sender>B</Sender>
+   <Content>532744</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:43:00</Time>
+   <Sender>A</Sender>
+   <Content>又发个一个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:43:00</Time>
+   <Sender>A</Sender>
+   <Content>这个过期了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:50:00</Time>
+   <Sender>B</Sender>
+   <Content>再发一个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:51:00</Time>
+   <Sender>B</Sender>
+   <Content>现在我有时间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:51:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:51:00</Time>
+   <Sender>B</Sender>
+   <Content>822791</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:54:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是解封了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-27 14:54:00</Time>
+   <Sender>B</Sender>
+   <Content>没有吧</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

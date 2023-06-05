@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:00:00</Time>
+   <Sender>A</Sender>
+   <Content>来说点正经的，你有啥专业推荐没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:00:00</Time>
+   <Sender>B</Sender>
+   <Content>专业的话</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:00:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:00:00</Time>
+   <Sender>B</Sender>
+   <Content>先看你的兴趣</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:01:00</Time>
+   <Sender>A</Sender>
+   <Content>我其实都行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:01:00</Time>
+   <Sender>A</Sender>
+   <Content>都没啥兴趣</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:01:00</Time>
+   <Sender>B</Sender>
+   <Content>那先挑学校吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:01:00</Time>
+   <Sender>B</Sender>
+   <Content>我当时也是不知道喜欢啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:01:00</Time>
+   <Sender>B</Sender>
+   <Content>就确定个大类</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:02:00</Time>
+   <Sender>B</Sender>
+   <Content>比如理，工，医，金融</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:02:00</Time>
+   <Sender>B</Sender>
+   <Content>等等</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:02:00</Time>
+   <Sender>B</Sender>
+   <Content>先看看大类的倾向</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:02:00</Time>
+   <Sender>A</Sender>
+   <Content>可有的学校分的比较细吧专业</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:10:00</Time>
+   <Sender>B</Sender>
+   <Content>你有没有特别想去的城市</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:11:00</Time>
+   <Sender>B</Sender>
+   <Content>也可以作为参考</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:11:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯 我想去北京啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 21:12:00</Time>
+   <Sender>A</Sender>
+   <Content>但是学校就不太好了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:04:00</Time>
+   <Sender>A</Sender>
+   <Content>一[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:04:00</Time>
+   <Sender>A</Sender>
+   <Content>明天左右你会吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:04:00</Time>
+   <Sender>A</Sender>
+   <Content>我们宿舍已经黔驴技穷了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:05:00</Time>
+   <Sender>A</Sender>
+   <Content>你是小老师，一定会的吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:05:00</Time>
+   <Sender>B</Sender>
+   <Content>作业？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:05:00</Time>
+   <Sender>B</Sender>
+   <Content>第四题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:06:00</Time>
+   <Sender>A</Sender>
+   <Content>啊对的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:06:00</Time>
+   <Sender>B</Sender>
+   <Content>别的可以去网上查</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:06:00</Time>
+   <Sender>A</Sender>
+   <Content>感谢感谢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:06:00</Time>
+   <Sender>B</Sender>
+   <Content>没事儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:06:00</Time>
+   <Sender>A</Sender>
+   <Content>明天下课请你一杯奶茶吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:06:00</Time>
+   <Sender>B</Sender>
+   <Content>不用不用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:07:00</Time>
+   <Sender>B</Sender>
+   <Content>不如</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:07:00</Time>
+   <Sender>A</Sender>
+   <Content>你去食堂吃饭吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:07:00</Time>
+   <Sender>B</Sender>
+   <Content>做完青年大学习？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:07:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯，你说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:07:00</Time>
+   <Sender>B</Sender>
+   <Content>now？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:07:00</Time>
+   <Sender>A</Sender>
+   <Content>那个我会做的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:08:00</Time>
+   <Sender>B</Sender>
+   <Content>被你整怕了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:08:00</Time>
+   <Sender>A</Sender>
+   <Content>我是说，如果你明天也去食堂吃饭的话，请你一杯奶茶吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:08:00</Time>
+   <Sender>B</Sender>
+   <Content>不用啦，没事儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:08:00</Time>
+   <Sender>B</Sender>
+   <Content>小[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:08:00</Time>
+   <Sender>A</Sender>
+   <Content>啊，我也没落下过啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:08:00</Time>
+   <Sender>A</Sender>
+   <Content>就是你催的有点急</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:08:00</Time>
+   <Sender>A</Sender>
+   <Content>不过那次也过去一个月了嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:09:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:09:00</Time>
+   <Sender>A</Sender>
+   <Content>行吧 我现在做了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-16 23:09:00</Time>
+   <Sender>B</Sender>
+   <Content>就是就是</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

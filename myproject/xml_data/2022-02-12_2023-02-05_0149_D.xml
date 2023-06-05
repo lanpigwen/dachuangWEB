@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:44:00</Time>
+   <Sender>A</Sender>
+   <Content>你们这个时候还能出来不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:45:00</Time>
+   <Sender>B</Sender>
+   <Content>?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:45:00</Time>
+   <Sender>A</Sender>
+   <Content>来喝酒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:45:00</Time>
+   <Sender>B</Sender>
+   <Content>在怀化</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:45:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:45:00</Time>
+   <Sender>A</Sender>
+   <Content>好趴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:50:00</Time>
+   <Sender>B</Sender>
+   <Content>就你一个？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:50:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-12 23:52:00</Time>
+   <Sender>A</Sender>
+   <Content>和朋友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:04:00</Time>
+   <Sender>C</Sender>
+   <Content>妹仔噶这么晚还喝酒？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:04:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:04:00</Time>
+   <Sender>C</Sender>
+   <Content>要是我妹仔腿打断[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:05:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:06:00</Time>
+   <Sender>A</Sender>
+   <Content>我成年了好吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:06:00</Time>
+   <Sender>A</Sender>
+   <Content>和女孩子 </Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:06:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:07:00</Time>
+   <Sender>A</Sender>
+   <Content>你这[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:08:00</Time>
+   <Sender>B</Sender>
+   <Content>小伙子关人注意倒点安全</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:09:00</Time>
+   <Sender>A</Sender>
+   <Content>我没喝啥 玩游戏去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:13:00</Time>
+   <Sender>C</Sender>
+   <Content>我家里我姐要是12点在外面喝酒我奶奶爷爷能急死</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:13:00</Time>
+   <Sender>C</Sender>
+   <Content>电话轰炸的那种</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:13:00</Time>
+   <Sender>B</Sender>
+   <Content>我姐现在还在外面搓麻将</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:13:00</Time>
+   <Sender>A</Sender>
+   <Content>反正没人知道我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:13:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:13:00</Time>
+   <Sender>B</Sender>
+   <Content>一会还得我去开门</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:13:00</Time>
+   <Sender>C</Sender>
+   <Content>所以我从来不敢出去玩太晚</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:14:00</Time>
+   <Sender>C</Sender>
+   <Content>家里管的严</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:14:00</Time>
+   <Sender>C</Sender>
+   <Content>除非我开始工作了差不多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:14:00</Time>
+   <Sender>A</Sender>
+   <Content>🙃🙃偶尔玩玩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:14:00</Time>
+   <Sender>B</Sender>
+   <Content>[旺柴] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

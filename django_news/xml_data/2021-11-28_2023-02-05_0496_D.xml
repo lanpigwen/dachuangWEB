@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:21:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:21:00</Time>
+   <Sender>A</Sender>
+   <Content>我网页还没到时间就自己提交了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:22:00</Time>
+   <Sender>A</Sender>
+   <Content>怎么办</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:23:00</Time>
+   <Sender>B</Sender>
+   <Content>我也是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:23:00</Time>
+   <Sender>A</Sender>
+   <Content>那怎么搞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:24:00</Time>
+   <Sender>B</Sender>
+   <Content>我周一做的，没提交上，当时跟助教说来着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:24:00</Time>
+   <Sender>B</Sender>
+   <Content>好像就是等消息吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:24:00</Time>
+   <Sender>A</Sender>
+   <Content>啊，那可是就是没提交上去啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:24:00</Time>
+   <Sender>A</Sender>
+   <Content>怎么打分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:24:00</Time>
+   <Sender>B</Sender>
+   <Content>也不知道会不会有补交时间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:25:00</Time>
+   <Sender>B</Sender>
+   <Content>是啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:25:00</Time>
+   <Sender>A</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:25:00</Time>
+   <Sender>A</Sender>
+   <Content>麻了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:26:00</Time>
+   <Sender>B</Sender>
+   <Content>但是好像挺多人都没提交上，等等消息吧。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:27:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-28 11:27:00</Time>
+   <Sender>A</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

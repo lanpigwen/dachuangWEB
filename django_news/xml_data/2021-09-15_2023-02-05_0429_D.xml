@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:07:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐那万一我以后想转系了我会离开你嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:08:00</Time>
+   <Sender>B</Sender>
+   <Content>工作就一年时间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:08:00</Time>
+   <Sender>B</Sender>
+   <Content>哪个组织都是如此~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:09:00</Time>
+   <Sender>B</Sender>
+   <Content>转系了我们也可以常联系呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:09:00</Time>
+   <Sender>A</Sender>
+   <Content>噢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:09:00</Time>
+   <Sender>A</Sender>
+   <Content>好的呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:09:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯，早点休息吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯，好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-15 23:10:00</Time>
+   <Sender>A</Sender>
+   <Content>你也是学姐！</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

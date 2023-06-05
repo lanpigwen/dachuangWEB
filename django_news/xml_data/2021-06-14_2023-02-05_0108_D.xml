@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>诶对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>问问邓[sensitive]老师</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:42:00</Time>
+   <Sender>A</Sender>
+   <Content>腹肌有几块</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:43:00</Time>
+   <Sender>A</Sender>
+   <Content>[白眼][白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:43:00</Time>
+   <Sender>B</Sender>
+   <Content>隐约有六块</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:44:00</Time>
+   <Sender>A</Sender>
+   <Content>隐约</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:44:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:44:00</Time>
+   <Sender>A</Sender>
+   <Content>我还以为会有八块</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:44:00</Time>
+   <Sender>A</Sender>
+   <Content>[凋谢][凋谢]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>B</Sender>
+   <Content>八块</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>B</Sender>
+   <Content>梦里会有 吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>A</Sender>
+   <Content>黑巧[sensitive]🍫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>A</Sender>
+   <Content>笑死我了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:45:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>B</Sender>
+   <Content>白[sensitive]！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>A</Sender>
+   <Content>牛奶巧[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>B</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>A</Sender>
+   <Content>[白眼][白眼][白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>A</Sender>
+   <Content>那你是练出来的还是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>B</Sender>
+   <Content>牛奶巧[sensitive]还差不多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:46:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:47:00</Time>
+   <Sender>A</Sender>
+   <Content>[疑问][疑问]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:47:00</Time>
+   <Sender>A</Sender>
+   <Content>还是瘦出来的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:47:00</Time>
+   <Sender>B</Sender>
+   <Content>大多是瘦出来的 吧[白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:48:00</Time>
+   <Sender>A</Sender>
+   <Content>[白眼][白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:48:00</Time>
+   <Sender>B</Sender>
+   <Content>干嘛突然问这个[让我看看]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:48:00</Time>
+   <Sender>B</Sender>
+   <Content>你要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:48:00</Time>
+   <Sender>B</Sender>
+   <Content>瘦肚子吗[可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:50:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:50:00</Time>
+   <Sender>B</Sender>
+   <Content>[可怜]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:51:00</Time>
+   <Sender>A</Sender>
+   <Content>这个肉是不是只有练腹才能没啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:51:00</Time>
+   <Sender>B</Sender>
+   <Content>肚子上的肉？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:51:00</Time>
+   <Sender>A</Sender>
+   <Content>昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我也不太懂喔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:51:00</Time>
+   <Sender>A</Sender>
+   <Content>[尴尬][尴尬][尴尬]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:51:00</Time>
+   <Sender>B</Sender>
+   <Content>不过练腹肯定有用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:51:00</Time>
+   <Sender>B</Sender>
+   <Content>[白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:53:00</Time>
+   <Sender>A</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:53:00</Time>
+   <Sender>A</Sender>
+   <Content>暑假试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:53:00</Time>
+   <Sender>B</Sender>
+   <Content>喔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>真的该减了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:54:00</Time>
+   <Sender>B</Sender>
+   <Content>健身博主和身材博主了吗[哇]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>别</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>我能露出来的地方都不算胖</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>但是露不出来的是真胖</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:55:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:55:00</Time>
+   <Sender>B</Sender>
+   <Content>暑假你能坚持？[白眼]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:55:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-14 18:55:00</Time>
+   <Sender>A</Sender>
+   <Content>我还想学跳舞 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

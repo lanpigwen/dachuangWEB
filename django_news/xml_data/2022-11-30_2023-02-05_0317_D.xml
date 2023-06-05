@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:18:00</Time>
+   <Sender>A</Sender>
+   <Content>周六回家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>真好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>还能回家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>这边疫情太严重</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>学校赶人了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>你们咋说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>我其实不想回</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:34:00</Time>
+   <Sender>B</Sender>
+   <Content>确定不是因为其他事情[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:35:00</Time>
+   <Sender>B</Sender>
+   <Content>我们就是因为严重才出不去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:35:00</Time>
+   <Sender>A</Sender>
+   <Content>哦你也听说了[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:35:00</Time>
+   <Sender>A</Sender>
+   <Content>只能说没上海闹得凶</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:36:00</Time>
+   <Sender>A</Sender>
+   <Content>那你们几号回啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:36:00</Time>
+   <Sender>B</Sender>
+   <Content>等寒假啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:36:00</Time>
+   <Sender>A</Sender>
+   <Content>寒假几号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-30 12:51:00</Time>
+   <Sender>B</Sender>
+   <Content>明年吧</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

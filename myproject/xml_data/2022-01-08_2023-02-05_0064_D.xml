@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:48:00</Time>
+   <Sender>A</Sender>
+   <Content>又地震了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:49:00</Time>
+   <Sender>A</Sender>
+   <Content>离大谱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:49:00</Time>
+   <Sender>B</Sender>
+   <Content>a</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:49:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:51:00</Time>
+   <Sender>B</Sender>
+   <Content>震感强烈吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:51:00</Time>
+   <Sender>A</Sender>
+   <Content>巨[sensitive]强烈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:51:00</Time>
+   <Sender>A</Sender>
+   <Content>床不太好，嘎[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:53:00</Time>
+   <Sender>B</Sender>
+   <Content>[拥抱]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:55:00</Time>
+   <Sender>A</Sender>
+   <Content>真的离谱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:56:00</Time>
+   <Sender>C</Sender>
+   <Content>[sensitive]牛啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:57:00</Time>
+   <Sender>A</Sender>
+   <Content>三个学期震两回</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 01:57:00</Time>
+   <Sender>A</Sender>
+   <Content>我能说什么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:01:00</Time>
+   <Sender>B</Sender>
+   <Content>我只体会过一次</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:03:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:03:00</Time>
+   <Sender>B</Sender>
+   <Content>第二次体会到了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:04:00</Time>
+   <Sender>A</Sender>
+   <Content>去年一次</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:04:00</Time>
+   <Sender>A</Sender>
+   <Content>今年一次</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:05:00</Time>
+   <Sender>B</Sender>
+   <Content>我说刚刚发生了两次地震</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:07:00</Time>
+   <Sender>A</Sender>
+   <Content>没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:07:00</Time>
+   <Sender>B</Sender>
+   <Content>震中在祁连山造山带的断层上，一直是地震频发的地区。所幸震中在高海拔山脊，大部分居民点不会有破坏性影响，需要注意破坏影响的是山丹军马场等地；但有感范围波及较广，包括青海、甘肃、宁夏、陕西等地，长周期地[sensitive]让震中较远的高层建筑也明显有感。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:10:00</Time>
+   <Sender>A</Sender>
+   <Content>麻了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:11:00</Time>
+   <Sender>A</Sender>
+   <Content>我都不敢在这读书了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:14:00</Time>
+   <Sender>B</Sender>
+   <Content>又有余[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 02:14:00</Time>
+   <Sender>B</Sender>
+   <Content>[拥抱]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 08:35:00</Time>
+   <Sender>D</Sender>
+   <Content>看西安说震感强烈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 08:35:00</Time>
+   <Sender>D</Sender>
+   <Content>我p都不知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-01-08 08:36:00</Time>
+   <Sender>A</Sender>
+   <Content>[凋谢] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

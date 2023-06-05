@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:43:00</Time>
+   <Sender>A</Sender>
+   <Content>@今麦[sensitive]🍜 原神你还在玩吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:44:00</Time>
+   <Sender>B</Sender>
+   <Content>早都不玩了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:44:00</Time>
+   <Sender>C</Sender>
+   <Content>玩了一个星期</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:44:00</Time>
+   <Sender>B</Sender>
+   <Content>比我不玩的还早</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:44:00</Time>
+   <Sender>C</Sender>
+   <Content>当时拉着阿[sensitive]入坑的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:44:00</Time>
+   <Sender>C</Sender>
+   <Content>主要太黑了，抽不到东西</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我重新入坑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>B</Sender>
+   <Content>老子40多级都没金</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>A</Sender>
+   <Content>短短半个月</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>C</Sender>
+   <Content>推荐买号玩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>B</Sender>
+   <Content>当时主线都做完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>A</Sender>
+   <Content>1000大洋没了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>C</Sender>
+   <Content>我卖号赚了150</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:45:00</Time>
+   <Sender>A</Sender>
+   <Content>本来想抽雷神</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>B</Sender>
+   <Content>还他妈雷[sensitive]c</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>A</Sender>
+   <Content>结果小保底歪了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>B</Sender>
+   <Content>黑的一批</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>B</Sender>
+   <Content>我室友被我拉入坑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>A</Sender>
+   <Content>迪[sensitive]一命</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>B</Sender>
+   <Content>充快1w了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>A</Sender>
+   <Content>然后直接[sensitive]8，大保底</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>C</Sender>
+   <Content>6</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>C</Sender>
+   <Content>有钱人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:46:00</Time>
+   <Sender>A</Sender>
+   <Content>才出雷神</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:47:00</Time>
+   <Sender>C</Sender>
+   <Content>爷玩了快五年的崩坏三</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:47:00</Time>
+   <Sender>C</Sender>
+   <Content>加一起都没2000</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:47:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:47:00</Time>
+   <Sender>A</Sender>
+   <Content>幸好当时崩坏三没被你拉入坑@今麦[sensitive]🍜 </Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:47:00</Time>
+   <Sender>B</Sender>
+   <Content>原批</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:47:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>C</Sender>
+   <Content>崩坏的剧情</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>B</Sender>
+   <Content>批味有点重</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>C</Sender>
+   <Content>巨刀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>B</Sender>
+   <Content>就跑图还有点意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>A</Sender>
+   <Content>原神的剧情</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>A</Sender>
+   <Content>开始搞了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>B</Sender>
+   <Content>后面越来越没意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>A</Sender>
+   <Content>莫名其妙的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>A</Sender>
+   <Content>@张[sensitive]文 别急现在才开了三个国家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:48:00</Time>
+   <Sender>B</Sender>
+   <Content>剧情，幻塔拉的一批</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>B</Sender>
+   <Content>太慢了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>B</Sender>
+   <Content>没意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>A</Sender>
+   <Content>还有四个国家呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>C</Sender>
+   <Content>幻塔</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>C</Sender>
+   <Content>什么屑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>B</Sender>
+   <Content>当时啥都干完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>B</Sender>
+   <Content>没意思就退了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>A</Sender>
+   <Content>反正不谈恋爱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>B</Sender>
+   <Content>剧情，地图都不行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>C</Sender>
+   <Content>还得看我崩坏三</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>A</Sender>
+   <Content>多养几个老婆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:49:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>C</Sender>
+   <Content>老婆一大堆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>A</Sender>
+   <Content>[胜利]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>B</Sender>
+   <Content>幻塔唯一可玩性</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>C</Sender>
+   <Content>刀我我也玩</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>B</Sender>
+   <Content>就是可以一起打副本</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>B</Sender>
+   <Content>这一点还是不错的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>C</Sender>
+   <Content>副本？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>B</Sender>
+   <Content>然后还是二次元</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:50:00</Time>
+   <Sender>B</Sender>
+   <Content>画风</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:51:00</Time>
+   <Sender>C</Sender>
+   <Content>就来传奇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:51:00</Time>
+   <Sender>B</Sender>
+   <Content>[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:51:00</Time>
+   <Sender>C</Sender>
+   <Content>爆率999</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:51:00</Time>
+   <Sender>C</Sender>
+   <Content>一刀999</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:51:00</Time>
+   <Sender>B</Sender>
+   <Content>[sensitive]和[sensitive]没区别</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:51:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:51:00</Time>
+   <Sender>B</Sender>
+   <Content>真的蠢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:52:00</Time>
+   <Sender>B</Sender>
+   <Content>原神充钱没啥意义</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:52:00</Time>
+   <Sender>C</Sender>
+   <Content>抽角色呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:52:00</Time>
+   <Sender>B</Sender>
+   <Content>特别小[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:52:00</Time>
+   <Sender>B</Sender>
+   <Content>要么就不冲要么你冲到底</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:52:00</Time>
+   <Sender>C</Sender>
+   <Content>小[sensitive]没用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:53:00</Time>
+   <Sender>C</Sender>
+   <Content>我的建议是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:53:00</Time>
+   <Sender>C</Sender>
+   <Content>不如买号</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:53:00</Time>
+   <Sender>B</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:53:00</Time>
+   <Sender>B</Sender>
+   <Content>买号都是打五折</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:53:00</Time>
+   <Sender>B</Sender>
+   <Content>但是这游戏玩的就是剧情和跑图</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>C</Sender>
+   <Content>五折？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>C</Sender>
+   <Content>你小看了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>B</Sender>
+   <Content>[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>C</Sender>
+   <Content>起码也是2-3折</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>B</Sender>
+   <Content>老子真的只能说你是[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>C</Sender>
+   <Content>这是最起码</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>C</Sender>
+   <Content>除非大小月卡党</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-31 17:54:00</Time>
+   <Sender>C</Sender>
+   <Content>不然充进去的钱根本不值 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

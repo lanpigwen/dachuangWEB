@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:42:00</Time>
+   <Sender>A</Sender>
+   <Content>你家在哪住了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:42:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:42:00</Time>
+   <Sender>B</Sender>
+   <Content>在万柏林区</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:42:00</Time>
+   <Sender>B</Sender>
+   <Content>太白巷</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:42:00</Time>
+   <Sender>B</Sender>
+   <Content>附近</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:42:00</Time>
+   <Sender>A</Sender>
+   <Content>西山？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:43:00</Time>
+   <Sender>A</Sender>
+   <Content>我也是万柏林区的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:43:00</Time>
+   <Sender>B</Sender>
+   <Content>我靠</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:43:00</Time>
+   <Sender>A</Sender>
+   <Content>在和平南路</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:43:00</Time>
+   <Sender>B</Sender>
+   <Content>下元那边是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:43:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:44:00</Time>
+   <Sender>A</Sender>
+   <Content>下元往南一些</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:44:00</Time>
+   <Sender>A</Sender>
+   <Content>「呲牙」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:44:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:45:00</Time>
+   <Sender>A</Sender>
+   <Content>北语本来就招的人少，还能这么近，不容易</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:45:00</Time>
+   <Sender>B</Sender>
+   <Content>是了！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-12 12:45:00</Time>
+   <Sender>B</Sender>
+   <Content>我还以为估计没有一个省的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

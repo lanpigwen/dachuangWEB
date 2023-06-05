@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:29:00</Time>
+   <Sender>A</Sender>
+   <Content>在吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:29:00</Time>
+   <Sender>A</Sender>
+   <Content>团日活动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:29:00</Time>
+   <Sender>A</Sender>
+   <Content>在哪呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:29:00</Time>
+   <Sender>B</Sender>
+   <Content>主南216</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:32:00</Time>
+   <Sender>A</Sender>
+   <Content>现在到哪个环节了吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>B</Sender>
+   <Content>看电影</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>A</Sender>
+   <Content>我现在有部门任务</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>A</Sender>
+   <Content>去不了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>B</Sender>
+   <Content>你和班委说了吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>B</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>A</Sender>
+   <Content>似乎没有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>A</Sender>
+   <Content>我去问问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-26 13:33:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

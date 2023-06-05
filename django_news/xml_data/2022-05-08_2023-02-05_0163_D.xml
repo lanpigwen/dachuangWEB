@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>杰[sensitive]党课刷完没[奸笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:54:00</Time>
+   <Sender>B</Sender>
+   <Content>刷完了早就</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:54:00</Time>
+   <Sender>B</Sender>
+   <Content>我还在做视频</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>几线操作</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:54:00</Time>
+   <Sender>B</Sender>
+   <Content>明天要交</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:54:00</Time>
+   <Sender>B</Sender>
+   <Content>就一线</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:55:00</Time>
+   <Sender>A</Sender>
+   <Content>okk，杰[sensitive]加油</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:55:00</Time>
+   <Sender>B</Sender>
+   <Content>之前在机房刷了些</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-08 18:55:00</Time>
+   <Sender>A</Sender>
+   <Content>hhhhh</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:22:00</Time>
+   <Sender>A</Sender>
+   <Content>明年你还在团委吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:23:00</Time>
+   <Sender>B</Sender>
+   <Content>应该吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:23:00</Time>
+   <Sender>A</Sender>
+   <Content>还管我们社吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:23:00</Time>
+   <Sender>B</Sender>
+   <Content>我可以指定的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:23:00</Time>
+   <Sender>B</Sender>
+   <Content>你明年还是社长吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:23:00</Time>
+   <Sender>A</Sender>
+   <Content>不是了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:24:00</Time>
+   <Sender>A</Sender>
+   <Content>不过希望管的人能像你这么好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:24:00</Time>
+   <Sender>B</Sender>
+   <Content>我只是懒而已。。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:24:00</Time>
+   <Sender>B</Sender>
+   <Content>而且你们很配合</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-29 21:25:00</Time>
+   <Sender>B</Sender>
+   <Content>我就担心会有社团举报我不去监察</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

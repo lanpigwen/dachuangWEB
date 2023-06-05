@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:56:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐文体审批表是不是要发给行政啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:57:00</Time>
+   <Sender>B</Sender>
+   <Content>咱先等等宣传那边的设计~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:57:00</Time>
+   <Sender>A</Sender>
+   <Content>还有策划书写完以后你看过以后我要发过去吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:57:00</Time>
+   <Sender>A</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:57:00</Time>
+   <Sender>B</Sender>
+   <Content>发给我就行~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-22 08:58:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯好的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

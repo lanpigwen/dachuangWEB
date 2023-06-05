@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:36:00</Time>
+   <Sender>A</Sender>
+   <Content>那我所不锁门？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:36:00</Time>
+   <Sender>A</Sender>
+   <Content>人都[sensitive]来检查</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:36:00</Time>
+   <Sender>B</Sender>
+   <Content>我都忘了这事儿了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:37:00</Time>
+   <Sender>B</Sender>
+   <Content>少爷不在？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:37:00</Time>
+   <Sender>A</Sender>
+   <Content>不在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:37:00</Time>
+   <Sender>B</Sender>
+   <Content>别锁了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:37:00</Time>
+   <Sender>B</Sender>
+   <Content>你把钥匙拿上</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:37:00</Time>
+   <Sender>A</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:37:00</Time>
+   <Sender>A</Sender>
+   <Content>哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:37:00</Time>
+   <Sender>A</Sender>
+   <Content>我把我电脑锁起来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:38:00</Time>
+   <Sender>B</Sender>
+   <Content>应该没事儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:38:00</Time>
+   <Sender>B</Sender>
+   <Content>你要不把我电脑</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:38:00</Time>
+   <Sender>B</Sender>
+   <Content>也先放你那儿一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-04-06 21:39:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:57:00</Time>
+   <Sender>A</Sender>
+   <Content>你加超话了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:58:00</Time>
+   <Sender>B</Sender>
+   <Content>那当然</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:58:00</Time>
+   <Sender>A</Sender>
+   <Content>你微博是啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:58:00</Time>
+   <Sender>B</Sender>
+   <Content>每天没事儿就逛逛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:58:00</Time>
+   <Sender>A</Sender>
+   <Content>我要关注你「笑哭」「笑哭」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:58:00</Time>
+   <Sender>A</Sender>
+   <Content>「笑哭」「笑哭」「笑哭」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:58:00</Time>
+   <Sender>B</Sender>
+   <Content>我不发微博</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:58:00</Time>
+   <Sender>B</Sender>
+   <Content>我叫</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:59:00</Time>
+   <Sender>B</Sender>
+   <Content>luckystar波[sensitive]灵[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:59:00</Time>
+   <Sender>A</Sender>
+   <Content>他们和我说超话里全是要求打榜的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 22:59:00</Time>
+   <Sender>B</Sender>
+   <Content>奥[sensitive] 我每天签到打榜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:00:00</Time>
+   <Sender>A</Sender>
+   <Content>几级了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:00:00</Time>
+   <Sender>B</Sender>
+   <Content>还有优酷我也充了会员</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:00:00</Time>
+   <Sender>B</Sender>
+   <Content>9级</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:00:00</Time>
+   <Sender>B</Sender>
+   <Content>不高</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我也是优酷会员</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:00:00</Time>
+   <Sender>A</Sender>
+   <Content>可以了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:01:00</Time>
+   <Sender>B</Sender>
+   <Content>为了看朱[sensitive]的盗墓笔记和这就是街舞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:01:00</Time>
+   <Sender>B</Sender>
+   <Content>都好看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:01:00</Time>
+   <Sender>A</Sender>
+   <Content>上个月是爱奇艺，这个月轮到优酷了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:02:00</Time>
+   <Sender>A</Sender>
+   <Content>对，朱[sensitive]是不是演了那个重启</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:02:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯 好看好看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:03:00</Time>
+   <Sender>B</Sender>
+   <Content>推荐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-07-26 23:03:00</Time>
+   <Sender>B</Sender>
+   <Content>他细节做的好</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

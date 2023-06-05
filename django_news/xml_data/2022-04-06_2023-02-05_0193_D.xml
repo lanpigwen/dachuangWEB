@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 17:54:00</Time>
+   <Sender>A</Sender>
+   <Content>吃晚饭不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 17:55:00</Time>
+   <Sender>B</Sender>
+   <Content>我在外面</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 17:56:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 17:56:00</Time>
+   <Sender>B</Sender>
+   <Content>和舍友吃火锅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 18:00:00</Time>
+   <Sender>A</Sender>
+   <Content>哦你室友回来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 18:00:00</Time>
+   <Sender>B</Sender>
+   <Content>冬奥的室友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 18:00:00</Time>
+   <Sender>B</Sender>
+   <Content>学校宿舍</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-06 18:00:00</Time>
+   <Sender>B</Sender>
+   <Content>一个人孤寡</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

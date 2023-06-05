@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 09:48:00</Time>
+   <Sender>A</Sender>
+   <Content>宝[sensitive]记得取</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 09:48:00</Time>
+   <Sender>A</Sender>
+   <Content>我怕他给我退回去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 09:48:00</Time>
+   <Sender>B</Sender>
+   <Content>今天一定</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 09:48:00</Time>
+   <Sender>B</Sender>
+   <Content>昨天忘了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:26:00</Time>
+   <Sender>B</Sender>
+   <Content>你开一下吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:26:00</Time>
+   <Sender>B</Sender>
+   <Content>我在近邻宝[sensitive]前面</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:27:00</Time>
+   <Sender>B</Sender>
+   <Content>好了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:27:00</Time>
+   <Sender>B</Sender>
+   <Content>到时我放你门口台子上吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>[破涕为笑]我们宿舍没人啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>你帮我保管几天呗hhh</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:34:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>过几天就回去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>一周？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>应该是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-26 12:35:00</Time>
+   <Sender>B</Sender>
+   <Content>okok</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

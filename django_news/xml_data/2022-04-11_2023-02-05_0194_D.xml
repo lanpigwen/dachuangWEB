@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-11 10:53:00</Time>
+   <Sender>A</Sender>
+   <Content>等会要不提前吃饭去[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-11 10:54:00</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-11 11:27:00</Time>
+   <Sender>A</Sender>
+   <Content>走不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-11 11:28:00</Time>
+   <Sender>B</Sender>
+   <Content>我收拾一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-11 11:29:00</Time>
+   <Sender>B</Sender>
+   <Content>吃完去图书馆</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-11 11:29:00</Time>
+   <Sender>A</Sender>
+   <Content>OK</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-04-11 11:29:00</Time>
+   <Sender>A</Sender>
+   <Content>哇哦</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

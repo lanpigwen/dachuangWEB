@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:39:00</Time>
+   <Sender>A</Sender>
+   <Content>你平常在篮球圈子里</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:39:00</Time>
+   <Sender>A</Sender>
+   <Content>身份这么有趣吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:49:00</Time>
+   <Sender>B</Sender>
+   <Content>我不到啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:49:00</Time>
+   <Sender>B</Sender>
+   <Content>我圈外人</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:50:00</Time>
+   <Sender>B</Sender>
+   <Content>这帮人真野</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:50:00</Time>
+   <Sender>A</Sender>
+   <Content>知道不是你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:50:00</Time>
+   <Sender>A</Sender>
+   <Content>因为那是我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 15:50:00</Time>
+   <Sender>B</Sender>
+   <Content>[惊恐][发怒]</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

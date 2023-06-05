@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:09:00</Time>
+   <Sender>A</Sender>
+   <Content>可儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:09:00</Time>
+   <Sender>A</Sender>
+   <Content>你在大同是吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:10:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:10:00</Time>
+   <Sender>B</Sender>
+   <Content>早回来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>A</Sender>
+   <Content>我现在在怀[sensitive]欸</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>A</Sender>
+   <Content>疫情感觉也去不了找你</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>A</Sender>
+   <Content>「流泪」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>B</Sender>
+   <Content>你一直呆到过年吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:11:00</Time>
+   <Sender>B</Sender>
+   <Content>什么时候回来的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>A</Sender>
+   <Content>12月15号吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>B</Sender>
+   <Content>那挺好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>A</Sender>
+   <Content>考[sensitive]了吧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>B</Sender>
+   <Content>有机会给你看看我家狗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>B</Sender>
+   <Content>我们下学期考</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>A</Sender>
+   <Content>我就是想！看！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>A</Sender>
+   <Content>啊？这么好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>A</Sender>
+   <Content>呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>B</Sender>
+   <Content>你们呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>A</Sender>
+   <Content>考完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:12:00</Time>
+   <Sender>A</Sender>
+   <Content>「流泪」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>不过</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>B</Sender>
+   <Content>那也挺好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>我缓考了一门</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>「苦涩」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>B</Sender>
+   <Content>为什么</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>你想看你家狗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>咋办</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>阳[sensitive]了复习不了那么多门了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>A</Sender>
+   <Content>「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:13:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>A</Sender>
+   <Content>我来电影院</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>A</Sender>
+   <Content>看想见你了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>B</Sender>
+   <Content>我阳的时候症状很轻，发烧最高也没超过38度</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>A</Sender>
+   <Content>我也挺轻的，最高38.3</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>A</Sender>
+   <Content>「捂脸」</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在哪也不敢去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>A</Sender>
+   <Content>咋了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:14:00</Time>
+   <Sender>A</Sender>
+   <Content>怕啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>B</Sender>
+   <Content>疫情啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>A</Sender>
+   <Content>害</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>B</Sender>
+   <Content>还得忙着复习收拾家</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>B</Sender>
+   <Content>你买新衣服没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>A</Sender>
+   <Content>买了吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>A</Sender>
+   <Content>可以说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>A</Sender>
+   <Content>也没买哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>A</Sender>
+   <Content>等会儿和你说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:15:00</Time>
+   <Sender>B</Sender>
+   <Content>我家狗前两天刚美容完</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:16:00</Time>
+   <Sender>A</Sender>
+   <Content>哦去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:16:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:16:00</Time>
+   <Sender>A</Sender>
+   <Content>我想看！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:16:00</Time>
+   <Sender>A</Sender>
+   <Content>呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:16:00</Time>
+   <Sender>A</Sender>
+   <Content>我要看电影了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:16:00</Time>
+   <Sender>B</Sender>
+   <Content>我现在在外面</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:16:00</Time>
+   <Sender>B</Sender>
+   <Content>等回家给你拍几张照片</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:17:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-12-31 16:17:00</Time>
+   <Sender>A</Sender>
+   <Content>！</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

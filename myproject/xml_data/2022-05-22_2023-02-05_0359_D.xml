@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:21:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐那个上学期冬奥周边</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:21:00</Time>
+   <Sender>A</Sender>
+   <Content>是下学期发吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:21:00</Time>
+   <Sender>B</Sender>
+   <Content>啥周边呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:22:00</Time>
+   <Sender>B</Sender>
+   <Content>那四个人的嘛还是哪个活动</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>对的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>冬奥竞赛项目体验那个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:24:00</Time>
+   <Sender>B</Sender>
+   <Content>你在学校嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>在的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:25:00</Time>
+   <Sender>B</Sender>
+   <Content>我问一下团委那边~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:25:00</Time>
+   <Sender>B</Sender>
+   <Content>你有诗然姐微信吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:25:00</Time>
+   <Sender>A</Sender>
+   <Content>有的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:26:00</Time>
+   <Sender>B</Sender>
+   <Content>等等我联系一下~联系好了你和诗然姐联系哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-22 19:28:00</Time>
+   <Sender>A</Sender>
+   <Content>好的好的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

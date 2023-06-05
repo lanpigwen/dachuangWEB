@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>中文多轮对话数据加工</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        body {
+            background-image: url("../static/5.jpg");
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        h1 {
+            text-align: center;
+            font-family: cursive;
+            font-size: 50px;
+            margin-top: 50px;
+        }
+
+        p {
+            text-align: center;
+            font-family: cursive;
+            font-size: 20px;
+        }
+
+        #main {
+            width: 500px;
+            height: 400px;
+            margin: 1px;
+        }
+
+        #input {
+            display: block;
+            margin: 0 auto;
+            width: 300px;
+            height: 20px;
+            font-size: 20px;
+            padding-left: 10px;
+            text-align: left;
+            border-radius: 10px;
+            background-color: rgb(255, 255, 255);
+        }
+
+        #input:focus {
+            text-align: left;
+        }
+
+        input::-webkit-input-placeholder {
+            text-align: left;
+            font-weight: 60;
+            color: rgb(151, 148, 148);
+        }
+
+        textarea {
+            display: block;
+            margin: 0 auto;
+            width: 400px;
+            height: 35px;
+            font-size: 20px;
+            padding-left: 10px;
+            text-align: left;
+            border-radius: 10px;
+            background-color: rgb(255, 255, 255);
+        }
+
+        textarea::-webkit-input-placeholder {
+            text-align: left;
+            font-weight: 60;
+            color: rgb(151, 148, 148);
+        }
+
+        button.cs {
+            position: relative;
+            top: 30px;
+            background-color: #3c6eff;
+            color: rgb(0, 0, 0);
+            width: 400px;
+            height: 45px;
+            border: 0;
+            font-size: 16px;
+            box-sizing: content-box;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #2731cd;
+            cursor: pointer;
+        }
+
+        #myTable {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        #myTable th,
+        #myTable td {
+            padding: 8px;
+            border: 1px solid black;
+        }
+
+        #myTable th {
+            background-color: #3c6eff;
+            color: white;
+        }
+
+        #myTable tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #myTable tr:hover {
+            background-color: #ddd;
+        }
+        content {
+      white-space: pre-wrap;
+    }
+        #output {
+            margin-top: 10px;
+            width: 100%;
+            box-sizing: border-box;
+            text-align: left;
+        }
+
+        .form-container {
+            padding-top: 50px;
+            display: flex;
+            justify-content: center; /* 水平居中 */
+        }
+
+        .file-link {
+            color: blue;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        .file-preview {
+            display: none;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body background="" style="background-repeat:no-repeat; background-size:100% 100%; background-attachment: fixed;">
+<!-- 页面内容 -->
+
+<h1>中文多轮对话数据加工</h1>
+<p>欢迎来到本网站，您可以通过在文本框内输入关键字来查询相关语料</p>
+<textarea id="myTextarea"  rows="10" cols="30" class="form-control" maxlength="100000" placeholder="请输入关键字"></textarea>
+<div align="center">
+    <button class="cs" onclick="sendData()">开始查询</button>
+</div>
+<input type="file" id="file-input" style="display:none;">
+<div>
+    <button type="button" style="margin-left:1000px;margin-top:0px" onclick="document.getElementById('file-input').click();">选择文件</button>
+</div>
+<table id="myTable" style="margin-top: 50px;">
+    <thead>
+    <tr>
+        <th>文件名</th>
+        <th>内容</th>
+    </tr>
+    </thead>
+    <tbody id="tableBody">
+    </tbody>
+</table>
+
+<!-- 文件预览 -->
+<div id="filePreviewModal" style="display: none;">
+    <div id="modalContent"></div>
+</div>
+
+<script>
+    function sendData() {
+        // 获取textarea的值
+        var text = document.getElementById("myTextarea").value;
+
+        // 使用jQuery发送POST请求给后端
+        $.ajax({
+            url: 'search/my_view_url/', // 指定后端处理请求的URL，请替换为实际的URL
+            type: 'POST', // 使用POST方法发送请求
+            data: {
+                'text': text // 将textarea的值作为数据发送给后端
+            },
+            success: function (response) {
+                // 请求成功的回调函数
+                response = response.matched_files;
+                console.log('请求成功');
+                console.log(response.text);
+                // 清空表格内容
+                $('#tableBody').empty();
+                // 将后端返回的文件名列表添加到表格中
+				console.log(response);
+                if (response.length == 0) {
+                    $('#tableBody').append('<tr><td colspan="2">没有匹配到任何文件</td></tr>');
+                } else {
+                    var fileNames = response.text;
+                    for (var i = 0; i < response.length; i++) {
+                        var fileName = response[i][0];
+                        var fileName1 = response[i][1];
+                        var rowHtml = '<tr><td class="file-link" onclick="showFilePreview(this)">' + fileName + '</td><td class="file-preview">'+fileName1+'</td></tr>';
+                        $('#tableBody').append(rowHtml);
+                    }
+                }
+            },
+            error: function (xhr, errmsg, err) {
+                // 请求失败的回调函数
+                console.log('请求失败');
+                console.log(xhr.status + ': ' + xhr.responseText);
+            }
+        });
+    }
+
+    function showFilePreview(element) {
+        var filePreview = $(element).next('.file-preview');
+        filePreview.slideToggle();
+    }
+</script>
+</body>
+</html>

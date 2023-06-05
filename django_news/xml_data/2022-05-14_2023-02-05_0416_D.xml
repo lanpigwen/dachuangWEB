@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:46:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐学姐 咱们学校补考是像有些学校那样，最高只给60分吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:46:00</Time>
+   <Sender>B</Sender>
+   <Content>我不知道耶[sensitive]，应该不是吧？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:47:00</Time>
+   <Sender>A</Sender>
+   <Content>哦但是我觉得也不能按照一百分满分给</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:47:00</Time>
+   <Sender>A</Sender>
+   <Content>谢[sensitive]学姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:48:00</Time>
+   <Sender>A</Sender>
+   <Content>因为我好像得了得有八十多，但是晓[sensitive]给了我69分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:53:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦，可能减点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:53:00</Time>
+   <Sender>B</Sender>
+   <Content>加油哦，不能再挂科了哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:54:00</Time>
+   <Sender>A</Sender>
+   <Content>对 要不不公平</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-05-14 10:54:00</Time>
+   <Sender>A</Sender>
+   <Content>谢[sensitive]学姐</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

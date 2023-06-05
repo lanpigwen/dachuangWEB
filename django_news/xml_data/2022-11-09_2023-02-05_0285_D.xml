@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:51:00</Time>
+   <Sender>A</Sender>
+   <Content>我今天开始练三分了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:52:00</Time>
+   <Sender>A</Sender>
+   <Content>打小前去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:52:00</Time>
+   <Sender>B</Sender>
+   <Content>快算了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:52:00</Time>
+   <Sender>B</Sender>
+   <Content>不过有一说一</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:52:00</Time>
+   <Sender>B</Sender>
+   <Content>咱们的身材就打不了内线</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:52:00</Time>
+   <Sender>A</Sender>
+   <Content>我这身体打小前差不多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:52:00</Time>
+   <Sender>B</Sender>
+   <Content>你要想有用还真得练三分</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:52:00</Time>
+   <Sender>A</Sender>
+   <Content>刚好有冲击力</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:53:00</Time>
+   <Sender>B</Sender>
+   <Content>球商太低</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:53:00</Time>
+   <Sender>B</Sender>
+   <Content>还没我会传球</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:54:00</Time>
+   <Sender>A</Sender>
+   <Content>球给我就行了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:55:00</Time>
+   <Sender>B</Sender>
+   <Content>给你然后</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:55:00</Time>
+   <Sender>B</Sender>
+   <Content>第五是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:55:00</Time>
+   <Sender>A</Sender>
+   <Content>没呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-09 18:55:00</Time>
+   <Sender>A</Sender>
+   <Content>球没给到我</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

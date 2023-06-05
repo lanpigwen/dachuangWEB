@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:06:00</Time>
+   <Sender>A</Sender>
+   <Content>晚上约火锅吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:07:00</Time>
+   <Sender>B</Sender>
+   <Content>哇塞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:07:00</Time>
+   <Sender>B</Sender>
+   <Content>是心动的感觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:08:00</Time>
+   <Sender>B</Sender>
+   <Content>哪里的火锅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:08:00</Time>
+   <Sender>B</Sender>
+   <Content>远不远</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:14:00</Time>
+   <Sender>A</Sender>
+   <Content>东源大厦吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:16:00</Time>
+   <Sender>B</Sender>
+   <Content>好滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:16:00</Time>
+   <Sender>B</Sender>
+   <Content>几个人啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:16:00</Time>
+   <Sender>A</Sender>
+   <Content>可能56个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:16:00</Time>
+   <Sender>B</Sender>
+   <Content>这么多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:16:00</Time>
+   <Sender>A</Sender>
+   <Content>都是咱们班的美女子~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-15 16:16:00</Time>
+   <Sender>B</Sender>
+   <Content>来来</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

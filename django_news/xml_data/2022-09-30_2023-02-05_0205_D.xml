@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:27:00</Time>
+   <Sender>A</Sender>
+   <Content>哥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:27:00</Time>
+   <Sender>A</Sender>
+   <Content>我今天中午12点50比铅球</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:27:00</Time>
+   <Sender>A</Sender>
+   <Content>可能晚一会来党会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:27:00</Time>
+   <Sender>A</Sender>
+   <Content>[流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:30:00</Time>
+   <Sender>B</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:30:00</Time>
+   <Sender>B</Sender>
+   <Content>如果完全错过就需要补假条</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:30:00</Time>
+   <Sender>A</Sender>
+   <Content>okok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:31:00</Time>
+   <Sender>A</Sender>
+   <Content>几点结束来着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:32:00</Time>
+   <Sender>B</Sender>
+   <Content>大概半小时</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:32:00</Time>
+   <Sender>B</Sender>
+   <Content>13.20左右吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:32:00</Time>
+   <Sender>A</Sender>
+   <Content>okok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:32:00</Time>
+   <Sender>B</Sender>
+   <Content>尽量来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:33:00</Time>
+   <Sender>B</Sender>
+   <Content>来了就不用写假条啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:33:00</Time>
+   <Sender>A</Sender>
+   <Content>好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:33:00</Time>
+   <Sender>B</Sender>
+   <Content>我也不用往上交了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:33:00</Time>
+   <Sender>B</Sender>
+   <Content>[胜利]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-30 10:33:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯行</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

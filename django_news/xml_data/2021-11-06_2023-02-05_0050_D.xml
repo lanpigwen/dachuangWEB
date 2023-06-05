@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>6</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:08:00</Time>
+   <Sender>A</Sender>
+   <Content>你们不看那个比赛吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:08:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:08:00</Time>
+   <Sender>A</Sender>
+   <Content>为什么大家都对那个比赛感到很激动啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:08:00</Time>
+   <Sender>B</Sender>
+   <Content>我也想</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:08:00</Time>
+   <Sender>A</Sender>
+   <Content>求科普</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:08:00</Time>
+   <Sender>B</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:09:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:09:00</Time>
+   <Sender>B</Sender>
+   <Content>但是我要做实验</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:10:00</Time>
+   <Sender>C</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:10:00</Time>
+   <Sender>C</Sender>
+   <Content>我们寝室</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:10:00</Time>
+   <Sender>C</Sender>
+   <Content>第一局赢了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>C</Sender>
+   <Content>寝室吼起来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>A</Sender>
+   <Content>为什么大家会这么激动呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>A</Sender>
+   <Content>为什么呢求科普</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>C</Sender>
+   <Content>我们西四餐厅</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>B</Sender>
+   <Content>这个比赛夺冠</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>C</Sender>
+   <Content>因为我玩lol啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>C</Sender>
+   <Content>这是中韩之间的斗争</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>B</Sender>
+   <Content>就和喜欢乒乓球的人看乒乓球奥运会夺冠一个感觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:11:00</Time>
+   <Sender>A</Sender>
+   <Content>懂了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:12:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:12:00</Time>
+   <Sender>B</Sender>
+   <Content>世界赛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:12:00</Time>
+   <Sender>C</Sender>
+   <Content>总决赛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:12:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:12:00</Time>
+   <Sender>D</Sender>
+   <Content>男宿舍简直是返祖现场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:13:00</Time>
+   <Sender>B</Sender>
+   <Content>都是，我们做着实验都有人突然开麦吼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:13:00</Time>
+   <Sender>B</Sender>
+   <Content>还让老师发现了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:13:00</Time>
+   <Sender>D</Sender>
+   <Content>多捞啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:13:00</Time>
+   <Sender>D</Sender>
+   <Content>周末还</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:14:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:14:00</Time>
+   <Sender>B</Sender>
+   <Content>垃圾学校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:14:00</Time>
+   <Sender>B</Sender>
+   <Content>屁事贼多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:16:00</Time>
+   <Sender>B</Sender>
+   <Content>你们只知道今天是EDG比赛的日子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:16:00</Time>
+   <Sender>B</Sender>
+   <Content>都忘了今天是凡凡在监狱里过的第一个生日</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 21:33:00</Time>
+   <Sender>A</Sender>
+   <Content>啥情况</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 22:52:00</Time>
+   <Sender>A</Sender>
+   <Content>几局几胜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 22:59:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 22:59:00</Time>
+   <Sender>A</Sender>
+   <Content>在认真看吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 22:59:00</Time>
+   <Sender>E</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 23:02:00</Time>
+   <Sender>C</Sender>
+   <Content>两输一胜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-06 23:02:00</Time>
+   <Sender>C</Sender>
+   <Content>g</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:12:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:12:00</Time>
+   <Sender>A</Sender>
+   <Content>笑死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:12:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:12:00</Time>
+   <Sender>B</Sender>
+   <Content>牛批</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:12:00</Time>
+   <Sender>B</Sender>
+   <Content>把qq崩了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:13:00</Time>
+   <Sender>D</Sender>
+   <Content>信息直接发不出了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:13:00</Time>
+   <Sender>E</Sender>
+   <Content>edg牛逼！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:13:00</Time>
+   <Sender>A</Sender>
+   <Content>edg牛逼！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:13:00</Time>
+   <Sender>B</Sender>
+   <Content>牛逼！！！！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:14:00</Time>
+   <Sender>C</Sender>
+   <Content>嘴脸</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:14:00</Time>
+   <Sender>C</Sender>
+   <Content>我们真的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:14:00</Time>
+   <Sender>C</Sender>
+   <Content>宿[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:14:00</Time>
+   <Sender>C</Sender>
+   <Content>喊起来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:14:00</Time>
+   <Sender>B</Sender>
+   <Content>jiejie抢龙牛逼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:14:00</Time>
+   <Sender>A</Sender>
+   <Content>我们对面楼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:15:00</Time>
+   <Sender>A</Sender>
+   <Content>抬起来了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:17:00</Time>
+   <Sender>B</Sender>
+   <Content>这个翻译小[sensitive]好牛逼啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:18:00</Time>
+   <Sender>B</Sender>
+   <Content>这么长都能记住</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:18:00</Time>
+   <Sender>D</Sender>
+   <Content>我也觉得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:18:00</Time>
+   <Sender>D</Sender>
+   <Content>还中韩英</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:18:00</Time>
+   <Sender>F</Sender>
+   <Content>[其他消息: 群聊的聊天记录]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:18:00</Time>
+   <Sender>B</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 01:19:00</Time>
+   <Sender>A</Sender>
+   <Content>牛逼 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

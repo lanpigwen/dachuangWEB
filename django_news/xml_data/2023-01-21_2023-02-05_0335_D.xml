@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>3</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:45:00</Time>
+   <Sender>A</Sender>
+   <Content>磊[sensitive]哥来个红包</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:45:00</Time>
+   <Sender>A</Sender>
+   <Content>mua</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:46:00</Time>
+   <Sender>B</Sender>
+   <Content>[动画表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>没钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>意思意思得了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>A</Sender>
+   <Content>哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>A</Sender>
+   <Content>不好意思领了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>C</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>C</Sender>
+   <Content>老子领了5毛[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>C</Sender>
+   <Content>有啥不好意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>我发了十块</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>你自己还抢是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:48:00</Time>
+   <Sender>B</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>这不是发给兄弟的?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:48:00</Time>
+   <Sender>B</Sender>
+   <Content>不知足还</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:48:00</Time>
+   <Sender>A</Sender>
+   <Content>感情淡了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:48:00</Time>
+   <Sender>B</Sender>
+   <Content>我不是兄弟？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:50:00</Time>
+   <Sender>B</Sender>
+   <Content>不该有福同享</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:50:00</Time>
+   <Sender>C</Sender>
+   <Content>有福同享有难退群</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-21 19:50:00</Time>
+   <Sender>A</Sender>
+   <Content>差不多</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:15:00</Time>
+   <Sender>A</Sender>
+   <Content>你们解封没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:15:00</Time>
+   <Sender>A</Sender>
+   <Content>我们还没通知</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:15:00</Time>
+   <Sender>B</Sender>
+   <Content>解了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:15:00</Time>
+   <Sender>B</Sender>
+   <Content>我们前两天60周年校庆来着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:16:00</Time>
+   <Sender>A</Sender>
+   <Content>学校请吃饭没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:16:00</Time>
+   <Sender>B</Sender>
+   <Content>请了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:16:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:16:00</Time>
+   <Sender>B</Sender>
+   <Content>一人20</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:16:00</Time>
+   <Sender>A</Sender>
+   <Content>我们也是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:16:00</Time>
+   <Sender>A</Sender>
+   <Content>全国标准</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:17:00</Time>
+   <Sender>B</Sender>
+   <Content>[sensitive]ube</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:17:00</Time>
+   <Sender>B</Sender>
+   <Content>[sensitive]ybe</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:17:00</Time>
+   <Sender>B</Sender>
+   <Content>对面矿大还挂横幅了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:17:00</Time>
+   <Sender>A</Sender>
+   <Content>写的啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:18:00</Time>
+   <Sender>A</Sender>
+   <Content>祝[sensitive]你们的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:18:00</Time>
+   <Sender>A</Sender>
+   <Content>？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:18:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-09-24 21:18:00</Time>
+   <Sender>B</Sender>
+   <Content>我给你找找图</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

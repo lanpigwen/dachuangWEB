@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:43:00</Time>
+   <Sender>A</Sender>
+   <Content>慈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:43:00</Time>
+   <Sender>B</Sender>
+   <Content>在的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:43:00</Time>
+   <Sender>A</Sender>
+   <Content>我来找你讨论了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:43:00</Time>
+   <Sender>A</Sender>
+   <Content>计网以前的题你有吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:44:00</Time>
+   <Sender>B</Sender>
+   <Content>有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:44:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯，你做了没呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:44:00</Time>
+   <Sender>A</Sender>
+   <Content>我发现我都不太会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:44:00</Time>
+   <Sender>B</Sender>
+   <Content>我只看了2018的综合题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>稍等，我看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>可否都讨论下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>B</Sender>
+   <Content>好的🏻</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>我真不太会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>B</Sender>
+   <Content>其实我也很懵逼</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>B</Sender>
+   <Content>大害怕</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>B</Sender>
+   <Content>明天的考试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>何止明天的考试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-03 21:49:00</Time>
+   <Sender>B</Sender>
+   <Content>我都怕</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

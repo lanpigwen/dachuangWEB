@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:48:00</Time>
+   <Sender>A</Sender>
+   <Content>琰杰[sensitive]你们是今天回去嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:48:00</Time>
+   <Sender>B</Sender>
+   <Content>明天</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:49:00</Time>
+   <Sender>A</Sender>
+   <Content>哇</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:49:00</Time>
+   <Sender>A</Sender>
+   <Content>我们还没开始隔离😞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:49:00</Time>
+   <Sender>A</Sender>
+   <Content>你们回去可以回家吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:49:00</Time>
+   <Sender>B</Sender>
+   <Content>有的直接回家了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:49:00</Time>
+   <Sender>B</Sender>
+   <Content>不回学校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:49:00</Time>
+   <Sender>A</Sender>
+   <Content>可以直接回家啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:49:00</Time>
+   <Sender>A</Sender>
+   <Content>你们怎么返回呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>A</Sender>
+   <Content>不是坐大巴嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>B</Sender>
+   <Content>学校安排车</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>B</Sender>
+   <Content>是的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>B</Sender>
+   <Content>回家的直接去坐高铁</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>A</Sender>
+   <Content>直接送到高铁站吗哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>B</Sender>
+   <Content>太子城</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>A</Sender>
+   <Content>wow!</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>A</Sender>
+   <Content>那你呐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>B</Sender>
+   <Content>对的好像是这样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>B</Sender>
+   <Content>我回学校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-12 09:50:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

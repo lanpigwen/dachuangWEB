@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:36:00</Time>
+   <Sender>A</Sender>
+   <Content>我只能说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:36:00</Time>
+   <Sender>A</Sender>
+   <Content>今天赢了全凭运气</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:36:00</Time>
+   <Sender>A</Sender>
+   <Content>阿[sensitive]抢断了多少个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:37:00</Time>
+   <Sender>B</Sender>
+   <Content>没注意</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:37:00</Time>
+   <Sender>A</Sender>
+   <Content>磊[sensitive]子那球不进就输了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:37:00</Time>
+   <Sender>B</Sender>
+   <Content>挺多的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:37:00</Time>
+   <Sender>A</Sender>
+   <Content>反正最后就靠对面犯罪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>B</Sender>
+   <Content>对面一直在犯规啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>A</Sender>
+   <Content>少一个失误都不好赢了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>B</Sender>
+   <Content>他们拦不住我们</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>B</Sender>
+   <Content>我主要走步太多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>B</Sender>
+   <Content>心态都崩了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>A</Sender>
+   <Content>你咋敢说这话的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>B</Sender>
+   <Content>别骂了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-15 00:38:00</Time>
+   <Sender>A</Sender>
+   <Content>我给你录屏去</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

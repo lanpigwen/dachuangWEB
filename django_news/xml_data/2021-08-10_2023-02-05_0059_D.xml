@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>4</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:54:00</Time>
+   <Sender>A</Sender>
+   <Content>当家教有钱吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:54:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:54:00</Time>
+   <Sender>C</Sender>
+   <Content>疫情当不了了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:54:00</Time>
+   <Sender>C</Sender>
+   <Content>挺好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:54:00</Time>
+   <Sender>B</Sender>
+   <Content>杨[sensitive]赚了7000woc</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:54:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:54:00</Time>
+   <Sender>B</Sender>
+   <Content>我真的酸</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>A</Sender>
+   <Content>抵我一年工资</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>D</Sender>
+   <Content>我也是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>D</Sender>
+   <Content>妈的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>B</Sender>
+   <Content>当个家教赚7000真的离谱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>C</Sender>
+   <Content>我下手太慢了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>B</Sender>
+   <Content>感觉怕是清华这种等级的了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>B</Sender>
+   <Content>才能赚这么多</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>D</Sender>
+   <Content>估计家长人也不错</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>B</Sender>
+   <Content>毕竟还是读了一年的学生</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:55:00</Time>
+   <Sender>C</Sender>
+   <Content>是啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>价钱给的好好哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>D</Sender>
+   <Content>北师大挂出去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>还是补数学值钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>B</Sender>
+   <Content>太高了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>D</Sender>
+   <Content>其实也吃香</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>B</Sender>
+   <Content>确实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>报你下手太慢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>B</Sender>
+   <Content>现在疫情</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>应该一回来就去拉人的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>D</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>D</Sender>
+   <Content>寒假带我一个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>其实你但凡是个大学生</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>B</Sender>
+   <Content>我姐做家教能一天480</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>成绩不是太擦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:56:00</Time>
+   <Sender>C</Sender>
+   <Content>都可以的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>C</Sender>
+   <Content>好滴好滴</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>C</Sender>
+   <Content>[得意][得意]你要喊到了，也帮我宣传哈[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>C</Sender>
+   <Content>数学真的200快一个小时[发怒]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>我感觉初中我都已经不会做了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>C</Sender>
+   <Content>要不是俺不太好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>C</Sender>
+   <Content>害，心酸啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>他妈怎么教</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>干不来</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-10 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>[捂脸] 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

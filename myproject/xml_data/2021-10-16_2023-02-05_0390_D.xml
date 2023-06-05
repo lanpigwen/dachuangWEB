@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:36:00</Time>
+   <Sender>A</Sender>
+   <Content>经理你在哪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:37:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是可以检录了好像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:37:00</Time>
+   <Sender>B</Sender>
+   <Content>我在主席台这陪杨[sensitive]颁奖呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:37:00</Time>
+   <Sender>B</Sender>
+   <Content>你来吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:37:00</Time>
+   <Sender>A</Sender>
+   <Content>哦哦好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:37:00</Time>
+   <Sender>B</Sender>
+   <Content>你先来主席台这找我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:37:00</Time>
+   <Sender>B</Sender>
+   <Content>我带你去</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:37:00</Time>
+   <Sender>A</Sender>
+   <Content>要带身份证和号码布吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>B</Sender>
+   <Content>号码簿要！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>A</Sender>
+   <Content>号码簿在哪我</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>B</Sender>
+   <Content>身份证也要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>B</Sender>
+   <Content>在那个塑料袋里</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>B</Sender>
+   <Content>你旁边有没有队员</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>B</Sender>
+   <Content>醒着的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>A</Sender>
+   <Content>找到了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>A</Sender>
+   <Content>我看看我号是多少</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:38:00</Time>
+   <Sender>B</Sender>
+   <Content>我看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:39:00</Time>
+   <Sender>B</Sender>
+   <Content>7705</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:39:00</Time>
+   <Sender>A</Sender>
+   <Content>我拿过来你帮我别一下吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:39:00</Time>
+   <Sender>B</Sender>
+   <Content>行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:39:00</Time>
+   <Sender>B</Sender>
+   <Content>你带着别针昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-16 13:40:00</Time>
+   <Sender>A</Sender>
+   <Content>OK</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

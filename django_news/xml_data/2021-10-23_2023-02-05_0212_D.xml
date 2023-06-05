@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:54:00</Time>
+   <Sender>A</Sender>
+   <Content>现在你来到了这个赛场，日后你也可能是参加这个竞赛的一员，所以让我们大喊（输出）一句&quot;printf(&quot;hello ICPC!&quot;);&quot;（不含最外层的引号）。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:54:00</Time>
+   <Sender>A</Sender>
+   <Content>题目这么写的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:54:00</Time>
+   <Sender>A</Sender>
+   <Content>妈的要截止了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:54:00</Time>
+   <Sender>A</Sender>
+   <Content>帮我看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:56:00</Time>
+   <Sender>B</Sender>
+   <Content>两个printf可以吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>我报错了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>就是程序报错了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>我就不知道怎么搞了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>你现在空不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:57:00</Time>
+   <Sender>A</Sender>
+   <Content>帮我试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:57:00</Time>
+   <Sender>B</Sender>
+   <Content>我电脑不在身边</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 12:58:00</Time>
+   <Sender>B</Sender>
+   <Content>你在第二个printf前加个斜杠试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 13:03:00</Time>
+   <Sender>A</Sender>
+   <Content>我试一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 13:04:00</Time>
+   <Sender>A</Sender>
+   <Content>用cout 行不行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 13:04:00</Time>
+   <Sender>B</Sender>
+   <Content>哦可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-23 13:05:00</Time>
+   <Sender>B</Sender>
+   <Content>你试试</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

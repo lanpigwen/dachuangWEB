@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 14:50:00</Time>
+   <Sender>A</Sender>
+   <Content>黄[sensitive]在嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:13:00</Time>
+   <Sender>B</Sender>
+   <Content>在在在咋啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:14:00</Time>
+   <Sender>A</Sender>
+   <Content>我问问你之前冬奥会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:15:00</Time>
+   <Sender>A</Sender>
+   <Content>培训是怎么样的呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:15:00</Time>
+   <Sender>B</Sender>
+   <Content>线上线下都有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:15:00</Time>
+   <Sender>B</Sender>
+   <Content>没啥重要的感觉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:15:00</Time>
+   <Sender>B</Sender>
+   <Content>反正过来了以后多看看上面发的文件</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:15:00</Time>
+   <Sender>B</Sender>
+   <Content>就可以了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:16:00</Time>
+   <Sender>A</Sender>
+   <Content>那时间安排是怎么样的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:17:00</Time>
+   <Sender>B</Sender>
+   <Content>培训的安排吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:17:00</Time>
+   <Sender>A</Sender>
+   <Content>对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:17:00</Time>
+   <Sender>A</Sender>
+   <Content>跟赛会实践的关系</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:17:00</Time>
+   <Sender>B</Sender>
+   <Content>奥组委有人来讲座的话时间不固定</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>不过没几次</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>学校培训的安排大部分在周末</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>喔喔喔那还好</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>就是我这边可能要去亚运会志愿者</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>我那个岗位没啥可培训的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>哇哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>我在想他的培训时间</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>因为我可能还要去实习</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>A</Sender>
+   <Content>搞不好会冲突</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:18:00</Time>
+   <Sender>B</Sender>
+   <Content>我感觉培训的都没啥用</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:19:00</Time>
+   <Sender>B</Sender>
+   <Content>我主要是负责翻译的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-27 15:19:00</Time>
+   <Sender>B</Sender>
+   <Content>其他岗位就不知道了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

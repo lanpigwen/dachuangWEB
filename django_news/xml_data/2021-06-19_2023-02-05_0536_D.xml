@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:48:00</Time>
+   <Sender>A</Sender>
+   <Content>狗子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:48:00</Time>
+   <Sender>A</Sender>
+   <Content>干发帽</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:48:00</Time>
+   <Sender>A</Sender>
+   <Content>要吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:48:00</Time>
+   <Sender>B</Sender>
+   <Content>要</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:49:00</Time>
+   <Sender>B</Sender>
+   <Content>几多钱</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:49:00</Time>
+   <Sender>A</Sender>
+   <Content>8 hi:/信TnIdXS6IKPs， 名创优品柔软小动物干发帽miniso可爱超强吸水速干加[sensitive]浴帽包头巾</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:49:00</Time>
+   <Sender>A</Sender>
+   <Content>自己选</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:50:00</Time>
+   <Sender>B</Sender>
+   <Content>一个就可？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:50:00</Time>
+   <Sender>B</Sender>
+   <Content>果断考拉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:50:00</Time>
+   <Sender>A</Sender>
+   <Content>我也选的考拉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:51:00</Time>
+   <Sender>A</Sender>
+   <Content>你还有啥要买的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:52:00</Time>
+   <Sender>B</Sender>
+   <Content>充电宝[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:52:00</Time>
+   <Sender>A</Sender>
+   <Content>我现在就差</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-06-19 23:52:00</Time>
+   <Sender>A</Sender>
+   <Content>3块</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

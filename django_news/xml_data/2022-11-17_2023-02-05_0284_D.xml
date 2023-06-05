@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 13:59:00</Time>
+   <Sender>A</Sender>
+   <Content>下午满课?</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 13:59:00</Time>
+   <Sender>B</Sender>
+   <Content>4点有课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我叫了勇子哥出来打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>五点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>B</Sender>
+   <Content>我有课啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>A</Sender>
+   <Content>啥课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>B</Sender>
+   <Content>概率统计</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>B</Sender>
+   <Content>不上了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:00:00</Time>
+   <Sender>B</Sender>
+   <Content>妈的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:01:00</Time>
+   <Sender>A</Sender>
+   <Content>曾疼说你抄他作业</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:01:00</Time>
+   <Sender>A</Sender>
+   <Content>行四点半我应该先去找他打</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:02:00</Time>
+   <Sender>A</Sender>
+   <Content>刚刚又学了一招</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>数据库而已</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>我不去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-17 14:02:00</Time>
+   <Sender>B</Sender>
+   <Content>这会先看下网课概率</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

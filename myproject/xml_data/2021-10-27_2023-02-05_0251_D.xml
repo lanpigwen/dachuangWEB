@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:01:00</Time>
+   <Sender>A</Sender>
+   <Content>行政的号码牌做的咋样了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:01:00</Time>
+   <Sender>B</Sender>
+   <Content>冰壶又有一个人想退赛好像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:01:00</Time>
+   <Sender>A</Sender>
+   <Content>咱啥时候能拿到鸭[流泪]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:02:00</Time>
+   <Sender>A</Sender>
+   <Content>把名字都记好给我～记得跟他们说清楚，报名之后是不可以退出的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:02:00</Time>
+   <Sender>A</Sender>
+   <Content>如果非要退出我们也不强求，最后我们都记下来就行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:02:00</Time>
+   <Sender>B</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:03:00</Time>
+   <Sender>B</Sender>
+   <Content>我去问问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:03:00</Time>
+   <Sender>A</Sender>
+   <Content>好～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:04:00</Time>
+   <Sender>B</Sender>
+   <Content>学姐他们说做没做好团委只会告诉队长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:04:00</Time>
+   <Sender>A</Sender>
+   <Content>行我去问～</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-10-27 11:04:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

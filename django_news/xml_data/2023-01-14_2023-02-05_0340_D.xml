@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:40:00</Time>
+   <Sender>A</Sender>
+   <Content>最近都有点无聊了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:41:00</Time>
+   <Sender>B</Sender>
+   <Content>有女朋友还无聊？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:41:00</Time>
+   <Sender>A</Sender>
+   <Content>那也就只能聊聊天了呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:41:00</Time>
+   <Sender>B</Sender>
+   <Content>视频呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:42:00</Time>
+   <Sender>B</Sender>
+   <Content>宁波不是挺近的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:42:00</Time>
+   <Sender>B</Sender>
+   <Content>坐高铁过去陪她玩一天就回来也行其实</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:42:00</Time>
+   <Sender>A</Sender>
+   <Content>好像也挺有道理</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:43:00</Time>
+   <Sender>A</Sender>
+   <Content>但是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:43:00</Time>
+   <Sender>A</Sender>
+   <Content>高铁挺远的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:43:00</Time>
+   <Sender>A</Sender>
+   <Content>而且去高铁站也不太方便</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:43:00</Time>
+   <Sender>B</Sender>
+   <Content>高铁站坐出租我这要三十多好像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:44:00</Time>
+   <Sender>B</Sender>
+   <Content>我这还行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:49:00</Time>
+   <Sender>A</Sender>
+   <Content>突然觉得挺有道理</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:49:00</Time>
+   <Sender>A</Sender>
+   <Content>主要和爸妈不好说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:49:00</Time>
+   <Sender>B</Sender>
+   <Content>直接说和咱们玩呗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-14 19:49:00</Time>
+   <Sender>B</Sender>
+   <Content>我们帮你兜底</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

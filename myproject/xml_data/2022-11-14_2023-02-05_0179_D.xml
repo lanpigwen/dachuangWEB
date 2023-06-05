@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>啥？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>你女朋友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>还是啥？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>B</Sender>
+   <Content>勇子哥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>B</Sender>
+   <Content>别搞阿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>咋啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>他</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>B</Sender>
+   <Content>我纯情[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>我知道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:45:00</Time>
+   <Sender>A</Sender>
+   <Content>你不用自豪</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>B</Sender>
+   <Content>勇子哥天天和别的女生调情</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>勇子哥怎么了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>他女朋友呢？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>B</Sender>
+   <Content>他早分了好像</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>啊？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>B</Sender>
+   <Content>现在专心当渣男</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:46:00</Time>
+   <Sender>A</Sender>
+   <Content>不是符合了又</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>复合</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:47:00</Time>
+   <Sender>B</Sender>
+   <Content>估计没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:47:00</Time>
+   <Sender>B</Sender>
+   <Content>缓兵之计</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-11-14 21:47:00</Time>
+   <Sender>A</Sender>
+   <Content>可以的</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

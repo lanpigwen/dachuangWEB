@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:50:00</Time>
+   <Sender>A</Sender>
+   <Content>你密码错误</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:50:00</Time>
+   <Sender>A</Sender>
+   <Content>不是这个</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:56:00</Time>
+   <Sender>B</Sender>
+   <Content>必须有大写？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:57:00</Time>
+   <Sender>A</Sender>
+   <Content>好像是</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:57:00</Time>
+   <Sender>A</Sender>
+   <Content>必须有大写</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:57:00</Time>
+   <Sender>B</Sender>
+   <Content>那第一个大写</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:57:00</Time>
+   <Sender>B</Sender>
+   <Content>试试</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:58:00</Time>
+   <Sender>A</Sender>
+   <Content>对了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-26 21:58:00</Time>
+   <Sender>A</Sender>
+   <Content>登上了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

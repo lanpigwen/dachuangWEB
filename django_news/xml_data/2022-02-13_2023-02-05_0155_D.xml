@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>捏妈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>我买的快递发西安了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>woc</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>他妈死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>怎么办</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>A</Sender>
+   <Content>发货了已经</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>联系快递公司</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:17:00</Time>
+   <Sender>B</Sender>
+   <Content>改地址</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:18:00</Time>
+   <Sender>A</Sender>
+   <Content>woc感觉g了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:18:00</Time>
+   <Sender>A</Sender>
+   <Content>估计他今晚能送到湖北</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:18:00</Time>
+   <Sender>A</Sender>
+   <Content>这怎么改</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:19:00</Time>
+   <Sender>B</Sender>
+   <Content>明早打个电话</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:19:00</Time>
+   <Sender>B</Sender>
+   <Content>补点票票</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:20:00</Time>
+   <Sender>A</Sender>
+   <Content>艹了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:20:00</Time>
+   <Sender>A</Sender>
+   <Content>我他妈醉了我记得我改了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:20:00</Time>
+   <Sender>B</Sender>
+   <Content>正常，好多人都这样</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-13 00:21:00</Time>
+   <Sender>A</Sender>
+   <Content>还好邮政不贵 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

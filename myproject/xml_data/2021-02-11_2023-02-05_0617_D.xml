@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:28:00</Time>
+   <Sender>A</Sender>
+   <Content>帅[sensitive]除夕快乐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:44:00</Time>
+   <Sender>B</Sender>
+   <Content>美女也快乐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:44:00</Time>
+   <Sender>B</Sender>
+   <Content>咋不来聚会了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:44:00</Time>
+   <Sender>B</Sender>
+   <Content>不熟？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:45:00</Time>
+   <Sender>A</Sender>
+   <Content>见不得尴尬</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:45:00</Time>
+   <Sender>B</Sender>
+   <Content>尴尬了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:47:00</Time>
+   <Sender>A</Sender>
+   <Content>有一点点不适应吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:49:00</Time>
+   <Sender>A</Sender>
+   <Content>说这干啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:54:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 22:55:00</Time>
+   <Sender>B</Sender>
+   <Content>聊聊就适应啦，其实没啥</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 23:04:00</Time>
+   <Sender>A</Sender>
+   <Content>好的好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-02-11 23:04:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

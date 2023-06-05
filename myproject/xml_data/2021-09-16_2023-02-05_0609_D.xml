@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:22:00</Time>
+   <Sender>A</Sender>
+   <Content>今天班会感觉怎么样？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>居然有人跟我抢是我没想到的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>开玩笑的还好哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:23:00</Time>
+   <Sender>B</Sender>
+   <Content>不过呢个男生真的好强</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:24:00</Time>
+   <Sender>A</Sender>
+   <Content>拳击是吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>对对对</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>裂开</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:24:00</Time>
+   <Sender>B</Sender>
+   <Content>奥对 感觉挺好吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>还挺放松的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>学姐西装很好看昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:25:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:26:00</Time>
+   <Sender>B</Sender>
+   <Content>这是学姐搞得内容么？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:26:00</Time>
+   <Sender>A</Sender>
+   <Content>啥了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:26:00</Time>
+   <Sender>B</Sender>
+   <Content>就班会</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯，辅导员要求</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>B</Sender>
+   <Content>得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>B</Sender>
+   <Content>感觉好辛苦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>是啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>B</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>B</Sender>
+   <Content>学姐也加油昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>B</Sender>
+   <Content>好好休息昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:27:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-16 23:28:00</Time>
+   <Sender>A</Sender>
+   <Content>加油</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

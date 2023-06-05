@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:52:00</Time>
+   <Sender>A</Sender>
+   <Content>回来没</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:52:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:52:00</Time>
+   <Sender>B</Sender>
+   <Content>脚瘸了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:53:00</Time>
+   <Sender>B</Sender>
+   <Content>今天去拍了个片</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:53:00</Time>
+   <Sender>A</Sender>
+   <Content>？？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:53:00</Time>
+   <Sender>A</Sender>
+   <Content>咋闹得了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:53:00</Time>
+   <Sender>B</Sender>
+   <Content>骨头没事儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-07-31 19:53:00</Time>
+   <Sender>B</Sender>
+   <Content>被行李箱砸到了</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

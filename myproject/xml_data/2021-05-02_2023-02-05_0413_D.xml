@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:04:00</Time>
+   <Sender>A</Sender>
+   <Content>那个你那篇论文可以看懂吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:08:00</Time>
+   <Sender>B</Sender>
+   <Content>看不懂</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:08:00</Time>
+   <Sender>A</Sender>
+   <Content>，，，，</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:10:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么办</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:10:00</Time>
+   <Sender>B</Sender>
+   <Content>要完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:11:00</Time>
+   <Sender>A</Sender>
+   <Content>窝窝窝再去啃啃</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:11:00</Time>
+   <Sender>B</Sender>
+   <Content>我我我也</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:11:00</Time>
+   <Sender>B</Sender>
+   <Content>学姐到哪里去了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:11:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐不了解。。估计没看手机</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:12:00</Time>
+   <Sender>A</Sender>
+   <Content>明天好像才有时间呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:12:00</Time>
+   <Sender>B</Sender>
+   <Content>瑟瑟发抖</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:12:00</Time>
+   <Sender>A</Sender>
+   <Content>是啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:12:00</Time>
+   <Sender>A</Sender>
+   <Content>。。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-05-02 22:13:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯，我肝肝</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

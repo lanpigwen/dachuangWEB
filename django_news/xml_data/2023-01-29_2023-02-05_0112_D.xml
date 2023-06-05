@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-29 23:48:00</Time>
+   <Sender>A</Sender>
+   <Content>邓[sensitive]老师</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-29 23:48:00</Time>
+   <Sender>A</Sender>
+   <Content>好久去读书</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:39:00</Time>
+   <Sender>B</Sender>
+   <Content>还不晓得</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:46:00</Time>
+   <Sender>A</Sender>
+   <Content>你不报名打球啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:47:00</Time>
+   <Sender>B</Sender>
+   <Content>我这几天都没确定有空，所以那时候没报名</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:51:00</Time>
+   <Sender>A</Sender>
+   <Content>我报了不想打了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:57:00</Time>
+   <Sender>B</Sender>
+   <Content>你到打过白</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:57:00</Time>
+   <Sender>A</Sender>
+   <Content>打了两场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:58:00</Time>
+   <Sender>B</Sender>
+   <Content>今天你还有比赛白</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:59:00</Time>
+   <Sender>B</Sender>
+   <Content>还是天天每个队都有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>今天有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>每个队天天有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>你帮我去打一场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:59:00</Time>
+   <Sender>B</Sender>
+   <Content>几点钟噢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:59:00</Time>
+   <Sender>A</Sender>
+   <Content>我看下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 09:59:00</Time>
+   <Sender>B</Sender>
+   <Content>我不确定了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 10:00:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 10:00:00</Time>
+   <Sender>A</Sender>
+   <Content>我是b队</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 10:01:00</Time>
+   <Sender>B</Sender>
+   <Content>我还不确定的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2023-01-30 10:01:00</Time>
+   <Sender>A</Sender>
+   <Content>好咯 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

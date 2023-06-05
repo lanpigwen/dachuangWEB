@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:31:00</Time>
+   <Sender>A</Sender>
+   <Content>学长</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:31:00</Time>
+   <Sender>A</Sender>
+   <Content>这个是指工作日安排还是包括周末</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:31:00</Time>
+   <Sender>A</Sender>
+   <Content>周末外出要审批吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>都要提交申请</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:32:00</Time>
+   <Sender>B</Sender>
+   <Content>刚开学这几天管的比较严</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>还有就是咱们学校放假安排是怎么样的，我听说有的学校十一就放两三天了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:33:00</Time>
+   <Sender>B</Sender>
+   <Content>一般情况辅导员都不会通过[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:33:00</Time>
+   <Sender>A</Sender>
+   <Content>唉主要是周末我得回家带孩子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>我爹妈一般都加班，爷爷奶奶也因为疫情都回老家了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:34:00</Time>
+   <Sender>A</Sender>
+   <Content>把孩子一人扔家不好办</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:34:00</Time>
+   <Sender>B</Sender>
+   <Content>哦这样啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:35:00</Time>
+   <Sender>A</Sender>
+   <Content>我到时候再申请吧，谢[sensitive]了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:35:00</Time>
+   <Sender>B</Sender>
+   <Content>这情况我还是第一次见</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:35:00</Time>
+   <Sender>B</Sender>
+   <Content>我帮你问一下吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:36:00</Time>
+   <Sender>A</Sender>
+   <Content>也还好，基本上就是半天的事，到时候我申请看看吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:36:00</Time>
+   <Sender>A</Sender>
+   <Content>麻烦你了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:37:00</Time>
+   <Sender>B</Sender>
+   <Content>应该能行吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:37:00</Time>
+   <Sender>B</Sender>
+   <Content>到时看具体辅导员了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:38:00</Time>
+   <Sender>A</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:38:00</Time>
+   <Sender>A</Sender>
+   <Content>感谢！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-03 12:38:00</Time>
+   <Sender>B</Sender>
+   <Content>没事不客气</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:30:00</Time>
+   <Sender>A</Sender>
+   <Content>QQ好像有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:31:00</Time>
+   <Sender>A</Sender>
+   <Content>要不</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>我记得我好像加过呀[旺柴]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>可是找不到了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>算了吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:31:00</Time>
+   <Sender>B</Sender>
+   <Content>下次再碰到批评一下他</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:32:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈下次可以叫上他打篮球</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:32:00</Time>
+   <Sender>B</Sender>
+   <Content>可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:32:00</Time>
+   <Sender>A</Sender>
+   <Content>我以前在大象馆碰到过他</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:32:00</Time>
+   <Sender>B</Sender>
+   <Content>你们下次打球可以叫我哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-08-27 21:32:00</Time>
+   <Sender>A</Sender>
+   <Content>没问题</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

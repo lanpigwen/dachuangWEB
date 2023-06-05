@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-07 01:00:00</Time>
+   <Sender>A</Sender>
+   <Content>杰[sensitive]明天中午能借用一下校园卡嘛，我约一下研讨室，你啥时候打完啥时候过来我再和你说一遍？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-07 01:00:00</Time>
+   <Sender>B</Sender>
+   <Content>行没问题</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-07 07:47:00</Time>
+   <Sender>A</Sender>
+   <Content>Ok谢[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-07 07:47:00</Time>
+   <Sender>A</Sender>
+   <Content>我中午十二点找你拿？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-07 08:18:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-07 08:18:00</Time>
+   <Sender>B</Sender>
+   <Content>那会我应该在球场</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-10-07 08:18:00</Time>
+   <Sender>A</Sender>
+   <Content>OK</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

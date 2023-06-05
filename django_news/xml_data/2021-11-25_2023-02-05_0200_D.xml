@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:23:00</Time>
+   <Sender>A</Sender>
+   <Content>杰[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:23:00</Time>
+   <Sender>A</Sender>
+   <Content>是不是gsj啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>B</Sender>
+   <Content>和哥你怎么也八卦了[破涕为笑]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>B</Sender>
+   <Content>人家有男朋友</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>B</Sender>
+   <Content>之前是有点感兴趣而已</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>冯[sensitive]暗示太明显了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>放心</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>A</Sender>
+   <Content>嘴严</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈必须的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:24:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:25:00</Time>
+   <Sender>B</Sender>
+   <Content>和[sensitive]和她是老乡吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-25 19:25:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

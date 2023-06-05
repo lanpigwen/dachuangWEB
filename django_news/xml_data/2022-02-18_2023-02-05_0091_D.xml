@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:02:00</Time>
+   <Sender>A</Sender>
+   <Content>笑死了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:03:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:03:00</Time>
+   <Sender>B</Sender>
+   <Content>[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:03:00</Time>
+   <Sender>B</Sender>
+   <Content>后天读书了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:03:00</Time>
+   <Sender>A</Sender>
+   <Content>唉</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:03:00</Time>
+   <Sender>B</Sender>
+   <Content>又要开始灯红酒绿的生活了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:03:00</Time>
+   <Sender>A</Sender>
+   <Content>我他妈还有</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>A</Sender>
+   <Content>一个多月</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>B</Sender>
+   <Content>明天我来芷江</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>B</Sender>
+   <Content>晚上出去走走</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>B</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>A</Sender>
+   <Content>可以</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>A</Sender>
+   <Content>陪亮爷散心</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:04:00</Time>
+   <Sender>A</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:05:00</Time>
+   <Sender>B</Sender>
+   <Content>？？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:05:00</Time>
+   <Sender>B</Sender>
+   <Content>散个屁</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-02-18 00:05:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

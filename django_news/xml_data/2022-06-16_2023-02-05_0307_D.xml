@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:30:00</Time>
+   <Sender>A</Sender>
+   <Content>你好，我刚刚把你之前的钉钉账号从群内移除了，因为怕搞混你的新账号，你申请新账号后记得加入钉钉群，我这边给你通过一下。</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:30:00</Time>
+   <Sender>B</Sender>
+   <Content>啊啊我钉钉号解封了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:30:00</Time>
+   <Sender>B</Sender>
+   <Content>忘告诉你了不好意思</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:30:00</Time>
+   <Sender>B</Sender>
+   <Content>我再申请回来吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:30:00</Time>
+   <Sender>A</Sender>
+   <Content>你最好还是换个账号[捂脸]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:30:00</Time>
+   <Sender>A</Sender>
+   <Content>因为我的账号今天又被强制下线了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:30:00</Time>
+   <Sender>B</Sender>
+   <Content>啊这样嘛好的/:ok</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-06-16 12:31:00</Time>
+   <Sender>A</Sender>
+   <Content>很有可能反复</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

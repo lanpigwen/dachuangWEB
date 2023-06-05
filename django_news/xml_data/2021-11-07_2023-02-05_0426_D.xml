@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 12:26:00</Time>
+   <Sender>A</Sender>
+   <Content>美女姐姐～你这次的推送有什么规定和要求嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 12:27:00</Time>
+   <Sender>B</Sender>
+   <Content>没有哦~但是不要篇幅过长~其他的就常规要求</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 12:28:00</Time>
+   <Sender>A</Sender>
+   <Content>还是黑体四号字对吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 12:28:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:43:00</Time>
+   <Sender>A</Sender>
+   <Content>美女姐姐 文案写完了直接发给你嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:45:00</Time>
+   <Sender>B</Sender>
+   <Content>发到群里吧~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:45:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈我可不可以问问这个文案是自愿写的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:46:00</Time>
+   <Sender>B</Sender>
+   <Content>怎么说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:46:00</Time>
+   <Sender>B</Sender>
+   <Content>其实是我想问问大家的想法</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:46:00</Time>
+   <Sender>B</Sender>
+   <Content>结果你太积极了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:46:00</Time>
+   <Sender>B</Sender>
+   <Content>别人都没吭声</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:46:00</Time>
+   <Sender>A</Sender>
+   <Content>那我还是别发群里了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>别别别，没事儿</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>A</Sender>
+   <Content>我其实也想写写</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>A</Sender>
+   <Content>我怕她们有负担啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>大作家大诗人~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈哈哈哈哈哈哈哈哈没有啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>要给他们点子压力</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-11-07 19:47:00</Time>
+   <Sender>B</Sender>
+   <Content>也得卷卷</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

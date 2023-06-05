@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 18:43:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐 我可不可以问你个事就是每年那个心理健康和生涯规划的成绩很重要嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:17:00</Time>
+   <Sender>B</Sender>
+   <Content>不能挂了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:17:00</Time>
+   <Sender>B</Sender>
+   <Content>挂了就完了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:22:00</Time>
+   <Sender>A</Sender>
+   <Content>挂了是要重修吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:40:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:40:00</Time>
+   <Sender>B</Sender>
+   <Content>你挂了？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:41:00</Time>
+   <Sender>A</Sender>
+   <Content>还没到截止日期呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:41:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:41:00</Time>
+   <Sender>B</Sender>
+   <Content>千万别挂</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:41:00</Time>
+   <Sender>B</Sender>
+   <Content>！！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:41:00</Time>
+   <Sender>A</Sender>
+   <Content>这个会影响转专业吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:42:00</Time>
+   <Sender>B</Sender>
+   <Content>说不清楚</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:42:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐你们考试也是写个小作文吗？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:43:00</Time>
+   <Sender>B</Sender>
+   <Content>啥啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:43:00</Time>
+   <Sender>A</Sender>
+   <Content>生涯规划呀</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:44:00</Time>
+   <Sender>A</Sender>
+   <Content>我们是作文</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 19:44:00</Time>
+   <Sender>A</Sender>
+   <Content>谢[sensitive]学姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 20:00:00</Time>
+   <Sender>B</Sender>
+   <Content>没事儿~</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 20:02:00</Time>
+   <Sender>A</Sender>
+   <Content>我还以为这种只需要刷视频的课超级不重要呢呜呜呜</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 20:02:00</Time>
+   <Sender>A</Sender>
+   <Content>谢[sensitive]姐姐</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 20:04:00</Time>
+   <Sender>B</Sender>
+   <Content>重要！非常重要！这个也算进挂不挂科的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 20:06:00</Time>
+   <Sender>A</Sender>
+   <Content>我的朋友和我妹他们学校都是线下上课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-11 20:10:00</Time>
+   <Sender>B</Sender>
+   <Content>哦哦</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

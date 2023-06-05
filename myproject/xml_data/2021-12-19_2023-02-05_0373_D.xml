@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 09:37:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐，等会要在物资群喊人吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 09:44:00</Time>
+   <Sender>B</Sender>
+   <Content>喊吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 09:44:00</Time>
+   <Sender>B</Sender>
+   <Content>现在就问一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 09:45:00</Time>
+   <Sender>A</Sender>
+   <Content>好的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 09:45:00</Time>
+   <Sender>A</Sender>
+   <Content>十一点左右吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 09:45:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-12-19 09:45:00</Time>
+   <Sender>B</Sender>
+   <Content>十一点吧~</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

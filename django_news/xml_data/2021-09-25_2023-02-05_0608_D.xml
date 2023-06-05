@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:49:00</Time>
+   <Sender>A</Sender>
+   <Content>学姐昂[sensitive]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:49:00</Time>
+   <Sender>A</Sender>
+   <Content>咱们学校国庆让回么？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:49:00</Time>
+   <Sender>B</Sender>
+   <Content>可以啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:49:00</Time>
+   <Sender>A</Sender>
+   <Content>会不会回去必须待够十四天啥的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:49:00</Time>
+   <Sender>A</Sender>
+   <Content>变相不让回</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:49:00</Time>
+   <Sender>B</Sender>
+   <Content>你看一下通知</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:50:00</Time>
+   <Sender>A</Sender>
+   <Content>嗯嗯？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:50:00</Time>
+   <Sender>A</Sender>
+   <Content>在哪啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我好像也没找到</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:51:00</Time>
+   <Sender>B</Sender>
+   <Content>肯定是可以回的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:51:00</Time>
+   <Sender>B</Sender>
+   <Content>到时候会发相关政策</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:51:00</Time>
+   <Sender>A</Sender>
+   <Content>好的🏻</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:51:00</Time>
+   <Sender>A</Sender>
+   <Content>呢我就抢票了</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:51:00</Time>
+   <Sender>B</Sender>
+   <Content>顶多核酸检测</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2021-09-25 12:52:00</Time>
+   <Sender>B</Sender>
+   <Content>嗯嗯</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>5</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:45:00</Time>
+   <Sender>A</Sender>
+   <Content>[图片]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:45:00</Time>
+   <Sender>A</Sender>
+   <Content>挖槽moderna是谁</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:45:00</Time>
+   <Sender>A</Sender>
+   <Content>🙊🙊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:45:00</Time>
+   <Sender>B</Sender>
+   <Content>一个公司</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:45:00</Time>
+   <Sender>C</Sender>
+   <Content>公司名字</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:46:00</Time>
+   <Sender>B</Sender>
+   <Content>生物制药公司</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:46:00</Time>
+   <Sender>A</Sender>
+   <Content>不知道这个是真假</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:46:00</Time>
+   <Sender>A</Sender>
+   <Content>还说他发明了病毒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:46:00</Time>
+   <Sender>A</Sender>
+   <Content>🙊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:46:00</Time>
+   <Sender>D</Sender>
+   <Content>[表情]</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:47:00</Time>
+   <Sender>B</Sender>
+   <Content>英国媒体</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:47:00</Time>
+   <Sender>B</Sender>
+   <Content>emmm</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:47:00</Time>
+   <Sender>A</Sender>
+   <Content>自己研发疫苗[捂脸]还自己发明病毒</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:47:00</Time>
+   <Sender>B</Sender>
+   <Content>姑且信一半</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:47:00</Time>
+   <Sender>B</Sender>
+   <Content>等国内官媒怎么说</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:48:00</Time>
+   <Sender>E</Sender>
+   <Content>bbc一堆fake news</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:48:00</Time>
+   <Sender>B</Sender>
+   <Content>bbc权当娱乐频道</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:48:00</Time>
+   <Sender>B</Sender>
+   <Content>这种事还得看官媒发声</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:49:00</Time>
+   <Sender>A</Sender>
+   <Content>哈哈哈哈哈哈就纯粹看看</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:49:00</Time>
+   <Sender>A</Sender>
+   <Content>就会逼逼拆那</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:49:00</Time>
+   <Sender>B</Sender>
+   <Content>对嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:49:00</Time>
+   <Sender>B</Sender>
+   <Content>英国媒体爱瞎搞</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:51:00</Time>
+   <Sender>D</Sender>
+   <Content>媒体都没有敢完全信的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-03-24 14:51:00</Time>
+   <Sender>D</Sender>
+   <Content>他们只发想让你相信的 发自我的 iPhone</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

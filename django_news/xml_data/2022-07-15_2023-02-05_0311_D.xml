@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:17:00</Time>
+   <Sender>A</Sender>
+   <Content>这个这个啥意思把咱俩打得分合一下算出来平均分？</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:20:00</Time>
+   <Sender>B</Sender>
+   <Content>有可能吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:20:00</Time>
+   <Sender>B</Sender>
+   <Content>我打分打的倒挺接近的</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:21:00</Time>
+   <Sender>B</Sender>
+   <Content>或者你觉得特别满意的直接推出来也行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:21:00</Time>
+   <Sender>B</Sender>
+   <Content>我们要选17个嘛</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:36:00</Time>
+   <Sender>A</Sender>
+   <Content>好像是吧！</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:37:00</Time>
+   <Sender>A</Sender>
+   <Content>那需要把这个发群里嘛现在</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:38:00</Time>
+   <Sender>B</Sender>
+   <Content>哈哈哈我问问</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2022-07-15 19:38:00</Time>
+   <Sender>A</Sender>
+   <Content>好的！</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>

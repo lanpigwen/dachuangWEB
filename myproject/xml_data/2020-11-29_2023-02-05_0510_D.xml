@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rootnode>
+ <Meta>
+  <Source>WeChat</Source>
+  <Popu>2</Popu>
+  <Lang>Chinese</Lang>
+  <State>D</State>
+  <Gender>Unknow</Gender>
+  <Note>Nothing</Note>
+ </Meta>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:46:00</Time>
+   <Sender>A</Sender>
+   <Content>一菲你下午什么时候的网球课</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>两点到四点</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:46:00</Time>
+   <Sender>B</Sender>
+   <Content>咋啦</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:47:00</Time>
+   <Sender>A</Sender>
+   <Content>想打算公主们还有魔镜王[sensitive]白[sensitive]下午排练一下</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:47:00</Time>
+   <Sender>A</Sender>
+   <Content>要不一点开始</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:47:00</Time>
+   <Sender>A</Sender>
+   <Content>两点你就走</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:48:00</Time>
+   <Sender>B</Sender>
+   <Content>啊这，大家都不用休息的吗</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:48:00</Time>
+   <Sender>A</Sender>
+   <Content>可是你有网球课啊</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:49:00</Time>
+   <Sender>B</Sender>
+   <Content>别只为了我让大家中午不休息吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:49:00</Time>
+   <Sender>A</Sender>
+   <Content>那咋办(・o・)</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:50:00</Time>
+   <Sender>A</Sender>
+   <Content>那要不我们先排着</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:51:00</Time>
+   <Sender>B</Sender>
+   <Content>我看他们应该有不少人都出去了，不在学校</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:53:00</Time>
+   <Sender>A</Sender>
+   <Content>我丢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:53:00</Time>
+   <Sender>A</Sender>
+   <Content>唉我怎么没早说呢</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:53:00</Time>
+   <Sender>B</Sender>
+   <Content>大家应该都想的是希望能不占用学习玩耍时间的其他时间排练，这是她们说的哈，我觉得要不就在上课周[sensitive]的晚上吃饭时间？个人想法</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:54:00</Time>
+   <Sender>A</Sender>
+   <Content>也行</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:54:00</Time>
+   <Sender>A</Sender>
+   <Content>可今天是个排练的好日子</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:54:00</Time>
+   <Sender>B</Sender>
+   <Content>你看吧</Content>
+  </WeChat>
+ </Dialogue>
+ <Dialogue>
+  <WeChat>
+   <Time>2020-11-29 11:55:00</Time>
+   <Sender>A</Sender>
+   <Content>先看看有多少人不在吧</Content>
+  </WeChat>
+ </Dialogue>
+</rootnode>
