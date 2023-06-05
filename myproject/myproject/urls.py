@@ -21,8 +21,8 @@ from django.views.generic import TemplateView
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path('chat/', include('chat.urls')),
+    # path('chat/', include('chat.urls')),#之前测试ws的
     path('search/', include('news.urls')),
-    path('', TemplateView.as_view(template_name='index.html')),
+    # path('', TemplateView.as_view(template_name='index.html')),
 
 ]

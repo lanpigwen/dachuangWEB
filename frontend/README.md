@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+# websocket
+mainChat.vue line 219
+把 WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
+换成 WS_BASE_URL: 'ws://服务器ip:8000/ws/chat/',
+
 ## Build Setup
 
 ``` bash
@@ -17,5 +22,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

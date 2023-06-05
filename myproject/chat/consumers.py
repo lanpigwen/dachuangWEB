@@ -79,6 +79,7 @@ class ChatConsumer(WebsocketConsumer):
                 )
             if self.room_group_name=='ChatLobby':
                 self.privateID=str(self.channel_name).split('!')[1]
+                print('欢迎上线------',self.privateID)
                 message={'role_privateID':self.privateID}
                 message=json.dumps(message)
                 async_to_sync(self.channel_layer.send)(
@@ -116,8 +117,8 @@ class ChatConsumer(WebsocketConsumer):
             value_dict['id'] = key.decode('utf-8')  # 添加 id 属性
             result.append(json.dumps(value_dict))  # 转换为字符串流
         message=result
-        print(self.room_group_name,"有人退出前",message)
-        print(self.room_group_name,"有人退出时 他的privateID",self.privateID)
+        # print(self.room_group_name,"有人退出前",message)
+        # print(self.room_group_name,"有人退出时 他的privateID",self.privateID)
 
         redis_conn.hdel(f'Online:{self.room_group_name}',self.privateID)
         all_online=redis_conn.hgetall(f'Online:{self.room_group_name}')
@@ -128,7 +129,7 @@ class ChatConsumer(WebsocketConsumer):
             value_dict['id'] = key.decode('utf-8')  # 添加 id 属性
             result.append(json.dumps(value_dict))  # 转换为字符串流
         message=result        
-        print(self.room_group_name,"有人退出后",message)
+        # print(self.room_group_name,"有人退出后",message)
         # print(self.room_group_name,all_online)
         async_to_sync(self.channel_layer.group_send)(
             self.room_group_name,
@@ -193,8 +194,8 @@ class ChatConsumer(WebsocketConsumer):
                     'realtype':'tips'
                 }
                 )                    
-                print('加载完全部')
-            print('收到历史要求',start,end,his_len)
+                # print('加载完全部')
+            # print('收到历史要求',start,end,his_len)
         #更新在线人数   
         elif text_data_json['type']=='p_join_room':
             # message=json.dumps(text_data_json['message'])

@@ -216,8 +216,8 @@ export default {
                 showDeleteBtn: true,
             },
             websocketConfig: {
-                // WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
-                WS_BASE_URL: 'ws://8.140.192.21:8000/ws/chat/',
+                WS_BASE_URL: 'ws://localhost:8000/ws/chat/',
+                // WS_BASE_URL: 'ws://服务器ip:8000/ws/chat/',
 
                 onOpen: (event, roomName) => {
                     console.log(`WebSocket is open now.---${roomName}`)
@@ -898,23 +898,6 @@ export default {
 
 }
 
-@media screen and (max-width:800px) {
-    .jwchat {
-        /* height: 100vh; */
-        /* width: 100vh; */
-        /* font-family: Avenir, Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-align: center;
-    color: #2c3e50;
-    margin-top: 0px; */
-
-        /* display: flex; */
-        /* justify-content: center; 水平居中 */
-        /* align-items: center; 垂直居中 */
-
-    }
-}
 </style>
 <style>
 .back {

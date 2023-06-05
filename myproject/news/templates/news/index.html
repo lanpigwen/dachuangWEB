@@ -5,10 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="icon" href="/static/icon.png" type ="image/x-icon">
 
     <style>
         body {
-            background-image: url("../static/5.jpg");
+            /* background-image: url("../static/5.jpg"); */
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -145,8 +146,8 @@
 </head>
 <body background="" style="background-repeat:no-repeat; background-size:100% 100%; background-attachment: fixed;">
 <!-- 页面内容 -->
-
 <h1>中文多轮对话数据加工</h1>
+<!-- <img src="/static/link7.png" width="500px" height="500px"> -->
 <p>欢迎来到本网站，您可以通过在文本框内输入关键字来查询相关语料</p>
 <textarea id="myTextarea"  rows="10" cols="30" class="form-control" maxlength="100000" placeholder="请输入关键字"></textarea>
 <div align="center">
@@ -179,7 +180,7 @@
 
         // 使用jQuery发送POST请求给后端
         $.ajax({
-            url: '/search/my_view_url/', // 指定后端处理请求的URL，请替换为实际的URL
+            url: 'my_view_url', // 指定后端处理请求的URL，请替换为实际的URL
             type: 'POST', // 使用POST方法发送请求
             data: {
                 'text': text // 将textarea的值作为数据发送给后端

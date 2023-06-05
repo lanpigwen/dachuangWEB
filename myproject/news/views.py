@@ -15,12 +15,14 @@ def index(request):
 @csrf_exempt
 def my_view(request):
     # XML 数据文件的目录路径
-    xml_dir = os.path.join(r'\django_news', 'xml_data')
+    xml_dir = os.path.join(r'./', 'xml_data')
     matched_files = []  # 存储匹配到的XML文件
-    print('*'*50)
+    # print(xml_dir)
+
+    # print('*'*50)
     # if request
     username = request.POST.get('text')
-    print(username)
+    # print(username)
     # 遍历目录中的XML文件
     for file_name in os.listdir(xml_dir):
         if file_name.endswith('.xml'):
@@ -47,7 +49,9 @@ def my_view(request):
     # print(matched_files)
     # 将匹配到的文件路径列表传递给前端
     contexts = {'matched_files': matched_files}
-    print(contexts)
+    print('*'*50)
+    print('查找字段：',username,'结果：',contexts!=None)
+    print('*'*50)
 
     if request.method == "POST":
         return JsonResponse(contexts)
