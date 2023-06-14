@@ -455,7 +455,7 @@ export default {
                     if (header.children.length === 1) {
                         //back
                         var backButton = document.createElement('i');
-                        backButton.innerHTML = '<i class="el-icon-arrow-left"></i>'
+                        backButton.innerHTML = '<i class="el-icon-arrow-left" style="font-size: 30px;"></i>'
                         backButton.style.margin = '20px 20px 20px 10px'
                         backButton.onclick = function () {
                             var winBar = document.querySelector(".winBar")
@@ -466,7 +466,7 @@ export default {
                         header.insertAdjacentElement('afterbegin', backButton)
                         //more
                         var moreButton = document.createElement('i');
-                        moreButton.innerHTML = '<i class="el-icon-more"></i>'
+                        moreButton.innerHTML = '<i class="el-icon-more" style="font-size: 30px;"></i>'
                         moreButton.style.margin = '20px 20px 20px 20px'
                         moreButton.style.position = 'absolute'
                         moreButton.style.right = '0'
@@ -912,5 +912,8 @@ export default {
         width: 80% !important;
         ;
     }
+    /* .jwchat{
+        font-size: 40px;
+    } */
 }
 </style>
